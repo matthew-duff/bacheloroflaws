@@ -1,0 +1,8 @@
+# 77RR Dismissing application for leave
+
+(1) The High Court, or a Justice sitting other than in open court, may make an order dismissing an application under section 77RQ for leave to institute a proceeding if the High Court or Justice considers the affidavit does not substantially comply with subsection 77RQ(3).
+(2) The High Court, or a Justice sitting other than in open court, must make an order dismissing an application under section 77RQ for leave to institute a proceeding if the High Court or Justice considers the proceeding is a vexatious proceeding.
+
+Particular consequences of vexatious proceedings orders  Division 3
+Judiciary Act 1903 95
+(3) The High Court, or a Justice sitting other than in open court, may dismiss the application without an oral hearing (either with or without the consent of the applicant).

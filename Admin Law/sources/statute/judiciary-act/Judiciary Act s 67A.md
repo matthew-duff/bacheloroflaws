@@ -1,0 +1,5 @@
+# 67A Interpretation
+
+In this part, unless the contrary intention appears:
+Commonwealth includes a person suing or being sued on behalf of the Commonwealth.
+Territory means the Northern Territory, and includes a person suing or being sued on behalf of the Territory.

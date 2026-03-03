@@ -1,0 +1,11 @@
+# 160 Protecting identities of persons giving evidence
+
+When this section applies
+(1) This section applies in relation to a proceeding in the Intelligence and Security jurisdictional area.
+
+Disclosure of information  Division 4
+Administrative Review Tribunal Act 2024 147
+Protecting identities
+(2) The Tribunal must do all things necessary to ensure that the identity of a person is not revealed if:
+(a) the person gives, or is to give, evidence on behalf of an agency within the national intelligence community; and
+(b) the head of the agency requests that the identity of the person is not revealed.

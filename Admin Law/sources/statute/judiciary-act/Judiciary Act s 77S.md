@@ -1,0 +1,10 @@
+# 77S Security
+
+(1) The Rules of Court may make provision for and in relation to the giving, in an appeal to the Court, of security for the prosecution of the appeal without delay and for the payment of costs that may be awarded against the appellant.
+(2) If security is not given as required by or in accordance with the
+Rules of Court, the High Court may order that the appeal be dismissed.
+(3) This section does not affect the operation of any provision made by or under any other Act for or in relation to the giving of security.
+
+Procedure  Division 2
+Judiciary Act 1903 97
+Division 2—Procedure

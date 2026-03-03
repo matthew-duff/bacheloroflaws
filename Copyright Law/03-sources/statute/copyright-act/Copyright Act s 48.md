@@ -1,0 +1,3 @@
+# 48 Interpretation
+
+In this Division, a reference to an article contained in a periodical publication shall be read as a reference to anything (other than an artistic work) appearing in such a publication.

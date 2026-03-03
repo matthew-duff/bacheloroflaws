@@ -1,0 +1,262 @@
+[
+  {
+    "id": "_12768414_1",
+    "parentId": "_11889289_1",
+    "title": "AI Student Hub",
+    "description": "The AI Student Hub is a \u2018one-stop shop\u2019 to help students use AI responsibly and effectively in their studies.",
+    "created": "2026-01-23T07:17:12.188Z",
+    "modified": "2026-01-25T01:46:03.101Z",
+    "position": 0,
+    "launchInNewWindow": true,
+    "reviewable": true,
+    "availability": {
+      "available": "Yes",
+      "allowGuests": true,
+      "allowObservers": true,
+      "adaptiveRelease": {}
+    },
+    "contentHandler": {
+      "id": "resource/x-bb-externallink",
+      "url": "https://guides.library.uq.edu.au/tools-and-techniques/ai-student-hub"
+    },
+    "links": [
+      {
+        "href": "/ultra/redirect?redirectType=nautilus&courseId=_196877_1&contentId=_12768414_1&parentId=_11889289_1",
+        "rel": "alternate",
+        "title": "User Interface View",
+        "type": "text/html"
+      }
+    ]
+  },
+  {
+    "id": "_11889308_1",
+    "parentId": "_11889289_1",
+    "title": "Transcripts - Advice",
+    "created": "2024-08-29T08:14:32.277Z",
+    "modified": "2026-01-25T01:43:33.374Z",
+    "position": 1,
+    "hasChildren": true,
+    "launchInNewWindow": true,
+    "reviewable": true,
+    "availability": {
+      "available": "Yes",
+      "allowGuests": true,
+      "allowObservers": true,
+      "adaptiveRelease": {}
+    },
+    "contentHandler": {
+      "id": "resource/x-bb-folder",
+      "isBbPage": true
+    },
+    "links": [
+      {
+        "href": "/ultra/redirect?redirectType=nautilus&courseId=_196877_1&contentId=_11889308_1&parentId=_11889289_1",
+        "rel": "alternate",
+        "title": "User Interface View",
+        "type": "text/html"
+      }
+    ]
+  },
+  {
+    "id": "_11889309_1",
+    "parentId": "_11889289_1",
+    "title": "Lecture Recordings",
+    "description": "Click on the link to view your lecture recordings. \nUQ uses technology to create transcripts and/or closed captions for lectures and that process is inherently fallible. Given the volume of materials created for lectures, UQ teaching staff are not expected to review, correct or edit transcripts and/or closed captions. Accordingly, such materials may contain errors and/or omissions and students should exercise caution and not rely solely upon such materials. Views expressed by individual presenters and participants in lectures are not necessarily the views of the University, and should not be taken as being endorsed by the University.",
+    "created": "2024-08-29T08:14:32.277Z",
+    "modified": "2026-01-25T01:43:50.916Z",
+    "position": 2,
+    "launchInNewWindow": true,
+    "reviewable": true,
+    "availability": {
+      "available": "Yes",
+      "allowGuests": true,
+      "allowObservers": true,
+      "adaptiveRelease": {}
+    },
+    "contentHandler": {
+      "id": "resource/x-bb-bltiplacement-echoalp",
+      "placementHandle": "echoalp"
+    },
+    "links": [
+      {
+        "href": "/ultra/redirect?redirectType=nautilus&courseId=_196877_1&contentId=_11889309_1&parentId=_11889289_1",
+        "rel": "alternate",
+        "title": "User Interface View",
+        "type": "text/html"
+      }
+    ]
+  },
+  {
+    "id": "_11889311_1",
+    "parentId": "_11889289_1",
+    "title": "Course Reading List",
+    "description": "Click on the link to access the readings for your course.",
+    "created": "2024-08-29T08:14:32.278Z",
+    "modified": "2026-01-25T01:43:51.227Z",
+    "position": 4,
+    "launchInNewWindow": true,
+    "reviewable": true,
+    "availability": {
+      "available": "Yes",
+      "allowGuests": true,
+      "allowObservers": true,
+      "adaptiveRelease": {}
+    },
+    "contentHandler": {
+      "id": "resource/x-bb-bltiplacement-da3669f8823e4a46bffe4d19d01537ab",
+      "placementHandle": "da3669f8823e4a46bffe4d19d01537ab"
+    },
+    "links": [
+      {
+        "href": "/ultra/redirect?redirectType=nautilus&courseId=_196877_1&contentId=_11889311_1&parentId=_11889289_1",
+        "rel": "alternate",
+        "title": "User Interface View",
+        "type": "text/html"
+      }
+    ]
+  },
+  {
+    "id": "_11889312_1",
+    "parentId": "_11889289_1",
+    "title": "Subject Guides",
+    "description": "Click on the link to access the subject guides for your course.",
+    "created": "2024-08-29T08:14:32.280Z",
+    "modified": "2026-01-25T01:43:51.288Z",
+    "position": 5,
+    "launchInNewWindow": true,
+    "reviewable": true,
+    "availability": {
+      "available": "Yes",
+      "allowGuests": true,
+      "allowObservers": true,
+      "adaptiveRelease": {}
+    },
+    "contentHandler": {
+      "id": "resource/x-bb-bltiplacement-libapps",
+      "placementHandle": "libapps"
+    },
+    "links": [
+      {
+        "href": "/ultra/redirect?redirectType=nautilus&courseId=_196877_1&contentId=_11889312_1&parentId=_11889289_1",
+        "rel": "alternate",
+        "title": "User Interface View",
+        "type": "text/html"
+      }
+    ]
+  },
+  {
+    "id": "_12136834_1",
+    "parentId": "_11889289_1",
+    "title": "Library Links",
+    "created": "2025-08-27T05:28:58.533Z",
+    "modified": "2026-01-25T01:43:51.366Z",
+    "position": 6,
+    "launchInNewWindow": true,
+    "reviewable": true,
+    "availability": {
+      "available": "Yes",
+      "allowGuests": false,
+      "allowObservers": false,
+      "adaptiveRelease": {}
+    },
+    "contentHandler": {
+      "id": "resource/x-bb-externallink",
+      "url": "https://web.library.uq.edu.au/library-services/services-students"
+    },
+    "links": [
+      {
+        "href": "/ultra/redirect?redirectType=nautilus&courseId=_196877_1&contentId=_12136834_1&parentId=_11889289_1",
+        "rel": "alternate",
+        "title": "User Interface View",
+        "type": "text/html"
+      }
+    ]
+  },
+  {
+    "id": "_11889313_1",
+    "parentId": "_11889289_1",
+    "title": "Course Staff",
+    "created": "2024-08-29T08:14:32.281Z",
+    "modified": "2026-02-22T12:02:34.222Z",
+    "position": 7,
+    "hasChildren": true,
+    "launchInNewWindow": true,
+    "reviewable": true,
+    "availability": {
+      "available": "Yes",
+      "allowGuests": true,
+      "allowObservers": true,
+      "adaptiveRelease": {}
+    },
+    "contentHandler": {
+      "id": "resource/x-bb-folder",
+      "isBbPage": true
+    },
+    "links": [
+      {
+        "href": "/ultra/redirect?redirectType=nautilus&courseId=_196877_1&contentId=_11889313_1&parentId=_11889289_1",
+        "rel": "alternate",
+        "title": "User Interface View",
+        "type": "text/html"
+      }
+    ]
+  },
+  {
+    "id": "_11889314_1",
+    "parentId": "_11889289_1",
+    "title": "Course Help",
+    "created": "2024-08-29T08:14:32.281Z",
+    "modified": "2026-01-25T01:43:33.384Z",
+    "position": 8,
+    "hasChildren": true,
+    "launchInNewWindow": true,
+    "reviewable": true,
+    "availability": {
+      "available": "Yes",
+      "allowGuests": true,
+      "allowObservers": true,
+      "adaptiveRelease": {}
+    },
+    "contentHandler": {
+      "id": "resource/x-bb-folder",
+      "isBbPage": true
+    },
+    "links": [
+      {
+        "href": "/ultra/redirect?redirectType=nautilus&courseId=_196877_1&contentId=_11889314_1&parentId=_11889289_1",
+        "rel": "alternate",
+        "title": "User Interface View",
+        "type": "text/html"
+      }
+    ]
+  },
+  {
+    "id": "_12208644_1",
+    "parentId": "_11889289_1",
+    "title": "BEL Employability Module",
+    "created": "2025-08-29T02:52:56.167Z",
+    "modified": "2026-01-25T01:43:51.417Z",
+    "position": 9,
+    "hasChildren": true,
+    "launchInNewWindow": true,
+    "reviewable": true,
+    "availability": {
+      "available": "Yes",
+      "allowGuests": true,
+      "allowObservers": true,
+      "adaptiveRelease": {}
+    },
+    "contentHandler": {
+      "id": "resource/x-bb-folder",
+      "isBbPage": true
+    },
+    "links": [
+      {
+        "href": "/ultra/redirect?redirectType=nautilus&courseId=_196877_1&contentId=_12208644_1&parentId=_11889289_1",
+        "rel": "alternate",
+        "title": "User Interface View",
+        "type": "text/html"
+      }
+    ]
+  }
+]

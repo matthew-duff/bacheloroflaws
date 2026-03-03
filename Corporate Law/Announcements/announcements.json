@@ -1,0 +1,56 @@
+[
+  {
+    "id": "_950969_1",
+    "title": "Peer notetaker found",
+    "body": "<p>Dear All</p><br><p>Thanks very much to those students who offered their notes. The Accessibility and Welfare team has chosen someone for the job and contact that person directly. If you would like to offer notes for another course, however, you are welcome to contact Accessibility and Welfare about further opportunities: accessibility.welfare@uq.edu.au</p><br><p>Again, thanks for your generosity and all the best</p><br><p>Radha</p>",
+    "draft": false,
+    "availability": {
+      "duration": {
+        "type": "Permanent",
+        "start": "2026-02-18T06:56:42.476Z",
+        "end": null
+      }
+    },
+    "creatorUserId": "_111784_1",
+    "created": "2026-02-18T06:56:42.458Z",
+    "modified": "2026-02-18T06:56:42.479Z",
+    "position": 1,
+    "creator": "_111784_1"
+  },
+  {
+    "id": "_950772_1",
+    "title": "Peer notetaker",
+    "body": "<p>Dear All</p><br><p>I have had a request for peer notetaking in our course from a someone under a Student Access Plan. </p><br><p>If you would be willing and able to assist, please get in touch: r.ivory@law.uq.edu.au.</p><br><p>Thanks in advance and best wishes</p><br><p>Radha</p><br>",
+    "draft": false,
+    "availability": {
+      "duration": {
+        "type": "Permanent",
+        "start": "2026-02-17T08:10:56.805Z",
+        "end": null
+      }
+    },
+    "creatorUserId": "_111784_1",
+    "created": "2026-02-17T08:10:56.790Z",
+    "modified": "2026-02-17T08:10:56.808Z",
+    "position": 2,
+    "creator": "_111784_1"
+  },
+  {
+    "id": "_950560_1",
+    "title": "Welcome to the course",
+    "body": "<p>Dear All</p><br><p>Welcome to Corporate Law, LAWS3702, Semester 1, 2026. We're looking forward to meeting you in lectures (which start next week) and in tutorials (which start in Teaching Week 3).</p><br><p>To get familiar with the course, please look around the course Blackboard site and review/download: the Course Profile, Learning Guide (under Course Resources) and the <a href=\"https://echo360.net.au/public/media/35e65718-d510-4449-b2e4-89d0834db11b\">Course Admin video</a> (Introduction folder &gt; Materials). The PowerPoints and Reading Guides to Lectures 1-6 are available under Week 1, 2, 3 etc &gt; Materials; those for the rest of the course will be posted shortly.</p><br><p>The textbook is Bottomley et al 2025. The publisher has send a discount flyer (Blackboard &gt; Course Resources) if you'd like to purchase the book/access directly from them. The Library has also ordered hard copies, though is still negotiating an online subscription with CUP.&nbsp;While it is sorting out online access to Bottomley, I have set alterative readings from last year\u2019s text (Harris and Peters 2023).&nbsp;Use Bottomley where possible as it will be more current and corporate law can change fast. However, Harris will explain the key concepts well in case of need. </p><br><p>Looking forward to meeting you soon, and meantime all the best,</p><br><p>Radha (for the LAWS3702 teaching team)</p>",
+    "draft": false,
+    "availability": {
+      "duration": {
+        "type": "Restricted",
+        "start": "2026-02-17T03:00:29.567Z",
+        "end": null
+      }
+    },
+    "creatorUserId": "_111784_1",
+    "created": "2026-02-16T12:24:45.021Z",
+    "modified": "2026-02-17T00:37:06.512Z",
+    "position": 3,
+    "creator": "_111784_1"
+  }
+]

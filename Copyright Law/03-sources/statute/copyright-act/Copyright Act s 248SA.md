@@ -1,0 +1,8 @@
+# 248SA Infringement notices
+
+(1) The regulations may make provision enabling a person who is alleged to have committed an offence of strict liability against
+Subdivision A or B to pay a penalty to the Commonwealth as an alternative to prosecution.
+(2) The penalty must equal one-fifth of the maximum fine that a court could impose on the person as a penalty for that offence.
+
+Division 3  Offences
+Subdivision D—Destruction or delivery up of unauthorised recordings

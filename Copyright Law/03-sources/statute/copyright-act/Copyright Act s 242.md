@@ -1,0 +1,6 @@
+# 242 Groundless threats of legal proceedings
+
+Section 202 of this Act does not apply in relation to threats made after the commencement of this Act in respect of acts that took place before the commencement of this Act and, notwithstanding section 6 of this Act, section 41A of the Copyright Act 1912-1966 continues to apply in relation to any such threats in like manner as it continues to apply in relation to threats made before the commencement of this Act.
+
+Works made before 1 July, 1912  Division 5
+Division 5—Works made before 1 July, 1912

@@ -1,0 +1,118 @@
+[
+  {
+    "id": "_11889317_1",
+    "parentId": "_11889292_1",
+    "title": "Week 2 Overview",
+    "created": "2024-08-29T08:14:33.287Z",
+    "modified": "2025-08-20T05:19:33.190Z",
+    "position": 0,
+    "hasChildren": true,
+    "launchInNewWindow": true,
+    "reviewable": true,
+    "availability": {
+      "available": "Yes",
+      "allowGuests": true,
+      "allowObservers": true,
+      "adaptiveRelease": {}
+    },
+    "contentHandler": {
+      "id": "resource/x-bb-folder",
+      "isBbPage": true
+    },
+    "links": [
+      {
+        "href": "/ultra/redirect?redirectType=nautilus&courseId=_196877_1&contentId=_11889317_1&parentId=_11889292_1",
+        "rel": "alternate",
+        "title": "User Interface View",
+        "type": "text/html"
+      }
+    ]
+  },
+  {
+    "id": "_12136878_1",
+    "parentId": "_11889292_1",
+    "title": "Lecture 2 - PowerPoint slides",
+    "created": "2025-08-27T05:29:01.099Z",
+    "modified": "2026-01-25T01:43:50.817Z",
+    "position": 1,
+    "hasChildren": true,
+    "launchInNewWindow": false,
+    "reviewable": true,
+    "availability": {
+      "available": "Yes",
+      "allowGuests": true,
+      "allowObservers": true,
+      "adaptiveRelease": {}
+    },
+    "contentHandler": {
+      "id": "resource/x-bb-folder",
+      "isBbPage": true
+    },
+    "links": [
+      {
+        "href": "/ultra/redirect?redirectType=nautilus&courseId=_196877_1&contentId=_12136878_1&parentId=_11889292_1",
+        "rel": "alternate",
+        "title": "User Interface View",
+        "type": "text/html"
+      }
+    ]
+  },
+  {
+    "id": "_12136690_1",
+    "parentId": "_11889292_1",
+    "title": "Workshop study materials",
+    "description": "In this folder, students will find the Learning Guide for Workshop 1, as well as required readings and other resources.",
+    "created": "2025-01-07T03:29:26.214Z",
+    "modified": "2026-02-23T04:16:50.511Z",
+    "position": 2,
+    "hasChildren": true,
+    "launchInNewWindow": false,
+    "reviewable": false,
+    "availability": {
+      "available": "Yes",
+      "allowGuests": true,
+      "allowObservers": true,
+      "adaptiveRelease": {}
+    },
+    "contentHandler": {
+      "id": "resource/x-bb-folder"
+    },
+    "links": [
+      {
+        "href": "/ultra/redirect?redirectType=nautilus&courseId=_196877_1&contentId=_12136690_1&parentId=_11889292_1",
+        "rel": "alternate",
+        "title": "User Interface View",
+        "type": "text/html"
+      }
+    ]
+  },
+  {
+    "id": "_12136880_1",
+    "parentId": "_11889292_1",
+    "title": "Walker, The role of statutory interpretation in administrative law (2023) 109 AIAL Forum 33",
+    "created": "2025-08-27T05:29:01.186Z",
+    "modified": "2026-02-23T04:16:55.254Z",
+    "position": 3,
+    "hasChildren": true,
+    "launchInNewWindow": false,
+    "reviewable": true,
+    "availability": {
+      "available": "Yes",
+      "allowGuests": true,
+      "allowObservers": true,
+      "adaptiveRelease": {}
+    },
+    "contentHandler": {
+      "id": "resource/x-bb-folder",
+      "isBbPage": true
+    },
+    "links": [
+      {
+        "href": "/ultra/redirect?redirectType=nautilus&courseId=_196877_1&contentId=_12136880_1&parentId=_11889292_1",
+        "rel": "alternate",
+        "title": "User Interface View",
+        "type": "text/html"
+      }
+    ]
+  }
+]

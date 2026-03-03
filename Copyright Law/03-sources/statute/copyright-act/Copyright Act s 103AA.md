@@ -1,0 +1,5 @@
+# 103AA Fair dealing for purpose of parody or satire
+
+A fair dealing with an audio-visual item does not constitute an infringement of the copyright in the item or in any work or other audio-visual item included in the item if it is for the purpose of parody or satire.
+
+Division 6  Infringement of copyright in subject-matter other than works

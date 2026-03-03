@@ -1,0 +1,60 @@
+[
+  {
+    "id": "_11889315_1",
+    "parentId": "_11889290_1",
+    "title": "Introduction and Welcome",
+    "created": "2024-08-29T08:14:32.522Z",
+    "modified": "2026-02-24T05:10:58.104Z",
+    "position": 0,
+    "hasChildren": true,
+    "launchInNewWindow": true,
+    "reviewable": true,
+    "availability": {
+      "available": "Yes",
+      "allowGuests": true,
+      "allowObservers": true,
+      "adaptiveRelease": {}
+    },
+    "contentHandler": {
+      "id": "resource/x-bb-folder",
+      "isBbPage": true
+    },
+    "links": [
+      {
+        "href": "/ultra/redirect?redirectType=nautilus&courseId=_196877_1&contentId=_11889315_1&parentId=_11889290_1",
+        "rel": "alternate",
+        "title": "User Interface View",
+        "type": "text/html"
+      }
+    ]
+  },
+  {
+    "id": "_12136859_1",
+    "parentId": "_11889290_1",
+    "title": "Lecture 1 - PowerPoint slides",
+    "created": "2025-08-27T05:29:00.351Z",
+    "modified": "2026-01-25T01:43:50.715Z",
+    "position": 1,
+    "hasChildren": true,
+    "launchInNewWindow": false,
+    "reviewable": true,
+    "availability": {
+      "available": "Yes",
+      "allowGuests": true,
+      "allowObservers": true,
+      "adaptiveRelease": {}
+    },
+    "contentHandler": {
+      "id": "resource/x-bb-folder",
+      "isBbPage": true
+    },
+    "links": [
+      {
+        "href": "/ultra/redirect?redirectType=nautilus&courseId=_196877_1&contentId=_12136859_1&parentId=_11889290_1",
+        "rel": "alternate",
+        "title": "User Interface View",
+        "type": "text/html"
+      }
+    ]
+  }
+]

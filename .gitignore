@@ -1,0 +1,49 @@
+# Ignore non-markdown files in Copyright Law cases and ppts folders
+Copyright Law/01-raw-imports/cases/**/*
+!Copyright Law/01-raw-imports/cases/**/*.md
+Copyright Law/01-raw-imports/ppts/**/*
+!Copyright Law/01-raw-imports/ppts/**/*.md
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Local env / virtualenvs
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Cursor workspace state (keep rules if you add them later)
+.cursor/
+!.cursor/rules/
+!.cursor/rules/**
+
+# Obsidian vault (ignore all Obsidian config)
+.obsidian/
+
+# Blackboard artifacts / secrets (ignore everything except example env)
+.blackboard/*
+!.blackboard/.env.example
+
+*.pdf
+*.ppt
+*.pptx
+*.key
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.mp3
+*.mp4
+*.mov
+*.mkv
+*.zip
+*.rar
+*.7z
+*.dmg
+*.iso
+*.png
+*.jpg

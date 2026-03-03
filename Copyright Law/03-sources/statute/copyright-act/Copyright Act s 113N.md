@@ -1,0 +1,3 @@
+# 113N Simplified outline of this Division
+
+An educational institution may copy or communicate certain copyright material for educational purposes if the body administering the educational institution agrees to pay equitable remuneration to a collecting society.

@@ -1,0 +1,7 @@
+# 195AB What is a reasonably prominent identification
+
+When a literary, dramatic, musical or artistic work is reproduced in a material form, an adaptation is made of a literary, dramatic or musical work, or a copy of a cinematograph film is made, an identification of the author is taken to be reasonably prominent if it is included on each reproduction of the work or of the adaptation or on each copy of the film, as the case may be, in such a way that a person acquiring the reproduction or copy will have notice of the author’s identity.
+
+artistic works and cinematograph films
+Division 2A  Right of attribution of performership
+Division 2A—Right of attribution of performership

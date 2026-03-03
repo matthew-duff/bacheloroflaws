@@ -1,0 +1,8 @@
+# 153E Applications to Tribunal under subsection 183(5)
+
+(1) The parties to an application to the Tribunal under subsection 183(5) for the fixing of the terms for the doing of an act comprised in a copyright where the act is done for the services of the Commonwealth or a State are:
+(a) the Commonwealth or the State, as the case may be; and
+(b) the owner of the copyright.
+(2) If an application is made to the Tribunal under subsection 183(5), the Tribunal is to consider the application and, after giving the parties to the application an opportunity of presenting their cases, is to make an order fixing the terms for the doing of the act.
+
+Applications and references to the Tribunal  Division 3

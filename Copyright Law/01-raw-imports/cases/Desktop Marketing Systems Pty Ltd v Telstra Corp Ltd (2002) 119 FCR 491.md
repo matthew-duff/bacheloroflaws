@@ -1,0 +1,7127 @@
+491
+119 FCR]
+DESKTOP MARKETING v TELSTRA CORPORATION
+
+DESKTOP MARKETING SYSTEMS PTY LTD v
+TELSTRA CORPORATION LTD
+[2002] FCAFC 112
+
+Black CJ, Lindgren and Sackville JJ
+
+Victoria District Registry
+
+28, 29, 30 November, 18 December 2001;
+15 May 2002
+
+Copyright — Subsistence of — Whether telephone directories and headings
+books were ‘‘literary works’’ — Whether they were ‘‘compilations’’ which
+could be the subject of copyright — Whether sufficient originality —
+Whether appreciable degree of skill or intellectual effort necessary —
+Whether substantial labour or expense sufficient — Whether ‘‘whole-of-
+universe’’ compilations can attract copyright — Copyright Act 1968
+(Cth), s 32.
+
+Copyright — Infringement — Whether infringement of copyright in factual
+compilations — Whether visual similarity necessary — Whether a
+substantial
+part
+of
+copyright
+work
+taken
+—
+Copyright
+Act
+1968
+(Cth), s 36.
+
+The respondent (Telstra) claimed copyright in its ‘‘White Pages’’ and ‘‘Yellow
+Pages’’ telephone directories by virtue of s 32(2) of the Copyright Act 1968 (Cth)
+(the Act) as literary works, being compilations expressed in words, figures or
+symbols, first published in Australia.
+Telstra also claimed copyright in its headings books (which contained
+alphabetical lists of headings for the ‘‘Yellow Pages’’ business directories) under
+s 32(1) of the Act, as unpublished literary works, being compilations of which the
+author was a qualified person at the relevant time.
+Telstra argued that the appellant (Desktop) infringed its copyright in its White
+Pages and Yellow Pages directories and in its headings books through Desktop’s
+three CD-ROM computer software products which were in effect databases
+containing subscriber listing data (names, addresses and telephone numbers) taken
+largely from the Yellow Pages directories and to a lesser extent from the White
+Pages. These CD-ROM products in effect comprised electronic databases which
+could be searched and the data could be manipulated by the user to reproduce, in
+alphabetical order, all entries under a particular heading in a particular Yellow
+Pages directory.
+The judge at first instance found for Telstra both on the subsistence of copyright
+issue and on infringement. Desktop appealed, claiming that the judge at first
+instance had erred in holding that copyright subsists in a compilation of facts if the
+author has engaged in sufficient work or incurred sufficient expense in gathering
+the facts. Desktop’s main contentions were:
+(i) there can be no copyright in a compilation unless an appreciable degree of
+skill or intellectual effort has been exercised in the selection, arrangement or
+organisation of the contents of the compilation;
+(ii) even if copyright subsisted in Telstra’s directories and headings books,
+Desktop had not infringed that copyright as its databases were completely
+
+492
+FEDERAL COURT REPORTS
+[(2002)
+
+different in order, layout, appearance and presentation and the information
+taken from Telstra’s compilations was not ‘‘original’’;
+(iii) on policy grounds, Telstra should be denied copyright protection. Telstra
+alone had a statutory monopoly that entitled it to compel subscribers to
+provide information. If Telstra had copyright in factual ‘‘whole-of-universe’’
+databases (such as a listing of all telephone subscribers in Australia), the
+practical effect would be to deny that information to other service providers.
+Held, dismissing the appeal:
+
+Subsistence of copyright
+(1) In the context of copyright, authorship (which is correlative with originality)
+does not require novelty, inventiveness or creativity, whether of thought or
+expression, or any form of literary merit. (160)
+Sands & McDougall Pty Ltd v Robinson (1917) 23 CLR 49; Victoria Park
+Racing and Recreation Grounds Co Ltd v Taylor (1937) 58 CLR 479, applied.
+(2) A factual compilation protectable by copyright laws must supply intelligible
+information and cannot be a totally random collection. A telephone directory
+satisfies the requirement that a compilation convey a significance of its own which
+is independent of its component items considered individually. (160)
+(3) A factual compilation will ordinarily be an original literary work if the
+compiler has:
+(a)
+exercised skill, judgment or knowledge in selecting the material for
+inclusion in the compilation or in presenting or arranging the material;
+or
+(b)
+undertaken substantial
+labour
+or
+incurred
+substantial
+expense
+in
+collecting the information recorded in the compilation. (407, 409)
+(4) The test of originality of a literary work is not an ‘‘all or nothing’’ one but
+raises a question of fact and degree as to the extent of the putative author’s
+contribution. (160, 409)
+Ladbroke (Football) Ltd v William Hill (Football) Ltd [1964] 1 WLR 273;
+[1964] 1 All ER 465, followed.
+(5) In assessing whether a factual compilation is an original work, the labour and
+expense required to collect the information can be taken into account if it was for
+the purpose of producing the compilation regardless of whether it was directly
+related to the preparation or presentation of the compilation in material form. (409)
+(6) A ‘‘whole-of-universe’’ compilation is capable of attracting copyright
+protection. (160, 409)
+(7) As Telstra’s White Pages and Yellow Pages directories and headings books
+involved substantial labour and expense in their compilation and presentation,
+Telstra owned copyright in all three. (166-171, 179, 431-436)
+Feist Publications Inc v Rural Telephone Service Co Inc (1991) 499 US 340,
+distinguished.
+
+Infringement
+(8) Copyright in a factual compilation will be infringed only where the alleged
+infringer takes a substantial part of the copyright work. Substantiality is to be
+determined by reference to the originality of that part of the work taken. Where
+originality in a factual compilation is found, in whole or in part, in the compiler’s
+labour or expense required to collect the information, infringement depends on the
+extent to which the collected information has been appropriated. (409)
+Data Access Corporation v Powerflex Services Pty Ltd (1999) 202 CLR 1,
+applied.
+(9) Where copyright protection is attracted to a factual compilation because of
+the labour and expense involved in collecting, verifying, recording and assembling
+the data and not by reference to the form of the compilation, reproduction does not
+require formal resemblance or visual similarity. (238, 239)
+Autospin (Oil Seals) Ltd v Beehive Spinning (a firm) [1995] RPC 683, followed.
+
+493
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION
+
+Obiter. By Sackville J. Even if visual similarity were required to find
+infringement, Telstra had discharged that burden. If a visual comparison is to be
+made, it must be made between forms of presentation that are capable of
+comparison, for example, between a printed work and hard copy material derived
+from the data on a CD-ROM. (441, 443)
+(10) By copying the names, addresses and telephone numbers of all subscribers
+to Telstra’s service, Desktop took a substantial part of each of Telstra’s directories.
+It was irrelevant that Desktop had not adopted Telstra’s mode of presentation of
+the data. (242-246, 439)
+(11) Similarly, Desktop had infringed copyright in Telstra’s headings books. It
+was not their alphabetical arrangement or their designation as headings that
+attracted copyright protection to the headings books; it was the labour of building
+up the collection of headings. (253-254)
+Consideration of Australia’s obligations under the Convention for the Creation
+of an International Union for the Protection of Literary and Artistic Works 1886
+done at Berne on 9 September 1886 in relation to copyright in compilations.
+(400-403)
+
+CASES CITED
+The following cases are cited in the judgments:
+A-One Accessory Imports Pty Ltd v Off Road Imports Pty Ltd (1996) 65 FCR 478.
+Acohs Pty Ltd v R A Bashford Consulting Pty Ltd (1997) 144 ALR 528.
+Ager v Peninsular & Oriental Steam Navigation Co (1884) 26 Ch D 637.
+Australian Consolidated Press Ltd v Morgan (1965) 112 CLR 483.
+Autocaps (Aust) Pty Ltd v Pro-Kit Pty Ltd (1999) 46 IPR 339.
+Autodesk Inc v Dyason (1992) 173 CLR 330.
+Autodesk Inc v Dyason (No 2) (1993) 176 CLR 300.
+Autospin (Oil Seals) Ltd v Beehive Spinning (a firm) [1995] RPC 683.
+Bellsouth Advertising & Publishing Corporation v Donnelly Information Publishing Inc
+(1993) 999 F (2d) 1436.
+Blackie & Sons Ltd v Lothian Book Publishing Co Pty Ltd (1921) 29 CLR 396.
+Bookmakers’ Afternoon Greyhound Services Ltd v Wilf Gilbert (Staffordshire) Ltd
+[1994] FSR 723.
+Boosey v Whight [1900] 1 Ch 122.
+British Columbia Jockey Club v Standen (1985) 8 CPR (3d) 283.
+British Horseracing Board Ltd v William Hill Organization Ltd (2001) 51 IPR 488.
+British Northrop Ltd v Texteam Blackburn Ltd [1974] RPC 57.
+British Oxygen Co Ltd v Liquid Air Ltd [1925] 1 Ch 383.
+Burlington’s Home Shopping Ltd v Chibber (1995) Patent & Trademark Cases 278.
+Cambridge University Press v University Tutorial Press (1928) 45 RPC 335.
+Canterbury Park Race Course Co v Hopkins (1931) 49 WN (NSW) 27.
+CCC Information Services v Maclean Hunter Market Report Inc (1994) 44 F (3d) 61.
+Chilton v Progress Printing and Publishing Company [1895] 2 Ch 29.
+Collis v Cater, Stoffell & Fortt Ltd (1898) 78 LT 613.
+Computer Edge Pty Ltd v Apple Computer Inc (1986) 161 CLR 171.
+Cox v Land and Water Journal Company (1869) LR 9 Eq 324.
+Creation Records Ltd v News Group Newspapers Ltd (1997) 39 IPR 1.
+Cuisenaire v Reed [1963] VR 719.
+Data Access Corporation v Powerflex Services Pty Ltd (1999) 202 CLR 1.
+Demerara Turf Club Ltd v Phang (1963) WIR 177.
+Designers Guild Ltd v Russell Williams (Textiles) Ltd [2001] FSR 113.
+Dicks v Yates (1881) 18 Ch D 76.
+Elanco Products Ltd v Mandops (Agrochemical Specialists) Ltd [1979] FSR 46.
+Erica Vale Pty Ltd v Thompson & Morgan (Ipswich) Ltd (1994) AIPC 91-068.
+Exxon Corporation v Exxon Insurance Consultants International Ltd [1982] Ch 119.
+Feist Publications Inc v Rural Telephone Service Co Inc (1991) 499 US 340.
+
+494
+FEDERAL COURT REPORTS
+[(2002)
+
+Football League Ltd v Littlewoods Pools Ltd [1959] 1 Ch 637.
+Francis Day & Hunter Ltd v Bron [1963] Ch 587.
+G A Cramp & Sons Ltd v Frank Smythson Ltd [1944] AC 329.
+Grain Pool of Western Australia v Commonwealth (2000) 202 CLR 479.
+H Blacklock & Co Ltd v C Arthur Pearson Ltd [1915] 2 Ch 376.
+Hanfstaengl v HR Baines & Co Ltd [1895] AC 20.
+Harpur v Lambourne (1999) 45 IPR 213.
+Hogg v Scott (1874) LR 18 Eq 444.
+Hollinrake v Truswell [1894] 3 Ch 420.
+Hotten v Arthur (1863) 1 H & M 603; 71 ER 264.
+Ibcos Computers Ltd v Barclays Mercantile Highland Finance Ltd (1994) 29 IPR 25.
+Independent Television Publications Ltd v Time Out Ltd [1984] FSR 64.
+Interlego AG v Tyco Industries Inc [1989] 1 AC 217.
+Jeffreys v Boosey (1854) 4 HLC 815; 10 ER 681.
+John
+Fairfax
+&
+Sons
+Pty
+Ltd
+v
+Australian
+Consolidated
+Press
+Ltd
+[1960]
+SR (NSW) 413.
+Kalamazoo (Aust) Pty Ltd v Compact Business Systems Pty Ltd [1990] 1 Qd R 231;
+(1985) 84 FLR 101.
+Kelly v Morris (1866) LR 1 Eq 697.
+Key Publications Inc v Chinatown Today Publishing Enterprises Inc (1991) 945
+F (2d) 509.
+Kregos v Associated Press (1991) 937 F (2d) 700.
+Ladbroke (Football) Ltd v William Hill (Football) Ltd [1964] 1 WLR 273; [1964]
+1 All ER 465.
+Lady Helen Robertson v Harry Lewis (t/a Virginia Music) [1976] RPC 169.
+Lamb v Evans [1892] 3 Ch 462.
+Leslie v J Young & Sons [1894] AC 335.
+Lewis v Fullarton (1839) 2 Beav 6; 48 ER 1080.
+Longman v Winchester (1809) 16 Ves Jun 269; 33 ER 987.
+Macmillan & Co Ltd v K & J Cooper (1923) LR 51 Ind App 109.
+Macmillan & Co Ltd v Suresh Chunder Deb (1890) 17 I LR.
+Mander v O’Brien [1934] SASR 87.
+Matthewson v Stockdale (1806) 12 Ves 270; 33 ER 103.
+Milwell Pty Ltd v Olympic Amusements Pty Ltd (1999) 85 FCR 436.
+Mirror Newspapers Ltd v Queensland Newspapers Pty Ltd [1982] Qd R 305.
+Morris v Ashbee (1868) LR 7 Eq 34.
+Morris v Wright (1870) LR 5 Ch App 279.
+Newspaper Licensing Agency Ltd v Marks & Spencer plc [2001] 3 All ER 977.
+Nintendo Co Ltd v Centronics Systems Pty Ltd (1994) 181 CLR 134.
+Odhams Press Ltd v London and Provincial Sporting News Agency (1929) Ltd [1935]
+Ch 672.
+Odhams Press Ltd v London and Provincial Sporting News Agency (1929) Ltd [1936]
+Ch 357.
+Ogden Industries Pty Ltd v Kis (Aust) Pty Ltd [1982] 2 NSWLR 283; (1982)
+62 FLR 241.
+Pacific Gaming Pty Ltd v Aristocrat Leisure Industries Pty Ltd (2001) 116 FCR 448.
+Pike v Nicholas (1869) LR 5 Ch App 251.
+Purefoy Engineering Co Ltd v Sykes Boxall & Co Ltd (1955) 72 RPC 89.
+Real Estate Institute (New South Wales) v Wood (1923) 23 SR (NSW) 349.
+Robinson v Sands & McDougall Pty Ltd (1916) 22 CLR 124.
+S W Hart & Co Pty Ltd v Edwards Hot Water Systems (1985) 159 CLR 466.
+Sampson v Brokensha and Shaw Ltd (1935) 37 WALR 90.
+Sands & McDougall Pty Ltd v Robinson (1917) 23 CLR 49.
+Scott v Stanford (1867) LR 3 Eq 718.
+Skybase Nominees Pty Ltd v Fortuity Pty Ltd (1996) 36 IPR 529.
+Smith’s Newspapers Ltd v The Labor Daily (1925) 25 SR (NSW) 593.
+
+495
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Black CJ)
+
+Spiers v Brown (1858) 6 WR 352.
+T M Hall & Co v Whittington & Co (1892) 18 VLR 525.
+T R Flanagan Smash Repairs Pty Ltd v Jones (2000) 102 FCR 181.
+Tele-Direct (Publications) Inc v American Business Information Inc (1997) 154 DLR
+(4th) 328.
+Tele-Direct
+(Publications)
+Inc
+v
+American
+Business
+Information
+Inc
+(1996)
+113 FTR 123.
+Telstra Corporation Ltd v Desktop Marketing Systems Pty Ltd (No 2) [2001] FCA 814.
+Telstra Corporation Ltd v Desktop Marketing Systems Pty Ltd (2001) 181 ALR 134.
+Total Information Processing Systems Ltd v Daman Ltd [1992] FSR 171.
+Trade-Mark Cases, The (1879) 100 US 82.
+University of London Press Ltd v University Tutorial Press Ltd [1916] 2 Ch 601.
+Vella v Cummins (2001) 53 IPR 538.
+Victoria
+Park
+Racing
+and
+Recreation
+Grounds
+Co
+Ltd
+v
+Taylor
+(1936)
+37 SR (NSW) 322.
+Victoria Park Racing and Recreation Grounds Co Ltd v Taylor (1937) 58 CLR 479.
+Walter v Lane [1900] AC 539.
+Warwick Film Productions Ltd v Eisinger [1969] Ch 508.
+Waterlow Directories Ltd v Reed Information Services Ltd (1990) 20 IPR 69.
+Waterlow Publishers Ltd v Rose (1989) 17 IPR 493.
+Weatherby & Sons v International Horse Agency & Exchange Ltd [1910] 2 Ch 297.
+Winterbottom v Wintle (1947) 50 WALR 58.
+
+APPEAL
+
+G A Nettle QC and G C McGowan, for the appellant.
+
+J McLemmerson QC and A J Ryan, for the respondent.
+Cur adv vult
+
+15 May 2002
+
+1
+BLACK CJ. I agree that the appeal should be dismissed with costs for the
+reasons given by Lindgren J and Sackville J, and add the following
+observations.
+2
+Ground of appeal 14 was that the primary judge should have found, on the
+evidence, that Telstra’s industry:
+‘‘. . . was not in collecting but was principally and relevantly limited to
+receiving (as a matter of monopolistic entitlement), checking, maintaining
+and publishing data.’’
+3
+This ground was developed in par 14 of Desktop’s outline of written
+submissions, which, omitting footnotes and the references to them, was as
+follows:
+‘‘In this case the Judge erred in holding that the Respondent had satisfied
+the ‘industrious collection’ test for subsistence of copyright because, on
+the evidence, such industry as there was on the part of the Respondent was
+not in collecting, but principally and relevantly limited to receiving (as a
+matter of statutory monopolistic entitlement) data. The whole basis of the
+so-called ‘industrious collection’ approach is to protect the industry of a
+party from a commercially unfair free ride by copyists. There is no free
+ride here. All ‘industrious collection’ cases (especially those relied upon by
+Telstra) were ones where:
+(a)
+The copyist could have, with sufficient industry, replicated the
+database. That is not so here. No amount of industry could replicate
+
+496
+FEDERAL COURT REPORTS
+[(2002)
+
+the Telstra database because of the privileged position Telstra enjoys
+in granting lines and telephone numbers on the condition that the
+subscriber provides such information and updates it as requested.
+(b)
+The plaintiff was commercially disadvantaged by the copyist’s
+activities. Here Telstra is statutorily obliged to and does produce and
+distribute the directories free of charge, and thus there can be no
+suggestion of commercial damage to Telstra.
+If there is any unfairness, it is the result of Telstra refusing to provide
+access to its database on reasonable terms despite an obligation to do so.’’
+(Emphasis in original.)
+The point was not substantially elaborated upon in oral submissions but was
+raised again in written submissions in reply.
+4
+In Feist Publications Inc v Rural Telephone Service Co Inc (1991)
+499 US 340, referred to in the judgments of the other members of the Court,
+Rural Telephone Services Co (Rural) was a certified public utility which, as a
+condition of its monopoly, published white pages and yellow pages directories
+and provided them free of charge to its subscribers.
+5
+In delivering the opinion of the United States Supreme Court, O’Connor J
+(at 362) observed that, in preparing the white pages directories, Rural simply
+took the data received from its subscribers and listed the data alphabetically by
+surname. Her Honour made that observation in support of her description of the
+‘‘end product’’ as ‘‘a garden-variety white pages directory, devoid of even the
+slightest trace of creativity’’. Her Honour also referred (at 363) to the fact that
+Rural was ‘‘required [to publish the names and telephone numbers of its
+subscribers] by the Kansas Corporation Commission as part of its monopoly
+franchise’’. Her Honour made that observation in support of her view that there
+was no ‘‘selection’’ by Rural of the data to be published.
+6
+The considerations relied on by Desktop may thus point against the existence
+of a ‘‘spark of creativity’’, but once that test of originality is rejected the
+question is whether a particular form of labour is determinative in attracting
+copyright protection. The reasons in Feist provide no ground for concluding
+that Telstra’s various forms of labour (collecting/receiving, verifying, re-
+cording, computer-aided assembling) should not suffice to attract copyright
+protection.
+7
+Turning then to the lines of authority in Australia and England, it is true that
+in most if not all of the so-called ‘‘industrious collection’’ cases the effort and
+expense applied by the author of the compilation included effort and expense in
+the collection of the data from external sources. This occurred by way of
+research (Hogg v Scott (1874) LR 18 Eq 444; Ager v Peninsular & Oriental
+Steam Navigation Co (1884) 26 Ch D 637; Collis v Cater, Stoffell & Fortt Ltd
+(1898) 78 LT 613; G A Cramp & Sons Ltd v Frank Smythson Ltd [1944] AC
+329; Elanco Products Ltd v Mandops (Agrochemical Specialists) Ltd [1979]
+FSR 46; Harpur v Lambourne (1999) 45 IPR 213); extraction from independent
+written sources (Scott v Stanford (1867) LR 3 Eq 718; T M Hall & Co v
+Whittington & Co (1892) 18 VLR 525; Leslie v J Young & Sons [1894] AC
+335; H Blacklock & Co Ltd v C Arthur Pearson Ltd [1915] 2 Ch 376); survey,
+canvassing or solicitation (Kelly v Morris (1866) LR 1 Eq 697; Morris v
+Ashbee (1868) LR 7 Eq 34; Morris v Wright (1870) LR 5 Ch App 279; Cox v
+Land and Water Journal Company (1869) LR 9 Eq 324; Weatherby & Sons v
+International Horse Agency & Exchange Ltd [1910] 2 Ch 297; Waterlow
+Publishers Ltd v Rose (1989) 17 IPR 493); annotation and documentation of
+
+497
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Lindgren J)
+
+events (Walter v Lane [1900] AC 539) or a combination of such activities
+(Canterbury Park Race Course Co v Hopkins (1931) 49 WN (NSW) 27;
+Mander v O’Brien [1934] SASR 87; Winterbottom v Wintle (1947) 50 WALR
+58).
+8
+As the discussion of these cases in the judgments of the other members of
+the Court shows, however, they do not turn upon the circumstance that the
+effort and expense applied was in the collection, rather than receipt, of data. In
+general, they turn upon a reluctance of the courts to allow unfair advantage to
+be taken of the outlays of another in originating a work.
+9
+In any case, to conclude that Telstra ‘‘receives’’ rather than ‘‘collects’’ the
+data is to pay insufficient attention to the fact that, even in the case of the
+White Pages, Telstra receives the data only because it has undertaken the effort
+and expense of setting up and maintaining systems to get the data from both
+new and existing subscribers. In a real sense, Telstra does collect the data for
+the purpose of its compilations and certainly the process can aptly be described
+as ‘‘collecting/receiving’’.
+10
+There was no submission by Desktop that Telstra did not employ substantial
+labour and funds in the production of its directories and no such submission
+could reasonably have been made. There was much evidence before the learned
+trial judge that it did so and his Honour gave a brief summary of the labour
+involved, most of it relating to computer programs and databases but including
+also references to considerable and continuing involvement by editors and other
+people. Desktop’s submission is that Telstra’s labour, extensive as it might be,
+was nevertheless of a kind that cannot establish originality. That submission is
+not supported by the lines of Australian and English authority. Moreover, if
+accepted, it would involve the illogical result that work of ‘‘industrious
+collection’’, understood in a narrow sense focussing on the activity of
+collection, would, even if of the quite limited nature considered in some of the
+earlier cases, serve to found copyright protection for a compilation, whilst the
+laborious and costly computer-aided compilation activity engaged in by Telstra
+would not do so. The submission should be rejected.
+11
+Whether the same result would follow if the compilation in issue were
+produced from data harvested from transient information flows by an
+established computer program is, of course, a separate question. This case turns
+on its own facts.
+12
+I should add that I see no reason why copyright protection should be denied
+to Telstra by reason of its work in producing its directories being facilitated by
+obligations arising under statute or because it had an obligation, also arising
+under statute, to produce the directories.
+
+13
+LINDGREN J. I gratefully adopt Sackville J’s account of the background facts
+and of the relevant provisions of the Copyright Act 1968 (Cth) (the Act).
+14
+Telstra Corporation Ltd (Telstra) alleges in its further amended statement of
+claim (the Pleading) that Desktop Marketing Systems Pty Ltd (Desktop)
+infringed its copyright in the White Pages Directories, the Yellow Pages
+Directories
+(the
+Directories)
+and
+the
+Headings
+Books
+referred
+to
+in
+Annexures A, B and C respectively to the Pleading. Annexure A identifies the
+1996-1999 White Pages Directories for all 55 Australian Telstra directory
+regions. Annexure B identifies the 1997-1999 Yellow Pages Directories for
+those 55 regions. Annexure C identifies two Headings Books, one intituled
+
+498
+FEDERAL COURT REPORTS
+[(2002)
+
+‘‘Metropolitan Directories’’ and the other ‘‘Regional & Local Directories’’, in
+each case for 1997 and for 1998.
+15
+Both the White Pages Directories and the Yellow Pages Directories included
+information pages as well as their respective directory sections. The Yellow
+Pages Directories also included graphics, enhancements and advertisements.
+Desktop copied the data contained in the directory sections of the White Pages
+Directories and the Yellow Pages Directories, and separately stored those two
+bodies of data in databases. Desktop did not, of course, have access to Telstra’s
+Headings Books. However, it copied headings from the Yellow Pages
+Directories, using them as descriptions of the lines of business of subscribers
+whose details it took from those Directories. In this way the headings that were
+copied formed part of the database founded on the Yellow Pages Directories.
+Accordingly, Telstra’s case in respect of the Headings Books is one of indirect
+infringement. Desktop did not copy any of the information pages, graphics,
+enhancements or advertisements.
+16
+This case is concerned with the element of ‘‘originality’’ in respect of
+compilations of factual information. Originality is not only an essential element
+if a work is to be protected by copyright (an ‘‘original literary, dramatic,
+musical or artistic work’’; cf s 32(1) and (2) of the Act); it is also an important
+aspect of infringement. The reason is that the notion of a ‘‘substantial part’’ of
+a work, reproduction of which, without licence of the copyright owner, is a
+form of infringement of the copyright in the work (cf ss 31(1) and (2) and 36(1)
+and 14(1)(a) of the Act), is regarded as referring, generally speaking, to the
+original aspects or features of the work.
+17
+It follows that there is an element of artificiality in discussing subsistence
+and infringement separately, but I will do so for convenience.
+
+Subsistence of copyright
+
+18
+The appeal raises the following issues in relation to the subsistence of
+copyright:
+1.
+whether the Act’s requirements of originality and authorship can be
+satisfied, in the case of a compilation of factual information, by nothing
+more than labour and expense, or whether those requirements necessitate
+what has been variously called ‘‘intellectual effort’’ or a ‘‘creative spark’’
+in respect of one or more of: the form of the individual entries, the
+selection of the elements to be included in the compilation, or the
+arrangement of the compilation as a whole (the First Issue); and
+2.
+if the First Issue is answered favourably to Telstra, whether Telstra’s
+labour and expense qualify its White Pages Directories, Yellow Pages
+Directories and Headings Books as original literary works (the Second
+Issue).
+(The First Issue has been much discussed; see, for example, N Siebrasse,
+‘‘Copyright in Facts and Information: Feist Publications is not, and should not
+be, the Law in Canada’’ (1994) 11 CIP Rev 191; L R Patterson and C Joyce,
+‘‘Monopolizing the Law: The Scope of Copyright Protection for Law Reports
+and Statutory Compilations’’ (1989) 36 UCLA L Rev 719; J Bannister,
+‘‘Originality and Access; copyright protection of compilations and databases’’
+(1999) 10 Journal of Law and Information Science 227; J C Ginsburg,
+‘‘Creation
+and
+Commercial
+Value:
+Copyright
+Protection
+of
+Works
+of
+Information’’ (1990) 90 Colum L Rev 1865; J C Ginsburg, ‘‘No ‘Sweat’?
+Copyright and Other Protection of Works of Information After Feist v Rural
+
+499
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Lindgren J)
+
+Telephone’’
+(1992)
+92
+Colum
+L
+Rev
+338;
+W
+Patry,
+‘‘Copyright
+in
+Compilations of Facts (or Why the ‘White Pages’ Are Not Copyrightable)’’
+(1990) 12 Communications and the Law 37; R C Denicola, ‘‘Copyright in
+Collections of Facts: A Theory for the Protection of Nonfiction Literary
+Works’’ (1981) 81 Colum L Rev 516; S Perlmutter, ‘‘The Scope of Copyright
+in Telephone Directories: Keeping Listing Information in the Public Domain’’
+(1990-1991) 38 J Copyright Soc’y USA 1; T P Arden, ‘‘The Conflicting
+Treatments of Compilations of Facts under the United States and United
+Kingdom Copyright Laws’’ (1992) 3 Ent L Rev 43; M Sherwood-Edwards,
+‘‘The Redundancy of Originality’’ (1995) 6 Ent L Rev 94; G Lea, ‘‘In Defence
+of Originality’’ (1996) 7 Ent L Rev 21; D B Wolf, ‘‘Is there any Copyright
+Protection for Maps after Feist’’ (1992) 39 J Copyright Soc’y USA 224;
+S Ricketson, ‘‘The Concept of Originality in Anglo-Australian Copyright Law’’
+(1992) 39 J Copyright Soc’y USA 265.)
+19
+For convenience in what follows, I will, until indicated otherwise, discuss the
+two issues mentioned in relation to the directory section of the White Pages
+Directories — names, addresses and telephone numbers (for some subscribers,
+their facsimile machine, mobile telephone and paging service numbers were
+also included, but this is not material), although my observations also apply,
+with necessary adjustments, to the directory section of the Yellow Pages
+Directories.
+20
+It is not disputed that the directories are compilations and therefore literary
+works. Nor is it disputed that if they are original literary works, Telstra owns
+the copyright in them.
+21
+The case is a ‘‘whole-of-universe’’ case, that is, there is no selection of the
+subscribers to be included. The universe for each regional directory is all
+subscribers in the region, except those who have a private (‘‘silent’’) number.
+The details of subscribers reflect facts in the real world. All persons thoroughly
+exploring the same universe would discover the same factual information.
+22
+Moreover, a telephone directory permits of only one mode of arrangement of
+the factual information (a listing alphabetically by family name) and it permits
+of only one mode of expression of the individual entries (subscribers’ names
+with family name first, followed by addresses and telephone numbers). The
+alphabet did not originate with Telstra. Both Telstra and the users of the
+directories approach the production and use of directories knowing the
+alphabet, understanding that it will provide the key to the factual information
+recorded in the directories, and understanding that the individual entries for
+subscribers will follow an inescapable form dictated by the alphabetical
+arrangement of the directory as a whole.
+23
+There are other compilations which both the compiler and intending users
+understand will be structured or arranged alphabetically, numerically or
+chronologically (such as the listing of placings, tipped or actual, in a race
+(cf Smith’s Newspapers Ltd v The Labor Daily (1925) 25 SR (NSW) 593;
+Victoria Park Racing and Recreation Grounds Co Ltd v Taylor (1937) 58 CLR
+479 at 497) and the days of the week in an annual calendar. But more
+commonly, there is some ‘‘scope for variance’’ in the manner in which both the
+individual pieces of factual information are recorded, in the selection of the
+factual details to be compiled, and in the arrangement of the compilation as a
+whole. But in the category of case of which the present directories provide an
+illustration, the compiler and users understand:
+
+500
+FEDERAL COURT REPORTS
+[(2002)
+
+that there will be no selection of the items to be compiled: all facts within
+the pre-defined category will be included;
+that the facts to be recorded for each entry will be expressed in a particular
+way; and
+that the compilation as a whole will be arranged in a particular way.
+24
+Accordingly, anyone given the task of producing a directory of the
+subscribers in a particular geographical region would produce a directory
+relevantly identical in form, as well as in content, to Telstra’s.
+25
+As
+was
+emphasised
+by
+the
+United
+States
+Supreme
+Court
+in
+Feist
+Publications Inc v Rural Telephone Service Co Inc (1991) 499 US 340, the
+compiler of factual information is not the author or originator of the individual
+facts recorded in the compilation: they already exist. According to that Court,
+this consideration, coupled with the axiom that copyright in literary works
+protects forms of expression and not ideas, leads to the conclusion that where,
+as here, there is no scope for selection, for variance in the mode of expression
+of the individual items, or for variance in the mode of arrangement of the
+compilation as a whole, so that both content and form are ‘‘foregone
+conclusions’’, copyright cannot subsist in the compilation. The Court was of
+the opinion that to accord copyright protection in those circumstances would be
+to accord it to facts or ideas.
+26
+It is at law, if not in practice, open to a person to ascertain all the facts
+recorded in a Telstra directory by independent inquiry and to compile his or her
+own directory containing the results. So long as the second compiler did not
+copy Telstra’s product, there would be no infringement of any copyright in the
+(identical) Telstra directory, any more than the existence of copyright in a
+photograph of a scene signifies that there is copyright in the scene itself, which,
+therefore, a later photographer is not at liberty to photograph from the same
+viewpoint (cf Creation Records Ltd v News Group Newspapers Ltd (1997)
+39 IPR 1).
+27
+In any event, it is said that the course of English and Australian authority is
+such that we must not or should not follow Feist. I have found it necessary, in
+order to consider this proposition, to review in chronological sequence the
+numerous English and Australian cases to which we were referred.
+
+The pre-1911 cases
+
+28
+In Matthewson v Stockdale (1806) 12 Ves 270; 33 ER 103 an interlocutory
+injunction protecting the plaintiff’s copyright in a directory of ‘‘all the names
+and appointments on the Indian Establishment’’ (at 276; 105) survived a
+motion for dissolution. The case is distinguishable on its facts in that the
+plaintiff had composed the entries, as to which there was scope for variance,
+and prepared an alphabetical index. Nonetheless, Lord Erskine LC only
+reluctantly accepted that copyright subsisted. His Lordship said (at 273; 104):
+‘‘Thinking it dangerous to carry this doctrine of copyright too far, the
+turn of my mind would lead me to a different decision of this case from
+that, which, following what I find the established law, I mean to give.
+Several cases have occurred, in which it was at least as difficult to
+maintain copyright; and yet it has been maintained.’’
+The Lord Chancellor referred to cases of a map of an island and a chart of the
+English Channel, and said that there was no room for originality on such
+subjects, yet acknowledged that considerable expense and labour had in fact
+been protected by the law against ‘‘servile imitation’’. The Lord Chancellor
+
+501
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Lindgren J)
+
+was referring to considerable expense and labour in the antecedent identifi-
+cation of the facts to be described. To this extent, Matthewson v Stockdale
+lends some support to the subsistence of copyright in the telephone directories.
+29
+Longman v Winchester (1809) 16 Ves Jun 269; 33 ER 987 was also an
+unsuccessful motion to dissolve an interlocutory injunction. The work was
+described as ‘‘containing lists of the Houses of Peers and Commons, &c’’.
+There was verbatim copying by the defendant. The Lord Chancellor stated
+(at 270-271; 987):
+‘‘I cannot go the length of stating the proposition, that copyright cannot
+subsist in a work of this description: nor would I disturb the Injunction
+upon that ground without putting them to a trial. Assuming, that there may
+be a copyright, there is not much difficulty in the rest of the case. Take the
+instance of a map, describing a particular county; and a map of the same
+county, afterwards published by another person: if the description is
+accurate in both, they must be pretty much the same: but it is clear, the
+latter publisher cannot on that account be justified in sparing himself the
+labour and expense of actual survey, and copying the map, previously
+published by another.’’
+His Lordship concluded (at 272; 988):
+‘‘I have said nothing, that has a tendency to prevent any person from
+giving to the public a work of this kind; if it is the fair fruit of original
+labour: the subject being open to all the world: but if it is a mere copy of
+an original work, this Court will interpose against that invasion of
+copyright.’’
+Longman v Winchester supports the availability of copyright to protect
+industrious collection of the information to be recorded, even if the form of
+expression is inevitable.
+30
+The Literary Copyright Act 1842 (UK) (5 & 6 Vic c 45) (the 1842 UK Act)
+contained provisions relating to copyright in ‘‘books’’ (as defined), and defined
+‘‘copyright’’ for the purposes of the construction of that Act, to be: ‘‘The sole
+and exclusive Liberty of printing or otherwise multiplying Copies of any
+Subject to which the said Word is herein applied.’’ The 1842 UK Act did not
+state that copyright did not exist independently of that Act or expressly identify
+the circumstances in which it did exist. There was no reference to originality,
+but there were several references to a book’s ‘‘author’’. For example, s 3
+provided that the copyright in every book published after the passing of the
+1842 UK Act and in the lifetime of its author should subsist for the lifetime of
+the author plus seven years and should be the property of the author and his
+assigns. Until Walter v Lane [1900] AC 539 (discussed below), the pre-1911
+English cases on the subsistence of copyright in compilations made scant, if
+any, reference to the terms of the 1842 UK Act.
+31
+The fact that some facts would or might be described by independent authors
+in the same or similar words was referred to in Spiers v Brown (1858) 6 WR
+352. The plaintiff was the author of a two-volume dictionary, comprising
+English-French and French-English parts, and an abridgment of the dictionary
+for school children. He alleged that the defendant had infringed the copyright in
+the French-English part and in the abridgment.
+32
+Vice Chancellor Wood dismissed the bill for an injunction. He referred
+(at 352) to the difficulty which arose in cases such as dictionaries, directories,
+calendars and Court Guides, which:
+‘‘. . . not only related to a subject common to all mankind, but . . . the
+
+502
+FEDERAL COURT REPORTS
+[(2002)
+
+mode of expression and language [of which] was necessarily so common
+that two persons must, to a very great extent, express themselves in
+identical terms . . .’’
+The Vice Chancellor saw the issue for decision as whether the defendant had
+not made more than legitimate use of the plaintiff’s work, and decided he had
+not.
+33
+The case is quite unlike the present one in which Desktop has taken the
+whole of Telstra’s directory, then rearranged and added to the data recorded in
+it.
+34
+In Hotten v Arthur (1863) 1 H & M 603; 71 ER 264 the plaintiff, a
+bookseller, collected very old and curious books and issued catalogues from
+time to time in respect of his collection. The catalogues were not mere lists of
+the books and their prices, but contained, in a great majority of instances, a
+short account of a book’s history or contents or an anecdote concerning it. In
+granting an injunction, the Vice Chancellor, Sir W Page Wood, remarked that
+the catalogue was not ‘‘a mere dry list of names, like a postal directory, Court
+guide, or anything of that sort, which must be substantially the same by
+whatever number of persons issued and however independently compiled’’
+(at 607-608; 265-266). That is to say, the Vice Chancellor distinguished the
+case from a case such as the present one, because there was some scope for
+variance in mode of expression. Hotten v Arthur therefore says nothing to the
+issue calling for our decision.
+35
+The first of ‘‘the three Morris cases’’ was Kelly v Morris (1866) LR 1
+Eq 697. Kelly owned and published the ‘‘Post-office London Directory’’; the
+defendant, the ‘‘Imperial Directory of London 1866’’. The plaintiff’s work was
+updated and issued annually. It had come to contain 12 divisions or directories,
+and, excluding advertisements, comprised 2483 pages ‘‘indexed externally in a
+manner invented for the Plaintiff, and first used by him in his directory’’
+(at 697). Sir W Page Wood VC stated (at 701-702):
+‘‘In the case of a dictionary, map, guide-book, or directory, when there
+are certain common objects of information which must, if described
+correctly, be described in the same words, a subsequent compiler is bound
+to set about doing for himself that which the first compiler has done. In
+case of a road-book, he must count the milestones for himself. In the case
+of a map of a newly-discovered island (the illustration put by Mr Daniel)
+he must go through the whole process of triangulation just as if he had
+never seen any former map, and, generally, he is not entitled to take one
+word of the information previously published without independently
+working out the matter for himself, so as to arrive at the same result from
+the same common sources of information, and the only use that he can
+legitimately make of a previous publication is to verify his own
+calculations and results when obtained. So in the present case the
+Defendant could not take a single line of the Plaintiff’s Directory for the
+purpose of saving himself labour and trouble in getting his information.’’
+(Emphasis added.)
+This passage clearly supports the subsistence of copyright in the present
+telephone directories: the Vice Chancellor contemplated protection of the
+compiler’s labour and expense of getting the factual information to be
+compiled, regardless of the absence of scope for variance in mode of
+expression. The case is one of many nineteenth century cases in which
+copyright protection is supported by reference to general statements that one
+
+503
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Lindgren J)
+
+may not appropriate the fruit of another’s labour or reap where one has not
+sown. It is, however, noteworthy that shortly after the passage set out above,
+the Vice Chancellor observed (at 702) that in fact the plaintiff had ‘‘adopted a
+very ingenious form of arrangement, which [was] to be found in no other
+directory that [had] been produced, except the Defendant’s’’. Accordingly,
+although the passage set out above applies to the telephone directories with
+which we are concerned and supports the subsistence of copyright in them,
+Kelly v Morris is factually distinguishable from the present case.
+36
+Scott v Stanford (1867) LR 3 Eq 718 concerned statistical returns of the Coal
+Market of the City of London (the Corporation) published by the plaintiff who
+was the Corporation’s clerk and registrar. The plaintiff extracted the statistics
+from the books of the Corporation with its authority. Indeed, the Corporation
+allowed him the exclusive right to compile, print and publish the returns
+showing the quantity of imports into London from various collieries, as part of
+the remuneration attached to his appointment. The defendant published a work
+which included a chapter of coal statistics and acknowledged the plaintiff’s
+work as their source.
+37
+The Vice Chancellor, Sir W Page Wood, noted that the subsistence of the
+plaintiff’s copyright had been ‘‘only faintly impugned’’ (at 723). He observed
+(at 723):
+‘‘. . . he has, at the expense of much time and labour, compiled and
+arranged, in very clear and lucid order, the vast mass of information
+accruing every day as to the importation of coal into the City . . . It appears
+to me quite immaterial whether he has been assisted in the compilation by
+his own clerks, or by those of the Corporation. A great deal of time and
+labour must have been spent in this compilation, more, indeed, than in the
+case of a directory or guide; and there can be no doubt that he is entitled to
+be protected in the fruits of his labour.’’
+The case is readily distinguishable from the present one. The form of the
+compilation originated with the plaintiff and was not inevitable. Indeed, the
+only issue as to subsistence appears to have been whether the plaintiff or the
+Corporation was the ‘‘author’’ of the work. Nevertheless, what the Vice
+Chancellor seems to have treated as calling for protection was the plaintiff’s
+labour in selecting, extracting and compiling the information.
+38
+The second of the three Morris cases was Morris v Ashbee (1868) LR 7
+Eq 34. Morris, who had been the unsuccessful defendant publisher of ‘‘The
+Imperial Directory of London 1866’’ in Kelly v Morris, was now the compiler
+of ‘‘The Business Directory of London’’. He sought to restrain publication by
+Ashbee of a rival directory ‘‘The Merchants’ and Manufacturers’ Pocket
+Directory of London 1868’’. Morris’s work comprised the names and
+occupations of the merchants, traders and other persons carrying on business or
+residing in London and environs. The names were contained in a classified list
+of the various trades and professions arranged in alphabetical order, and also in
+another list in alphabetical order by names (the similarity to Yellow Pages and
+White Pages Directories respectively is noteworthy). As well, the directory
+contained advertisements and ‘‘extra lines’’ of business descriptions for those
+willing to pay for them. The plaintiff’s copyright was not in terms denied or its
+existence distinctly put in issue.
+39
+The Vice Chancellor, Sir George Giffard, finding for the plaintiff, stated
+(at 40-41):
+‘‘The plaintiff incurred the labour and expense first of getting the
+
+504
+FEDERAL COURT REPORTS
+[(2002)
+
+necessary information for the arrangement and compilation of the names
+as they stood in his directory, and then of making the actual compilation
+and arrangement, and, though each individual who paid might no doubt
+have his own name printed in capital letters or with the same superadded
+lines wherever he chose, neither one nor all of them could authorize the
+cutting of a series of slips, or the taking of the names as arranged, from the
+Plaintiff’s directory, and the use of them in the printing of a rival work . . .
+the substance of the judgment [in Kelly v Morris] is, that in a case such as
+this no one has a right to take the results of the labour and expense
+incurred by another for the purposes of a rival publication, and thereby
+save himself the expense and labour of working out and arriving at these
+results by some independent road. If this was not so, there would be
+practically no copyright in such a work as a directory . . . The simple
+upshot of the whole case is, that the Plaintiff’s directory was the source
+from which they compiled very material parts of theirs, and they had no
+right so to resort to that source. They had no right to make the results
+arrived at by the Plaintiff the foundation of their work or any material part
+of it, and this they have done.’’ (Emphasis added.)
+Although the Vice Chancellor referred in the first sentence to the labour of
+actually composing the compilation as well as to the antecedent labour of
+getting the information to be compiled, there is no suggestion that the latter
+alone, if sufficient, would not have attracted copyright protection. Indeed, the
+latter part of the passage discusses only the labour and expense of ‘‘working
+out and arriving at [the] results’’. The passage supports the subsistence of
+copyright in Telstra’s directories.
+40
+In Cox v Land and Water Journal Company (1869) LR 9 Eq 324, the
+plaintiff published ‘‘The List of Hounds’’ in his ‘‘Field’’ newspaper and sought
+an injunction restraining the defendants from publishing ‘‘The Hunting Field of
+1870’’ in their ‘‘Land and Water Journal’’. The plaintiff’s list comprised
+particulars of the various packs of hounds in the United Kingdom, including the
+name of each hunt, the nearest town convenient for strangers, the number of
+hounds in the pack, the hunting days, the names of the masters, huntsmen and
+whips, and the address of the kennel.
+41
+Vice Chancellor Malins observed that the hunting days and the names of the
+masters of hunts and of the huntsmen were well-known, but that the whips were
+not, ‘‘being numerous and obscure persons’’ (at 332). The Vice Chancellor
+assumed, for the purposes of an application for an interlocutory injunction, that
+the law regarding compilations of factual information had been correctly stated
+in Kelly v Morris and Morris v Ashbee. He said (at 332):
+‘‘It is clear that in this case the getting the names of masters of hunts, the
+numbers of hounds, the huntsmen, and whips, and so forth, is information
+open to all those who seek to obtain it; but it is information they must get
+at their own expense, as the result of their own labour, and they are not to
+be entitled to the results of the labours undergone by others. And this is
+the principle of Kelly v Morris.’’
+Again, it was the getting of the factual information to which reference was
+made as attracting copyright protection, although no doubt there was, as a
+matter of fact, some scope for variance in the form of expression of the
+compilation. The getting of the information is comparable to Telstra’s
+collection of details of telephone subscribers. Cox v Land and Water Journal
+Company supports the subsistence of copyright in the present directories.
+
+505
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Lindgren J)
+
+42
+The third Morris case was Morris v Wright (1870) LR 5 Ch App 279. Morris
+again asserted copyright in his publication ‘‘The Business Directory of
+London’’. James VC granted, and subsequently dissolved, an interlocutory
+injunction. Morris appealed against the dissolution. Giffard LJ affirmed the
+Vice Chancellor’s decision on the basis that on the evidence, the defendants
+had used the plaintiff’s work only to direct them to other sources of
+information (cf Pike v Nicholas (1869) LR 5 Ch App 251), whereas in Kelly v
+Morris and Morris v Ashbee there had been direct copying. Giffard LJ said that
+the substance of the judgment in Kelly v Morris was that in a case such as that
+before him (at 286):
+‘‘. . . no one has a right to take the results of the labour and expense
+incurred by another for the purposes of a rival publication, and thereby
+save himself the expense and labour of working out and arriving at those
+results by some independent road.’’
+Again the Court relied on notions of unfair competition, but, again, no doubt
+there was in fact scope for a spark of creativity in mode of expression, whereas
+there is not in the present case. Nonetheless, the passage set out above supports
+the subsistence of copyright in telephone directories.
+43
+In Hogg v Scott (1874) LR 18 Eq 444, the plaintiff was the author and
+proprietor of a book called the ‘‘Fruit Manual’’ from which the defendant had
+copied, frequently verbatim, and at other times with slight or merely colourable
+alterations. Vice Chancellor Hall granted an injunction on the authority of Kelly
+v Morris and Morris v Wright, stating (at 458):
+‘‘The true principle in all these cases is, that the Defendant is not at liberty
+to use or avail himself of the labour which the Plaintiff has been at for the
+purpose of producing his work — that is, in fact, merely to take away the
+result of another man’s labour, or, in other words, his property.’’
+The expression ‘‘for the purpose of producing his work’’ is akin to the
+expression ‘‘for the purposes of a rival publication’’ of Morris v Wright:
+neither suggests that one kind of labour will serve to give rise to copyright and
+that another will not. The statement is broad enough to encompass Telstra’s
+labour in producing telephone directories.
+44
+Dicks v Yates (1881) 18 Ch D 76 was not a compilation case but involved a
+somewhat extended consideration of the concept of originality before it was
+introduced as an express condition of copyright protection by the Copyright Act
+1911 (UK) (the 1911 UK Act). The plaintiff published in serial form in a
+weekly periodical a tale intituled ‘‘Splendid Misery; or, East End and West
+End’’ by one, C H Hazlewood. The defendant subsequently commenced
+publishing in a weekly newspaper issued by him a tale by Mrs Maxwell,
+commonly known as Miss Braddon, intituled ‘‘Splendid Misery’’. The
+evidence showed that a novel called ‘‘Splendid Misery’’ had been published in
+1801, that it had enjoyed a large circulation and that second-hand copies of it
+could still be encountered.
+45
+Jessel MR thought there could not be copyright in ‘‘the common English
+words’’ used by the defendant, ‘‘Splendid Misery’’, which, it will be recalled,
+formed only part of the title to the plaintiff’s work, and which, his Lordship
+remarked, had been used as the actual title of a novel as far back as in 1801.
+Later (at 89) the Master of the Rolls stated:
+‘‘Now I do not say that there could not be copyright in a title, as, for
+instance, in a whole page of title or something of that kind requiring
+invention. However, it is not necessary to decide that. But, assuming that
+
+506
+FEDERAL COURT REPORTS
+[(2002)
+
+there can be copyright in a title, what does copyright mean? It means the
+right to multiply copies of an original work. If you complain that a part of
+your work has been pirated, you must shew that that part is original, and if
+it is not original, you have no copyright. How can the title ‘Splendid
+Misery’ be said to be original, when the very same words for the very
+same purpose were used nearly eighty years ago? The suggested answer is
+‘People have forgotten that old novel’. But that is not the point. Did the
+title become public property? If you go by the analogy of the patent law, it
+is very strong against the Plaintiff, because complete prior publication of
+an invention in England destroys the claim for novelty on the part of the
+patentee. I say complete publication, because there have been cases where
+it was held that a general description was not sufficiently complete and
+specific to prevent a title in the second inventor. But there is another
+circumstance. In the case of patentees, where there is a question of
+originality, you must prove that the alleged inventor was the inventor. In
+this case, Mr Hazlewood being dead, and it having been shewn that the
+title was known many years ago, Mr Hazlewood could not be called, and
+no one else has been called, to shew that Mr Hazlewood invented the title,
+or that he did not copy it, as he might have done, from the old novel.
+Therefore in this case, even assuming you could establish a right to the
+title as original, if it was reinvented you have no evidence of the re-
+invention, but you have evidence of the prior publication. It seems to me,
+therefore, on that ground also that the action must be dismissed.’’
+(Emphasis added.)
+46
+Lush LJ stated (at 92-93):
+‘‘I take it to be established law that to be the subject of copyright the
+matter must be original, it must be a composition of the author, something
+which has grown up in his mind, the product of something which if it were
+applied to patent rights would be called invention. Nothing short of that
+would entitle a man to copyright. Now, can it be said there is anything
+original in these two words? I suppose there is hardly a person who has
+grown to maturity in this country who has not read them hundreds of times
+and heard them spoken hundreds of times. To my mind ‘Splendid Misery’
+is a hackneyed phrase. Moreover, it is in evidence that about eighty years
+ago a novel was published with that very title, and that, though it is out of
+print, second hand copies are still to be met with. If, therefore, we were to
+go no further back than that, the title has been known to the public for at
+least eighty years, and I cannot help thinking that the phrase originated
+many years before that. It was one likely to be coined in a very early age,
+and is one which, as I said before, most persons must have read and heard
+hundreds of times. That of itself is enough to determine the case. There is
+nothing original in the title. There is nothing in it that indicates any
+intellectual effort. There is nothing more than the taking up a phrase which
+had long been in public use. It had become public property, and it is
+impossible that a person can appropriate it and claim copyright in it.’’
+(Emphasis added.)
+47
+I have referred to Dicks v Yates at some length because, at first instance in
+Robinson v Sands & McDougall Pty Ltd (1916) 22 CLR 124 (discussed at [89]-
+[90] below), Barton J treated Jessel MR and Lush LJ as having attached to the
+notion of ‘‘original’’ the meaning ‘‘not copied, not imitated’’ (at 132-133). As
+will be seen below, a ‘‘not copied/originating from the putative author’’ test of
+
+507
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Lindgren J)
+
+originality has now become firmly established. (It is necessary to be cautious in
+referring to the law of patents not to suggest that the ideas expressed in a
+literary work must be novel or that the form of expression of them must show
+inventiveness, and neither Jessel MR nor Lush LJ did so.)
+48
+In Ager v Peninsular & Oriental Steam Navigation Co (1884) 26 Ch D 637,
+the defendant admitted that the plaintiff had copyright in ‘‘The Standard
+Telegram Code’’, a book of about 100,000 words, arranged alphabetically,
+which the plaintiff had selected from eight languages, specially compiled with a
+view to correct telegraphic transmissions. Kay J stated (at 642):
+‘‘Applying the usual test [his Lordship cited Scott v Stanford and Kelly
+v Morris], it seems to me that the Plaintiff must have expended a great
+deal of time and labour in this compilation, that what the Defendants are
+doing is to avail themselves very largely and unnecessarily of the labour
+and research of the Plaintiff without adequately recompensing him . . .’’
+The compilation involved the exercise of skill and judgment in selecting the
+words to be compiled and is therefore factually distinguishable from the present
+whole-of-universe case. But the language ‘‘labour and research’’ is entirely
+appropriate to refer to the industrious collection involved in a whole-of-
+universe factual compilation.
+49
+Another ‘‘selection’’ case decided at about the same time was Macmillan &
+Co Ltd v Suresh Chunder Deb (1890) 17 I LR (Calc Series) 951 (which was
+cited with approval by the Privy Council in Macmillan & Co Ltd v K & J
+Cooper (1923) LR 51 Ind App 109). The case concerned an anthology of
+poems, ‘‘The Golden Treasury of Songs and Lyrics’’. Copyright in the works
+included in the anthology had long since lapsed. Nonetheless, the Privy Council
+noted in Macmillan v Cooper that the judge in the case, Sir Arthur Wilson, had
+correctly held that there was copyright in the anthology. Sir Arthur Wilson had
+stated (quoted in Macmillan v Cooper at 122):
+‘‘Such a selection as Mr Palgrave has made obviously requires extensive
+reading, careful study and comparison, and the exercise of taste and
+judgment in selection. It is open to anyone who pleases to go through a
+like course of reading, and by the exercise of his own taste and judgment
+to make a selection for himself. But if he spares himself this trouble and
+adopts Mr Palgrave’s selection, he offends against the principle.’’
+There were also the ‘‘usual’’ more general references in Sir Arthur Wilson’s
+judgment to the prohibition against taking the result of another’s labour. The
+feature of the exercise of skill, judgment and taste in selection distinguishes
+anthology cases from the present whole-of-universe case.
+50
+The earliest Australian compilation case to which we were referred was
+T M Hall & Co v Whittington & Co (1892) 18 VLR 525. Entries in the books
+of the Victorian Registrar-General were accessible to all on payment of a fee.
+The plaintiffs published a pamphlet, ‘‘Hall’s Mercantile Gazette’’, each day
+from Monday to Friday and weekly on Saturdays when the issue was a weekly
+compilation from the previous five days’ issues. The publication consisted of
+factual information collected principally by searches made at public registry
+offices, and presented in the form of bills of sale and notices of intention to file
+bills of sale, stock mortgages and their renewals, contracts, insolvencies and so
+on. The defendant published the ‘‘Federal Traders’ Protection Gazette’’, which
+included notices of intention to file bills of sale which he had copied from the
+plaintiffs’ publication.
+51
+Holroyd J described the plaintiff’s process of searching at the Registrar-
+
+508
+FEDERAL COURT REPORTS
+[(2002)
+
+General’s office, of noting in summary form the documents read there, and of
+exercising judgment and discrimination in deciding what to collect. His Honour
+said that the operation allowed ‘‘room for thought’’ and was ‘‘not merely
+mechanical’’ (at 531). He continued (at 531-532):
+‘‘In general in condensing the materials out of which the plaintiffs’
+pamphlets were composed considerable time and labour were consumed,
+and a certain dexterity and expertness in the art of condensation were
+called into play. This was true also of the notices of intention as regarded
+time and labour; and I should say that, although the skill exercised was
+probably less in this subject than in some others, yet it was appreciable.’’
+His Honour concluded as follows on the issue of the subsistence of copyright
+(at 537):
+‘‘These pamphlets, as I have already found, were not mere transcripts of
+entries contained in the books of the Registrar-General, but compilations
+derived from sources accessible to everybody, or to everybody who could
+pay the fees where fees were exacted. Time and trouble, money and skill,
+were expended upon them, and they were fit subjects for copyright.’’
+In contrast, the compilation with which we are concerned consists of a
+transcription of information provided by telephone subscribers which allows no
+‘‘room for thought’’ and is ‘‘merely mechanical’’. But the fact that selection,
+judgment, skill, taste, ingenuity or arrangement may be referred to as justifying
+copyright protection in one case does not signify that industrious collection will
+not serve that purpose in another.
+52
+In Leslie v J Young & Sons [1894] AC 335, the House of Lords held that:
+
+a person who published in no particular order, the timetables issued by
+railway companies, leaving out stations considered not of sufficient
+importance or interest, did not acquire copyright in the collection; but
+a person who published abridged information about train services in
+connection with circular tours of a particular locality acquired copyright in
+that material.
+53
+The appellant was the proprietor of ‘‘Leslie’s Time Tables and Diary’’, a
+monthly penny railway timetable affecting the Perth district. His circular tour
+information occupied only four pages out of about 40 of his book. In support of
+his claim of copyright, he relied on his skill and labour in condensing into a
+small space a huge mass of information.
+54
+Lord Herschell LC stated in relation to the collection of the timetables
+themselves (at 340-341):
+‘‘The information in these time-tables was of course derived by the
+pursuer from sources which were as open to the defenders as to himself,
+and he does not and cannot claim any right to the information as such; he
+can only claim copyright in them, if they are the result in some respect or
+other of independent work on his part, and if advantage has been
+substantially taken by the defenders of that independent labour. The mere
+publication in any particular order of the time-tables which are to be found
+in railway guides and the publications of the different railway companies
+could not be claimed as a subject-matter of copyright. Proceedings could
+not be taken against a person who merely published that information
+which it was open to all the world to publish and to obtain from the same
+source.
+. . .
+I do not think it can be said that as regards these tables there has been
+
+509
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Lindgren J)
+
+an appropriation by the defenders of the pursuer’s work such as to entitle
+the pursuer to complain, and to obtain the interdict which he claims. The
+real truth is, that although it is not to be disputed that there may be
+copyright in a compilation or abstract involving independent labour, yet
+when you come to such a subject-matter as that with which we are dealing,
+it ought to be clearly established that, looking at these tables as a whole,
+there has been a substantial appropriation by the one party of the
+independent labour of the other, before any proceeding on the ground of
+copyright can be justified.’’ (Emphasis added.)
+By way of contrast, the Lord Chancellor thought the tourist and excursion
+tables exhibited ‘‘independent labour’’ and were ‘‘entitled to be regarded as an
+original work’’ (at 342). Lords Watson and Shand gave judgments generally to
+the same effect.
+55
+The case does not distinguish between one kind of independent labour and
+another. Rather, it distinguishes between the insufficiency of the appellant’s
+labour in collecting and reprinting the timetables themselves and the sufficiency
+of its labour in providing the abridged information about the circular tours. The
+telephone subscriber details with which we are concerned are not generally
+available and Desktop does seek to take advantage of Telstra’s labour in
+collecting and publishing them. On the other hand, it does not seek to take
+advantage of Telstra’s alphabetical arrangement of the data: Desktop’s
+objective is to take the data in all the individual entries into its database.
+56
+A catalogue of stock sold by a chemist and druggist, Collis, was held to be
+the subject of copyright in Collis v Cater, Stoffell & Fortt Ltd (1898)
+78 LT 613. Collis prepared annually a catalogue arranged under various
+headings and sub-headings. The catalogue for 1898 contained the heading
+‘‘Drugs and Chemicals, including Veterinary Medicines and Photographic
+Chemicals’’. Under that heading, articles were listed in alphabetical order with
+their prices. The catalogue also contained annotations. In its own catalogue, the
+defendant copied the heading mentioned, the items under it including their
+prices, and the plaintiff’s annotations.
+57
+North J rejected the defendant’s submission that the plaintiff’s catalogue was
+not entitled to copyright protection because it was a bare list of goods and
+prices. His Lordship justified protection by reference to the wrongfulness of
+appropriating that which had cost another ‘‘expense and trouble’’ (at 615 —
+elsewhere on the same page, variously, ‘‘expense and trouble’’, ‘‘expense and
+trouble’’, ‘‘trouble or expense’’, ‘‘expense and labour’’, ‘‘expense and
+trouble’’). His Lordship thought the issue for decision governed by the law as
+to residential or trade directories, which he described as ‘‘settled’’.
+58
+There are certain distinctions between the facts of Collis and those of the
+present case. The catalogue did not purport to be only a list of goods in fact
+stocked at a moment of time, that is to say, a compilation of information as to
+past or present facts: it stated under the heading ‘‘Patent Medicines and
+Proprietary Preparations’’, ‘‘any new preparation not in stock will be procured
+to order with as little delay as possible’’. Moreover, the annotations, the
+headings and the prices all indicate that the form of expression of the catalogue
+was not inevitable: the compiler decided what those matters were to be. These
+points of distinction, however, did not have to be addressed. The indiscriminate
+references to ‘‘expense’’ and ‘‘trouble’’ are at least consistent with the
+subsistence of copyright in a telephone directory.
+59
+Walter v Lane is the last case to be considered prior to the passing of the
+
+510
+FEDERAL COURT REPORTS
+[(2002)
+
+1911 UK Act and its implementation in Australia as from 1 July 1912 by s 8 of
+the Copyright Act 1912 (Cth) (the 1912 Australian Act). The case may
+represent the high point of the line of authority supportive of the proposition
+that one can be the ‘‘author’’ of a work without scope for variance in
+expression.
+Lord Rosebery made public speeches which reporters of The Times took
+60
+down in shorthand. Later they wrote out their notes and corrected, revised and
+punctuated their reports for publication. The speeches were published in
+The Times verbatim as they had been delivered. In a book, the defendant
+reproduced The Times reports, substantially verbatim.
+61
+Curiously, the case is the first one of those discussed to date to be decided
+expressly by reference to the 1842 UK Act’s requirement that copyright in a
+‘‘book’’ (as defined) should exist only if there was an ‘‘author’’ of it. Each
+‘‘Sheet of Letterpress’’ of The Times on which the reports appeared was a
+‘‘book’’ within the statutory definition of that word.
+62
+Approaching the question for decision in a manner that characterised so
+many of the nineteenth century cases, the Lord Chancellor stated (at 545):
+‘‘My Lords, I should very much regret it if I were compelled to come to
+the conclusion that the state of the law permitted one man to make profit
+and to appropriate to himself the labour, skill, and capital of another. And
+it is not denied that in this case the defendant seeks to appropriate to
+himself what has been produced by the skill, labour, and capital of others.
+In the view I take of this case I think the law is strong enough to restrain
+what to my mind would be a grievous injustice. The law which I think
+restrains it is to be found in the Copyright Act, and that Act confers what it
+calls copyright — which means the right to multiply copies — which it
+confers on the author of books first published in this country.’’
+Unlike the Court of Appeal, his Lordship thought the reporters as much
+‘‘authors’’ as the compilers of a residential street directory had been held to be.
+He rejected a proposition embraced by the Court of Appeal that to be an author
+of a book one had to be its ‘‘original composer’’, noting that the expressions
+‘‘original composition’’ and ‘‘original composer’’ did not appear in the
+1842 UK Act. (As noted below, the word ‘‘original’’ was to be introduced to
+qualify the works protected by copyright with the enactment of the 1911 UK
+Act.)
+63
+The Lord Chancellor saw the case as raising the sole question (at 547):
+‘‘. . . whether this book (to use the language of the statute), printed and
+published and existing as a book for the first time, can be copied by some
+one else than the producers of it (I avoid the use of the word ‘author’), by
+those who have not produced it themselves but have simply copied that
+which others have laboured to create by their own skill and expenditure.’’
+In my view, this formulation of the question is important. The reporters’ final
+records of the speeches were a ‘‘book’’ and since they were printed and
+published and existed as a book for the first time, they attracted copyright
+protection. In this sense they were original and this sense of the word was to
+prevail in Anglo-Australian jurisprudence.
+64
+His Lordship rejected the proposition that the 1842 UK Act required
+‘‘originality either in thought or in language’’ (at 548), and said that one must
+not read that Act as if it contained the word ‘‘original’’. Consistently with later
+authority: see, for example, Sands & McDougall Pty Ltd v Robinson (1917)
+23 CLR 49 (discussed below at [89]-[92]), his Lordship rejected the proposition
+
+511
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Lindgren J)
+
+that copyright protection was attracted only by originality of thought or idea or
+by the inventiveness required by the patent laws. But as the passage set out
+above touching on originality makes clear, when his Lordship also said that the
+1842 UK Act did not require, by its use of the word ‘‘author’’, ‘‘originality . . .
+in language’’, he must have had in mind ‘‘inventive’’ or ‘‘imaginative’’ or
+‘‘distinctive’’ language.
+65
+The Lord Chancellor saw no difficulty in the view that the reporters were
+authors or that there could be as many copyrights as reporters, and he referred
+to the painting or photographing of a favourite view by several painters or
+photographers.
+66
+Lord Davey, Lord James of Hereford and Lord Brampton gave independent
+concurring judgments, while Lord Robertson dissented.
+67
+Lord Davey also observed (at 551) that each sheet of letterpress of The Times
+constituted a ‘‘book’’ within the 1842 UK Act and that since it was the reporter
+who had brought into existence the sheet of letterpress which the defendant had
+copied, the reporter was the ‘‘author’’ of it.
+68
+Lord James of Hereford said (at 553-554):
+‘‘Whilst the Act supplies no definition of the word ‘author’, and whilst
+it may be difficult for any judicial authority to give a positive definition of
+that word, certain considerations controlling the meaning of it seem to be
+established. A mere copyist of written matter is not an ‘author’ within the
+Act, but a translator from one language to another would be so. A person
+to whom words are dictated for the purpose of being written down is not
+an ‘author’. He is the mere agent or clerk of the person dictating, and
+requires to possess no art beyond that of knowing how to write. The
+person dictating takes a share in seeing that the person writing follows the
+dictation, and makes it his care to give time for the writing to be made.
+But an ‘author’ may come into existence without producing any original
+matter of his own. Many instances of the claim to authorship without the
+production of original matter have been given at the bar. The compilation
+of a street directory, the reports of proceedings in courts of law, and the
+tables of the times of running of certain railway trains have been held to
+bring the producers within the word ‘author’; and yet in one sense no
+original matter can be found in such publications. Still there was a
+something apart from originality on the one hand and mere mechanical
+transcribing on the other which entitled those who gave these works to the
+world to be regarded as their authors.
+Now, what is it that a reporter does? Is he a mere scribe? Does he
+produce original matter or does he produce the something I have
+mentioned which entitles him to be regarded as an ‘author’ within the Act?
+I think that from a general point of view a reporter’s art represents more
+than mere transcribing or writing from dictation.’’
+Lord Brampton observed (at 556) that the preparation of the reports: ‘‘involved
+considerable intellectual skill and brain labour beyond the mere mechanical
+operation of writing.’’ His Lordship continued (at 556-557):
+‘‘That the reports so published were ‘books’ within the meaning of the
+Copyright Act is undisputed; the great contention throughout the case has
+been whether the reporters were the ‘authors’ of them, for unless they
+were they could not acquire any copyright in them, the 3rd section of the
+Act conferring property in the copyright of a book only upon its author
+and his assigns. North J, before whom the case was first heard, held that
+
+512
+FEDERAL COURT REPORTS
+[(2002)
+
+although the reporter had no property in the speeches, he was entitled to
+copyright in his reports of them. The Court of Appeal reversed his ruling,
+and in a considered judgment emphatically stated that mere reporters were
+clearly not ‘authors’ of what they report, that the Act was passed to protect
+‘authors’ not reporters, that a mere publisher of another man’s verbal
+utterances could not acquire a copyright as the author of such publication,
+and they held ‘that in order that the first publisher of any composition may
+acquire the copyright in it he must be the author of what he publishes, or
+he must derive his right to publish from the author by being of owner of
+his manuscript, or in some other way’. I can find nothing in the Act which
+compels me to assent to this view. A speech and the report of it are two
+different things, and the author of the one and the author of the other are
+presumably two different persons. The author of a speech is the author of
+language orally uttered by himself. The author of the report of a speech is
+the author of a writing containing the substance or the words of that
+speech. The speech must precede the report of it. The oral speech is not a
+‘book’, the written report is. The book is the subject of copyright under
+s 3, and the property in such copyright in a book is in its author.’’
+69
+In dissent, Lord Robertson insisted that authorship required some element of
+composition or arrangement or structuring by the putative author, and rejected
+the appellants’ submission that the owner of a phonograph which recorded a
+speech, who then recorded it in writing and published it as a written report of
+the speech, would have copyright in that report.
+70
+The fact that Walter v Lane was decided prior to the introduction into the
+legislation of an express requirement of originality coupled with the references
+in the speech of Lord Herschell to the absence of such an express requirement,
+has led to the suggestion that the case might have been decided differently if it
+had been decided after and under the 1911 UK Act (see Lady Helen Robertson
+v Harry Lewis (t/a Virginia Music) [1976] RPC 169 at 174). But their
+Lordships’ approach of inquiring whether there was a sheet of letterpress,
+within the definition of ‘‘book’’ in the 1842 UK Act, which had originated as
+such with the copyright claimant betokens the very kind of originality which
+was to become accepted in Anglo-Australian law under the modern statutory
+formula ‘‘original literary work’’.
+
+The passing of the Copyright Act 1911 (UK) and the Copyright Act 1912 (Cth)
+
+71
+The 1911 UK Act, ‘‘[a]n Act to amend and consolidate the Law Relating to
+Copyright’’, was deemed by s 8 of the 1912 Australian Act to be in force in the
+Commonwealth from 1 July 1912, the date on which it came into operation in
+the United Kingdom (s 37(2)(a) of the 1911 UK Act). The 1911 UK Act had
+the following features:
+
+the one Act dealt with literary, dramatic, musical and artistic works,
+whereas previously various classes of works had been dealt with in
+different Acts, ‘‘books’’, for example, having been the subject of the 1842
+UK Act, as noted earlier;
+section 1(1) provided that subject to that Act’s provisions, copyright
+should subsist in original literary works;
+section 1(1) also provided that copyright should subsist in no works other
+than those identified in the subsection, and s 31 provided that no person
+should be entitled to copyright in any literary, dramatic, musical or artistic
+
+513
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Lindgren J)
+
+work otherwise than under and in accordance with the provisions of the
+1911 UK Act;
+section 35(1) defined ‘‘Literary work’’ to include ‘‘maps, charts, plans,
+tables, and compilations’’;
+various sections continued to refer to the ‘‘author’’ of a work.
+72
+The 1911 UK Act did not define ‘‘original’’ or ‘‘compilation’’. What was
+the genesis of the use of these terms in the legislation? The President of the
+Board of Trade, Mr Sydney Buxton, when introducing the Bill for the 1911
+UK Act into the House of Commons, said that there were three strong reasons
+for amending the law. First, there was the desirability of bringing domestic law
+into line with the Convention for the Creation of an International Union for the
+Protection of Literary and Artistic Works 1886 done at Berne on 9 September
+1886 (the Berne Convention), completed at Paris on 4 May 1896 and revised at
+Berlin on 13 November 1908. Secondly, there was the desirability of reforming
+the domestic law of copyright in the light of the recommendations of the
+Thirty-Sixth Report of the Copyhold Commissioners 1878. Thirdly, there was
+the desirability of implementing suggestions made at an Imperial conference
+chaired by the President himself, of representatives of the self-governing
+Dominions, which had been assisted by the Report of a Departmental
+Committee called the ‘‘Law of Copyright Committee’’, which had sat in 1909
+and been chaired by Lord Gorell.
+73
+The Berne Convention, as it stood in 1886, recited in Art 1 that the
+Contracting States were constituted into a Union for the protection of the rights
+of authors over their literary and artistic works. Articles 2 and 3 provided for
+protection to be enjoyed by authors and their lawful representatives and by
+publishers. Article 4 stated that the expression ‘‘literary and artistic works’’
+comprehended ‘‘books, pamphlets, and all other writings . . .
+geographical
+charts; plans . . . in fact, every production whatsoever in the literary, scientific,
+or artistic domain which can be published by any mode of impression or
+reproduction’’. Article 5 provided that authors and their lawful representatives
+should enjoy the exclusive right of making or authorising the translation of
+their works. Article 6 provided that authorised translations were protected as
+original works.
+74
+By the Berlin Revised Convention of 1908, the definition of ‘‘literary and
+artistic works’’ (amended in respects not presently relevant) was contained in
+the first paragraph of Art 2. The second paragraph of Art 2 was as follows:
+‘‘Translations, adaptations, arrangements of music and other reproductions
+in an altered form of a literary or artistic work, as well as collections of
+different works, shall be protected as original works without prejudice to
+the rights of the author of the original work.’’ (Emphasis added.)
+Professor Ricketson has explained that collections (or compilations) of different
+works were included by the Berlin Act as a result of a German proposal of
+which he has observed as follows:
+‘‘The commission also offered the following explanation of what was
+intended to be protected under the rubric of ‘collections of different
+works’:
+‘. . . it is the work which has been involved in bringing together
+diverse works following a determined plan, according to a more or
+less ingenious grouping. As the plan, as the combination, comprises
+a personal work, the protection given to it is independent of that
+given to the materials which have been employed. They may be
+
+514
+FEDERAL COURT REPORTS
+[(2002)
+
+taken from the public domain . . . They may be taken from the
+private domain, and, therefore, for this to be lawful, the consent of
+the author or authors may be necessary . . . as . . . for translations and
+adaptations’ [Actes 1908, 232-233].’’ (Sam Ricketson, The Berne
+Convention for the protection of literary and artistic works: 1886-
+1986 (1986), p 299.)
+75
+In the Report of the Committee on the Law of Copyright 1909, the Law of
+Copyright Committee commented on the second paragraph of Art 2 (at 9-10):
+‘‘With regard to par 2 of this article, the Committee notice that it makes a
+considerable extension of Art 6 of the Berne Convention, which only
+provides that lawful translations shall be protected as original works,
+whereas this new paragraph is intended to give protection also as against
+everyone except the original author to ‘derivative’ works which may not
+be authorised by the original author.’’
+There had been some discussion of works derived from other works (such as
+translations or adaptations) in the proceedings of the Law of Copyright
+Committee (see Minutes of Evidence taken before the Law of Copyright
+Committee, 25 May 1909, at [438]-[442], [450], [451] at 21-22). It was put to
+the Committee that a derivative work should be protected as an original work
+insofar as there was original work in it, but without prejudice to the copyright
+of the original author in his or her work.
+76
+The parliamentary debates on the Bill for the 1911 UK Act touch on both
+‘‘originality’’ and the concept of a ‘‘compilation’’. In the House of Commons
+on 28 July 1911, Mr Booth moved to omit ‘‘original’’ in the expression ‘‘every
+original literary, dramatic, musical and artistic work’’ in s 1(1) (House of
+Commons, Hansard, 28 July 1911 at pp 1911-1914). The Solicitor-General
+resisted the move, stating as follows (at pp 1915-1916):
+‘‘Originality in the language of the law of copyright is not the same thing
+as novelty. That is to say, two perfectly independent persons may survey a
+piece of ground and produce each a map. Each is entitled to copyright of
+his own map, though each of the two maps is the same. Therefore,
+originality is not the same as novelty. But under the head of originality it
+is required before a man can claim protection of the law of copyright that
+that which he claims to protect as his should really be his in the sense that
+his is the brain that has first of all applied itself to the subject matter and
+produced the composition, or, at any rate, that his is the brain which,
+though it has not produced the composition, has expressed it in a new
+form. In one sense you may say a photograph of an existing picture is not
+original, but that is not the sense in which the word is understood by a
+lawyer in connection with copyright. I can assure the House that is not the
+way in which it would be understood by the courts hereafter. What would
+be understood by originality would be that there must be either in the form
+or in the composition itself some element of originality, a requirement that
+would not exclude derivative works from the ambit of the Bill.’’
+(Emphasis added.)
+Mr Booth did not press his foreshadowed amendment. The Solicitor-General’s
+speech seems to have favoured at least a ‘‘not copied/originating from the
+putative author’’ concept of originality. By ‘‘composition’’ the Solicitor-
+General seems to have meant simply ‘‘content’’. I do not think his speech
+inconsistent with the view that industrious collection of the data to constitute a
+compilation attracts copyright protection.
+
+515
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Lindgren J)
+
+77
+Clause 35(1) of the Bill, as introduced, defined ‘‘literary works’’ to include
+‘‘maps, charts, plans and tables’’, and, as the primary judge noted, at the
+Committee stage in the House of Lords, Lord Gorell moved an amendment to
+include a reference to ‘‘compilations’’ stating as follows (House of Lords,
+Hansard, 16 November 1911 at p 211):
+‘‘My first Amendment to this clause is to add to the definition of ‘literary
+work’, which is stated in the clause to include maps, charts, plans and
+tables. It has been suggested to me that this definition would not include
+many cases which are instances of copyright. The best instance I can give
+to your Lordships is Bradshaw, which would not come under the present
+interpretation but would come under the interpretation if the words ‘and
+compilations’, which I propose to insert, were added.’’
+Clearly, Lord Gorell contemplated that ‘‘Bradshaw’’ was a compilation which
+would not be excluded from copyright protection by the proposed express
+requirement of originality — a matter which I will have occasion to consider
+when discussing H Blacklock & Co Ltd v C Arthur Pearson Ltd [1915]
+2 Ch 376 at [81]-[85] below.
+
+Post 1911 English and Australian cases
+
+78
+In Weatherby & Sons v International Horse Agency & Exchange Ltd [1910]
+2 Ch 297 the plaintiffs published in their ‘‘General Stud Book’’, a list of all the
+thoroughbred brood mares at the stud in Great Britain. A fresh volume of this
+work appeared every four years. The defendant compiled a book called
+‘‘Bruce-Lowe Figures to Stud Book, Vol 21’’. This contained virtually the
+whole of the list of brood mares published in volume 21 of the Stud Book.
+79
+The plaintiffs obtained an injunction founded upon infringement of their
+copyright. Parker J said that by using the plaintiffs’ list, the defendant had
+saved itself the trouble of making ‘‘exhaustive inquiries from the 1400 or 1500
+breeding establishments in [the] country’’ (at 303), that is to say, had saved
+itself the trouble of collecting details relating to all the members of a particular
+universe. His Lordship rejected the submission that the lists were ‘‘mere useless
+lists of names in which there [could] be no copyright’’ (at 304). Rather, he
+thought they informed a reader that a mare listed was, or recently had been, at
+stud. Finally, his Lordship also rejected a submission that the test of whether
+the defendant had made unfair use of the plaintiffs’ book was whether there
+was competition between the two works.
+80
+The case has striking similarities to the present one. Copyright was supported
+on the ground of the industrious collection of information as to the identity of
+all thoroughbred brood mares at stud and the resulting list was inevitably
+alphabetical. The defendant had used the plaintiffs’ list as the springboard for
+the provision of a service which was not in competition with the plaintiffs’
+business. The case favours a finding of subsistence of copyright in the present
+case.
+81
+Blacklock concerned ‘‘Bradshaw’s General Railway and Steam Navigation
+Guide’’ (Bradshaw), which had been referred to by Lord Gorell in the
+parliamentary debates (see [77] above). Bradshaw was a monthly publication of
+the plaintiff’s, which (at 380):
+‘‘. . . reproduc[ed], inter alia, but (speaking generally) in an altered form,
+the substance of the time-tables of every railway in Great Britain that
+[were] to be in force during the then or next current month, such tables
+
+516
+FEDERAL COURT REPORTS
+[(2002)
+
+being classified and furnished with crossreferences and some additional
+information.’’
+Each monthly issue was prefaced by an index in the form of an alphabetical list
+of the stations and other places mentioned in the body of the book, with cross-
+references to the pages where they were mentioned.
+82
+The defendant published in its ‘‘Pearson’s Weekly’’ magazine, a ‘‘List of
+Railway Stations’’ in connection with a competition it was conducting. The
+names of some hundreds of the stations had been taken from Bradshaw.
+83
+The railway timetables produced in Bradshaw differed from month to month,
+the differences being more numerous at the beginning of the Summer and
+Winter seasons. Although the making of the list of station names was not
+entirely new every month, it was a work of labour and expense, particularly
+because some railway companies did not issue a timetable at all and some
+issued no index to their timetables.
+84
+Joyce J held that copyright subsisted in the Bradshaw list of station names
+contained in the index to the guide. As in the present case, the alphabetical
+sequence was inevitable: no other arrangement would unlock the information
+relating to individual stations contained in Bradshaw. The plaintiff’s work was
+different in some respects from Telstra’s. In Blacklock it was necessary for the
+plaintiff, in some cases to obtain the timetables, and in all cases to extract the
+railway station names from either the indexes to individual timetables or from
+individual timetables themselves. In the present case, on the other hand,
+applicants for telephone services had to provide their names to Telstra. But this
+difference is immaterial. In both cases, there was no scope for variance in
+relation to the sequence followed in the list, although that sequence was
+achieved manually in Blacklock and electronically in the present case.
+85
+Moreover, Lord Gorell’s statement in Parliament (set out at [77]) referred to
+the entire compilation of timetables, not just the list of railway stations. I do not
+know how the timetables themselves were arranged in Bradshaw. Probably the
+sequence in which they appeared was of no consequence because the
+alphabetical list of railway stations constituting the index gave access to the
+timetables. The advantage Bradshaw offered to would-be travellers was that it
+was a collection within the covers of one book of all the timetables
+accompanied by an alphabetical list of railway stations which operated as an
+index. In some respects, Bradshaw was akin to Telstra’s directories. But I do
+not know how many timetables were included in Bradshaw or how much
+labour was expended in collecting them.
+86
+University of London Press Ltd v University Tutorial Press Ltd [1916]
+2 Ch 601 was not a compilation case, but Peterson J’s discussion of originality
+has often been referred to. His Lordship’s observations that, for copyright
+purposes, a ‘‘literary work’’ need not exhibit literary quality, style, finish or
+merit, and that ‘‘literary’’ in the expression ‘‘refers to written or printed
+matter’’, and his holding that copyright subsisted in the subject examination
+papers in mathematics, are all surely unremarkable. On the question whether
+the literary works constituted by the examination papers were ‘‘original’’
+within s 1(1) of the 1911 UK Act, his Lordship said, in a much cited passage
+(at 608-609):
+‘‘The word ‘original’ does not in this connection mean that the work must
+be the expression of original or inventive thought. Copyright Acts are not
+concerned with the originality of ideas, but with the expression of thought,
+and, in the case of ‘literary work’, with the expression of thought in print
+
+517
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Lindgren J)
+
+or writing. The originality which is required relates to the expression of
+the thought. But the Act does not require that the expression must be in an
+original or novel form, but that the work must not be copied from another
+work — that it should originate from the author. In the present case it was
+not suggested that any of the papers were copied. Professor Lodge and
+Mr Jackson proved that they had thought out the questions which they set,
+and that they made notes or memoranda for future questions and drew on
+those notes for the purposes of the questions which they set. The papers
+which they prepared originated from themselves, and were, within the
+meaning of the Act, original.’’ (Emphasis added.)
+87
+What is the result of applying Joyce J’s ‘‘not copied/originating from the
+putative author’’ test of originality to the facts of the present case? Neither the
+individual entries nor the alphabetical system of arrangement of them
+originated from Telstra, but the compilation as a whole did: no one else had
+previously collected the names, addresses and telephone numbers of all the
+subscribers within a region and applied the alphabet to produce a written list of
+them. Telstra’s labour of collecting and verifying details of all subscribers and
+applying modern technology to arrange the data alphabetically marked the
+compilation as a whole as original in the sense mentioned, even though the
+individual entries and the method of arrangement of them were not.
+88
+University of London Press itself is distinguishable on its facts: Joyce J noted
+that ‘‘it was admitted that the papers involved selection, judgment, and
+experience’’ (at 609).
+89
+In Sands & McDougall, Robinson claimed copyright in a map of Europe. In
+preparing the map, he had drawn on numerous sources of information. The
+primary judge, Barton J, had stated in Robinson (1916) 22 CLR 124 at 128:
+‘‘Separate maps of authority as well as a number of atlases were the
+subject of discrimination and selection for the purpose of determining the
+places and features to be shown on a map which was to be distinctive from
+its predecessors.’’
+and ‘‘The work involved considerable exercise of the cartographic faculty and
+art’’. And at 129: ‘‘The plaintiff himself not only did a great deal of the artistic,
+but all the intellectual work involved.’’ There was therefore ample scope for
+bringing intellect, creativity and ingenuity to bear.
+90
+The appellant’s submission, which had failed before Barton J, was that the
+originality which s 1(1) of the 1911 UK Act required was novelty of idea or
+concept. On the appeal, Isaacs J delivered the principal judgment, with which
+Gavan Duffy and Rich JJ agreed. His Honour noted the appellant’s submission
+that by introducing an express requirement of originality in the 1911 UK Act,
+the legislature must have intended that something over and above authorship be
+required, and that having regard to what was decided in Walter v Lane, that
+additional something was ‘‘inventive originality’’ (at 53).
+91
+Isaacs J thought the speeches in Walter v Lane inconsistent with this
+submission. His Honour also said it followed from what their Lordships had
+said that the reporters’ ultimate written report of a speech was regarded as ‘‘an
+original production’’, simply because it had originated with the reporters, that is
+to say, had not existed previously. He said (at 55) that:
+‘‘[The appellant’s] argument overlooks the obvious fact that in copyright
+law the two expressions ‘author’ and ‘original work’ have always been
+correlative; the one connotes the other, and there is no indication in the
+Act that the Legislature intended to depart from the accepted signification
+
+518
+FEDERAL COURT REPORTS
+[(2002)
+
+of the words as applied to the subject matter. Indeed, the circumstance of
+reciprocal connotation is the key to the meaning of the enactment. We find
+in the Oxford Dictionary, vol 1, p 571, col 1, ‘author’ defined as ‘the
+person who originates or gives existence to anything’.’’
+92
+While, as a matter of decision, the judgment stands only for the rejection of a
+‘‘novelty of idea or concept’’ meaning of ‘‘original’’, the Court also appears to
+have accepted, on the basis of Walter v Lane, the ‘‘not copied/originating from
+the putative author’’ test, noting that that test must be applied to that thing to
+which the legislation attaches copyright protection — a literary work in the
+form of the written record of a speech in Walter v Lane (a compilation of
+details of telephone subscribers in the present case).
+93
+Copyright was held to subsist in the standard form of contract embodying
+terms and conditions for the sale of real estate in New South Wales in Real
+Estate Institute (New South Wales) v Wood (1923) 23 SR (NSW) 349. In
+support of the axiom that a ‘‘literary work’’ need not exhibit literary merit,
+Street CJ in Eq observed (at 352) that:
+‘‘. . . compilations of various kinds, which cannot claim to rank as
+literature, are covered by the law of copyright, if they supply intelligible
+information and if mental effort and industry are required for their
+preparation.’’
+Although the case was not itself a compilation case, the requirement that mental
+effort and industry result in the conveying of intelligible information was to be
+applied in a compilation case in New South Wales a few years later, as noted
+below (at [101]-[102]). (In more recent times copyright was held not to exist in
+the artificial word ‘‘Exxon’’ on the basis that, although original, the word was
+not a literary work because it did not afford ‘‘information and instruction, or
+pleasure in the form of literary enjoyment’’: Exxon Corporation v Exxon
+Insurance Consultants International Ltd [1982] Ch 119 at 143; cf Hollinrake v
+Truswell [1894] 3 Ch 420 at 428 per Davey LJ.)
+94
+In Macmillan v Cooper, the appellant published a book which was a
+selection of passages from Sir Thomas North’s translation of ‘‘Plutarch’s Life
+of Alexander’’. The appellant sought to restrain, on the ground of infringement
+of copyright, the defendant firm from publishing a certain similar compilation.
+The passages from Plutarch in the applicant’s book comprised 20,000 words
+while those in the respondents’ book contained those 20,000 words and an
+additional 7,000 words. The appellant’s book also contained an introduction
+and much other material designed to illuminate the study of the Plutarch text.
+In both books, the passages from Plutarch were not contiguous and were linked
+by newly written text. The respondents’ book contained notes, many of which
+were servilely copied from the appellant’s book.
+95
+Lord Atkinson delivered the judgment of the Privy Council. Contrary to the
+respondents’ submission, his Lordship said that in Macmillan & Co Ltd v
+Suresh Chunder Deb (discussed at [49] above), Sir Arthur Wilson had decided
+that copyright subsisted in the anthology ‘‘The Golden Treasury of Songs and
+Lyrics’’ with which that case was concerned. After referring to Walter v Lane
+and to Peterson J’s ‘‘not copied/originating from the putative author’’ test of
+originality in University of London Press, his Lordship said (at 125):
+‘‘What is the precise amount of the knowledge, labour, judgment or
+literary skill or taste which the author of any book or other compilation
+must bestow upon its composition in order to acquire copyright in it within
+the meaning of the Copyright Act of 1911 cannot be defined in precise
+
+519
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Lindgren J)
+
+terms. In every case it must depend largely on the special facts of that
+case, and must in each case be very much a question of degree.’’
+(Emphasis added.)
+Their Lordships held that there was no evidence ‘‘that an amount of these
+several things ha[d] been applied to the composition of . . . the appellant’s book,
+as distinguished from the notes contained in it’’ (at 125), to attract copyright
+protection to the compilation of the passages itself, although copyright
+subsisted in the notes. Accordingly, injunctive relief was given to the appellant
+in respect of the notes, but not the passages of text.
+96
+It may be thought that concepts of ‘‘amount’’ and ‘‘fact and degree’’ are
+inconsistent with a ‘‘not copied/originating from the putative author’’ test of
+originality, on the basis that the latter raises a simple ‘‘all or nothing’’ question,
+not a question of degree. But this is not so. Once a compilation or other literary
+work in which copyright is claimed is identified, a question arises as to the
+degree to which that work was not copied but originated with the putative
+author, that is to say, as to the amount of the putative author’s contribution to
+bringing a new work into being. Anthologies and many compilations include
+copied elements but are treated as original if the anthologist or compiler has
+contributed sufficient labour, skill or judgment in bringing the work into being.
+97
+Cambridge University Press v University Tutorial Press (1928) 45 RPC 335
+was another anthology case. The plaintiff published ‘‘Hazlitt’s Selected Essays,
+Edited by George Sampson’’ which included 13 essays and notes on them. The
+defendant
+published
+and
+sold
+‘‘Hazlitt’s
+Selected
+Essays,
+Edition
+Hollingworth’’ containing 20 essays, including the 13 selected by Sampson. It
+was admitted that the plaintiff owned copyright in its book. Maugham J had no
+doubt that in selecting the 13 essays, Mr Sampson had exercised ‘‘skill,
+discrimination, taste and judgment and . . . his own personal qualities’’ (at 340).
+98
+The University of London prescribed the Sampson book for examination
+purposes, with a resulting substantial increase in sales. The defendant
+commissioned a person to select seven essays which were to be added to
+Mr Sampson’s 13 to make up 20, which the defendant was to publish in a book
+that would compete with the plaintiff’s. The defendant also engaged a person to
+write an introduction and notes.
+99
+Maugham J described the case as ‘‘very near the line’’ (at 343). In
+concluding that the defendant’s book did not reproduce a substantial part of the
+plaintiff’s work (for the purposes of s 1(2) of the 1911 UK Act), his Lordship
+took into account that the 13 essays common to both books were arranged in a
+different order in the two books and that their introductions and notes were
+different. The case illustrates the necessity of conceiving of literary works, and
+in particular anthologies and compilations, as a whole for the purposes of the
+subsistence of copyright.
+100
+Cambridge University Press and the present case are distinguishable in terms
+of the factors available to be relied on as making the work in question original.
+In Cambridge University Press they were selection and arrangement. In the
+present case, it is the labour of collection and verification of the data to be
+compiled.
+101
+The compilation in which copyright was claimed in Canterbury Park Race
+Course Co v Hopkins (1931) 49 WN (NSW) 27 was a list intituled ‘‘Names of
+horses and weights of horses accepted for races to be held at Canterbury Park
+Races on Saturday the 6th June, 1931’’. The list recorded the result of various
+preliminary processes including (at 28):
+
+520
+FEDERAL COURT REPORTS
+[(2002)
+
+‘‘. . . the compilation of a programme, its circulation among owners and
+trainers, the receipt of letters with details as to horses to be entered in
+races, the tabulation of that information, the compilation of a list of
+entries, the handicapping of the horses, and after the time for scratching
+had elapsed the compilation from the list of entries and handicaps of the
+final list of acceptances.’’
+The defendant published the list of acceptances in its ‘‘Turf Life’’ newspaper
+without the plaintiff’s permission.
+102
+On the question of the subsistence of copyright, Long Innes J applied a test
+derived from Real Estate Institute (at [93] above): Did the compilation supply
+intelligible information and were mental effort and industry required for its
+preparation? His Honour found the test satisfied. In stating (at 28) his opinion
+that ‘‘a considerable amount of ingenuity, industry, and mental effort’’ had
+been required, his Honour was referring to processes which preceded that of the
+actual reduction of the results into written form. The case points to the
+artificiality of distinguishing between different kinds of contribution to the
+bringing into being of a literary work, distinct from and antecedent to the actual
+writing of it.
+103
+In Mander v O’Brien [1934] SASR 87, it was submitted that Canterbury
+Park was wrongly decided. This was another of the many cases concerning a
+list of starting horses. The content of the list is indicated by its heading:
+‘‘Names of horses, weights for horses and barrier positions of horses accepted
+for races to be held at Morphettville Racecourse on Saturday, 18th November,
+1933.’’ Murray CJ referred to Peterson J’s discussion of the meaning of
+‘‘literary work’’ and ‘‘original’’ in University of London Press. Importantly, he
+referred to his Lordship’s ‘‘not copied/originating from the putative author’’
+test of originality and to the acceptance of that test by Romer J in British
+Oxygen Co Ltd v Liquid Air Ltd [1925] 1 Ch 383 at 390-391, and by the High
+Court of Australia in Sands & McDougall. On this basis, Murray CJ concluded
+that copyright subsisted in the list, observing that ‘‘[n]o such compilation for
+the same meeting had been made before’’ (at 92) — a statement comparable to
+one that might be made in this case: ‘‘no compilation of particulars of
+telephone subscribers in the particular region had been made prior to that made
+by Telstra.’’
+104
+In Odhams Press Ltd v London and Provincial Sporting News Agency (1929)
+Ltd [1935] Ch 672, Eve J held that copyright did not subsist in journalists’
+notes of the starting prices or final betting odds on horses engaged in races. The
+journalists ‘‘picked up’’ and ‘‘extracted’’ this information from the Tattersall’s
+Ring. A few seconds later, the same information, at least in relation to the
+place-getters, was published to the world at large, and, a yet few minutes later,
+that information in relation to all starters was similarly published.
+105
+The basis of Eve J’s conclusion that the journalists’ jottings were not
+‘‘literary works in the nature of tables or compilations’’ (at 680) appears to
+have been their insubstantial nature and transient significance. (The Court of
+Appeal — Odhams Press Ltd v London and Provincial Sporting News Agency
+(1929) Ltd [1936] Ch 357 at 364-365 — dismissed an appeal without having to
+deal with the subsistence issue, but expressed some doubt about the correctness
+of his Lordship’s conclusion.) The ‘‘evanescence’’ of the significant life of a
+‘‘writing’’ appears to have been the ground on which copyright was held not to
+exist in postings in relation to horse races in the Australian case next to be
+discussed.
+
+521
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Lindgren J)
+
+106
+The relevant copyright issue in Victoria Park was discussed by Latham CJ
+and Dixon J (Rich J and Evatt J did not find it necessary to discuss the issue,
+while McTiernan J said only that there was ‘‘no substance’’ in the contention
+that what the defendants had done was an infringement of copyright). That
+issue was whether there was copyright in the names and numbers of the starting
+and scratched horses and the winning horses, posted on a board within a
+racecourse. (Latham CJ and Dixon J held that, although copyright may well
+have existed in the relevant race book, it was not established that the plaintiff
+owned that copyright or that anything more than the facts referred to in it had
+been taken.)
+107
+Latham CJ stated (at 498):
+
+that it could not have been the legislature’s intention that something as
+evanescent as the short particulars which appeared for a few minutes on
+the board could support the subsistence of copyright for somebody’s life
+and 50 years;
+that the 1912 Australian Act required, not the first statement of facts in
+question, but ‘‘some originality in the expression of thought’’.
+For the latter proposition, his Honour cited Halsbury’s Laws of England
+(2nd ed, 1932, vol 7), p 521, which stated, relevantly, and omitting footnotes
+and the reference to them, as follows:
+‘‘823 Only original works are protected, but it is not requisite that the
+work should be the expression of original or inventive thought, for
+Copyrights Acts are not concerned with the originality of ideas, but with
+the expression of thought, and, in the case of a literary work, with the
+expression of thought in print or writing. The originality which is required
+relates to the expression of the thought. It is not required that the
+expression should be in an original or novel form but that the work should
+not be copied from another work; it should originate from the author.
+Thus a report of a speech, a photograph of a picture, and a translation of a
+foreign work, are protected; and so too is a book of mathematical
+calculations, if independently worked out, even though in form identical
+with an existing book. The owner of copyright has, in short, no monopoly
+in the subject-matter. Others are at liberty to produce the same result,
+provided they do so independently and, though they are not the first in the
+field, their work is none the less ‘original’ in the sense in which that word
+is used in the Copyright Act 1911. But if no skill or labour is employed in
+producing the particular form in which the work is expressed there will be
+no copyright in it, although it may embody an original idea or opinion;
+there is therefore no copyright in news as such, but only in the form in
+which it is expressed, and there is no copyright in an advertisement slogan,
+or in the name of a horse selected as a probable winner.’’ (Emphasis
+added.)
+108
+Dixon J stated in relation to the expression ‘‘literary work’’ (at 511):
+‘‘. . . some original result must be produced. This does not mean that new
+or inventive ideas must be contributed. The work need show no literary or
+other skill or judgment. But it must originate with the author and be more
+than a copy of other material. The material for the board consists in the
+actual allotment of places and other arrangements made by the plaintiff
+company’s officers in respect of the horses. To fit in on the notice board
+the names and figures which will display this information for a short time
+
+522
+FEDERAL COURT REPORTS
+[(2002)
+
+does not appear to me to make an original literary work.’’ (Emphasis
+added.)
+Both Latham CJ and Dixon J expressed agreement with the primary judge,
+Nicholas J (see Victoria Park Racing & Recreation Grounds Co Ltd v Taylor
+(1936) 37 SR (NSW) 322 at 344), who had said that the information on the
+board was not copyright ‘‘because of the lack of any compilation and because
+of the evanescent character of the information, which [was] posted up to be
+pulled down after a few minutes exposure’’.
+Victoria Park affords little guidance in the present case, although Dixon J,
+109
+and
+less
+clearly
+Latham
+CJ,
+seem
+to
+have
+approved
+of
+the
+‘‘not
+copied/originating from the putative author’’ test of originality. The emphasis
+that what appeared on the board was an evanescent and short reporting of facts
+suggests that copyright protection was denied either because what appeared was
+too brief and short lived to constitute a literary work at all or because there was
+so little contribution by the putative author that it was not an original work.
+110
+The parties in G A Cramp & Sons Ltd v Frank Smythson Ltd [1944] AC 329
+were publishers of pocket diaries. The respondents claimed that the appellants
+had infringed copyright in their ‘‘Liteblue Diary’’. They succeeded before the
+Court of Appeal, but the House of Lords allowed an appeal. Both diaries
+contained tables of useful information and the appellant admitted it had taken
+seven of the tables in its ‘‘Surrey Lightweight Diary’’ from the respondents’
+product.
+111
+The case was one of selection or nothing. At first instance Uthwatt J said that
+the respondent’s selection of tables and its arrangement of them was only a
+‘‘commonplace selection of gobbets of information and a commonplace
+arrangement, neither of which involved any real exercise of knowledge, labour,
+judgment or skill’’ (quoted at 330), and therefore did not attract copyright
+protection. By majority, the Court of Appeal allowed an appeal.
+112
+In the House of Lords, three independent speeches were made (Lord Roche
+agreed with the Lord Chancellor, Viscount Simon, and with Lord Macmillan,
+while Lord Simonds said he ‘‘concurred’’). Viscount Simon LC observed
+(at 335) that nobody disputed that ‘‘the existence of sufficient ‘originality’
+[was] a question of fact and degree’’ and his Lordship cited as authority for this
+proposition the passage from the speech of Lord Atkinson (for the Privy
+Council) in Macmillan v Cooper at 125 (set out at [95] above). In concluding
+that originality was missing, the Lord Chancellor stated as follows (at 335-336):
+‘‘One of the essential qualities of such tables is that they should be
+accurate, so that there is no question of variation in what is stated. The sun
+does in fact rise, and the moon set, at times which have been calculated,
+and the utmost that a table can do on such a subject is to state the result
+accurately. There is so far no room for taste or judgment.’’
+The same can be said of the individual entries in Telstra’s telephone directories.
+113
+His Lordship acknowledged that there was scope for choice as to what
+information (tables) should be included in the diary, but thought that the
+information in fact included was ‘‘commonplace’’ and was commonly in
+diaries, and he had difficulty seeing how the particular combination in which
+they appeared was ‘‘original work’’. He said (at 336):
+‘‘It was not suggested that there was any element of originality or skill in
+the order in which the tables were arranged. My own conclusion is that the
+selection did not constitute an original literary work.’’
+If the forms of contribution to the creation of a work mentioned by his
+
+523
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Lindgren J)
+
+Lordship (selection or scope for variance in form or arrangement) are the only
+ones able to be regarded, a Telstra telephone directory would fail the test of
+originality. But in my opinion, they are not. There is present in the Telstra case
+a form of contribution which was not relevant to the case before their
+Lordships: the labour of collecting factual information to be compiled (in the
+present case, details of all the telephone subscribers within a region).
+Lord Macmillan observed that the respondents made no claim to copyright in
+114
+any one of the seven tables or in respect of the order in which the tables were
+arranged. The only claim they made was one of selection. His Lordship
+concluded that the selection was ‘‘of an obvious and commonplace character’’
+and lacked ‘‘any meritorious distinctiveness’’ (at 338). He thought that the
+decision to include or exclude a table must have involved ‘‘the very minimum
+of labour and judgment’’ (at 338) and was not sufficient to support the
+existence of copyright.
+The third independent speech was that of Lord Porter who noted (at 340):
+115
+‘‘It is conceded that, if the work, labour and skill required to make the
+selection and to compile the tables which form its items is negligible, then
+no copyright can subsist in it. Whether enough work, labour and skill is
+involved, and what its value is, must always be a question of degree.’’
+His Lordship concluded that the respondents had not established (at 341):
+‘‘. . . that the amount of knowledge, labour, judgment or literary skill or
+taste applied to the compilation of the tables and lists at the beginning of
+the respondents’ Liteblue Diary for 1933 entitles that compilation to
+copyright.’’
+116
+In sum, the various forms of contribution which might be suggested to be
+present, were thought insufficient as a matter of ‘‘fact and degree’’ to warrant
+copyright protection.
+117
+In Winterbottom v Wintle (1947) 50 WALR 58, a list of final acceptances
+and weights of starters for a race meeting was again held protected by
+copyright. Wolff J stated (at 67):
+‘‘The compiling of the lists here, I think, calls for skill and judgment, and
+while at one stage, after the materials for the list and its form have been
+decided on, the setting up is more or less mechanical, that is a feature
+which could be urged in respect of most literary works. But the argument
+is put in another way; it is said that the sheet is not compiled as a list, or
+for the purpose of a list, but it merely ‘eventuates’ after certain work,
+necessarily preliminary to the conduct of a race meeting, has been
+performed, and, therefore, there is nothing original in the work in the
+literary sense. But, in view of my finding, it is not necessary to pursue this
+matter further.’’
+His Honour appears to have found that skill and judgment were exercised in
+both the actual making up of the list and the antecedent work. Accordingly, the
+case assists little for present purposes.
+118
+In Purefoy Engineering Co Ltd v Sykes Boxall & Co Ltd (1955) 72 RPC 89,
+tables in the plaintiff’s catalogue of standard engineering components were
+held protected. Each page in question comprised a photograph of the
+component; followed by its trade description; followed by a table of the
+dimensions of the various sizes available; followed by a line drawing or
+diagram indicating, by means of letters of the alphabet, the dimensions
+tabulated; followed lastly, by a statement of the material and finish of the
+component, code number and the word ‘‘Copyright’’. The Court of Appeal had
+
+524
+FEDERAL COURT REPORTS
+[(2002)
+
+no hesitation, citing Collis, in holding that the pages attracted copyright
+protection.
+While the requirement that the catalogue be technically accurate limited the
+119
+scope for variance in expression, there was some. Consistently with the
+idea/expression dichotomy, the Court also said that the defendant was entitled
+to offer for sale the same parts that the plaintiff had chosen to offer, and that
+there would be no infringement of copyright provided it devised its own
+catalogue without copying the plaintiff’s, even if it transpired that the two were
+identical. This proposition is consistent with a ‘‘not copied/originating from the
+putative author’’ test of originality, and produces the result that there can be
+copyright in the two independently created identical catalogues.
+120
+Football League Ltd v Littlewoods Pools Ltd [1959] 1 Ch 637 was decided
+under the Copyright Act 1956 (UK) (the 1956 UK Act), but s 2(1) of that Act
+was relevantly identical to s 1(1) of the 1911 UK Act. Moreover, as in s 35(1)
+of the 1911 UK Act, ‘‘literary work’’ was defined in s 48(1) of the 1956
+UK Act to include a table or compilation.
+121
+The plaintiff alleged infringement of copyright in its chronological list of
+football fixtures, the making of which was ‘‘automatic and require[d] only a
+painstaking accuracy’’ (at 649). The chronological list was derived from a table
+of fixtures, which, by contrast, had resulted from much work, skill and
+ingenuity.
+122
+Upjohn J held that even if there was insufficient skill, labour or effort in
+providing the chronological list alone to support copyright, the earlier work of
+compiling the table of fixtures could not be disregarded. In any event, his
+Lordship held there was sufficient painstaking hard work in the preparation of
+the chronological list itself to support copyright, saying that notwithstanding the
+‘‘automatic’’ nature of the process, it involved ‘‘a great deal of painstaking
+hard work with complete accuracy as the keynote’’ (at 656). Following
+Blacklock, his Lordship would have concluded that copyright subsisted in the
+chronological list without reference to the earlier table of fixtures.
+123
+At least, the case is authority for the proposition that there may be copyright
+in a non-creative chronological listing of the results of earlier work — a
+description which has some relevance to the computerised alphabetisation of
+the subscriber details in the present case.
+124
+The question in John Fairfax & Sons Pty Ltd v Australian Consolidated
+Press Ltd [1960] SR (NSW) 413 was whether the defendants had breached an
+injunction which had been granted ex parte. The issue was one as to the proper
+construction of the words ‘‘copying the whole or any substantial part of’’ in the
+order of the Court. The case is of present interest only because of obiter dicta of
+the Full Court.
+125
+The Full Court said that the injunction must have been granted on the basis
+that the plaintiff newspaper publisher owned copyright in births and deaths
+announcement columns in the Sydney Morning Herald. The Full Court
+observed (at 415) that the claim rested solely on the fact that, although
+copyright in the text of each announcement belonged to the person who
+tendered it for publication:
+‘‘. . . the skill and labour applied by the plaintiff’s employees, in adapting
+the announcements and arranging them in sequence for publication,
+conferred on it copyright in the relevant column of announcements as
+published . . .’’
+The sequence followed in the columns was alphabetical by surname. I suppose
+
+525
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Lindgren J)
+
+this was inevitable, as in the present case, and for the same reasons. The Full
+Court appears to have accepted that the trial judge had correctly found that
+there was copyright in the columns. This affords some slight support for its
+subsistence in the directories with which we are concerned, but there is the
+distinction that in John Fairfax there was some small editorial adaptation to
+‘‘house style’’ by the plaintiff’s staff. (One reason given by the Full Court for
+construing the words of the injunction narrowly was that there was no
+copyright in the facts reported (births and deaths) and that the forms of
+expression in which they could be reported were limited.)
+126
+Ladbroke (Football) Ltd v William Hill (Football) Ltd [1964] 1 WLR 273;
+[1964] 1 All ER 465 (HL) is probably the most important of the modern
+authorities on copyright in compilations. A bookmaker’s weekly fixed-odds
+football betting coupons were held to be the subject of copyright. It was not
+disputed that ‘‘a vast amount of skill, judgment, experience and work’’ (at 275;
+468) went into the making of the coupon. The form of the coupon had not been
+altered for many years. The odds offered for each kind of bet were only
+occasionally altered. What was new each week was the selection of the matches
+to go into the lists.
+127
+Lord Reid said that the whole coupon must be treated as a single
+compilation. On the issue of originality, he quoted with approval the passage
+from the judgment of Peterson J in University of London Press set out earlier
+(at
+[86]).
+Apparently,
+therefore,
+his
+Lordship
+approved
+of
+the
+‘‘not
+copied/originating from the putative author’’ test of originality. He noted
+(at 277-278; 469) that it was not disputed that ‘‘as regards compilation,
+originality [was] a matter of degree depending on the amount of skill, judgment
+or labour that ha[d] been involved in making the compilation’’. His Lordship
+rejected the familiar submission that a distinction was to be drawn between
+antecedent work and the actual drawing up of the compilation and that only the
+latter was relevant to originality. Finally, his Lordship distinguished Cramp on
+its facts.
+128
+Lord Evershed said that the express inclusion of compilations in the
+definition of ‘‘literary work’’ signified that the absence of literary taste or
+quality was not determinative as to the existence of copyright. His Lordship
+concluded that there was present the requisite degree of skill, judgment and
+labour, not only in the selection of the wagers to be offered, but also in their
+presentation and arrangement in the coupon, the coupon’s component headings,
+the manner of description and colouring of the headings and in informative
+notes for punters beneath the headings. Clearly, his Lordship relied on factors
+which have no counterparts in the present case.
+129
+Lord Hodson observed that (at 285; 475):
+‘‘. . . commonplace matter put together or arranged without the exercise of
+more than negligible work, labour and skill in making the selection will
+not be entitled to copyright.’’
+Like Lord Reid, his Lordship rejected an approach which dissected the coupon
+in order to show that copyright does not attach to any of its individual parts.
+His Lordship thought that the selection of the bets to be offered was enough
+alone to attract copyright protection to the coupons. He could not accept
+(at 287; 477):
+‘‘. . . that preparatory work must be excluded in this case so as to draw a
+line between the effort involved in developing ideas and that minimal
+effort required in setting those ideas down on paper.’’
+
+526
+FEDERAL COURT REPORTS
+[(2002)
+
+Lord Devlin stated (at 289; 478):
+130
+‘‘The requirement of originality means that the product must originate
+from the author in the sense that it is the result of a substantial degree of
+skill, industry or experience employed by him.’’
+His Lordship thought the work of selecting the bets to be offered sufficient for
+this purpose, but acknowledged that the position might be otherwise if there
+was no intention at the time of recording in writing the selection made. That is
+to say, antecedent work might have to be disregarded if it was not done for the
+purpose of production of the work — a qualification which has no scope for
+operation in the present case.
+131
+Lord Pearce also emphasised the need to consider compilations as a whole,
+and thought it (at 292; 480):
+‘‘. . . in each case . . . a question of degree whether the labour or skill or
+ingenuity or expense involved in the compilation is sufficient to warrant a
+claim to originality in a compilation.’’
+His Lordship also rejected the attempt to distinguish as irrelevant to that
+question of ‘‘sufficiency’’ the introductory work of deciding on the bets to be
+offered. Like Lord Devlin, however, he acknowledged that such work might be
+irrelevant in a case where there was no accompanying intention to prepare a
+written record of the results.
+132
+Ladbroke emphasises that a compilation is to be regarded as a whole and that
+on the question of the sufficiency of the work of the putative author to
+demonstrate that it originates from him or her, it is impermissible to treat as
+irrelevant ‘‘antecedent’’ or ‘‘preliminary’’ or ‘‘preparatory’’ work, except
+perhaps work of that kind which was not accompanied by an intention to
+produce the compilation. To this extent the case is consistent with the
+subsistence of copyright in the present directories. As a matter of fact, however,
+the kind of antecedent work in question in Ladbroke differed from that in the
+present case. The selection of the wagers to be offered is different in kind from
+the mere, even if far more onerous, collection and verification of millions of
+details of telephone subscribers. But, as will appear later, in my opinion the
+difference is not a material one for the purpose of attracting copyright
+protection.
+133
+Australian Consolidated Press Ltd v Morgan (1965) 112 CLR 483 was
+another contempt case. It arose out of an interlocutory undertaking not to
+publish Gallup poll results in which the respondents (to the appeal) had
+copyright. Barwick CJ observed (at 487) that there was copyright, not in
+knowledge or information, but in ‘‘the literary form in which knowledge or
+information is conveyed or cast’’, and that the law had ‘‘gone a long way [the
+Chief Justice cited various cases] to protect the labours of a man in producing
+and tabulating information’’ (emphasis added).
+134
+The Ladbroke-endorsed approach of identifying in the first instance the
+whole of the relevant work for subsistence purposes was followed by
+Plowman J in Warwick Film Productions Ltd v Eisinger [1969] Ch 508. A book
+on the life of Oscar Wilde included passages taken from the transcripts of
+shorthand notes of his trials and connected proceedings and from newspaper
+reports, in none of which the author of the book owned copyright. A film was
+made based on the trials. The script of the film included material copied from
+the book. It was held that, although there was copyright in the book as a whole,
+the material taken was not original to the author and therefore was not a
+‘‘substantial’’ part of the work. Plowman J observed (at 533-534) that the
+
+527
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Lindgren J)
+
+unedited copying in the book ‘‘had no originality and attracted copyright, as
+part of the whole book, only by reason of its collocation [so that w]hen robbed
+of that collocation it does not . . . represent a substantial part of the copyright
+and so does not involve an infringement of it’’.
+135
+In Elanco Products Ltd v Mandops (Agrochemical Specialists) Ltd [1979]
+FSR 46, it was held to be arguable that copyright subsisted in a leaflet and label
+supplied in connection with the sale of the appellant’s herbicide ‘‘Trifluralin’’.
+These documents were a compilation of the results of the appellant’s research.
+Goff LJ said (at 52) that the compilation cases proceeded on the basis of skill
+and labour in the making of the compilation, as distinct from skill and labour in
+ascertaining the information. This statement is, with respect, problematical,
+unless his Lordship was referring to skill and labour in ascertaining the
+information for purposes which did not include that of the making of the
+compilation (cf Ladbroke at 290; 478-479 per Lord Devlin, at 293; 480-481 per
+Lord Pearce). Buckley LJ spoke (at 57) of protection of the appellant’s skill and
+judgment and, in effect, of its research.
+136
+The plaintiff’s list of bingo game numbers was held to be an original literary
+work in Mirror Newspapers Ltd v Queensland Newspapers Pty Ltd [1982]
+Qd R 305. The numbers were produced as a result of a mechanical exercise
+involving the use of ‘‘blowers’’. Connolly J observed, however, that ‘‘[t]he
+requirement [was] not that the thought be original or inventive’’ (at 309). His
+Honour noted that the decision as to the length of the sequence of numbers was
+of practical importance to the plaintiff, so that ‘‘in a critical area judgment
+[was] being employed’’ (at 309). He identified the ways in which ‘‘mental
+effort and industry’’ were applied. Citing Ladbroke, his Honour said that it was
+not legitimate to draw a line between the work which went into arriving at the
+idea and the work that went into its expression, confining copyright to
+protecting the latter alone. The case is not conclusive, but is, at least, far from
+suggesting that the labour of collecting all the data within a given category,
+even where the arrangement according to which the data are to be stated is
+inevitable, will not suffice to attract protection.
+137
+In Ogden Industries Pty Ltd v Kis (Aust) Pty Ltd [1982] 2 NSWLR 283;
+(1982) 62 FLR 241, Kearney J in the Supreme Court of New South Wales
+applied the ‘‘not copied/originating from the putative author’’ test of originality
+(citing University of London Press and Ladbroke), when finding that the
+plaintiff owned copyright in drawings of certain designs of key blanks. His
+Honour observed (at 289; 247):
+‘‘Hence, if the work originates from the author in the sense that it is the
+result of his skill, labour or experience, and is not copied from another,
+then it will be an original work for copyright purposes.’’
+138
+In Computer Edge Pty Ltd v Apple Computer Inc (1986) 161 CLR 171,
+Gibbs CJ, Mason, Wilson and Brennan JJ thought that certain computer source
+programs were original literary works, but by majority the Court held that the
+corresponding object programs were not. Gibbs CJ said (at 182-183) that
+‘‘original’’ meant not copied from another work, but originating from the
+author (the Chief Justice cited University of London Press; Sands & McDougall
+and Victoria Park), adding (at 182-183) that originality was ‘‘a matter of
+degree, depending on the amount of skill, judgment or labour that has been
+involved in making the work’’ (citing Ladbroke). The Chief Justice had no
+doubt that the production of the source programs ‘‘involved sufficient skill,
+
+528
+FEDERAL COURT REPORTS
+[(2002)
+
+labour and experience on the part of the authors to satisfy the requirement of
+originality’’ (at 183).
+139
+Mason and Wilson JJ (in a joint judgment) and Brennan J, agreed that the
+source programs were original literary works but did not find it necessary to
+discuss the meaning of ‘‘original’’, while Deane J did not find it necessary to
+express any opinion on the question. In the result, the case provides the opinion
+of Gibbs CJ that originality raises a ‘‘not copied/originating from the putative
+author’’ test which calls for an assessment of the degree of ‘‘skill, judgment or
+labour’’ of the putative author involved in the work.
+140
+In Kalamazoo (Aust) Pty Ltd v Compact Business Systems Pty Ltd [1990]
+1 Qd R 231; (1985) 84 FLR 101 copyright was found to exist in sets of blank
+accounting forms. Thomas J applied the ‘‘not copied/originating from the
+putative author’’ test (citing University of London Press; Ladbroke; Mirror
+Newspapers and Ogden). Although the plaintiff had only varied in minor ways
+forms that were in general use, this was held sufficient to signify that the sets of
+forms originated from the plaintiff.
+141
+In Interlego AG v Tyco Industries Inc [1989] 1 AC 217 Lord Oliver of
+Aylmerton, delivering the judgment of the Privy Council, described the ‘‘not
+copied/originating from the putative author’’ test of originality formulated by
+Peterson J in University of London Press as ‘‘a classical statement of what is
+comprised in the concept of originality in the context of copyright’’ (at 259).
+But his Lordship immediately (at 260) pointed out that Peterson J’s statement
+was: ‘‘not complete in itself because there may clearly be original work which
+makes use of material obtained by the author from pre-existing sources.’’ His
+Lordship referred to various authorities, including British Northrop Ltd v
+Texteam Blackburn Ltd [1974] RPC 57, in which Megarry J (at 68) had applied
+the ‘‘not copied/originating with the putative author’’ test.
+142
+His Lordship observed that it was not every kind of skill, labour or judgment
+which will make a work original, and illustrated by reference to skill, labour or
+judgment directed to achieving exactness in copying. Nothing said in the
+judgment suggests that in a compilation case the labour of collecting and
+checking the data to be compiled is a kind of ‘‘skill, labour or judgment’’
+which cannot serve to mark a literary work as one originating with the putative
+author.
+143
+A ‘‘Solicitors’ Directory and Diary’’ was held to attract copyright protection
+in Waterlow Publishers Ltd v Rose (1989) 17 IPR 493. The facts had some
+similarity to those of the present case. Blank forms were sent out to solicitors’
+offices and barristers’ chambers to be completed and returned so that an
+alphabetical directory could be produced. The completed and returned forms
+were checked against the galley proofs for the previous year’s diary and
+printers were instructed. The existence of copyright in the relevant part of the
+directory was not in issue but the identity of the author was. The parties
+accepted as correct a statement by H Laddie, P Prescott and M Vitoria, The
+Modern Law of Copyright (1980), p 245 that the author of a compilation is
+‘‘the person who gathers or organises the collection of material and who
+selects, orders and arranges it’’. Slade LJ, with whom Neill and Ralph
+Gibson LJJ agreed, refrained from expressing a concluded view as to the
+correctness or otherwise of this definition, adding (at 502-503): ‘‘A compilation
+is a literary work of a character all its own, and the ascertainment of authorship
+may raise very real difficulties.’’ In my opinion, Telstra satisfies the textbook
+definition quoted. Clearly, it ‘‘gather[ed] or organis[ed] the collection of’’ the
+
+529
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Lindgren J)
+
+subscriber
+details.
+Also
+it
+‘‘select[ed],
+order[ed]
+and
+arrange[d]’’
+the
+compilation insofar as those processes were relevant to the circumstances
+(selection
+was
+not),
+by
+causing
+the
+subscriber
+details
+to
+be
+ordered
+alphabetically by a computer program. (In a second Waterlow case, Waterlow
+Directories Ltd v Reed Information Services Ltd (1990) 20 IPR 69, on an
+application for an interlocutory injunction, the subsistence and ownership of
+copyright were not in issue.)
+144
+In Ibcos Computers Ltd v Barclays Mercantile Highland Finance Ltd (1994)
+29 IPR 25, Jacob J found that copyright subsisted in the source code of
+computer programs constituting an accounting payroll package called the
+‘‘Agricultural Dealer System’’ (ADS). Section 3(1) of the Copyright, Designs
+and Patents Act 1988 (UK) (the 1988 UK Act) defined ‘‘literary work’’, as
+previously, to include a table or compilation, and, as well, ‘‘a computer
+program’’.
+145
+The case is of present significance because of Jacob J’s rejection (at 38-39)
+of a broad submission to the effect that ‘‘if there is only one way of expressing
+an idea that way is not the subject of copyright’’ (Total Information Processing
+Systems Ltd v Daman Ltd [1992] FSR 171 (Judge Paul Baker QC) at 181). His
+Lordship stated (at 39):
+‘‘The true position is that where an ‘idea’ is sufficiently general, then even
+if an original work embodies it, the mere taking of that idea will not
+infringe, but if the ‘idea’ is detailed, then there may be infringement. It is a
+question of degree. The same applies whether the work is functional or
+not, and whether visual or literary. In the latter field, the taking of a plot
+(ie the idea) of a novel or play can certainly infringe, if that plot is a
+substantial part of the copyright work. As Judge Learned Hand said,
+speaking of the distinction between ‘idea’ and ‘expression’: ‘Nobody has
+ever been able to fix that boundary and nobody ever can.’
+It should be noted that the aphorism ‘there is no copyright in an idea’ is
+likely to lead to confusion of thought. Sometimes it is applied to the
+question of subsistence of copyright: is there a ‘work’ and if there is, is it
+‘original’?
+Sometimes
+it
+is
+applied
+to
+the
+different
+question
+of
+infringement: has a substantial part been taken? That is not to say that the
+expression has no use: for instance if all a defendant has done is to copy a
+general idea, then it does not matter whether there is copyright in the
+plaintiff’s work, or whether the plaintiff owns that copyright.’’
+His Lordship proceeded to distinguish United States cases concerned with
+functionality and compilations, partly on the ground of the different language of
+the United States copyright legislation (see [194] below).
+146
+In the present case, the facts were detailed (names, addresses and telephone
+numbers) and there was only one way of recording them (alphabetically by
+surname). According to his Lordship, these circumstances did not preclude the
+possibility of the subsistence of copyright in the compilation.
+147
+In
+Bookmakers’
+Afternoon
+Greyhound
+Services
+Ltd
+v
+Wilf
+Gilbert
+(Staffordshire) Ltd [1994] FSR 723, Aldous J said (at 731) that it was ‘‘settled
+law’’ that the word ‘‘original’’ required only that a work ‘‘should not be copied
+and should originate from the author’’, and cited Ladbroke at 291; 479-480. His
+Lordship continued:
+‘‘It is also settled law that to acquire copyright the author must have
+expended a sufficient amount of labour, judgment, literary skill or other
+such quality. What will be sufficient in any particular case is a question of
+
+530
+FEDERAL COURT REPORTS
+[(2002)
+
+degree and will depend upon the work produced and all the circumstances
+of the case. However the courts are not astute to enable one man to
+appropriate, without payment, the fruits of another’s labours. I must
+therefore consider the production of the race cards and the dividend
+forecasts and decide whether sufficient labour, judgment and skill were
+used so as to render them original literary works.’’
+Again, it will be noted that there is no suggestion that a ‘‘sufficient amount of
+labour’’ in collecting factual information for the purpose of the compilation
+will not attract protection; indeed, the suggestion is to the contrary.
+148
+His Lordship found (at 732) that ‘‘considerable skill, labour and judgment
+were involved in preparing [a certain advance greyhound racing program] and
+that copyright subsist[ed] in it’’, and that the work needed to produce a certain
+‘‘race card’’ was sufficient to make it also an original literary work.
+149
+In Erica Vale Pty Ltd v Thompson & Morgan (Ipswich) Ltd (1994) AIPC
+91-068, Brownie J applied the ‘‘not copied/originating from the putative
+author’’ test of originality in concluding that copyright subsisted in printed
+material on certain seed packets (his Honour cited University of London Press
+at 608-609 and Ladbroke at 286-287). It is true that his Honour also stated
+(at 38,319) that ‘‘the choosing of the words used’’ must involve ‘‘such matters
+as skill, judgment, selection, ingenuity, labour, experience and expertise’’, but
+this statement must be understood in the context of the facts of the case. The
+printed material was not a whole-of-universe factual compilation. Indeed, his
+Honour stated (at 38,320):
+‘‘. . . it is not so much a case of a series of compilations of purely factual
+matter, as a series of adaptations of earlier literary works, in the ordinary
+sense, as distinct from the ‘compilation’ sense.’’
+150
+In Autospin (Oil Seals) Ltd v Beehive Spinning (a firm) [1995] RPC 683,
+Laddie J drew attention to the fact while copyright subsisted in works, it
+protected them, not for their own sake, but because of an underlying policy of
+protecting that which had gone into the production of them.
+151
+The plaintiff had designed and developed a new type of oil seal and had
+produced charts or tables containing instructions to enable critical dimensions
+of the seals to be calculated to enable the manufacture of them. The plaintiff
+alleged that the manufacture of seals by the defendant was an infringement of
+its copyright in the charts. Pertinently for present purposes, his Lordship stated
+(at 697-698) that it was not the mere form of words of notation used in a
+compilation which justified copyright protection, but the author’s skill and
+effort expended in gathering the information together (the full passage is set out
+at [235] below). This approach favours the subsistence of copyright in a
+telephone directory.
+152
+Copyright has been found to subsist in compilations in several recent
+Australian cases which I will note briefly. The first is A-One Accessory Imports
+Pty Ltd v Off Road Imports Pty Ltd (1996) 65 FCR 478, in which Drummond J
+found that there was copyright in a catalogue of motor cycle spare parts. The
+respondents contended that the applicants did not have copyright in the
+catalogue because it was only an amended version of an earlier one and both
+the amendments and the earlier version had been copied from the catalogues of
+competitors. Drummond J held that a work could be original even though it
+infringed the copyright in an existing work, provided it contained ‘‘qualitatively
+significant changes to the copied material’’ (at 490). In such a case, his Honour
+held, the non-original material attracted copyright protection because of its
+
+531
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Lindgren J)
+
+collocation with original material (at 501) (his Honour cited Ladbroke and
+Warwick Film). The case emphasises the need to conceive of a compilation as
+an entirety and to apply the statutory requirement of originality to the work as a
+whole.
+153
+A Full Court of this Court held in Skybase Nominees Pty Ltd v Fortuity
+Pty Ltd (1996) 36 IPR 529 that there had been sufficient evidence before the
+primary judge to support his conclusion that a ‘‘Weight Watchers program’’
+was
+an
+original
+literary
+work.
+R
+D
+Nicholson
+J
+applied
+the
+‘‘not
+copied/originating from the putative author’’ test of originality of Lord Devlin
+in Ladbroke. In this respect, French J agreed and Hill J appears to have agreed.
+154
+A Full Court of this Court referred to Ladbroke and other authorities on the
+concept of an ‘‘original literary work’’ in Milwell Pty Ltd v Olympic
+Amusements Pty Ltd (1999) 85 FCR 436. The case concerned the prize scales
+of poker video games machines. The prize scales were tables or compilations
+expressed in words and figures. The Court observed (at 442-445) that the
+requirement of originality was directed to originality of expression, not ideas;
+that each prize scale must be considered in its entirety; and that antecedent
+mathematical work was to be taken into account. The facts of the case are
+distinguishable from those of the present case: much skill (of a mathematical
+kind) was involved in arriving at the content of the compilation, and there was
+scope for variance in the form of the document.
+155
+In Acohs Pty Ltd v R A Bashford Consulting Pty Ltd (1997) 144 ALR 528,
+Merkel J found (at 542) ‘‘sufficient skill, judgment and labour’’ in the
+production of a ‘‘material safety data sheet’’ to attract copyright protection. His
+Honour applied a ‘‘skill, judgment or labour’’ test. The case affords little
+assistance for present purposes.
+156
+In Harpur v Lambourne (1999) 45 IPR 213, Bergin J found that there was
+copyright in the plaintiff’s marine industry directory. The defendant alleged
+that the plaintiff had taken his information mainly from the Yellow Pages
+telephone
+directory.
+Her
+Honour
+cited
+(at
+221),
+inter
+alia,
+the
+‘‘not
+copied/originating from the putative author’’ test from Ladbroke and concluded
+that the plaintiff had applied significant energy and skill in research and had
+created something materially different from what was to be found in the Yellow
+Pages.
+157
+Finkelstein J found that copyright subsisted in catalogues of radiator caps
+and fuel tank caps in Autocaps (Aust) Pty Ltd v Pro-Kit Pty Ltd (1999)
+46 IPR 339. The catalogues took the form of a chart specifying the caps
+suitable for use with a particular make or model of vehicle. The caps were
+identified by their part numbers. His Honour said (at 352):
+‘‘For copyright to subsist in a compilation it must be shown that
+sufficient labour, skill, judgment or ingenuity has been brought to bear in
+its creation: Football League Ltd v Littlewoods Pools Ltd [1959] 1 Ch 637
+at 651. What will be sufficient labour, skill, etc cannot be defined. ‘In
+every case it must depend largely on the special facts of that case, and
+must in each case be very much a question of degree’: Macmillan & Co
+Ltd v Cooper (1923) 1B IPR 204; 40 TLR 186 at 190 per Lord Atkinson.’’
+His Honour found the test satisfied, even without taking into account the
+antecedent process of selection of caps suitable for particular makes or models
+of vehicles. Accordingly, the case affords little assistance for present purposes.
+158
+The last High Court case to be noted is Data Access Corporation v
+Powerflex Services Pty Ltd (1999) 202 CLR 1. The joint judgment of
+
+532
+FEDERAL COURT REPORTS
+[(2002)
+
+Gleeson CJ, McHugh, Gummow and Hayne JJ discussed originality at two
+places (at 16 and 41). At both, their Honours adopt from Professor
+S Ricketson’s work, The Law of Intellectual Property (1984), p 83, the test
+whether:
+‘‘. . . the work emanates from the person claiming to be its author, in the
+sense that he has originated it or brought it into existence and has not
+copied it from another.’’
+This is the ‘‘not copied/originating from the putative author’’ test. As an
+intermediate appellate court, we must apply this test.
+159
+In T R Flanagan Smash Repairs Pty Ltd v Jones (2000) 102 FCR 181, Hely J
+recognised that there could be copyright in a compilation consisting entirely of
+material not original to the compiler ‘‘by reason of the selection or arrangement
+of material, provided that sufficient skill, judgment and labour was involved’’
+(at 187). But it seems clear that his Honour’s use of the word ‘‘and’’ was not
+intended to signify that all three must be present, since his next sentence was as
+follows (at 187):
+‘‘Whether the amount of skill, judgment or labour that was involved is
+sufficient to impart to the compilation the quality of originality is a
+question of fact and degree in each case.’’ (Emphasis added.)
+I do not think, either, that his Honour can be fairly regarded as suggesting that
+the skill, judgment or labour must be employed in selecting or arranging, and
+that skill, judgment or labour in the antecedent collecting or gathering of data
+can not suffice.
+
+Conclusion on subsistence of copyright
+
+The White Pages Directories and Yellow Pages Directories
+
+160
+While it is possible to distinguish particular cases on their facts, in my
+opinion the course of authority in England and Australia examined above
+supports the following propositions of relevance to the subsistence of copyright
+in compilations of factual information:
+1.
+The concept of originality is correlative with that of authorship (Sands &
+McDougall).
+2.
+Authorship (likewise originality) does not require novelty, inventiveness or
+creativity, whether of thought or expression, or any form of literary merit
+(cf Walter v Lane; University of London Press; Sands & McDougall;
+Victoria Park; Ladbroke).
+3.
+Not all works, even literary works, are of the same kind and one must
+identify and keep in mind the particular kind of work within the Act in
+which copyright is claimed to exist — in the present case, a particular
+form of literary work, namely, a ‘‘compilation’’ (cf Walter v Lane; Sands
+& McDougall). (The Act’s definition of ‘‘literary work’’ as including a
+‘‘compilation’’ has made extended discussion of the meaning of ‘‘literary
+work’’ unnecessary, but it is noteworthy that the noun ‘‘work’’ has been
+defined to mean, in the word’s relevant general sense, ‘‘A thing, structure
+or result produced by the operation, action, or labour of . . . a person or
+other agent’’ (Oxford English Dictionary) and as ‘‘a product of exertion,
+labour, or activity’’ (of which an artistic, literary or musical work is given
+as an example) (The Macquarie Dictionary)).
+4.
+It appears to be a necessary feature of a factual compilation that it supply
+‘‘intelligible information’’ (cf Real Estate Institute discussed at [93],
+
+533
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Lindgren J)
+
+Canterbury Park discussed at [101]-[102]; and cf Exxon). Accordingly, a
+totally random collection and listing of unrelated pieces of factual
+information would not be a compilation within the Act. (Apparently the
+position would be different if the compilation included a statement that it
+was a random selection, since that very statement would give the whole a
+significance it would otherwise lack.) A telephone directory satisfies the
+apparent requirement that a compilation convey a significance of its own
+which
+is
+independent
+of
+that
+of
+its
+component
+items
+considered
+individually and in isolation from one another. A telephone directory
+purports to be an alphabetical listing of particulars of all listable telephone
+subscribers within a given geographical area, and therefore to perform the
+function of providing access to the telephone number of every subscriber.
+It impliedly proclaims: ‘‘These are the names, addresses and telephone
+numbers of all listable subscribers within the stated geographical region,
+and if a name does not appear in its alphabetical position, there is no
+listable subscriber by that name.’’
+5.
+One must apply the test of originality to the literary work, including a
+compilation, in which copyright is claimed to exist, as a whole, rather than
+dissecting it and applying the test to the individual parts (cf Cambridge
+University Press; Ladbroke; Warwick Film; A-One).
+6.
+The test of originality is whether the work was not copied, but originated
+from the putative author (cf Dicks v Yates; University of London Press;
+Mander v O’Brien; Victoria Park; Purefoy; Ladbroke; Ogden; Computer
+Edge; Kalamazoo; Erica Vale; Skybase; Harpur v Lambourne; Data
+Access).
+7.
+This test is not an ‘‘all or nothing’’ one but raises a question of fact and
+degree as to the extent of the putative author’s contribution to the making
+of the particular literary work in question, in the present case, a
+compilation (cf Macmillan v Cooper; Cramp; Ladbroke; Computer Edge;
+Interlego; Flanagan). (In Sampson v Brokensha and Shaw Ltd (1935)
+37 WALR 90 it was decided that a person who merely bound into a book
+all the forms prescribed by a set of regulations did not have copyright in
+the compilation.)
+8.
+For this purpose, no particular kind of antecedent work contributed by the
+putative author is, a priori, to be left out of account, except, perhaps,
+antecedent work which was undertaken for a purpose or purposes which
+did not include the making of the literary work at all (cf Football League;
+Ladbroke; Mirror Newspapers; Autospin).
+9.
+It is not the law that where there is only one way of expressing and
+arranging a whole-of-universe factual compilation, the compilation cannot
+attract copyright protection (cf Matthewson v Stockdale; Longman v
+Winchester; Kelly v Morris; Ibcos).
+10. Decisively for the present case, there is no principle that the labour and
+expense
+of
+collecting,
+verifying,
+recording
+and
+assembling
+(albeit
+routinely) data to be compiled are irrelevant to, or are incapable of
+themselves establishing, origination, and therefore originality; on the
+contrary, the authorities strongly suggest that labour of that kind may do
+so (cf Matthewson v Stockdale; Longman v Winchester; Kelly v Morris;
+Scott v Stanford; Morris v Ashbee; Cox v Land and Water Journal
+Company; Morris v Wright; Hogg v Scott; Ager; Collis; Weatherby;
+Australian Consolidated Press Ltd v Morgan; Autospin; and the recent
+
+534
+FEDERAL COURT REPORTS
+[(2002)
+
+Indian case, Burlington’s Home Shopping Ltd v Chibber (1995) Patent &
+Trademark Cases 278 (noted in P Anand, ‘‘Burlington’s Home Shopping
+Ltd v Chibber’’ (1995) 6 Ent L Rev 159, in which the Delhi High Court,
+not following Feist, held that a computer database of mail order customers
+(names, addresses, telephone and fax numbers) was protected as a
+compilation within the definition of literary work).
+161
+To recognise copyright in compilations of factual data which do not involve
+selection or scope for variance in expression or arrangement may be seen, as a
+practical matter, to be an acceptance of the proposition that copyright can
+subsist in facts. No doubt policy reasons can be suggested for withholding, as
+for according, copyright protection in such cases. There are those who point to
+the advantages of permitting others to build on the first compiler’s work,
+without first having to repeat that work independently. Others point out that to
+deny the first compiler copyright protection is to discourage research by would-
+be first compilers. The Act does not provide for the compulsory licensing of
+copyright for reasonable remuneration in aid of the commercial objectives of a
+would-be licensee. Accordingly, the situation in cases such as the present under
+Australian law is an ‘‘all or nothing’’ one.
+162
+Consideration has been given to some of the policy issues involved in
+Europe. In the United Kingdom the Copyright and Rights in Databases
+Regulations 1997 (SI 1997 No 3022) (the Regulations), made pursuant to
+Directive 96/9/EC of the European Parliament and Council of 11 March 1996
+on the Legal Protection of Databases (the Directive), has amended the
+definition of ‘‘literary work’’ in s 3(1) of the 1988 UK Act by adding after the
+word ‘‘compilation’’, the words ‘‘other than a database’’, and including and
+dealing with databases as a special kind of literary work in their own right.
+A new s 3A of that Act defines ‘‘database’’ as:
+‘‘a collection of independent works, data or other materials which —
+(a)
+are arranged in a systematic or methodical way, and
+(b)
+are individually accessible by electronic or other means.’’
+In British Horseracing Board Ltd v William Hill Organization Ltd (2001)
+51 IPR 488, the parties agreed that the Regulations were to be construed
+consistently with the Directive and that, for the purpose of that proceeding,
+attention was to be paid only to the latter. By Art 7(1) of the Directive, Member
+States undertook to provide:
+‘‘. . . a right for the maker of a database which shows that there has been
+qualitatively and/or quantitatively a substantial investment in either the
+obtaining, verification or presentation of the contents to prevent extraction
+and/or re-utilization of the whole or of a substantial part, evaluated
+qualitatively and/or quantitatively, of the contents of that database.’’
+(Emphasis added.)
+Unlike its United Kingdom counterpart, the Commonwealth Parliament has not
+amended the legislation to give effect to a policy in respect of the issues raised
+by the present case.
+163
+The task of carefully identifying and listing all the units constituting a
+defined universe is usefully and commonly, undertaken. Moreover, alphabetical
+order is a common form of arrangement according to which such lists are made
+up. There are two special benefits offered by the compiler in such cases. The
+first is the assurance that the universe has been thoroughly explored, and that
+all members of it have been captured. ‘‘Whole-of-universe certification’’ gives
+value to the list. A compilation which can only profess to have captured
+
+535
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Lindgren J)
+
+‘‘nearly all’’ the members of a defined universe is not as valuable as one that
+can claim to have captured all of them. But whole-of-universe certification is a
+benefit only if the second special benefit to which I referred is also present: an
+intelligible arrangement of the data compiled. Who would want a telephone
+directory containing particulars of all subscribers listed randomly and therefore
+inaccessibly?
+The making of accessible whole-of-universe compilations is arguably to be
+164
+encouraged by the giving of copyright protection on account of the industrious
+collection, verification, recording and assembly necessarily undertaken for the
+purpose. But ultimately the weighing of the competing policy considerations is
+a matter for the legislature.
+For reasons given above, and as a result of proposition (10) at [160], the First
+165
+Issue should be resolved in favour of Telstra.
+166
+I can dispose of the Second Issue briefly. Telstra’s labour and expense in
+collecting, verifying, recording and assembling the subscriber data is described
+in the reasons for judgment of the primary judge which are summarised by
+Sackville J.
+167
+Even in a whole-of-universe case, it is possible that the labour involved will
+be so trivial or the ‘‘data’’ so insubstantial or the significance of the statement
+of the data so evanescent, that the statement will not be an original literary
+work (cf Smith’s Newspapers; Sampson; Odhams Press; Victoria Park; Cramp;
+J Lahore, Copyright and Designs (1996) at [6015] and fn(1)). For example, the
+universe may have such a small number of members, perhaps two or three, that
+a list of them might be considered either too insubstantial to be a literary work
+at all, or, if the view prevailed that the Act necessarily makes all compilations
+literary works, as not an original compilation, and therefore an original literary
+work, even though the putative author was the first person to perform the very
+slight labour involved in identifying and listing the members of the universe.
+168
+But the universe which Telstra identified was the names, addresses and
+telephone numbers (except private numbers) of all telephone subscribers within
+defined geographical regions. Telstra expended substantial labour in collecting,
+verifying, recording and assembling (albeit alphabetically) all this data so that it
+could issue a whole-of-universe listing.
+169
+I am not dissuaded from concluding that this labour was sufficient to attract
+copyright protection by any one of the following considerations, or all of them
+regarded as a whole:
+
+that Telstra supplied the Directories pursuant to a statutory obligation;
+that Telstra supplied the Directories free of charge to its subscribers;
+that Telstra supplied the Directories as an incident of a broader business
+conducted by it;
+that Telstra enjoyed a monopoly;
+that, as a practical matter, it was not open to Desktop or anyone else to
+acquire the information recorded in the Directories, except from Telstra;
+and
+that the alphabetical arrangement of the data was achieved by the use of
+computer programs.
+170
+While most of these features were not present in the industrious collection
+cases decided to date, and may be said to make the expression ‘‘industrious
+collection’’ a too elliptical description of Telstra’s labour, which included
+receiving, standardising, verifying and recording, in my view the principle of
+those cases is applicable. To deny copyright protection would permit Desktop
+
+536
+FEDERAL COURT REPORTS
+[(2002)
+
+to appropriate the benefit of Telstra’s substantial labour and expense in
+performing those activities.
+171
+For the above reasons, Telstra owns copyright in the White Pages Directories
+and the Yellow Pages Directories.
+
+The Headings Books
+
+172
+On what basis did the primary judge declare that Telstra owned copyright in
+the Headings Books? The primary judge did not base his conclusion on the
+compilation of all the members of a given universe, as he did in the case of the
+Directories. (See Telstra Corporation Ltd v Desktop Marketing Systems Pty Ltd
+(2001) 181 ALR 134.)
+173
+His Honour discussed the Headings Books at various places in his reasons
+for judgment. He described (at 139-140 [17]-[18]) the considerable work
+undertaken over the years on an annual basis by the relevant Committee in
+composing, updating and otherwise developing the Headings Books.
+174
+Much later (at 160 [91]) he stated as follows in relation to the headings as
+they appeared in the Yellow Pages Directories:
+‘‘As regards the headings, the point is covered by authority. In Lamb v
+Evans [1892] 3 Ch 462, the plaintiff was the publisher of a trades directory
+consisting of advertisements furnished by tradesmen and classified under
+headings denoting the different trades, which headings were composed by
+the plaintiff. Chitty J held that the plaintiff had copyright in the headings.
+The Court of Appeal agreed ([1893] 1 Ch 218). In the course of his
+judgment Lindley LJ said (at 224): ‘It appears to me that the plaintiff has
+an exclusive right to the publication of those headings . . . not that he can
+restrain other people from publishing the same sort of thing if they go
+about it in the right way, but he has a right to restrain other people from
+copying his book.’’’
+175
+With respect, a decision that there was copyright in the group of headings in
+the trades directory in Lamb v Evans [1892] 3 Ch 462 cannot determine that
+there is copyright in the group of headings in the Yellow Pages Directories:
+whether copyright exists is a mixed question of fact and law, and the facts of
+the two cases were not the same facts. Nonetheless, Lamb v Evans is persuasive
+in favour of a conclusion that there is copyright in the group of headings in the
+Yellow Pages Directories. The trades directory in Lamb v Evans and the present
+Yellow Pages Directories contained and contain not just two or three names of
+kinds of businesses but a large number which were composed by or on behalf
+of the putative copyright owner. Clearly, the holding in Lamb v Evans was that
+there was copyright, not in each individual heading, but in the whole, and it
+would have been an infringement to reproduce them in the form of a list, as
+well in the form of headings dispersed throughout a directory. Bowen LJ noted
+that the headings were the result of ‘‘literary labour’’ (at 227) and Kay LJ of
+‘‘sufficient literary labour’’ (at 232).
+176
+Later in his reasons for judgment, the primary judge said (at 160-161 [93]):
+‘‘Once it is accepted that ‘industrious collection’ will suffice to confer
+copyright, it follows that the directory portion of the white pages
+directories, the directory portion of, and the headings in, the yellow pages
+directories, and the headings in the headings books, are original and
+essential features of the respective works. This was not seriously in
+dispute. It would be otherwise if the ‘industrious collection’ view of
+
+537
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Lindgren J)
+
+originality were rejected. In that event, what has been taken is not
+substantial.’’
+This passage followed a reference by his Honour to the statement by Mason CJ
+in Autodesk Inc v Dyason (No 2) (1993) 176 CLR 300 at 305 that:
+‘‘. . . in determining whether the quality of what is taken makes it a
+‘substantial part’ of the copyright work, it is important to inquire into the
+importance which the taken portion bears in relation to the work as a
+whole: is it an ‘essential’ or ‘material’ part of the work?’’
+(On the hearing of the appeal, senior counsel for Desktop contended that in fact
+the issue to which the primary judge referred in the passage set out above had
+indeed been seriously in issue before him and that Mason CJ’s formulation of
+the test of ‘‘substantial part’’ was not satisfied in the present case.)
+177
+After the passage from his reasons for judgment set out above, the primary
+judge said that the reason why a rejection of the ‘‘industrious collection’’ view
+of originality would have signified that the telephone listings were not original
+is that they were ‘‘garden-variety’’ directories ‘‘devoid of even the slightest
+trace of creativity’’ (quoting from O’Connor J in Feist at 362). Then his
+Honour said (at 161 [93]): ‘‘The position is a little more complex with regard
+to the headings, but the result is the same. I should explain why I have reached
+that conclusion.’’ His Honour then proceeded to give reasons for two findings
+he made: first, that there was no relevant intellectual input in the allocation of
+business subscribers to headings (in almost all cases the subscriber selected the
+heading from those made available by Telstra); secondly, that there was little
+creative or intellectual effort in the devising of the headings. In relation to the
+latter, his Honour said (at 164 [102]):
+‘‘I do not mean to imply that the work of the headings committee never
+requires intellectual effort. However, it is rare for the committee to create
+a unique heading and often there is only one appropriate heading. Even if
+there is some choice to be made, no real difficulty is involved. I leave out
+of account altogether the effort involved in dealing with the commercial
+implications of adopting a particular heading. That effort has nothing to do
+with copyright.’’
+178
+His Honour did not return to the issue of the subsistence of copyright in the
+Headings Books (as distinct from the question of infringement of copyright in
+them).
+179
+I think it clear that his Honour’s reason for concluding that there was
+copyright in the Headings Books was that Telstra had employed much industry
+(labour) in building up the compilation. His Honour used the expression
+‘‘industrious collection’’. This was, with respect, appropriate: the compilation
+was the product of an industrious collection of headings. It was, of course, of a
+different kind from the collection of details of subscribers. Details of
+subscribers were a reflection of independently existing facts. The subscribers
+constituted a universe able to be discovered and recorded. The headings, on the
+other hand, were created and recorded virtually simultaneously. But although
+the notion of ‘‘collection’’ applies in different ways to subscriber details and
+headings, this is not of present importance.
+180
+No error is shown in his Honour’s conclusion that because of Telstra’s
+labour in compiling the lists of headings constituting them, the Headings Books
+were also the subject of copyright.
+
+538
+FEDERAL COURT REPORTS
+[(2002)
+
+Feist and its sequelae in the United States and Canada
+
+181
+Should the opinion of the Supreme Court of the United States in Feist
+persuade us to a different conclusion? Desktop placed much emphasis on this
+case.
+182
+In Feist, the respondent to the appeal, Rural Telephone Service Company Inc
+(Rural), was a certified public utility providing telephone services to several
+communities in northwest Kansas. Pursuant to a requirement of State law, it
+issued annually an updated telephone directory. The directory was the familiar
+one consisting of White Pages and Yellow Pages. Rural obtained data for the
+directory from subscribers, who were required to provide their names and
+addresses in order to obtain the telephone service. Rural distributed its directory
+free of charge to its subscribers but earned revenue by selling Yellow Pages
+advertisements.
+183
+Feist Publications Inc (Feist) was a publishing company which specialised in
+area-wide telephone directories. These covered a much larger geographic range
+than did Rural’s directories. A typical directory of Rural’s covered only a
+particular calling area, but Feist’s area-wide directories covered a much larger
+geographic range, reducing the need to call ‘‘directory assistance’’ or to consult
+multiple directories. Like Rural, Feist distributed its directory free of charge,
+but earned revenue by selling Yellow Pages advertisements. Feist and Rural
+competed for Yellow Pages advertising.
+184
+To obtain White Pages listings, Feist approached each of the 11 telephone
+companies operating in northwest Kansas and offered to pay for the right to use
+its White Pages listings. Only Rural refused to deal with Feist. Rural’s refusal
+meant that there would be a gap in Feist’s area-wide directory, rendering it less
+attractive to potential Yellow Pages advertisers. Feist used Rural’s White Pages
+listings without its consent.
+185
+Unlike Desktop, Feist produced a telephone directory. There was therefore a
+general similarity of appearance as between Feist’s and Rural’s products.
+186
+O’Connor J, who delivered the opinion of the Court, observed that the case
+concerned the interaction of two well-established propositions: that facts are not
+copyrightable and that compilations of facts generally are. Her Honour thought
+that the key to resolving the tension between the two lay in understanding why
+facts are not copyrightable. This was the requirement that a work be original to
+the author. Her Honour said (at 345-346):
+‘‘Original, as the term is used in copyright, means only that the work was
+independently created by the author (as opposed to copied from other
+works), and that it possesses at least some minimal degree of creativity.
+(M Nimmer & D Nimmer, Copyright §§2.01[A], [B] (1990) (hereinafter
+Nimmer).) To be sure, the requisite level of creativity is extremely low;
+even a slight amount will suffice. The vast majority of works make the
+grade quite easily, as they possess some creative spark, ‘no matter how
+crude, humble or obvious’ it might be. Id, §1.08[C][1]. Originality does
+not signify novelty: a work may be original even though it closely
+resembles other works so long as the similarity is fortuitous, not the result
+of copying. To illustrate, assume that two poets, each ignorant of the other,
+compose identical poems. Neither work is novel, yet both are original and,
+hence, copyrightable. See Sheldon v Metro-Goldwyn Pictures Corp (1936)
+81 F (2d) 49, 54 (CA2).
+Originality is a constitutional requirement. The source of Congress’
+
+539
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Lindgren J)
+
+power to enact copyright laws is Article I, §8, cl 8, of the Constitution,
+which authorizes Congress to ‘secur[e] for limited Times to Authors . . .
+the exclusive Right to their respective Writings’.’’ (Emphasis added.)
+Her Honour thought that a compilation would attract copyright protection if
+187
+its author chose which facts to include, in what order to place them, and how to
+arrange the collected data so that they might be used effectively by readers. She
+stated (at 348):
+‘‘These choices as to selection and arrangement, so long as they are made
+independently by the compiler and entail a minimal degree of creativity,
+are sufficiently original that Congress may protect such compilations
+through the copyright laws . . . Thus, even a directory that contains
+absolutely no protectible written expression, only facts, meets the
+constitutional minimum for copyright protection if it features an original
+selection or arrangement.’’ (Emphasis added.)
+But her Honour explained that this does not mean that every element of a
+copyright work is protected, stating (at 348):
+‘‘Originality remains the sine qua non of copyright; accordingly, copyright
+protection may extend only to those components of a work that are
+original to the author.’’
+It followed, she said, that the author of a factual compilation might clothe the
+facts with ‘‘an original collocation of words’’ (at 348) or might have
+demonstrated originality in ‘‘the selection and arrangement’’ (at 349), in which
+case it would be only those words or that selection and arrangement which
+would be protected: the facts themselves would not ‘‘become original through
+association’’ (at 349).
+188
+O’Connor J remarked that, as a result ‘‘the copyright in a factual compilation
+is thin’’ (at 349), because a subsequent compiler remained free to use the same
+facts, but not ‘‘the same selection and arrangement’’.
+189
+In response to the suggestion that it may seem unfair that much of the fruit of
+a compiler’s labour is freely available to be used by others, her Honour referred
+(at 349) to, inter alia, the ‘‘constitutional requirement’’ found in Art I, §8, cl 8
+of the United States Constitution which empowers the Congress to make laws:
+‘‘To promote the Progress of Science and useful Arts, by securing for
+limited Times to Authors and Inventors the exclusive right to their
+respective Writings and Discoveries.’’
+She thought it followed that ‘‘[t]he primary objective of copyright is not to
+reward the labour of authors, but ‘[t]o promote the Progress of Science and
+useful Arts’’’.
+190
+It was not only by reference to the ‘‘constitutional requirement’’ that her
+Honour repudiated the hypothesised suggestion of unfairness: she did so also
+by reference to ‘‘the essence of copyright’’. For her Honour, this was, in the
+case of factual compilations, that only originality of expression, selection or
+arrangement should be protected.
+191
+O’Connor J proceeded to address the Copyright Act of 1976 (US) (the 1976
+US
+Act)
+and
+its
+predecessor,
+the
+Copyright
+Act
+of
+1909
+(US)
+(the 1909 US Act). Her Honour observed (at 351-352) that the 1909 US Act
+necessarily incorporated a requirement of originality, but noted that some courts
+later
+came
+to
+hold
+that
+because
+factual
+compilations
+were
+mentioned
+specifically in §5 of that Act, they were copyrightable per se without the
+necessity of originality. She said that these courts developed ‘‘a new theory to
+justify the protection of factual compilations’’, known as ‘‘sweat of the brow’’
+
+540
+FEDERAL COURT REPORTS
+[(2002)
+
+or ‘‘industrious collection’’, the underlying notion of which was that copyright
+was a reward for ‘‘the hard work that went into compiling facts’’ (at 352).
+According to this theory, the only defence to infringement was that the later
+compiler had made his or her compilation independently of the earlier one. But
+her Honour thought the sweat of the brow theory contradicted the ‘‘most
+fundamental axiom of copyright law — that no one may copyright facts or
+ideas’’ (at 353).
+192
+O’Connor J noted that when Congress decided to overhaul the copyright
+statute, the Register of Copyrights had reported that the absence of any
+reference to ‘‘originality’’ in the 1909 US Act seemed to have led to
+misconceptions as to what was copyrightable (at 355). As a result, when
+enacting the 1976 US Act, Congress replaced the reference to ‘‘all the writings
+of an author’’ with the phrase ‘‘original works of authorship’’. Extraneous
+documents showed that the intention was to maintain standards of originality.
+Whereas §3 of the 1909 US Act had stated simply that copyright protected only
+the ‘‘copyrightable component parts’’ of a work, the 1976 US Act replaced this
+provision with §102(b), which identified the elements of a work for which
+copyright was not available as ‘‘any idea, procedure, process, system, method
+of operation, concept, principle, or discovery’’.
+193
+O’Connor J noted that Congress enacted two new provisions. First, in order
+to make clear that compilations were not automatically copyrightable, a
+definition of ‘‘compilation’’ was provided in §101. Secondly, to make clear
+that copyright in a compilation did not extend to the facts themselves, Congress
+enacted §103.
+194
+It is convenient now to set out §§101, 102 and 103 of the 1976 US Act:
+‘‘§101. Definitions
+. . .
+A ‘compilation’ is a work formed by the collection and assembling of
+preexisting materials or of data that are selected, coordinated, or arranged
+in such a way that the resulting work as a whole constitutes an original
+work of authorship . . .
+§102. Subject matter of copyright: In general
+(a) Copyright protection subsists, in accordance with this title, in
+original works of authorship fixed in any tangible medium of expression,
+now known or later developed, from which they can be perceived,
+reproduced, or otherwise communicated, either directly or with the aid of a
+machine or device. Works of authorship include the following categories:
+(1)
+literary works . . .
+(b) In no case does copyright protection for an original work of
+authorship extend to any idea, procedure, process, system, method of
+operation, concept, principle, or discovery, regardless of the form in which
+it is described, explained, illustrated, or embodied in such work.
+§103. Subject matter of copyright: Compilations and derivative works
+(a) The subject matter of copyright as specified by section 102 includes
+compilations and derivative works, but protection for a work employing
+preexisting material in which copyright subsists does not extend to any
+part of the work in which such material has been used unlawfully.
+(b) The copyright in a compilation or derivative work extends only to
+the material contributed by the author of such work, as distinguished from
+the preexisting material employed in the work, and does not imply any
+exclusive right in the preexisting material. The copyright in such work is
+
+541
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Lindgren J)
+
+independent of, and does not affect or enlarge the scope, duration,
+ownership, or subsistence of, any copyright protection in the preexisting
+material.’’ (Emphasis added.)
+O’Connor J observed (at 356-357) that the definition of ‘‘compilation’’ in
+195
+§101 identified three elements which had to be present if a compilation was to
+be copyrightable:
+(1)
+the collection and assembly of pre-existing material, facts, or data
+(the definition in §101 does not expressly mention ‘‘facts’’);
+(2)
+the selection, coordination or arrangement of the material, facts or data;
+and
+(3)
+the creation, by virtue of the particular selection, coordination or
+arrangement, of ‘‘an original work of authorship’’.
+The narrow basis of originality in relation to a compilation allowed by §101
+196
+distinguishes the position in America from that in Australia. In Australia
+‘‘compilation’’ is not defined (nor is the notion of originality).
+197
+But according to Feist, §§101, 102 and 103 merely reflected the general law.
+Thus, O’Connor J stated (at 357):
+‘‘Although §102 states plainly that the originality requirement applies to
+all works, the point was emphasized with regard to compilations to ensure
+that courts would not repeat the mistake of the ‘sweat of the brow’ courts
+by concluding that fact-based works are treated differently and measured
+by some other standard.’’
+198
+Her Honour thought the key to the definition resided in the second
+requirement noted above, of which she stated (at 358):
+‘‘It instructs courts that, in determining whether a fact-based work is an
+original work of authorship, they should focus on the manner in which the
+collected facts have been selected, coordinated, and arranged. This is a
+straight-forward application of the originality requirement. Facts are never
+original, so the compilation author can claim originality, if at all, only in
+the way the facts are presented. To that end, the statute dictates that the
+principal focus should be on whether the selection, coordination, and
+arrangement are sufficiently original to merit protection.’’
+Her Honour said the statute envisioned that there would be some fact-based
+works in which the element of selection, coordination or arrangement was not
+sufficiently original to trigger copyright protection. However, she remarked that
+the originality requirement was ‘‘not particularly stringent’’, adding (at
+358-359):
+‘‘Originality
+requires
+only
+that
+the
+author
+make
+the
+selection
+or
+arrangement independently (ie, without copying that selection or arrange-
+ment from another work), and that it display some minimal level of
+creativity. Presumably, the vast majority of compilations will pass this test,
+but not all will. There remains a narrow category of works in which the
+creative spark
+is
+utterly lacking
+or
+so
+trivial
+as
+to
+be
+virtually
+nonexistent.’’ (Emphasis added.)
+Desktop submits that the directory sections of Telstra’s White Pages Directories
+and Yellow Pages Directories demonstrate no creative spark. I agree.
+199
+O’Connor J explained that even if a work qualifies as a copyrightable
+compilation, it receives only limited protection — a point made clear by §103
+(set out at [194] above). Her Honour stated (at 359-360):
+‘‘In summary, the 1976 revisions to the Copyright Act leave no doubt
+that originality, not ‘sweat of the brow’, is the touchstone of copyright
+
+542
+FEDERAL COURT REPORTS
+[(2002)
+
+protection in directories and other fact-based works. Nor is there any doubt
+that the same was true under the 1909 Act. The 1976 revisions were a
+direct response to the Copyright Office’s concern that many lower courts
+had misconstrued this basic principle, and Congress emphasized repeatedly
+that the purpose of the revisions was to clarify, not change, existing law.
+The revisions explain with painstaking clarity that copyright requires
+originality, §102(a); that facts are never original, § 102(b); that the
+copyright in a compilation does not extend to the facts it contains,
+§103(b); and that a compilation is copyrightable only to the extent that it
+features an original selection, coordination, or arrangement, §101.’’
+200
+Applying legal principle to the facts, her Honour noted that Feist appeared to
+concede that Rural’s directory, considered as a whole, was subject to copyright
+because it contained some foreword text, as well as original material in its
+Yellow Pages advertisements. But the question was whether Rural had copied
+‘‘constituent elements of the work that [were] original’’ (at 361). Her Honour
+stated (at 361):
+‘‘Certainly, the raw data does not satisfy the originality requirement. Rural
+may have been the first to discover and report the names, towns and
+telephone numbers of its subscribers, but this data does not ‘ow[e] its
+origin’ to Rural . . . Rather, these bits of information are uncopyrightable
+facts; they existed before Rural reported them and would have continued
+to exist if Rural had never published a telephone directory. The originality
+requirement ‘rule[s] out protecting . . . names, addresses, and telephone
+numbers of which the plaintiff by no stretch of the imagination could be
+called the author’.’’
+201
+Her Honour went on to hold that although the originality requirement does
+not pose a stringent standard in the case of a factual compilation, nonetheless
+‘‘the selection and arrangement of facts cannot be so mechanical or routine as
+to require no creativity whatsoever [and] [t]he standard of originality is low, but
+it does exist’’ (at 362). Her Honour said that Rural’s White Pages were
+‘‘entirely typical’’ and that in preparing them, Rural had simply taken the data
+provided by its subscribers and listed the data alphabetically by surname. She
+said (at 362): ‘‘The end product is a garden-variety white pages directory,
+devoid of even the slightest trace of creativity.’’ And (at 363):
+‘‘Nor can Rural claim originality in its coordination and arrangement of
+facts. The white pages do nothing more than list Rural’s subscribers in
+alphabetical order. This arrangement may, technically speaking, owe its
+origin to Rural; no one disputes that Rural undertook the task of
+alphabetizing the names itself. But there is nothing remotely creative about
+arranging names alphabetically in a white pages directory. It is an age-old
+practice, firmly rooted in tradition and so commonplace that it has come to
+be expected as a matter of course . . . It is not only unoriginal, it is
+practically inevitable. This time-honored tradition does not possess the
+minimal creative spark required by the Copyright Act and the Consti-
+tution.’’
+202
+I do not think Feist is deprived of all persuasiveness by reason of
+O’Connor J’s references to Art I §8 cl 8 of the United States Constitution.
+Telstra’s submission seems to be that because of the terms of the United States
+constitutional grant of power, the text of the 1976 US Act is construed narrowly
+so as to constrain copyright protection of a first compiler and to enlarge the
+field of legitimate activity of later ones. But it is commonplace that an objective
+
+543
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Lindgren J)
+
+of the grant of copyright, including that given in Australia, is to encourage the
+production of, relevantly, literary works in the public interest. It is true that the
+Australian constitutional head of power (to make laws with respect to ‘‘(xviii)
+Copyrights, patents of inventions and designs, and trade marks’’) is not
+confined as the American one is: accordingly, it is open to the Australian
+Parliament to make a law which does not have the purpose identified in
+Art I §8 cl 8 of the United States Constitution, provided it is nonetheless a law
+with respect to copyright: Grain Pool of Western Australia v Commonwealth
+(2000) 202 CLR 479 at 498. But a careful reading of Feist does not persuade
+me that the result would have been different if the empowering constitutional
+head of power had been the Australian one rather than the American. The
+United States constitutional notion of the ‘‘writings’’ of ‘‘authors’’ is found in
+the Australian legislation’s notion of the ‘‘literary works’’ of ‘‘authors’’.
+203
+Feist is, however, distinguishable. The terms of §§101, 102 and 103, of the
+1976 US Act (set out at [194] above), when understood against the background
+to their enactment, put it beyond question that in the United States the
+requirement of originality in relation to a factual compilation is not satisfied by
+mere independent creation coupled with the labour and expense of collecting
+and verifying the data to be compiled. Rather, it requires independent creation
+coupled with intellectual effort or a spark of creativity.
+204
+But to distinguish Feist on this basis is of little assistance. In the Supreme
+Court’s view, the 1976 US Act merely made clear general principles of
+copyright law. The question for decision by us is whether the word ‘‘original’’
+in s 32 of the Act requires the intellectual effort or creative spark on which
+Feist insists. In my opinion, the course of Anglo-Australian authority recounted
+earlier shows that it does not.
+
+Cases in the United States and Canada since Feist
+
+205
+Two further United States cases are instructive. In Key Publications Inc v
+Chinatown Today Publishing Enterprises Inc (1991) 945 F (2d) 509 (2nd Cir)
+the plaintiff collected business cards from businesses believed to be of interest
+to the Chinese-American community in New York. The plaintiff sorted them
+according to category of business then published a ‘‘Chinese Business Guide &
+Directory’’ with the businesses, their names, addresses and telephone numbers
+listed in its Yellow Pages in their various categories. The defendant also
+published a Yellow Pages directory. Approximately 75 per cent of its listings
+had appeared in the plaintiff’s directory.
+206
+The Court held that there was copyright in the plaintiff’s directory because
+there was evidence of ‘‘thought and creativity in the selection’’ process
+(the author ‘‘selected out’’ businesses not of interest to Chinese-Americans and
+businesses soon to close) and because the headings (business categories) were
+original rather than ‘‘mechanical groupings’’. The Court said that the
+arrangement was ‘‘in no sense mechanical’’ and involved ‘‘creativity’’. But as
+illustrations of ‘‘mechanical groupings’’ it referred to alphabetical, chronologi-
+cal and sequential listings of data.
+207
+In Bellsouth Advertising & Publishing Corporation v Donnelly Information
+Publishing Inc (1993) 999 F (2d) 1436 (11th Cir), the United States Court of
+Appeals for the Eleventh Circuit, considered the issue of copyright in relation
+to a Yellow Pages directory. It was common ground that the directory was the
+subject of copyright. But the Court held that by copying the names, addresses,
+telephone numbers, business types, or units of advertisement in the listings, the
+
+544
+FEDERAL COURT REPORTS
+[(2002)
+
+defendant did not take any original element of selection, coordination or
+arrangement, and therefore did not infringe copyright.
+208
+I turn now to the position in Canada. In Tele-Direct (Publications) Inc v
+American Business Information Inc (1997) 154 DLR (4th) 328 the Canadian
+Federal Court of Appeal upheld the trial judge’s conclusion (Tele-Direct
+(Publications) Inc v American Business Information Inc (1996) 113 FTR 123)
+that by far the greater part of the appellant’s Yellow Pages directory was not
+subject to copyright, a result which, it noted, was consistent with Feist.
+209
+It was conceded that the Yellow Pages, taken as a whole, enjoyed copyright
+protection. Tele-Direct, an affiliate of Bell Canada, did not claim copyright in
+the subscriber information given to it by Bell Canada. It claimed copyright in
+respect of the organisation of that information, which it had received in a
+disorganised state from Bell Canada, and in respect of its own collection of
+additional data, such as facsimile numbers, trade marks and number of years of
+operation, which it obtained directly from Bell Canada’s customers.
+210
+Décary JA, delivering the judgment of the Court, said that in the case of a
+compilation, skill, labour and judgment must have been involved in making the
+compilation, but agreed with the trial judge that Tele-Direct had arranged its
+information according to ‘‘accepted, commonplace standards of selection in the
+industry’’ (at 332), citing the trial judge’s decision (at 139-140).
+211
+Décary JA referred to the definition of ‘‘compilation’’ which was introduced
+into s 2 of the Copyright Act 1985 (Can) in 1993 to implement the North
+American Free Trade Agreement. That section, as a result of the North
+American Free Trade Agreement Implementation Act 1993 (Can), contained the
+following provisions:
+‘‘‘every original literary, dramatic, musical and artistic work’ includes
+every original production in the literary, scientific or artistic domain,
+whatever
+may
+be
+the
+mode
+or
+form
+of
+its
+expression,
+such
+as
+compilations . . .
+‘Compilation’ means:
+. . .
+(b)
+a work resulting from the selection or arrangement of data . . .’’
+(Emphasis added.)
+212
+His Lordship stated (at 334-335):
+‘‘. . . the addition of the definition of ‘compilation’ in so far as it relates to
+‘a work resulting from the selection or arrangement of data’ appears to me
+to have decided the battle which was shaping up in Canada between
+partisans of the ‘creativity’ doctrine — according to which compilations
+must possess at least some minimal degree of creativity — and the
+partisans of the ‘industrious collection’ or ‘sweat of the brow’ doctrine —
+wherein copyright is a reward for the hard work that goes into compiling
+facts.
+The definition of ‘compilation’ must be interpreted in relation to the
+context in which it was introduced. Simply put, it was introduced as a
+result of the signature of the North American Free Trade Agreement and
+with the specific purpose of implementing it. It is therefore but natural
+when attempting to interpret the new definition to seek guidance in the
+very words of the relevant provision of NAFTA which the amendment
+intends to implement. The applicable provision is Article 1705 which
+reads as follows:
+
+545
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Lindgren J)
+
+Article 1705: Copyright
+1. Each Party shall protect the works covered by Article 2 of the
+Berne Convention, including any other works that embody original
+expression within the meaning of that Convention. In particular:
+. . .
+(b)
+compilations of data or other material, whether in machine
+readable or other form, which by reason of the selection or
+arrangement of their contents constitute intellectual creations,
+shall be protected as such.
+The protection a Party provided under subparagraph (b) shall not
+extend to the data or material itself, or prejudice any copyright
+subsisting in that data or material.
+Clearly, what the parties to the Agreement wanted to protect were
+compilations of data that ‘embody original expression within the meaning
+of [the Berne] Convention’ and that constitute ‘intellectual creations’. The
+use of these last two words is most revealing: compilations of data are to
+be measured by standards of intellect and creativity. As these standards
+were already present in Anglo-Canadian jurisprudence — as we shall see
+later — I can only assume that the Canadian Government in signing the
+Agreement and the Canadian Parliament in adopting the 1993 amendments
+to the Copyright Act expected the Court to follow the ‘creativity’ school of
+cases rather than the ‘industrious collection’ school.’’ (Emphasis added.)
+213
+Décary JA went on to conclude that the 1993 amendments had not altered
+the law of copyright with respect to compilations of data, but had simply
+reinforced in clear terms what that law already was, or should have been: ‘‘The
+selection or arrangement of data only results in a protected compilation if the
+end result qualifies as an original intellectual creation’’ (at 336). In language
+reminiscent of that of O’Connor J in Feist, his Lordship stated (at 339):
+‘‘Essentially, for a compilation of data to be original, it must be a work
+that was independently created by the author and which displays at least a
+minimal degree of skill, judgment and labour in its overall selection or
+arrangement. The threshold is low, but it does exist.’’ (Emphasis added.)
+214
+Of relevance to the present case is his Lordship’s discussion of the
+expression ‘‘skill, judgment or labour’’. He said (at 339-340):
+‘‘It is true that in many of the cases we have been referred to, the
+expression ‘skill, judgment or labour’ has been used to describe the test to
+be met by a compilation in order to qualify as original and, therefore, to be
+worthy of copyright protection. It seems to me, however, that whenever
+‘or’ was used instead of ‘and’, it was in a conjunctive rather than in a
+disjunctive way. It is doubtful that considerable labour combined with a
+negligible degree of skill and judgment will be sufficient in most
+situations to make a compilation of data original. One should always
+keep in mind that one of the purposes of the copyright legislation,
+historically, has been ‘to protect and reward the intellectual effort of the
+author (for a limited period of time) in the work’ (my emphasis) . . . The
+use of the word ‘copyright’ in the English version of the Act has obscured
+the fact that what the Act fundamentally seeks to protect is ‘le droit
+d’auteur’. While not defined in the Act, the word ‘author’ conveys a sense
+of creativity and ingenuity. I do not read these cases which have adopted
+the ‘sweat of the brow’ approach in matters of compilations of data as
+having asserted that the amount of labour would in itself be a
+
+546
+FEDERAL COURT REPORTS
+[(2002)
+
+determinative source of originality. If they did, I suggest that their
+approach was wrong and is irreconcilable with the standards of intellect
+and creativity that were expressly set out in NAFTA and endorsed in the
+1993 amendments to the Copyright Act and that were already recognized
+in Anglo-Canadian law.
+Cramp & Sons [[1944] 2 All ER 92 at 97] is a good illustration in the
+House of Lords of the indifferent use of the words ‘or’ and ‘and’ in the
+application of the ‘skill, judgment and/or labour test’; yet no one will
+argue [in the sense of ‘‘dispute’’] that the proper test was that defined by
+Lord Porter:
+‘It is conceded that, if the work, labour and skill required to make
+the selection and to compile the tables which form its items are
+negligible, then no copyright can subsist in it. Whether enough work,
+labour and skill is involved, and what its value is, must always be a
+question of degree.’’’ (My emphasis in bold.)
+215
+Telstra submits that Tele-Direct is distinguishable as turning on the different
+legislative provisions construed in the light of their background and purpose. It
+is true that the Court regarded the 1993 amendments as having decided ‘‘the
+battle which was shaping up in Canada between’’ the partisans of the
+‘‘creativity’’ and ‘‘industrious collection’’ doctrines. But the Court also spoke
+more generally, and viewed its construction of the provisions as consistent with
+general principles of Anglo-Canadian copyright law. Décary JA stated (at 336):
+‘‘I have come to the conclusion that the 1993 amendments did not alter the
+state of the law of copyright with respect to compilations of data. The
+amendments simply reinforce in clear terms what the state of the law was,
+or ought to have been: the selection or arrangement of data only results in
+a protected compilation if the end result qualifies as an original intellectual
+creation.
+Another impact of the 1993 amendments may well be that more
+assistance can henceforth be sought from authoritative decisions of the
+United States courts when interpreting these very provisions that were
+amended or added in the Copyright Act in order to implement [the North
+American Free Trade Agreement]. I do not wish to be interpreted as
+saying that Canadian courts, when interpreting these provisions, should
+move away from following the Anglo-Canadian trend. I am only
+suggesting that where feasible without departing from fundamental
+principles, Canadian courts should not hesitate to adopt an interpretation
+that satisfies both the Anglo-Canadian standards and the American
+standards where, as here, it appears that the wording of Article 1705 of
+NAFTA and, by extension, of the added definition of ‘compilation’ in the
+Canadian Copyright Act, tracks to a certain extent the wording of the
+definition of ‘compilation’ found in the United States Copyright Act
+[. . .].’’
+Later (at 342) his Lordship concluded that there was a ‘‘fortunate similarity in
+matters of compilation of data’’ between the American and Canadian
+approaches.
+216
+I do not think Tele-Direct is satisfactorily explained as depending on the
+local legislation, although, as in the case of Feist itself, the references to local
+legislation reduce the persuasiveness of the decision for an Australian court.
+217
+The United States and Canadian cases mentioned do not persuade me that
+this Court, at the intermediate appellate level, should depart from the long
+
+547
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Lindgren J)
+
+course of Anglo-Australian authority referred to earlier. If that is to be done, it
+must be done by the High Court.
+
+Infringement
+
+General
+
+218
+Telstra pleads that Desktop produced, or caused or authorised the production
+of, three ‘‘CD-ROM products’’: Marketing Pro, Australian Phone Disk and
+CD Phone Directory, and that each of these products:
+‘‘. . . contains a reproduction of the whole or a substantial part of each of
+the White Pages Directories, Yellow Pages Directories and Headings
+Books
+which
+are
+listed
+below
+each
+such
+CD-ROM
+product
+in
+Annexure ‘D’ [to the Pleading].’’
+(I need not discuss further the more precise alignment which Annexure D to the
+Pleading alleges as between Telstra’s works and Desktop’s respective CD-
+ROM products.) The Pleading alleges that by producing, or causing or
+authorising the production of, the CD-ROM products in these circumstances,
+Desktop infringed Telstra’s copyright in each of the White Pages Directories,
+the Yellow Pages Directories and the Headings Books.
+219
+I have concluded above that Telstra owned copyright in those literary works.
+By reason of s 31(1)(a)(i) of the Act, Telstra’s copyright included the exclusive
+right to reproduce those works in a material form and by reason of s 36(1) of
+the Act it was an infringement of Telstra’s copyright for Desktop to do so.
+220
+It is usually said that ‘‘reproduction’’ has two elements: a causal link
+between the copyright work and the putative infringing work, and sufficient
+objective resemblance between them: see, for example, Francis Day & Hunter
+Ltd v Bron [1963] Ch 587 at 614 (CA) per Willmer LJ; S W Hart & Co Pty Ltd
+v Edwards Hot Water Systems (1985) 159 CLR 466 at 472 per Gibbs CJ;
+Computer Edge at 186 per Gibbs CJ. Desktop admits a causal link in that it
+admits it took names, addresses and telephone numbers from the White Pages
+Directories and Yellow Pages Directories, and from the latter, also headings
+which it used as the ‘‘lines of business’’ of Yellow Pages subscribers. But
+Desktop denies that there is sufficient objective resemblance between its own
+products and those of Telstra. Telstra’s Directories were alphabetical lists of
+subscribers — in the case of the Yellow Pages Directories, arranged under
+business headings, themselves alphabetically listed. In substance, Desktop
+submits that it should be seen as having taken, not form, but fact: the individual
+names, addresses, telephone numbers and subscribers’ lines of business.
+221
+As noted earlier, the Headings Books are in a special position. First, any
+copying from them was necessarily indirect. Secondly, Desktop submits that
+because it used Telstra’s headings as descriptors of subscribers’ lines of
+business rather than as headings, this affords a further reason why it did not
+infringe Telstra’s copyright in the Headings Books.
+222
+Observations on two matters may be made at once. The first concerns (again)
+the fact/form dichotomy; the second, the
+issue
+of
+sufficient
+objective
+resemblance. I have noted earlier that the well-known dichotomy in respect of
+literary
+works
+between
+form
+(copyrightable)
+and
+fact
+or
+idea
+(non-
+copyrightable) (cf Jefferys v Boosey (1854) 4 HLC 815 at 867; 10 ER 681
+at 702; Hollinrake v Truswell at 427; Hanfstaengl v HR Baines & Co Ltd
+[1895] AC 20 at 26-27; Blackie & Sons Ltd v Lothian Book Publishing Co Pty
+Ltd (1921) 29 CLR 396 at 400; Smith’s Newspapers at 596-597; Victoria Park
+
+548
+FEDERAL COURT REPORTS
+[(2002)
+
+at 498, 511; Computer Edge at 181; Autodesk Inc v Dyason (1992) 173 CLR
+330 at 344-345) can be problematical. The infringement issue in the present
+case illustrates this. In one sense, Desktop did take Telstra’s form: it accurately
+reproduced all the individual names, addresses, telephone numbers and business
+descriptions, more or less as they individually appeared in the Directories. In
+another sense it did not do so: it did not reproduce Telstra’s alphabetical
+arrangement. Moreover, in one sense Desktop took ideas: it took the ideas
+denoted by names, addresses, telephone numbers and business descriptions. In
+another sense it did not do so: it did not take the idea of alphabetical
+arrangement.
+223
+Be this as it may, as was seen earlier, form was not important in the
+attraction of copyright protection in the present case. The use of the well-
+known alphabetical arrangement was predictable, indeed inevitable. Compara-
+tively, little work went into the alphabetisation of the entries (as opposed to the
+considerable labour involved in gathering and checking the data): see [240]
+below. As will appear below, in my opinion, at least in the case of a factual
+compilation intended to be a work of utility, infringement must be tested by
+reference to the interest which copyright is intended to protect in the particular
+case. In the present case, that interest was the labour and expense of gathering
+together in the one place the details of all the members of a given universe —
+all the telephone subscribers in a region.
+224
+The element of sufficient objective resemblance can also give rise to
+difficulty. Objective resemblance has two potential roles. First, it can, in
+appropriate circumstances, give rise to an inference of actual copying. The
+House of Lords recently pointed out in Designers Guild Ltd v Russell Williams
+(Textiles) Ltd [2001] FSR 113, a case concerning an artistic work, that once
+actual copying is proved or admitted, attention must be focused on the simple
+question whether what is proved or admitted to have been taken from the
+copyright work was the whole or a substantial part of that work. In my view,
+this approach, which has been followed in Australia in relation to an artistic
+work (see Vella v Cummins (2001) 53 IPR 538), is also generally applicable to
+literary works (cf Newspaper Licensing Agency Ltd v Marks & Spencer plc
+[2001] 3 All ER 977 at 983-984). But this leaves outstanding a question as to
+the second role of objective resemblance. Ordinarily, reproduction (production
+again) requires some degree of objective resemblance between the copyright
+work and the alleged infringing work. Does this requirement apply, and if so
+how, in the case of copyright compilations of factual information? Does
+reproduction in such a case require visual resemblance? The copyright
+compilations here were in the form of alphabetical lists. Does reproduction of
+them require arrangement in the form of alphabetical listings? I address these
+questions below.
+225
+Section 10(1) of the Act provides that in the Act, unless a contrary intention
+appears, ‘‘material form’’ in relation to a work ‘‘includes any form (whether
+visible or not) of storage from which the work . . . or a substantial part of the
+work . . . can be reproduced’’. This inclusory definition of ‘‘material form’’ was
+inserted in the Act by s 3(g) of the Copyright Amendment Act 1984 (Cth).
+Absent that amendment, Telstra could not establish its case as pleaded. The
+reason is that Desktop’s CD-ROM products do not resemble, or ‘‘contain’’
+anything that resembles, any of Telstra’s three literary works or any part of any
+of them (cf Boosey v Whight [1900] 1 Ch 122; Cuisenaire v Reed [1963]
+VR 719; Computer Edge). It becomes necessary therefore, in accordance with
+
+549
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Lindgren J)
+
+the Pleading, to inquire whether it is possible to reproduce from the three CD-
+ROM products of Desktop, something which constitutes the whole or a
+substantial part of Telstra’s White Pages directories, or of its Yellow Pages
+directories, or of its Headings Books.
+226
+Desktop did not reproduce the whole of the copyright works, that is, the
+whole of the 55 White Pages Directories, the whole of the 55 Yellow Pages
+Directories or the whole of the Headings Books. By reason of s 14(1)(b) of the
+Act, the reference to reproduction of a work in s 31(1)(a)(i) is to be read as
+including a reference to the reproduction of a substantial part of a work (in the
+light of this, insofar as the inclusory definition of ‘‘material form’’ noted above
+also refers to the notion of a ‘‘substantial part’’, there is a tautology). The
+notion of ‘‘substantial’’ is not adequately understood as referring simply to
+quantity: it refers to the quality of the part taken (see, for example, Ladbroke
+at 276; 468-469 (Lord Reid), 283; 473-474 (Lord Evershed), 288; 477-478
+(Lord Hodgson), 293; 481 (Lord Pearce); S W Hart at 474 (Gibbs CJ);
+Autodesk No 2 at 305 (Mason CJ)). Probably the most important indication of
+whether a part of a work is substantial is the originality of the part. In Autodesk
+No 2, Mason CJ said (at 305) that it was important to inquire into ‘‘the
+importance which the taken portion bears in relation to the work as a whole’’
+and to ask whether it was ‘‘an ‘essential’ or ‘material’ part of the work’’, citing
+S Ricketson, The Law of Intellectual Property (1984), p 481. (Other
+considerations can also be relevant, such as, the object of the reproduction, the
+degrading effect of the defendant’s use, and any competition between the
+defendant’s work and the plaintiff’s work: see S Ricketson and C Creswell, The
+Law of Intellectual Property: Copyright, Designs and Confidential Information
+(2001) at [9.20]-[9.49] and authorities there cited.)
+
+Approach of the primary judge to the issue of infringement
+
+227
+As his Honour noted, there was a ‘‘split’’ between Desktop’s residential and
+non-residential (loosely, business) databases. Accordingly, a search for a
+business in the residential section of CD Phone Directory or of Australian
+Phone Disk would not reveal a listing. If a business subscriber appeared in the
+White Pages Directories, but not in the Yellow Pages Directories, that
+subscriber would appear in the business section of the databank with the
+business descriptor marked as ‘‘unclassified’’.
+228
+Marketing Pro, the most sophisticated and informative of the CD-ROM
+products, contained enhanced listings from the White and Yellow Pages
+Directories.
+229
+Aspects of what I have sought to describe above are exemplified by the
+graphics and accompanying text in Sackville J’s reasons for judgment at [299]-
+[310].
+230
+The primary judge addressed the issue of ‘‘sufficient objective resemblance’’
+by comparing the search results for which Desktop’s CD-ROM products were
+intended to be used, and are in fact typically used, to generate, on the one hand,
+and the copyright works on the other. This comparison led his Honour to
+consider the question whether, in the case of a copyright factual compilation,
+‘‘sufficient objective resemblance’’ necessitates visual similarity — a question
+which
+he
+answered
+in
+the
+negative.
+His
+conclusion
+was
+as
+follows
+(at 290 [109]-[110]):
+‘‘In this case, the substance of the information that has been taken from
+Telstra’s works (the directory portion of the directories and the headings
+
+550
+FEDERAL COURT REPORTS
+[(2002)
+
+that appear in the yellow pages directories and heading books) has been
+reproduced in the CD-ROMs. It must be remembered that copyright is not
+claimed for each particular entry, because copyright does not subsist in
+each individual recorded fact. It is claimed in the whole of the collected
+data, ordered in a particular way. As regards the directories, the significant
+recorded facts (name, address, telephone number, and the relevant type of
+business) are the same, or substantially the same, as they appear in
+Telstra’s works. While there are differences, they are in the detail. For
+example, when displayed on a screen, the information from the CD-ROM
+does not appear as columns on a page. But the information can be
+retrieved in alphabetical order (by postcode rather than region) and can be
+examined in much the same way as one would read a column on a page.
+The fact that the alphabetical listings are by postcode and not region, is not
+a material difference. Nor is the fact that portions of the advertisements are
+not reproduced. As regards the headings, it is true that they appear once
+only in each yellow pages directory and that the heading appears with each
+business entry in the CD-ROMs. This difference is immaterial. All the
+headings have been taken, as have all the listings beneath those headings.
+The appearance of the headings and the listings in the CD-ROMs is
+sufficiently similar to constitute a reproduction.
+The result is, and I so find, that Telstra has copyright in the white pages
+directories, yellow pages directories and headings books, the subject of
+this action, and DtMS [Desktop Marketing Systems] has infringed that
+copyright.’’
+
+An alternative approach to the issue of infringement
+
+231
+In the course of the hearing before us, the question was raised whether it was
+possible to reproduce from Desktop’s CD-ROM products, the directory portions
+of the White Pages and Yellow Pages regional telephone directories in their
+familiar alphabetical format. It was conceded that it was possible to do so in the
+case of a White Pages Directory subject to the omission of the information
+pages and non-residential (loosely, business) listings, and in the case of a
+Yellow Pages Directory, subject to the omission of the information pages,
+graphics, enhancements and advertisements.
+232
+I would resolve the issue of infringement without pursuing the present
+question further.
+
+The White Pages Directories and the Yellow Pages Directories
+
+233
+The issue of infringement in the present case raises the question in the
+context of factual compilations, of the meaning of the related questions of
+‘‘sufficient objective resemblance’’ and ‘‘substantial part’’.
+234
+In my opinion, in the case of the factual compilations with which we are
+concerned, neither concept requires visual similarity to exist as a condition of
+infringement.
+235
+In Autospin, Laddie J said that lack of visual similarity as between the
+copyright work regarded as a whole and the putative infringing copy regarded
+as a whole, does not exclude the possibility of infringement. His Lordship
+emphasised that copyright protects the material form of a literary work, not for
+its own sake, but as a means of protecting the author’s contribution to the
+creation of it, and summarised the position as follows (at 697-698):
+‘‘Copyright in a literary work, such as a written story, gives protection not
+
+551
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Lindgren J)
+
+just to the words used but may also extend to the themes and ideas
+incorporated into it if they are sufficiently substantial. For example a novel
+may be turned into a play with much of the dialogue replaced. What the
+copyright protects is the relevant work and skill embodied in the work. In
+the example given this may well include the combination of the main
+themes, incidents and characters in the story. It may be said, therefore, that
+copyright protects that combination. Both the 1956 and 1988 Acts require
+the relevant skill and effort to be fixed in some material form. Frequently
+this takes the form of words on a page. But it is not the form of fixation
+which is protected, it is the relevant skill and effort involved in creating
+the literary work.
+The type of literary work at issue in this case is a compilation. Once
+again, it is not the mere form of words or notation used which justifies
+copyright protection for a compilation, it is the author’s skill and effort
+expended in gathering together the information which it contains. For
+example, it is clear that the physical effort of writing down names and
+addresses to produce a street directory does not of itself justify the creation
+of compilation copyright in it. It is the effort and skill expended in finding
+out who lives at which addresses in which road which merits protection
+(see Kelly v Morris (1866) LR 1 Eq 697). When someone copies a
+directory he infringes because he reproduces the product of the author’s
+skill and effort in compiling information, not his literary style. The
+relevant skill may be that involved in collecting the information, selecting
+it or arranging it, or all of these. The skill and effort deployed by the
+author is not in any conventional sense ‘literary’ yet copyright protection
+is given to it and the product of the author’s endeavours is called for
+convenience a ‘literary work’. (My emphasis.)
+If those principles are applied to a case where an author has expended
+considerable skill and effort in working out the dimensions of an article
+and writing them down, the compilation so created is a literary work and
+protected by copyright. The Act (whether 1956 or 1988) then protects the
+work from being reproduced in any material form.’’ (Emphasis in
+original.)
+236
+Similarly, K Garnett, J James and G Davies state in Copinger and Skone
+James on Copyright (14th ed, 1999), vol 1 (at 7-50 on p 420) in relation to the
+taking of a substantial part of a factual compilation:
+‘‘It is irrelevant that the plan, arrangement or layout of the plaintiff’s work
+may not have been copied if the labour of compilation has been
+appropriated [Kelly v Morris; Morris v Ashbee; Moffat and Paige Ltd v
+Gill (1902) 86 LT 465 (CA); Waterlow v Rose]. The fact that the
+information in the plaintiff’s work is not available from any other source,
+as for example in case of television programme schedules or football
+fixture lists, does not excuse infringing copyright [Independent Television
+Publications Ltd v Time Out Ltd [1984] FSR 64 at 69; Football League].’’
+237
+The leading Australian textbooks on copyright are consistent with these
+views: cf J Lahore, Copyright and Designs at [34,195], [34,220] and [34,225];
+Ricketson and Creswell, The Law of Intellectual Property: Copyright, Designs
+& Confidential Information at [9.145], [9.155] and [9.165]; and cf H Laddie,
+P Prescott and M Vitoria, The Modern Law of Copyright and Designs
+(2nd ed, 1995) at [2.89] cited with apparent approval in Pacific Gaming Pty Ltd
+v Aristocrat Leisure Industries Pty Ltd (2001) 116 FCR 448 at 474 [91].
+
+552
+FEDERAL COURT REPORTS
+[(2002)
+
+238
+I would follow his Lordship and the learned authors mentioned. The relevant
+principle is that where copyright protection is attracted to a compilation of
+factual information by the labour of collecting, verifying, recording and
+assembling the data and not by reference to the form of the compilation,
+reproduction does not require formal resemblance, and the notion of a
+substantial part of the compilation is not defined by reference to its form.
+239
+It follows that the visual dissimilarity between Telstra’s and Desktop’s
+products regarded as a whole (the non-copyright details of all the individual
+subscribers’ names, addresses and telephone numbers are in fact virtually
+identical in the respective works) is not inconsistent with a finding of
+infringement of the copyright in the Directories. Other cases in which
+infringement has been found, even though the infringer added original matter of
+his or her own to what was taken from the copyright work, include Lewis v
+Fullarton (1839) 2 Beav 6; 48 ER 1080; Elanco Products and Waterlow
+Publishers Ltd v Rose, and the ‘‘scrambling’’ of data has been said not to avoid
+infringement; cf The Demerara Turf Club Ltd v Phang (1963) 6 WIR 177. In
+British Columbia Jockey Club v Standen (1985) 8 CPR (3d) 283 the British
+Columbia Court of Appeal upheld a finding of infringement of the copyright in
+a compilation of factual details of forthcoming days’ horse races, where the
+defendant took many, if not all, the details in that compilation and published
+them in a different form. The Court relied on H Laddie, P Prescott and
+M Vitoria, The Modern Law of Copyright (1980) at [2.65] (the passage in the
+first edition comparable to that cited by me above), where it was said that the
+merit of a compilation may reside in the painstaking labour of assembling facts
+(as in the case of a directory) and that the copyright in such a work may be
+infringed by ‘‘appropriating an undue amount of the material, although the
+language employed be different or the order of the material be altered’’.
+240
+It would be odd that Telstra should fail on infringement because Desktop did
+not reproduce the details of subscribers in the form of an alphabetical list.
+Adapting what Gleeson CJ, McHugh, Gummow and Hayne JJ said of the
+alphabetical arrangement of the Reserved Words in Data Access at 35, very
+little skill or labour was involved in putting the details of subscribers in the
+alphabetical form in which they appeared in the Directories over and above the
+sum of the labour involved in collecting, verifying and recording the details of
+all the individual subscribers.
+241
+Either one of two approaches to the question leads to the result that it was an
+infringement to reproduce, in whatever form, the details of all the subscribers.
+One approach is, as suggested above, to identify that which is not to be taken as
+that which made Telstra’s works original and therefore attracted copyright
+protection to them. An alternative approach is to subtract the alphabetical
+format and to accept that what remains must be that which is original and not to
+be taken.
+242
+What did Desktop copy from the White Pages Directories? It copied the
+names, addresses and telephone numbers of all subscribers. It did not copy the
+information pages. The subscriber details copied represented those of all of the
+subscribers. This suffices to show that Desktop has reproduced the original
+aspect, and therefore a substantial part, of the White Pages Directories.
+243
+But Desktop did not merely take quantitatively many pieces of factual
+information. It took the benefit of Telstra’s whole-of-universe certification. By
+taking that benefit it was able to certify that its own CD Phone Directory and
+Australian Phone Disk products based on the White Pages Directories
+
+553
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Lindgren J)
+
+contained details of all listed subscribers. Moreover, those products of
+Desktop’s conveyed intelligible information: indeed, a user could, inter alia,
+ascertain the address and telephone number of a residential subscriber, in fact,
+the names, addresses and telephone numbers of all residential subscribers, more
+or less as he or she could do by using a regional White Pages Directory.
+244
+For the above reasons, Desktop reproduced by means of its CD Phone
+Directory and Australian Phone Disk products, a substantial part of the White
+Pages Directories.
+245
+What did Desktop copy from the Yellow Pages Directories? It copied all
+names, addresses and telephone numbers of the subscribers (all business)
+recorded in those Directories as well as many of the headings recorded there. It
+did not copy information pages, graphics, enhancements or advertisements. The
+subscriber details taken represented all the subscriber details recorded in the
+Yellow Pages Directories.
+246
+Generally for the reasons I have just given in relation to the White Pages
+Directories, I would also conclude that by means of its CD Phone Directory and
+Australian Phone Disk products based on the Yellow Pages Directories and its
+Marketing Pro product, Desktop reproduced a substantial part of the Yellow
+Pages Directories.
+
+The Headings Books
+
+247
+The primary judge found as follows (at 142 [27]):
+‘‘[Desktop] makes some changes to the headings that Telstra uses.
+There is a conflict in the evidence concerning the degree of overlap. It is
+not necessary to resolve the conflict. It is sufficient to note that around
+95 per cent of the headings used by [Desktop] are identical to the headings
+used by Telstra and that only approximately 0.36 per cent of [Desktop’s]
+headings are unique. Except for some minor variations it was not seriously
+in dispute that [Desktop] has adopted Telstra’s headings.’’
+248
+I infer that Desktop took all or most of the headings which appeared in the
+Yellow Pages Directories.
+249
+It is not suggested that Desktop’s copying was not exact or that the headings
+in the Yellow Pages Directories were not those in the Headings Books.
+Therefore, I infer that Desktop took all or most of the headings in the Headings
+Books.
+250
+Desktop submits that it did not infringe Telstra’s copyright in the Headings
+Books for two reasons: first, the visual dissimilarity between its numerous
+individual statements of lines of business and Telstra’s alphabetical list of
+headings; and, secondly, because Desktop did not use the words it took as
+headings.
+251
+I reject the visual dissimilarity submission for the reasons I gave above for
+rejecting that submission in relation to the taking of the details of subscribers.
+252
+Just as the appearance in the CD-ROM products of that which Desktop took
+from Telstra’s works is an irrelevancy, so is the use which Desktop made of it.
+That is to say, like visual resemblance, resemblance of use is not a necessary
+element of reproduction of a substantial part of Telstra’s factual compilations.
+253
+It was not their alphabetical arrangement or their designation as headings that
+attracted copyright protection to the compilation of headings constituting the
+Headings Books. Rather, it was the labour of building up the collection (of
+headings). Desktop appropriated the benefit of all or most of that labour.
+254
+Accordingly, by parity of reasoning with my reasons for concluding above
+
+554
+FEDERAL COURT REPORTS
+[(2002)
+
+that Desktop reproduced a substantial part of the White Pages Directories and a
+substantial part of the Yellow Pages Directories, it also reproduced a substantial
+part of the Headings Books, and so infringed Telstra’s copyright in those
+Books.
+
+Conclusion
+In my opinion, for the above reasons the appeal should be dismissed with
+255
+costs.
+
+SACKVILLE J.
+
+The appeal
+The principal questions in this appeal are whether the respondent (Telstra) is
+256
+entitled to copyright in its White Pages and Yellow Pages telephone directories
+and, if so, whether the appellant (Desktop) has infringed Telstra’s copyright.
+The alleged infringing works comprise three CD-ROM computer software
+products (CD-ROM products) known, respectively, as ‘‘Marketing Pro’’,
+‘‘Australian Phone Disk’’ and ‘‘CD Phone Directory’’. Each CD-ROM stores
+what was described in evidence as ‘‘Yellow and White pages listing data’’. The
+CD-ROM products are essentially marketing tools which enable the user to
+search the respective databases in a variety of ways and to reproduce the results
+of searches.
+On 7 May 1999, the primary judge made an order that all issues arising from
+257
+pars 1-14 of the further amended statement of claim (FASC) and pars 1-14 of
+the defence be heard and determined separately and prior to all other issues. In
+substance, these paragraphs concern Telstra’s claim to hold copyright in certain
+White Pages and Yellow Pages directories and in so-called ‘‘headings books’’
+and its allegation that Desktop infringed its copyright by producing and selling
+the CD-ROM products. Telstra claimed copyright in White Pages and Yellow
+Pages directories for 55 geographic areas, published between 1996 and 1999,
+and headings books produced between 1996 and 1998. The declaratory relief
+sought by Telstra relates only to CD-ROM products produced by Desktop in
+respect of periods between the calendar years 1996 and 1998 and the financial
+year 1998/1999.
+The primary judge resolved Telstra’s pleaded claim to copyright in its
+258
+favour: Telstra Corporation Ltd v Desktop Marketing Systems Pty Ltd (2001)
+181 ALR 134 (Telstra v Desktop (No 1)). His Honour also held that Desktop
+had infringed Telstra’s copyright by producing the CD-ROM products. He
+subsequently made declarations to the following effect (Telstra Corporation
+Ltd v Desktop Marketing Systems Pty Ltd (No 2) [2001] FCA 814 (Telstra v
+Desktop (No 2)):
+1.
+Copyright
+subsists
+in
+the
+White
+Pages
+directories,
+Yellow
+Pages
+directories and headings books identified in Telstra’s FASC.
+2.
+Telstra is and at all material times was the owner of the copyright.
+3.
+By producing the CD-ROM products without the licence of Telstra,
+Desktop infringed Telstra’s copyright in the directories and headings
+books in the manner specified in the Annexure to the FASC.
+4.
+By possessing the CD-ROM products, Desktop wrongfully converted them
+to its own use.
+These declarations do not finally determine the proceedings commenced by
+259
+Telstra. His Honour did not resolve Telstra’s claim that Desktop had also
+infringed its copyright by selling the CD-ROM products and by authorising the
+
+555
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Sackville J)
+
+production of lists and other documents containing material from the CD-ROM
+products. While that claim appears to have been the subject of the order for
+separate trial, further issues were apparently identified after his Honour
+delivered judgment, but before the declarations were made. Moreover, by
+reason of the order for a separate trial, Telstra’s allegation that the second
+respondent (Mr Scibor-Kaminski), Desktop’s Managing Director, authorised or
+procured the infringing conduct, has not yet been addressed. Similarly, a cross-
+claim by Desktop alleging that Telstra wrongfully claimed infringement of
+copyright has not yet been considered by the primary judge, although the
+declarations, if they stand, presumably remove the foundation for Desktop’s
+cross-claim. Finally, the primary judge has not yet considered Telstra’s claim
+for injunctive relief, damages and an account of profits.
+260
+Since the declarations made by the primary judge do not dispose of the
+whole of the proceedings, his Honour took the view that the declaratory orders
+were interlocutory in character: Telstra v Desktop (No 2) at [4]. The primary
+judge granted Desktop leave to appeal pursuant to s 25(2) of the Federal Court
+of Australia Act 1976 (Cth). Desktop’s notice of appeal was duly filed pursuant
+to that leave. Telstra filed a notice of contention, to which reference will be
+made later.
+261
+The notice of appeal does not name Mr Scibor-Kaminski as an appellant nor,
+for that matter, as a respondent. The absence of Mr Scibor-Kaminski as a party
+to the appeal was drawn to the attention of counsel, but Desktop did not seek to
+join him and Telstra made no objection to the appeal being heard without
+Mr Scibor-Kaminski being joined.
+262
+During the hearing of the appeal Mr Nettle QC, who appeared with
+Mr McGowan for Desktop, sought leave to amend the notice of appeal. The
+effect of the proposed amendment was to seek modification of the declarations
+made by the primary judge, so as to incorporate a declaration that the year 2000
+edition of the CD-ROM products did not infringe Telstra’s copyright.
+According to Mr Nettle, the point of the amendment was to invite this Court to
+make findings that, even if Desktop’s pre-2000 editions had infringed Telstra’s
+copyright, Desktop had made sufficient changes to prevent any finding of
+infringement being made in respect of the 2000 editions.
+263
+The declarations made by the primary judge, reflecting the relief sought in
+the FASC, refer only to pre-2000 CD-ROM products. Desktop’s cross-claim
+does not seek relief in respect of the year 2000 edition of the CD-ROM
+products. The primary judge, not surprisingly, made no findings about the 2000
+edition of the CD-ROM products. Dr Emmerson QC, who appeared with
+Mr Ryan for Telstra, told the Court that had an issue concerning the 2000
+edition of the CD-ROM products been raised by the pleadings or at the trial,
+Telstra would have led further evidence at the trial. In these circumstances, the
+Court refused leave to amend the notice of appeal.
+
+Legislation
+
+264
+Telstra commenced the proceedings on 18 January 1999. As I have noted, it
+complained of conduct by Desktop during the period from 1996 to 1999. The
+relevant provisions of the Copyright Act 1968 (Cth) in force during that period
+are referred to below.
+265
+The Copyright Act was enacted by the Commonwealth Parliament pursuant
+to the power conferred by s 51(xviii) of the Constitution of the Commonwealth.
+
+556
+FEDERAL COURT REPORTS
+[(2002)
+
+Section 51(xviii) confers power on the Parliament to make laws with respect to
+‘‘Copyrights, patents of inventions and designs, and trade marks’’.
+Section 8 of the Copyright Act provides that, subject to a presently irrelevant
+266
+exception, copyright does not subsist otherwise than by virtue of the Act.
+Section 32(1) provides that, subject to the Copyright Act:
+‘‘copyright subsists in an original literary, dramatic, musical or artistic
+work that is unpublished and of which the author:
+(a)
+was a qualified person . . .’’
+A ‘‘qualified person’’ includes an Australian citizen or a person resident in
+Australia: s 32(4). Section 32(2) of the Copyright Act states that, subject to the
+Act:
+‘‘where an original literary, dramatic, musical or artistic work has been
+published:
+(a)
+copyright subsists in the work;
+. . .
+if, but only if,
+(c)
+the first publication of the work took place in Australia;
+(d)
+the author of the work was a qualified person at the time when
+the work was first published; or
+. . .’’
+A reference in the Copyright Act to ‘‘the author of a work’’ is generally to be
+read, in the case of a work of joint authorship, as a reference to all the authors
+of the work: s 78. The references in s 32 to ‘‘the author of a work’’ are, in
+relation to a work of joint authorship, to be read as references to any one or
+more of the authors: s 79.
+267
+‘‘Literary work’’ was defined by s 10(1) at the relevant times to include:
+‘‘(a) a table or compilation, expressed in words, figures or symbols (whether or
+not in a visible form) . . .’’ It should be noted that the definition of ‘‘literary
+work’’, prior to the amendments effected by the Copyright Amendment Act
+1984 (Cth), included ‘‘a written table or compilation’’. The current definition
+extends to compilations stored in electronic form.
+268
+In general, the author of a literary work is the owner of any copyright
+subsisting in the work: Copyright Act, s 35(2). This is, however, subject, inter
+alia, to s 35(6) which provides that where a literary work is made by the author
+in pursuance of the terms of his or her employment by another person under a
+contract of service, that person is the owner of any copyright subsisting in the
+work.
+269
+The copyright in a literary work is infringed by a person who, not being the
+owner of the copyright, and without the licence of the owner, does in Australia
+any act comprised in the copyright: s 36(1). Section 31(1) of the Copyright Act
+provides that for the purposes of the Act, unless the contrary intention appears:
+‘‘Copyright, in relation to a work, is the exclusive right:
+(a)
+in the case of a literary, dramatic or musical work; to do all or
+any of the following acts:
+(i)
+to reproduce the work in a material form;
+. . .’’
+The expression ‘‘material form’’, in relation to a work, is defined in s 10(1) to
+include:
+‘‘any form (whether visible or not) of storage from which the work or
+adaptation, or a substantial part of the work or adaptation, can be
+reproduced.’’
+
+557
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Sackville J)
+
+This
+definition
+of
+‘‘material form’’
+was
+introduced
+by
+the
+Copyright
+Amendment Act.
+270
+Section 14(1)(b) of the Copyright Act provides that unless a contrary
+intention appears:
+‘‘a reference to a reproduction, adaptation or copy of a work shall be read
+as including a reference to a reproduction, adaptation or copy of a
+substantial part of the work, as the case may be.’’
+
+The issues
+
+271
+Telstra claimed copyright in the White Pages and Yellow Pages directories
+under s 32(2) of the Copyright Act. Telstra’s case, both at trial and on appeal,
+was that the White Pages and Yellow Pages directories were literary works,
+being compilations expressed in words, figures or symbols, first published in
+Australia. Telstra claimed copyright in the headings books under s 32(1) of the
+Copyright Act, as unpublished literary works, being compilations of which the
+author was a qualified person at the relevant time.
+272
+Desktop raised no issue either at trial or on the appeal as to whether Telstra
+had shown that the telephone directories or the headings books had one author
+or joint authors. As his Honour noted, the trial (and, I would add, the appeal)
+was conducted on the basis that it was unnecessary for Telstra to establish that
+the directories or headings book had a particular author or joint authors or,
+alternatively, on the basis that all those involved in its preparation were joint
+authors who had acted in pursuance of their terms of employment: cf Waterlow
+Publishers Ltd v Rose (1989) 17 IPR 493 at 500, per Slade LJ (defining the
+author of a compilation as ‘‘the person who gathers or organises the collection
+of material and who selects, orders and arranges it’’). It is not necessary for me
+to consider whether this assumption is correct.
+273
+In substance, Desktop conceded that each condition for the establishment of
+copyright had been satisfied, save for the requirement that the directories and
+headings books be ‘‘original’’ literary works. Desktop’s position was that the
+mere ‘‘industrious collection and arrangement in a trite format of publicly
+available information’’, as distinct from an intellectual contribution in terms of
+selection or arrangement of a compilation, could not satisfy the requirement of
+originality. Desktop conceded that some parts of the published directories
+enjoyed copyright, such as the introductory and information pages, cover
+artwork, indexes and advertising artwork. But, so Desktop argued, it had
+merely taken the subscriber listing data (names, addresses and telephone
+numbers) from the White Pages and Yellow Pages directories; it had not taken
+anything in respect of which copyright subsisted. Desktop acknowledged that,
+in addition to taking the subscriber listing data, it had used Telstra’s Yellow
+Pages headings (derived from the headings books) in the arrangement of the
+data in electronic form. But it contended that the headings were insufficiently
+original in the relevant sense to attract copyright.
+274
+There was reference in argument to Telstra claiming copyright in a ‘‘whole
+of universe’’ compilation. The ‘‘universe’’ was identified as all residential and
+business telephone subscribers (other than those with silent numbers), as
+recorded in each of Telstra’s directories. In theory, anyone independently
+compiling a list of all such subscribers would produce (doubtless after a very
+great deal of work and effort) an identical list to that published by Telstra in its
+directories. Moreover, there would be little option but to present the
+
+558
+FEDERAL COURT REPORTS
+[(2002)
+
+information in alphabetical order according to the names of subscribers. It was
+in this sense that the compilation was of the whole universe.
+275
+It was common ground before the primary judge that the directories and
+headings books in respect of which Telstra claimed copyright were not the first
+directories or headings books published or compiled by it. The case was,
+however, argued at trial and on the appeal on the basis that sufficient changes
+had been made to the later directories and headings books to enable copyright
+to subsist, if the works themselves were capable of being the subject-matter of
+copyright.
+276
+It was also common ground on the appeal that if Telstra was correct in its
+contention that ‘‘industrious collection’’ was enough for copyright to subsist in
+a compilation of facts, Telstra’s investment of labour and expense was
+sufficient to exceed any quantitative threshold requirement. In other words,
+Desktop did not submit that if (contrary to its position) ‘‘industrious
+collection’’ was enough to satisfy the requirement of originality in relation to a
+compilation of directory information, Telstra had not invested substantial labour
+and resources in compiling the information.
+277
+Desktop did dispute, however, that it had infringed copyright, assuming
+(contrary to its contentions) that Telstra had copyright in the directories as
+compilations. The issues relating to infringement appear from the parties’
+submissions summarised later.
+
+The factual background
+
+278
+Subject to some minor exceptions, the parties did not challenge the primary
+facts found by his Honour, although there was disagreement as to the inferences
+to be drawn from the facts. The following account is drawn largely from his
+Honour’s findings, although I have added some material which was referred to
+in the course of the appeal.
+
+Telstra’s functions
+
+279
+Telstra, then known as Australian and Overseas Telecommunications
+Corporation Limited, was incorporated under the Corporations Law of the
+Australian Capital Territory. Prior to the coming into force on 1 July 1997 of
+most of the provisions of the Telecommunications Act 1997 (Cth), Telstra’s
+functions included controlling all domestic telephone services, a role previously
+performed by the Australian Telecommunications Commission and, before that,
+by the Postmaster-General. Since Telstra claimed copyright in directories and
+headings books published or prepared before 1 July 1997, some of the material
+in respect of which copyright was said to subsist came into existence at a time
+when Telstra effectively had a monopoly over the provision of telephone
+services in Australia.
+280
+One of the objects of the Telecommunications Act is to provide a regulatory
+framework that promotes the efficiency and international competitiveness of the
+Australian telecommunications industry: s 3(1). To that end, the legislation
+permits competition in the provision of telephone services and provides for the
+issue of carrier licences: ss 52, 56, 57. Telstra is the holder of a carrier licence
+and, as such, is subject to the conditions attaching to the licence: s 63. Telstra is
+required, inter alia, to produce an ‘‘alphabetical public number directory’’
+annually in volumes by geographic area, on the same basis as it produced a
+directory in 1997: Carrier Licence Conditions (Telstra Corporation Limited)
+Declaration 1997, cl 9(1). Telstra is obliged to publish and distribute the
+
+559
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Sackville J)
+
+directory to its own customers and to the customers of other carriage service
+providers without charge: cl 9(2), (3). There has never been any obligation on
+Telstra to publish Yellow Pages directories, either before or after the
+Telecommunications Act came into force, but there have always been good
+commercial reasons for it to do so.
+281
+As from 1998, Telstra has also been required to establish and maintain an
+industry-wide integrated public number database (IPND), to provide infor-
+mation connected with, inter alia, publishing ‘‘public number directories’’ (an
+expression which includes classified business directories like the Yellow
+Pages): cl 10(1), (2). The database must include the public telephone number,
+name and address of a customer of each carriage service provider: cl 10(4). The
+database is available to other carriage service providers for certain purposes,
+including the production by that provider of a public number directory:
+cl 10(7).
+
+The directories and headings books
+
+282
+Telstra has published every year a White Pages and a Yellow Pages directory
+for each of 55 geographic areas. In some areas, such as capital cities, the White
+Pages and Yellow Pages directories are published separately, while in others
+they are bound in the one volume.
+283
+Each White Pages directory published during the relevant period contains a
+section of ‘‘information pages’’ comprising text and artwork. The information
+pages include, for example, a list of emergency telephone numbers, information
+about international and operator assisted telephone calls and lists of area codes,
+post codes and government and community services. A White Pages directory
+also lists in alphabetical order the names, addresses and telephone numbers of
+all subscribers in the area, apart from those with a ‘‘silent’’ number. Each
+subscriber is entitled to a basic listing free of charge but may purchase a more
+prominent listing, such as one in bold type. The listings in a White Pages
+directory include both residential and business subscribers. In the course of
+argument, it was suggested that business entries amount to something in the
+order of 10 per cent of all listings in the White Pages. While this was not the
+subject of a finding by the primary judge, the parties appeared to be content to
+proceed on the basis that this was a reasonable estimate.
+284
+A Yellow Pages directory also has information pages. The directory itself is
+a listing of businesses grouped under headings describing the business activity.
+The headings appear alphabetically and businesses are listed, also alphabeti-
+cally, underneath the appropriate heading together with their address and
+telephone number. A business that is listed in a White Pages directory for a
+particular area is entitled to one free listing in the Yellow Pages directory for
+that area, although it appears that not all businesses avail themselves of this
+entitlement. A business subscriber may purchase an enhanced entry in the
+Yellow Pages directory. Typically an enhanced entry is one where the business
+name is printed in bold in a box, as part of an advertisement, or is placed under
+more than one heading. In some Yellow Pages directories as many as
+35 per cent of subscribers have purchased enhanced entries. The income
+derived from the sale of enhanced entries in the Yellow Pages directory covers
+the cost of producing both the White Pages directory and the Yellow Pages
+directory and returns a profit. Telstra also sells enhanced entries in the White
+Pages.
+285
+When a person takes out a new subscription for a telephone line, that
+
+560
+FEDERAL COURT REPORTS
+[(2002)
+
+person’s name, address and telephone number are entered into a computer
+program known as ‘‘Axis’’. This program was developed for Telstra at
+considerable cost to replace an earlier, less satisfactory program. When the
+subscriber information is entered into Axis, it is classified into entries that must
+be manually edited (such as silent numbers) and those that do not need editing.
+The latter entries are formatted by editors. Axis transfers the information to
+another database, known as ‘‘Condor’’, which stores all residential and
+business listings. The information in Condor is verified. If an entry is rejected it
+is manually checked. The Condor program sorts the listings into alphabetical
+order. To deal with unusual names or those presenting classification problems
+(for example, those beginning with Mc or Mac), an editor can override the
+program. The entries are subjected to further processing, principally to correct
+errors notified by subscribers or by directory assistance operators.
+The information in Condor is transferred to a graphics compilation and
+286
+typesetting system where the printing process begins. Editors proofread every
+line of the proof pages to detect error, including errors in formatting and layout
+as well as checking once again for silent numbers. If any changes have to be
+made before printing, the production department makes them by means of a
+graphics compilation and typesetting system. Unlike Condor, this system has no
+validation process, so that all entering has to be done manually. When
+corrected, the proof pages are sent to the publisher, which produces the printing
+plates from them; from these plates it prints the directories. The pages are then
+bound and dispatched for distribution.
+A Yellow Pages directory is produced in much the same way as a White
+287
+Pages directory. There are, however, some differences. First, it is necessary to
+choose the heading under which each entry is to appear. According to the
+primary judge, it is generally the subscriber who chooses the heading from
+those made available by Telstra, in some cases after recommendation by a
+salesperson who is trained to sell advertising space. Secondly, Telstra has sales
+staff who solicit businesses for enhanced entries and advertisements. The staff
+are trained to deal with subscribers’ requirements as well as to take account of
+Telstra’s interests. Thirdly, the graphics that appear in advertisements in a
+Yellow Pages directory are not stored in Condor, but in a separate database.
+Three different categories of Yellow Pages directories are produced: a
+288
+metropolitan directory, a regional directory and a local directory. The headings
+differ among the three categories. The various headings are taken from the
+unpublished headings books, one of which exists for each category of Yellow
+Pages directory. The headings books are intended to cater for all businesses and
+industries; to produce appropriate groupings for particular business entries (for
+example retail or wholesale); to be sufficiently specific but not too narrow; to
+use appropriate language; and to reflect regional and national usage.
+Each headings book contains an alphabetical list of headings below which
+289
+there is a list of ‘‘see also’’ and ‘‘cross reference’’ headings, as well as ‘‘allied
+headings’’. The primary judge illustrated this by reference to an entry in the
+headings book for the 1998 Melbourne Yellow Pages:
+
+561
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Sackville J)
+
+‘‘ACCOMMODATION INQUIRY SERVICES
+
+See also Flats — Agents
+REAL ESTATE AGENTS
+Flat Sharing
+Holiday Accommodation
+House Sharing
+Share Accommodation.’’
+
+In this example, the primary heading is ‘‘Accommodation Inquiry Services’’;
+this heading appears in the directory. The entry ‘‘See also Flats — Agents’’
+means that the Yellow Pages directory contains listings under this heading,
+where similar businesses are listed. The heading in capitals ‘‘REAL ESTATE
+AGENTS’’ (an allied heading) means that the Yellow Pages directory contains
+listings under this heading, but that the businesses might be slightly different.
+The cross-references to ‘‘Flat Sharing’’, ‘‘Holiday Accommodation’’, ‘‘House
+Sharing’’, and ‘‘Share Accommodation’’, indicate that the Yellow Pages
+directory contains these entries in its index, but not in the body of the directory.
+The index refers the user to related primary headings. The sales staff use
+primary headings to inform businesses of possible headings. They use the allied
+headings to suggest to subscribers other categories where a listing could be
+placed if the subscriber does not wish to be listed under the suggested heading
+or wishes to be listed under multiple headings.
+290
+Headings books have been developed over many years. Until 1995 an
+internal committee, the Yellow Pages National Headings Committee, was
+responsible for updating the Headings Books. In 1995 a private contractor was
+engaged to undertake that work on the basis that any copyright would be
+assigned to Pacific Access Pty Ltd, a wholly-owned subsidiary of Telstra. Each
+headings book is revised annually. Requests for changes to headings are usually
+made by the listed entities, users, industry associations, regulatory bodies or
+government departments. In recent years, more than 700 requests for change
+have been received annually. On rare occasions, the Committee makes changes
+on its own initiative as a result of directory research, changes in terminology
+and anticipated needs of users and advertisers.
+291
+In deciding whether to make a requested alteration, the Committee considers
+whether others had made similar requests and how the proposed change would
+affect current listings (if the change is minor, such as the insertion of a cross-
+reference, the Committee is more willing to make the change). The Committee
+also surveys households and companies affected, consults The Macquarie
+Dictionary and sometimes conducts research. Telstra also has an on-line
+product similar to the Yellow Pages directory and a voice operated Yellow
+Pages directory. The Committee takes into account the search requests made by
+users of these products when considering changes. Long experience with the
+headings structure is considered to be important, because only those with
+experience can gauge a proposed change’s significance. In deciding whether to
+make a change, consideration is given to a number of matters: the subscriber’s
+wishes; an assessment of what readers of the directory will find most useable;
+the effect on completeness of coverage; and the financial implications of the
+change. There may be a financial impact if an additional heading is created or if
+two or more headings are combined. Usually somewhere between 10 and 40
+changes are made each year.
+
+562
+FEDERAL COURT REPORTS
+[(2002)
+
+292
+The uncontested evidence showed that there was a total of approximately
+8.5 million residential, business and governmental listings stored in the
+computer database for the 55 White Pages directories in 1996, while there were
+8.8 million listings in 1997 and 10 million in 1998. Telstra spent approximately
+$311 million between 1995 and 1997 on publishing the White Pages
+directories. In 1997, for example, Telstra spent $36 million on ‘‘service order
+information’’,
+development
+and
+operation
+of
+the
+Condor
+systems
+and
+‘‘processing functions’’ (mostly editors’ wages). In the same year, $68 million
+was spent on printing and distribution of the directories.
+293
+The number of businesses with listings in the Yellow Pages directories
+varied from approximately 892,000 in 1995 to 936,000 in 1998. In the latter
+year, there were around 604,700 free (or simple) listings in the Yellow Pages
+while some 332,000 businesses bought display advertisements or enhanced
+listings.
+
+The CD-ROM products
+
+294
+There are a number of differences between Telstra’s directories and the CD-
+ROM products. The most obvious is the form in which the information is
+presented. Each Telstra directory covers a particular geographic area. The
+listing of subscribers in the White Pages directories is in alphabetical order,
+according to the subscribers’ names. The listings in the Yellow Pages
+directories
+are
+under
+business
+headings,
+with
+subscribers
+being
+listed
+alphabetically under each heading (although the text also includes advertise-
+ments placed by subscribers). On the other hand, each of the CD-ROM
+products stores data on an Australia-wide basis. In the case of Desktop’s most
+basic product, CD Phone Directory, the display in what was described in
+argument as the ‘‘default mode’’ is by postcode number, with subscribers listed
+in alphabetical order under each postcode number. Of course, depending on the
+sophistication of the particular CD-ROM product, the data can be searched and
+displayed in many different ways. I shall explain later the functioning of each
+of the CD-ROM products and set out several Telstra entries and their Desktop
+counterparts.
+295
+The primary data used to produce Desktop’s CD-ROM products are taken
+from Telstra’s White Pages and Yellow Pages directories. A Sydney company,
+not associated with Desktop and not a party to the present proceedings, sends
+every directory to the Philippines, where a large team punches the listed names,
+addresses and telephone numbers into a computer. The information punched
+into the computer is changed in various respects. Certain abbreviations are
+expanded (for example, ‘‘Rd’’ becomes ‘‘Road’’), the subscriber’s State is
+included and the information is formatted to enable it to be processed. The
+information is processed in Australia and then provided to Desktop in
+electronic form, usually on a computer disk. The information provided to
+Desktop does not include that contained in the directories’ information pages or
+indexes; nor does it include any of the graphics or advertisements from the
+directories.
+296
+Desktop loads the data it receives into its computer system. The primary
+judge found that Desktop carries out ‘‘some cursory validation of the data’’, but
+does not undertake any significant checking. (Desktop said that this finding was
+‘‘unfair’’, but the evidence referred to in its written submissions does not
+suggest that his Honour’s finding was incorrect.) Desktop then adds data, such
+as the appropriate industry code for business listings (using the American
+
+563
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Sackville J)
+
+Standard Classification Code and its Australian and New Zealand counterparts),
+number of employees, facsimile number, longitude and latitude of the
+subscriber’s address, and Ausdoc DX number. The information is updated if
+errors are identified.
+297
+Desktop makes some changes to the headings used by Telstra in its Yellow
+Pages. The primary judge found, however, that around 95 per cent of what he
+described as the ‘‘headings’’ used by Desktop at the relevant time were
+identical to the headings used by Telstra and that only approximately
+0.36 per cent of Desktop’s headings were unique. Desktop did not dispute this
+finding, but Mr Nettle pointed out that the ‘‘headings’’ simply constituted one
+means by which the information in the database could be searched and the
+results displayed (that is, by ‘‘Line of Business’’).
+298
+Each of the three CD-ROM products stores what the primary judge described
+as ‘‘Yellow and White Pages listings data’’. Each is also produced in two
+versions: residential listings and business listings. In fact, the data for the
+residential version of each CD-ROM product is derived from the White Pages
+directories (omitting the business entries recorded in those directories). Subject
+to a qualification I shall mention, data for the business version of each CD-
+ROM product are derived from the Yellow Pages directories.
+299
+The product known as ‘‘CD Phone Directory’’ contains the names, addresses
+and telephone numbers of all telephone subscribers in Australia. The names are
+listed alphabetically within each postcode number, and the postcodes are
+ordered sequentially, beginning with 0800 for Darwin. A person wishing to
+obtain the address or telephone number of a subscriber can search by name. If
+there is more than one subscriber with that name, the name, address and
+telephone number will be displayed in postcode order, and alphabetically within
+each postcode.
+300
+Desktop’s second product, known as ‘‘Phonedisk’’, contains the same
+information as the CD Phone Directory but the searching functions are more
+sophisticated. For example, the data may be searched by telephone number to
+obtain the name and address of a subscriber (a ‘‘reverse’’ search). It is also
+possible to search for subscribers within a particular postcode, and by proximity
+to a post office. Once a search has been conducted, the result can be printed or
+saved.
+301
+The third product, known as ‘‘Marketing Pro’’, is the most commercially
+valuable product. Marketing Pro consists of eight different editions representing
+different geographical areas. There is one national edition, four state editions
+and three city editions. The product is said to store ‘‘enhanced Yellow and
+White pages listing data’’. Although his Honour referred to businesses being
+‘‘grouped by type as in the Yellow Pages’’, it appears more accurate to say that
+each business is tagged with a label or descriptor which enables a user to
+manipulate the database by group. As already noted, business listings in
+Marketing Pro are classified both by type of business (as in the Yellow Pages
+directory)
+and
+by
+recognised
+business
+classification
+codes.
+When
+the
+information is available, a business entry will include the number of employees;
+a notation indicating the size of the advertisements the business has placed in
+the Yellow Pages directory; the Ausdoc DX and facsimile number; and a
+designation indicating whether or not the business wishes to be canvassed for
+marketing purposes.
+302
+His Honour found (at 167-168 [109]) that the information stored on
+desktop’s CD-ROMs can be retrieved in alphabetical order, by postcode rather
+
+564
+FEDERAL COURT REPORTS
+[(2002)
+
+than by region, and can be examined in much the same way as one would read
+a column on a page. In the course of oral argument, the Court was given
+demonstrations of the manner in which information can be retrieved from
+Desktop’s CD-ROMs by users. Some points arising from those demonstrations
+should be noted.
+303
+As I have observed, the residential listings version of each of the CD-ROMs
+is derived from Telstra’s White Pages directories. A user is able to display or
+print out an alphabetical list of entries in the residential version of each CD-
+ROM. Mr Nettle acknowledged that a user, at least of the most sophisticated
+product, could display or print out an alphabetical listing of residential entries
+that correspond to those in a particular White Pages directory, such as the one
+for Melbourne. The alphabetical listing would not, however, be identical to that
+appearing in the Melbourne White Pages. It would not, for example, include the
+business listings appearing in the White Pages. Nor would it reproduce entries
+in the same form as they appear in the White Pages: for example, entries
+appearing in bold in the White Pages would not appear in that form in the
+listing of entries derived from the CD-ROM. Nonetheless, the information
+stored on the CD-ROM can be manipulated to reproduce all residential entries
+in a particular White Pages directory in alphabetical order.
+304
+Subject to one qualification, the data stored on the business version of each
+of Desktop’s CD-ROMs are derived from the Yellow Pages directories. The
+qualification is that there are apparently a relatively few entries in the business
+CD-ROM which are derived from the White Pages directories. Thus a business
+entry in a White Pages directory, which has no counterpart in the Yellow Pages
+directory, will appear in the business version of each CD-ROM. An example
+given in argument was the listing for the corporate office of Coles Myer Ltd, an
+entry for which appears in the Melbourne White Pages, but not in the
+Melbourne Yellow Pages.
+305
+The data stored on Desktop’s business CD-ROMs can be manipulated by a
+user to reproduce, in alphabetical order, all entries under a particular heading in
+a particular Yellow Pages directory, such as all ‘‘Barristers’’ listed in the
+Melbourne Yellow Pages. We were told that in the case of Marketing Pro, the
+most sophisticated of Desktop’s products, all listings under a particular
+descriptor or heading can be printed out. In the case of the less sophisticated
+products, each entry under a particular heading or descriptor can be displayed
+on the screen successively and can be printed out individually. Of course, the
+material reproduced from Desktop’s business CD-ROMs will not include the
+advertisements appearing in the Yellow Pages directories or any artwork.
+
+A comparison
+
+306
+In the context of considering whether Desktop had reproduced Telstra’s
+works, the primary judge set out a number of entries appearing in the
+directories and the counterpart entries stored in the CD-ROM products, as
+displayed in what can be described as ‘‘default mode’’. It is convenient to
+reproduce those entries here. As his Honour pointed out, the examples were
+intended to be representative, but do not necessarily cover the field.
+307
+The first example was taken from the 1997 Yellow Pages directory for
+Nowra & Districts under the heading ‘‘Air Conditioning-Automotive’’ and the
+Nowra 1997 CD Phone Directory, the most basic of Desktop’s three products:
+
+565
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Sackville J)
+
+The residential listings in CD Phone Directory, which are taken from the White
+Pages directories, are displayed in similar format, but lack the ‘‘Lines of
+Business’’ information.
+
+308
+
+The second example is from Telstra’s 1997 Yellow Pages for Warragul &
+Districts under ‘‘Motor Engineers & Repairers’’ and the corresponding entry in
+Desktop’s Warragul, 1997 Phonedisk:
+
+Phonedisk listings taken from the White Pages directories are similar, but
+simply record ‘‘UNCLASSIFIED’’ for the ‘‘Type of Business’’ category.
+
+309
+
+The third example is from the 1998 Melbourne Yellow Pages under ‘‘Auto
+Parts Recyclers’’ and the corresponding entry in Desktop’s 1998 Marketing
+Pro:
+
+566
+FEDERAL COURT REPORTS
+[(2002)
+
+The entry ‘‘Ad Index’’ refers to the total amount of advertising taken by the
+subscriber at one address across the various classifications in a particular
+Yellow Pages directory. The entries under ‘‘Ad’’ relate to the nature and size of
+the subscriber’s advertisements. Marketing Pro, like Phonedisk, has a reverse
+search function which permits a user to search, for example, by telephone
+number to ascertain the identity of a subscriber. The entry also records the
+classification of the subscriber under various industry codes. Searches of the
+database may be undertaken by industry code.
+310
+It is important to appreciate, however, that the default mode display of
+entries stored in Desktop’s CD-ROMs is not the only way information can be
+displayed or reproduced in hard copy. As has been explained, a search can
+manipulate the information contained in the CD-ROM so as to display the
+entries, for example, in alphabetical order or under particular headings
+corresponding to those used by Telstra in the Yellow Pages directories.
+
+The primary judgment
+
+311
+The reasoning of the primary judge can be divided into six sections.
+312
+In the first section (at 142-151 [29]-[64]), his Honour analysed in depth the
+historical development of copyright law in the United Kingdom. He pointed out
+that the case was not concerned with literary or artistic work in the popularly
+understood sense, but with a claim for copyright in a compilation of facts: that
+is, the names, addresses and telephone numbers of thousands of individuals and
+businesses. His Honour identified the principal issue for determination as
+whether the industrious gathering and listing of those facts qualified the work
+as ‘‘original’’ or whether some additional element, such as selection or
+arrangement was necessary.
+313
+The
+primary
+judge
+said
+that
+the
+earlier
+authorities
+established
+two
+propositions:
+
+there can be no copyright in a fact; and
+a recording of facts can be original for the purposes of copyright if there is
+some degree of creativity on the part of the author in the process of
+selection and arrangement.
+His Honour considered that the English authorities supported a further
+proposition, namely that copyright protection will be accorded to a compilation
+
+567
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Sackville J)
+
+of facts as a reward for the author’s investment of time and money, even if
+there be no creativity in the work. The primary judge summarised the effect of
+the English authorities in an important paragraph (at 151 [64]):
+‘‘The author of a book that records facts, whether it be an encyclopedia, a
+map, a directory or some other factual compilation, does not acquire
+copyright in the facts that have been published. So much is trite. But the
+author may have copyright in the form in which he has published the facts.
+Copyright will subsist if there has been sufficient intellectual effort in the
+selection or arrangement of the facts. It will also subsist if the author has
+engaged in sufficient work or incurred sufficient expense in gathering the
+facts. The cases have not defined with any precision what amount of
+intellectual effort, labour, etc, is required to justify copyright. ‘In every
+case it must depend largely on the special facts of that case, and must in
+each case be very much a question of degree’: Macmillan & Co Ltd v
+Cooper (1923) 40 TLR 186 at 190. What is not clear is whether the
+intellectual effort, labour, etc, must be more than negligible or whether it
+must be substantial: see Kalamazoo (Aust) Pty Ltd v Compact Business
+Systems Pty Ltd (1985) 84 FLR 101 at 120-121; 5 IPR 213 where the
+cases expressing the competing views are collected. When copyright does
+subsist in a compilation of facts, any person who wishes to publish the
+same facts is free to do so. But he must collect the facts himself. He
+cannot copy them from the first work.’’ (Emphasis added.)
+314
+The second section of his Honour’s judgment (at 151-158 [65]-[85])
+addressed the North American authorities on which Desktop had relied in
+support of its contention that commercial information that is of no particular
+literary value can be the subject of copyright only if there has been some
+ingenuity in the selection or arrangement of the information. In particular, his
+Honour discussed in detail Feist Publications Inc v Rural Telephone Service Co
+Inc (1991) 499 US 340 (Feist). In that case, the Supreme Court of the United
+States rejected the ‘‘sweat of the brow theory’’ (the North American
+terminology), in holding that Rural did not have copyright in subscriber
+information contained in its white pages directory. The primary judge held that,
+in view of the established English law and what he said was the adoption of
+that law in Australia, it was not possible to ‘‘jettison the old law’’ and replace it
+with the principles in Feist.
+315
+In the third section of his judgment (at 158-159 [86]-[88]) his Honour
+referred to a number of Australian authorities. He expressed the view that,
+although in some cases copyright was held to exist because of the intellectual
+effort involved in creating the work, this could not explain the result in all. The
+primary judge also rejected a submission that the decision of the High Court in
+Data Access Corporation v Powerflex Services Pty Ltd (1999) 202 CLR 1 was
+inconsistent with the ‘‘industrious collection cases’’.
+316
+The fourth section of the judgment (at 159-160 [89]-[91]) dealt with the
+question whether there was copyright in Telstra’s directories and heading
+books. His Honour distinguished between this issue and the issue he had
+discussed earlier, namely whether the directory portion of the directories and
+the headings themselves were original compilations. It was still necessary to
+examine the whole work and inquire whether it was protected by copyright.
+317
+His Honour held that each directory, considered as a whole, was original. If
+skill was required, sufficient skill had been employed in its creation, as
+illustrated by the information pages. So far as the headings were concerned, the
+
+568
+FEDERAL COURT REPORTS
+[(2002)
+
+point was covered by Lamb v Evans [1892] 3 Ch 462, where the Court of
+Appeal held that there was copyright in the headings used in a trade directory.
+318
+The question whether Desktop had taken a substantial part of the copyright
+works was addressed in the fifth section of the judgment (at 160-164 [92]-
+[102]). The primary judge said that once it had been accepted that ‘‘industrious
+collection’’ suffices to confer copyright, it followed that the directory portion of
+the White Pages directories, the directory portion of, and the headings in the
+Yellow Pages directories and the headings in the headings books were original
+and essential features of the respective works.
+319
+His Honour observed that it would have been otherwise if the ‘‘industrious
+collection’’ view of originality had been rejected. In that case, what had been
+taken would not have been substantial. The telephone listings were devoid of
+any creativity. The compilation of the headings also could not be regarded as
+the product of creative thought. While it could not be said that the work of the
+headings committee never required intellectual effort, it rarely had to create a
+unique heading.
+320
+In the sixth and final section of the judgment (at 164-168 [103]-[109]), the
+primary judge found that Desktop had reproduced Telstra’s works. His Honour
+pointed out that the notion of reproduction in copyright law has two elements,
+namely that the copyright owner’s work has been copied and that there is
+sufficient similarity between the copyright work and that of the alleged
+infringer. Desktop had admitted copying. The question was therefore whether
+the CD-ROMs were sufficiently similar to constitute a reproduction of the
+directories and the headings books. His Honour added that a work can be
+reproduced when stored on a CD-ROM, since copyright infringement will take
+place where a work is reproduced in a ‘‘material form’’ and the definition of
+that expression in s 10(1) of the Copyright Act included any form of storage,
+whether visible or not, from which the work can be reproduced.
+321
+Desktop had argued that the look, feel and arrangement of the CD-ROMs
+were radically different from Telstra’s products. It had also argued that the
+visual appearance was different because the entries were alphabetically ordered
+by postcode (not by geographical areas), contained full mailing addresses, had a
+layout that was continuous rather than in columns on pages and were displayed
+in different fonts. Moreover, the CD-ROMs contained no advertisements and
+the ‘‘headings’’ were used only as a descriptor shown as part of each business
+entry. Nor had there been any reproduction of the compilation of headings
+because all that the CD-ROMs had reproduced were individual headings in
+relation to individual records of data.
+322
+In the primary judge’s view, in the case of a compilation of factual data, the
+sufficient similarity requirement is not concerned merely with physical
+appearance, but with whether the particular information conveyed in the alleged
+infringing work is substantially the same as the like information in the
+copyright work. His Honour expressed his conclusions in this way (at 167-168
+[109]):
+‘‘In this case, the substance of the information that has been taken from
+Telstra’s works (the directory portion of the directories and the headings
+that appear in the yellow pages directories and headings books) has been
+reproduced in the CD-ROMs. It must be remembered that copyright is not
+claimed for each particular entry, because copyright does not subsist in
+each individual recorded fact. It is claimed in the whole of the collected
+data, ordered in a particular way. As regards the directories, the significant
+
+569
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Sackville J)
+
+recorded facts (name, address, telephone number and the relevant type of
+business) are the same, or substantially the same, as they appear in
+Telstra’s works. While there are differences, they are in the detail. For
+example, when displayed on a screen, the information from the CD-ROM
+does not appear as columns on a page. But the information can be
+retrieved in alphabetical order (by postcode rather than region) and can be
+examined in much the same way as one would read a column on a page.
+The fact that the alphabetical listings are by postcode and not region, is not
+a material difference. Nor is the fact that portions of the advertisements are
+not reproduced. As regards the headings, it is true that they appear once
+only in each yellow pages directory and that the heading appears with each
+business entry in the CD-ROMs. This difference is immaterial. All the
+headings have been taken, as have all the listings beneath those headings.
+The appearance of the headings and the listings in the CD-ROMs is
+sufficiently similar to constitute a reproduction.’’
+323
+In Telstra v Desktop (No 2), the primary judge made orders giving effect to
+his reasons for judgment in Telstra v Desktop (No 1). He identified the
+principal issues resolved in Telstra’s favour as the following (at [2]):
+‘‘. . . first, whether copyright subsisted in Telstra’s white pages directories,
+yellow pages directories and headings books, and second, if there was
+copyright, whether [Desktop] infringed that copyright by producing the
+three CD-ROM products known as Marketing Pro, Australian Phone Disc
+and CD Phone Directory. It is accepted that declarations should be made
+that give effect to these findings.’’
+The declarations made by the primary judge have been summarised earlier (see
+[258] above). They reflect the allegations made in pars 4, 5 and 6 of Telstra’s
+FASC.
+
+The submissions
+
+Desktop’s contentions
+
+324
+Desktop submitted that the primary judge had erred in holding (at 151 [64])
+that copyright subsists in a compilation of facts if the author has engaged in
+sufficient work or incurred sufficient expense in gathering the facts. Mr Nettle
+contended that under English and Australian law there can be no copyright in a
+compilation unless:
+‘‘(a) it is shown that some appreciable degree of skill or intellectual effort
+has been exercised in the selection or arrangement out of the contents
+of the compilation; or
+(b) it is shown that some appreciable degree of skill or intellectual effort
+has been exercised in the organisation of the contents of the
+compilation into the form which it takes.’’
+According to Mr Nettle, the English authorities on which the primary judge
+relied were concerned only with expense or effort incurred in the selection and
+arrangement of the contents of the compilation.
+325
+Secondly, Desktop submitted that even if the primary judge had been correct
+in
+holding
+that
+English
+law
+permits
+copyright
+in
+a
+mere
+industrious
+compilation, Australian law was different. Each of the authorities referred to by
+the primary judge had assumed or decided that skill in selection or assembly is
+a sine qua non of copyright in the industrious collection cases. Moreover,
+although Data Access v Powerflex was not a compilation case, the High Court
+
+570
+FEDERAL COURT REPORTS
+[(2002)
+
+had there confirmed that in works of selection the exercise of skill is essential
+to the existence of copyright. It was consequently argued that there is no basis
+in Australian copyright law for conferring monopoly protection on the results
+of labour alone.
+326
+Mr Nettle criticised the primary judge’s refusal to follow the decision of the
+Supreme Court of the United States in Feist and a similar decision of the
+Canadian Federal Court of Appeal in Tele-Direct Publications Inc v American
+Business Information Inc (1997) 154 DLR (4th) 328. Those authorities were
+said to be directly in point and were consistent with Australian authority. Feist
+could not be distinguished, as the primary judge had suggested, on the basis
+that it depended on constitutional considerations peculiar to the United States.
+The United States constitutional conception of originality, so Mr Nettle argued,
+is little different from the originality requirement inherent in s 51(xviii) of the
+Constitution. As a matter of policy, the North American decisions were
+consistent with the nature and purpose of copyright law in Australia, in
+particular the notion that copyright protection requires the claimant to
+demonstrate some intellectual input, even if it be minimal. Mr Nettle also
+contended that the North American decisions were consistent with international
+conventions to which Australia is a party, notably the Convention for the
+Creation of an International Union for the Protection of Literary and Artistic
+Works 1886 done at Berne on 9 September 1886 (the Berne Convention) and
+the Agreement on Trade-Related Aspects of Intellectual Property Rights 1994
+done at Marrakesh on 15 April 1994 (TRIPS Agreement).
+327
+Thirdly, Desktop contended that, even if copyright subsisted in the
+directories and headings books, Desktop had not infringed that copyright. Its
+databases
+were
+completely
+different
+in
+order,
+layout,
+appearance
+and
+presentation. Since the question whether the substance of information has been
+taken is irrelevant to copyright (copyright being concerned with the expression
+of ideas and not the ideas themselves), the fact that the same information
+appeared in both Telstra’s directories and headings books and Desktop’s CD-
+ROM products is irrelevant to the infringement issue. For this reason, so it was
+submitted, the primary judge had failed to apply principles correctly to the
+facts. Mr Nettle contended that the test of objective similarity had not been
+satisfied.
+328
+Desktop also disputed that it had taken a substantial part of the work in
+respect of which copyright existed. Mr Nettle submitted that the primary judge
+had erred when he said (at 160 [93] of his judgment) that if ‘‘industrious
+collection’’ suffices to confer copyright, there was no serious dispute that the
+directory portion of the White Pages and Yellow Pages directories were
+original and essential features of the works. He argued that the only original
+and essential features of the works could be the material which reflected some
+trace of creativity or intellectual input.
+329
+Fourthly, Desktop supported its argument on policy grounds. It was said that
+Telstra alone had a statutory monopoly that entitled it to compel subscribers to
+provide information. If Telstra had copyright in factual ‘‘whole-of-universe’’
+databases (such as a listing of all telephone subscribers in Australia), the
+practical effect would be to deny that information to other service providers and
+to prevent them reworking the data even if they applied great ingenuity and
+skill to that process.
+
+571
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Sackville J)
+
+Telstra’s contentions
+
+330
+Telstra emphasised that the Copyright Act specifically provided that a literary
+work includes a table or compilation expressed in figures or symbols (s 10(1)).
+According to Dr Emmerson, it follows that if something answers the
+description of a table or compilation, it is a literary work. The definition is not
+to be read down by incorporating a priori notions as to the inherent character of
+a ‘‘literary’’ work. Since the reason a compilation attracts copyright is that the
+compiler has brought together information, what is protected is the compilation
+of the information. The protection accorded by copyright goes beyond the form
+of arrangement of the data or any skill that may be involved in selecting the
+data. Dr Emmerson did not shrink from the suggestion that, to a limited extent
+at least, copyright in a factual compilation extends to the compiled facts.
+331
+Telstra submitted that the primary judge had correctly concluded that
+Desktop had infringed its copyright in the compilations comprised in the White
+Pages and Yellow Pages. Contrary to Desktop’s contentions, copyright in a
+compilation was not limited to the selection, arrangement or presentation of
+data. Copyright subsisted in the compilation by reason of the labour and
+expense involved in collecting and compiling the directory information. It was
+not open to a competitor to appropriate the compilation as a compilation. This
+Desktop had done, since it had effectively copied the entirety of the
+compilation into its database, as well as taken the headings that appeared in the
+Yellow Pages directories and the headings books. It had appropriated the entire
+product of Telstra’s labour and expense.
+332
+Dr Emmerson submitted that it made no difference as to the order (or
+absence of order) in which the directory information was electronically stored
+on Desktop’s disks. Given that Desktop had copied or utilised copies of
+Telstra’s complete compilations, it had reproduced a substantial part of
+Telstra’s copyright work. Since the form of storage on the disks enabled a
+substantial part (indeed the whole) of the copyright work to be reproduced,
+Desktop had reproduced the work in a ‘‘material form’’ (Copyright Act,
+s 10(1)). It was not to the point that Desktop had added to Telstra’s
+compilations: if the whole of a copyright owner’s work is taken, it does not
+matter that the infringer adds to the material taken.
+333
+Dr Emmerson contended that the approach taken by the Supreme Court of
+the United States in Feist had been informed by the terms of the governing
+legislation and constitutional constraints. In particular, the requirement that an
+original work result from the exercise of some creativity or intellectual labour
+rested on considerations not applicable in Australia.
+334
+By its notice of contention, Telstra argued that if its industrious collection
+argument was rejected, the evidence nonetheless required a finding that
+significant skill, judgment and ingenuity had been brought to bear in producing
+compilations of directory information. In the case of the White Pages, for
+example, Telstra had employed skill, judgment and ingenuity in the following
+ways:
+
+gathering the data recorded in the directory;
+verifying new data and monitoring the accuracy of existing data; and
+reproducing the data in the directories.
+According to Dr Emmerson, the primary judge had erred in finding that these
+activities were devoid even of the slightest trace of creativity.
+
+572
+FEDERAL COURT REPORTS
+[(2002)
+
+Subsistence of copyright
+
+Some preliminary points
+
+335
+The principal issue in this case concerns the ‘‘innovation threshold’’ which
+must be satisfied if a compilation of the names, addresses and telephone
+numbers of subscribers to a telephone service is to be accorded copyright
+protection: see S Ricketson and C Creswell, The Law of Intellectual Property:
+Copyright, Designs and Confidential Information (2001) at [7.35], citing a
+comment by Professor James Lahore. The resolution of this issue and the
+related question of infringement ultimately depends on the proper construction
+of the Copyright Act since, as noted earlier, copyright in Australia cannot
+subsist otherwise than by virtue of the Act: s 8. It is, however, difficult to
+approach the task of construction without reference to the older authorities
+which predate the passage of the first comprehensive copyright legislation,
+namely the Copyright Act 1911 (UK) (the 1911 Act) declared to operate in
+Australia, subject to minor modifications, by the Copyright Act 1912 (Cth)
+(the 1912 Act). Indeed, the written and oral submissions on the appeal referred
+to numerous authorities decided both before and after 1911.
+336
+The earlier authorities may be important, especially if they have been
+followed or approved in more recent cases based on modern legislation. Telstra
+relied, for example, on the decisions of the House of Lords in Walter v Lane
+[1900] AC 539, upholding copyright in reporters’ published records of speeches
+given by Lord Rosebery, and that of North J in Collis v Cater Stoffell & Fortt
+Ltd (1898) 78 LT 613, upholding copyright in a catalogue of medicines and
+other articles sold by a chemist. In Sands & McDougall Pty Ltd v Robinson
+(1917) 23 CLR 49 Isaacs J (with whom Gavan Duffy and Rich JJ agreed) not
+only rejected the argument that the expression ‘‘original work’’ in s 1(1) of the
+1911 Act implied inventive ingenuity, but stated that the principles stated by
+the House of Lords in Walter v Lane continued to apply to the new statutory
+regime (at 55). Similarly, the Court of Appeal in Purefoy Engineering Co Ltd v
+Sykes Boxall & Co Ltd (1955) 72 RPC 89 at 95, a decision post-dating the 1911
+Act, remarked that Collis v Cater had never been doubted (see also Ladbroke
+(Football) Ltd v William Hill (Football) Ltd [1964] 1 WLR 273 at 278; [1964]
+1 All ER 465 at 471, per Lord Reid; at 287-288; 476-477, per Lord Hodson;
+at 292; 480, per Lord Pearce).
+337
+Even so, some caution is necessary when reading the earlier authorities.
+There are significant differences between the nineteenth century law of
+copyright and the more modern law. At the time the much-cited case of Kelly v
+Morris (1866) 1 LR Eq 697 was decided (upholding copyright in the ‘‘Post
+Office London Directory’’), the legislation in the United Kingdom made no
+explicit provision for a literary work to include a compilation. A provision to
+that effect was first introduced by s 35 of the 1911 Act. The reasoning in other
+cases depends, at least in part, on provisions that have no exact counterpart in
+modern legislation. In Chilton v Progress Printing and Publishing Company
+[1895] 2 Ch 29, for example, the Court of Appeal held that there was no
+copyright in a list of the plaintiff’s selection of horses tipped to win at races to
+be held in the ensuing week. Lord Halsbury pointed out that the object of the
+Literary Copyright Act 1842 (UK), as stated in the preamble, was ‘‘to afford
+greater encouragement to the production of literary works of lasting benefit to
+the world’’. That object was, in his Lordship’s view (at 32), not served by
+regarding the plaintiff’s opinion as to likely winners as a ‘‘literary composition
+
+573
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Sackville J)
+
+such as intended to be protected by the Copyright Act’’. The Copyright Act
+currently in force in Australia makes specific provision for copyright in
+compilations, but has no preamble or statement of objects corresponding to the
+provisions relied on by Lord Halsbury.
+338
+It is also important to bear in mind that copyright protection extends to many
+different kinds of work. Each particular category of copyright presents its own
+issues as to the subsistence and infringement of copyright. It ought not to be
+assumed that the concepts applicable to one form of copyright work necessarily
+apply, without modification, to others. In Autospin (Oil Seals) Ltd v Beehive
+Spinning [1995] RPC 683, the issue was whether the defendants, by
+manufacturing seals, had infringed the copyright in the plaintiff’s drawings of
+seals and in a compilation of measurements included in the plaintiff’s charts.
+Laddie J cautioned (at 700-701) against the assumption that the question of
+‘‘substantial reproduction’’ must be decided without regard to the nature of the
+copyright work allegedly infringed:
+‘‘When the court has to decide whether a particular act constitutes a
+substantial reproduction of a copyright work in my view it must have
+regard to the nature of the copyright work in issue. What amounts to a
+substantial reproduction of a particular type of artistic work may well not
+be a reproduction of a particular type of literary work. Indeed it should be
+remembered that the categories of copyright work created by copyright
+legislation are, in some cases, very broad and include materials which
+have little in common. Maps, charts and plans were protected as literary
+works under the 1911 Act but as artistic works under the 1956 and 1988
+Acts. Therefore under the former Act they were treated as brethren to
+plays and novels while under the latter they are treated as being in the
+same category as paintings . . . When considering what amounts to
+infringement of the copyright in, say, a compilation, there is no compelling
+reason why the courts should pretend that the works covered by literary
+and artistic copyright form a coherent whole. It should be borne in mind
+that it is not enough to say that the defendant has ‘used’ the plaintiff’s
+work. He must have reproduced it. In my view the court should ask the
+question ‘is it accurate to say that the alleged infringer’s article is, from a
+common sense point of view, a reproduction of this particular type of
+literary work?’’’
+A similar point was made by an American commentator in relation to copyright
+in factual compilations (R C Denicola, ‘‘Copyright in Collections of Facts:
+A
+Theory
+for
+the
+Protection
+of
+Nonfiction
+Literary
+Works’’
+(1981)
+81 Colum L Rev 516 at p 542):
+‘‘. . . the subject matter of copyright law is varied, and slogans and
+catchwords that produce rational results in one context cannot always be
+successfully transplanted to another. Nonfiction literary works pose a
+unique challenge. They heighten concern for access and dissemination, yet
+they underscore the necessity of preserving incentive.’’
+339
+As the present case demonstrates, policy tensions permeate the law of
+copyright, especially in the area of factual compilations. In Skybase Nominees
+Pty Ltd v Fortuity Pty Ltd (1996) 36 IPR 529, Hill J (with whom French J
+agreed) identified (at 531) the:
+‘‘. . . tension in policy between the monopoly rights which are conferred
+upon the owner of copyright in a literary, dramatic or artistic work on the
+one hand, and the freedom to express ideas or discuss facts on the other.
+
+574
+FEDERAL COURT REPORTS
+[(2002)
+
+While there will be an infringement of the copyright of an owner in a
+literary, dramatic, musical or artistic work where there is a reproduction of
+that work or a substantial part of it, the fact that another work deals with
+the same ideas or discusses matters of fact also raised in the work in
+respect of which copyright is said to subsist will not, of itself, constitute an
+infringement. Were it otherwise, the copyright laws would be an
+impediment to free speech, rather than an encouragement of original
+expression.’’
+It is this tension between ‘‘incentive and dissemination’’ (Denicola at p 519)
+that underlies the difficulties raised by the present case. It also underlies the
+difficulty of distinguishing between expressions of ideas (which are the subject
+matter of copyright) and the ideas themselves (which, generally speaking, are
+not).
+340
+The Supreme Court of the United States pointed out in Feist that there is an
+‘‘undeniable tension’’ between the ‘‘fundamental axiom’’ of copyright law, that
+no author may have copyright in the facts narrated (Victoria Park Racing and
+Recreation Grounds Co Ltd v Taylor (1937) 58 CLR 479 at 498 per
+Latham CJ), and the principle, enshrined in statute in Australia as elsewhere,
+that compilations of facts may be the subject-matter of copyright. The present
+case provides a nice illustration. Since compilations, consisting exclusively of a
+record of facts, can be the subject matter of copyright, does it not follow that
+Telstra should be rewarded for its substantial investment of time and resources
+by being accorded copyright protection in the directory information recorded in
+the White Pages and Yellow Pages? And if that protection is to be meaningful,
+should it not protect Telstra not merely against a competitor who produces
+more or less identical publications, but also against one who uses Telstra’s
+directory information to create a rather different commercial product? On the
+other hand, if Telstra is entitled to prevent use of its directory information by a
+competitor, regardless of whether the final product is structured and presented
+in the same way as the White Pages and the Yellow Pages, is this not, in effect,
+conferring copyright protection in respect of facts?
+
+The English and Australian authorities
+
+341
+The primary judge referred in his judgment to a large number of authorities.
+In this section I refer to the English and Australian authorities that received
+most attention in oral and written submissions. The analysis is not exhaustive.
+
+The pre-1911 English authorities
+
+342
+As already noted (see [335] above), the first comprehensive copyright
+legislation in the United Kingdom was the 1911 Act, adopted with minor
+modifications in Australia by the 1912 Act. The pre-1911 English authorities
+were decided before any statutory recognition of compilations as literary works.
+These authorities have generally been taken as establishing a broad approach
+both to the scope of copyright in compilation works and to the protection
+accorded to copyright. Kelly v Morris and the rather similar case of Morris v
+Ashbee (1868) 7 LR Eq 34, are two of the cases most frequently cited as
+supporting that approach.
+343
+In Kelly v Morris, the plaintiff published each year a new edition of the
+‘‘Post-Office London Directory’’. The last edition before the litigation
+comprised 2,483 pages, exclusive of advertisements. The defendant compiled
+his ‘‘Imperial Directory of London’’, in part at least, by copying the plaintiff’s
+
+575
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Sackville J)
+
+directory and sending out canvassers to confirm that the information so
+obtained was correct. There seems to have been no dispute that the plaintiff was
+entitled to copyright in its directory. The defendant argued, however, that there
+had been no unfair or improper use of the plaintiff’s work.
+344
+Sir Page Wood VC said (at 701-702) that the defendant had:
+‘‘. . . been most completely mistaken in what he assumes to be his right to
+deal with the labour and property of others. In the case of a dictionary,
+map, guide-book, or directory, when there are certain common objects of
+information which must, if described correctly, be described in the same
+words, a subsequent compiler is bound to set about doing for himself that
+which the first compiler has done. In case of a road-book, he must count
+the milestones for himself. In the case of a map of a newly-discovered
+island . . . he must go through the whole process of triangulation just as if
+he had never seen any former map, and, generally, he is not entitled to
+take one word of the information previously published without indepen-
+dently working out the matter for himself, so as to arrive at the same result
+from the same common sources of information, and the only use that he
+can legitimately make of a previous publication is to verify his own
+calculations and results when obtained. So in the present case the
+Defendant could not take a single line of the Plaintiff’s Directory for the
+purpose of saving himself labour and trouble in getting his information.’’
+(Emphasis added.)
+This language suggests that a competitor infringes copyright in a directory if he
+or she uses any of the information contained in the directory so as to save
+labour and trouble in ascertaining factual information. Nothing in the judgment
+suggests that the principle is any different in a ‘‘whole of universe’’ case;
+indeed, the reference to ‘‘certain common objects of information’’ indicates
+that the principle does apply in such a case. It should be noted, however, that
+there were close similarities between the rival publications and later cases have
+said that Wood VC’s observations went too far in the direction of according
+copyright protection to facts (see [346] below).
+345
+In Morris v Ashbee, the plaintiff’s business directory contained the names
+and occupations of traders carrying on business in London, the names being
+presented both in alphabetical order and as groups of like traders arranged in
+alphabetical order. The defendant published a competing directory printed, to a
+considerable extent, from slips cut from the plaintiff’s directory from the
+previous year. The defendant argued that there could be no copyright in the
+plaintiff’s work and that, in any event, he had not infringed copyright.
+Giffard VC reasoned as follows (at 40-41):
+‘‘The Plaintiff incurred the labour and expense first of getting the
+necessary information for the arrangement and compilation of the names
+as they stood in his directory, and then of making the actual compilation
+and arrangement, and, though each individual who paid might no doubt
+have his own name printed in capital letters or with the same superadded
+lines wherever he chose, neither one nor all of them could authorise the
+cutting of a series of slips, or the taking of the names as arranged, from the
+Plaintiff’s directory, and the use of them in the printing of a rival work . . .
+[T]he substance of the judgment [in Kelly v Morris] is, that in a case such
+as this no one has a right to take the results of the labour and expense
+incurred by another for the purposes of a rival publication, and thereby
+save himself the expense and labour of working out and arriving at these
+
+576
+FEDERAL COURT REPORTS
+[(2002)
+
+results by some independent road. If this was not so, there would be
+practically no copyright in such a work as a directory.’’ (Emphasis added.)
+346
+Kelly v Morris and Morris v Ashbee were considered in the modern case of
+Waterlow Publishers Ltd v Rose. This was a ‘‘whole of universe’’ case
+involving a claim to copyright in the annual Solicitors’ Directory and Diary, a
+compilation containing a list of practising solicitors. The Court of Appeal held
+that copyright in the list had been infringed. Slade LJ, with whom Neill and
+Ralph Gibson LJJ concurred, said (at 507) that Kelly v Morris and Morris v
+Ashbee established that:
+‘‘(a) the mere fact that material is checked with the data subject and
+verified as accurate or updated and authorised by him for insertion in
+the infringing directory does not mean that there is no infringement;
+(b) the fact that there is no infringement of the plan of Waterlow’s work
+or of the arrangement and layout of the information does not mean
+that there is no infringement of the compilation.’’
+This interpretation of the two nineteenth century decisions strongly suggests
+that the protection accorded to the compiler under modern legislation goes
+beyond the mere arrangement or layout of the information recorded in the
+compilation, at least where preparation of the compilation involves substantial
+labour and expense.
+347
+In another modern case apparently involving the same directory, Waterlow
+Directories Ltd v Read Information Services Ltd (1990) 20 IPR 69, Aldous J
+held, in interlocutory proceedings, that there was a strong case that the
+defendant had infringed the plaintiff’s copyright by copying onto a word
+processor about 1,600 out of the 12,600 names and addresses of solicitors
+recorded in the plaintiff’s list. Aldous J observed (at 73) that Wood VC’s
+comments in Kelly v Morris to the effect that the defendant could not take a
+single line of the plaintiff’s directory:
+‘‘. . . may be too wide when considered against the requirements of the
+1988 Act that there must be copying of a substantial part of the work
+before there can be infringement. However, the principle enunciated is,
+I believe, clear, that a person may not copy entries from a directory and
+use that information to compile his own directory.’’
+348
+It will be seen that an important element in the reasoning in Kelly v Morris
+and Morris v Ashbee is the proposition that a publisher does not have the right
+to appropriate the fruits of the labour of another. In Australia, this principle has
+not been universally applied, as illustrated by the refusal of the majority in
+Victoria Park Racing v Taylor to recognise property in the promoter of a
+sporting spectacle (horseracing at the plaintiff’s racecourse). Under Australian
+law,
+therefore,
+‘‘reaping
+without
+sowing’’
+is
+sometimes
+permissible.
+Nonetheless, the notion that the fruits of labour and expense must be protected
+has been influential in this area of copyright law.
+349
+An example of the application of this principle is Collis v Cater. There a
+chemist carrying on business in a provincial town prepared and registered a
+catalogue arranged under various headings and sub-headings of articles,
+medicines and drugs sold by him. The material under the heading ‘‘Drugs and
+Chemicals’’ was 15 pages long and set out in alphabetical order the relevant
+items, together with their prices. There was a similar list under the heading
+‘‘Patent Medicines and Proprietary Preparations’’, in this case 12 pages long.
+A competitor in the same town inserted in his own catalogue copies of the
+headings and lists from the chemist’s catalogue, omitting two preparations only.
+
+577
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Sackville J)
+
+North J pointed to the utility of the chemist’s catalogue, observing that the
+350
+chemist had incurred a good deal of trouble and expended significant time in
+preparing a full catalogue. To some extent, the work might have been done by
+stocktaking, but there were many articles in the catalogue that were not found
+in stock. A person preparing a catalogue of this sort (at 615):
+‘‘. . . has incurred labour in its preparation, or it may be expense and
+trouble in its preparation, and has done it for the advantage of having his
+own catalogue . . . The man who acts [to appropriate the catalogue] is
+simply using his neighbour’s expense and labour for his own advantage.
+He is what is called pirating his neighbour’s book.’’
+According to North J, the question was whether that person had the right to
+appropriate, without payment or recognition, what it had cost his neighbour in
+expense and trouble to prepare. The answer given by his Lordship (at 615) was
+in the negative:
+‘‘I cannot see any distinction between this and the publication of a
+directory . . . If a man takes a town or a county . . . and prepares a new
+directory giving the streets and squares, the numbers of the houses, and the
+persons who live in them, sometimes where trades are carried on, giving
+the trades, or it may be merely a directory such as one finds in the West-
+end of London . . . such a thing is as entirely without what you may call
+‘literary merit’ as anything well can be . . . But the law is settled as to
+directories . . . I think I am bound by these cases.’’
+351
+On one view, Collis v Cater was a case of selection and presentation. In
+essence, the chemist selected items available for sale (not merely those in
+stock) and presented them in a particular format. The competitor, in effect, took
+the whole of the chemist’s work and reproduced it. The reasoning, however,
+does not depend on the skill or judgment involved in selecting and presenting
+the items comprised in the list. Rather, the critical point was the competitor’s
+appropriation of the chemist’s labour and expense in compiling the catalogue.
+352
+The well-known case of Walter v Lane did not involve compilation
+copyright, but the reasoning emphasised the importance of protecting the
+labour, skill and expense of a person who produces a published work. The
+House of Lords held, by majority, that reporters who took shorthand notes of
+Lord Rosebery’s speeches, and prepared edited and corrected verbatim reports
+of the speeches, were entitled to and could assign copyright in the published
+reports. A person who copied the published reports without licence was held to
+have infringed copyright. The decision has been said to represent the ‘‘most
+extreme instance of judicial exploration of the limits of authorship and
+originality’’: Ricketson at [7.70].
+353
+Lord Halsbury was reluctant (at 545) to conclude that the law ‘‘permitted
+one man to make profit and to appropriate to himself the labour, skill and
+capital of another’’. His Lordship considered that the reporters were no less
+‘‘authors’’ than the makers of a directory. He pointed out that the expression
+‘‘original composition’’ did not appear in the Copyright Act 1842 (UK) and
+rejected the notion that skill and accuracy were conditions precedent to
+copyright in published material.
+354
+Lord Davey took a somewhat similar approach. He observed (at 552) that:
+‘‘[c]opyright has nothing to do with the originality or literary merits of the
+author or composer. It may exist in the information given by a street
+directory . . . or by a list of deeds of arrangement . . . or in a list of
+advertisements.’’
+
+578
+FEDERAL COURT REPORTS
+[(2002)
+
+Lord Brampton summed up the case this way (at 559):
+‘‘True it is that the reporter was not the author of the speech; but he was
+the composer and author of the book. Without his brain and handiwork the
+book would never have had existence, and the words of Lord Rosebery
+would have remained unrecorded save in the memories of the compara-
+tively few who were present on those occasions.’’
+Lord James also distinguished (at 554) between ‘‘mere mechanical tran-
+scribing’’ and the skill of a reporter in accurately recording spoken words.
+355
+As Isaacs J said (at 54) in Sands & McDougall, decided by the High Court
+shortly after the 1912 Act adopted the 1911 Act in Australia, Walter v Lane
+certainly held that originality in respect of the ideas expressed or in the
+composition recorded in a report was not necessary to constitute the reporter
+the ‘‘author’’ of his report. However, Isaacs J interpreted the speeches in
+Walter v Lane as indicating that the ‘‘personal skill of the reporter as well as
+his labour and expense were considered to be material considerations’’. By the
+same token, the skills employed by the reporters can fairly be described as
+mechanical. As Lord Robertson said in dissent (at 561), the reports presented
+Lord Rosebery’s thoughts ‘‘untinctured by the slightest trace or colour of the
+reporter’s mind’’.
+356
+In Leslie v J Young & Sons [1894] AC 335, decided shortly before Walter v
+Lane, a monthly publication contained tables ‘‘in the usual form found in all
+railway timetables’’ taking Perth (Scotland) as the main starting point. The
+tables were to be found in the books of the railway, steamer and coach
+companies. Lord Herschell LC (with whom the other members of the House
+concurred) observed (at 340) that the information in the timetables had been
+devised by the publisher ‘‘from sources which were as open to the defenders as
+to himself’’. He said (at 340) that the publisher:
+‘‘. . . can only claim copyright in them, if they are the result in some
+respect or other of independent work on his part, and if advantage has
+been substantially taken by the defenders of that independent labour. The
+mere publication in any particular order of the timetables which are to be
+found in railway guides and the publications of the different railway
+companies could not be claimed as a subject-matter of copyright.
+Proceedings could not be taken against a person who merely published
+that information which it was open to all the world to publish and to
+obtain from the same source.’’
+His Lordship pointed out that the defenders’ work was by no means a copy of
+the publisher’s work. He continued (at 341):
+‘‘The real truth is, that although it is not to be disputed that there may be
+copyright in a compilation or abstract involving independent labour, yet
+when you come to such a subject-matter as that with which we are dealing,
+it ought to be clearly established that, looking at these tables as a whole,
+there has been a substantial appropriation by the one party of the
+independent labour of the other, before any proceeding on the ground of
+copyright can be justified.’’
+By contrast, it was held that copyright subsisted in the portion of the
+publisher’s book that set out information relating to circular tours from Perth,
+this being ‘‘a compilation containing an abridgement of information of a very
+useful character’’ (at 342).
+357
+Mr Nettle submitted that Leslie v Young demonstrated the need for some skill
+in selection or arrangement of material in order for copyright to subsist in a
+
+579
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Sackville J)
+
+compilation. Dr Emmerson said that the case turned largely on the fact that the
+defenders had not copied a substantial portion of the publisher’s work and that,
+in any event, the publisher’s work in copying readily available timetables was
+simply too insubstantial to support a copyright claim. The latter view of the
+case is supported by Lord Herschell’s analysis, especially his emphasis upon
+the necessity for ‘‘independent labour’’ to support copyright in a compilation
+and the requirement that the alleged infringer be shown to have substantially
+appropriated that independent labour. The publisher failed in the claims for
+infringement of copyright in the timetables themselves because he had invested
+insufficient independent labour in their compilation.
+
+The 1911 Act
+
+358
+The 1911 Act was designed to implement Great Britain’s obligations under
+the International Convention for the Protection of Literary and Artistic Works
+1908 done at Berlin on 13 November 1908 (the Berlin Convention), which
+revised the arrangements under the Berne Convention. The 1911 Act contained
+the first express statutory requirement in the United Kingdom for originality in
+a copyright work. Section 1(1) of the 1911 Act provided that copyright was to
+subsist, subject to the Act ‘‘throughout the parts of His Majesty’s dominions to
+which this Act extends . . . in every original literary dramatic musical and
+artistic work’’. Section 35(1) of the Act defined ‘‘literary work’’ to include
+‘‘maps, charts, plans, tables, and compilations’’. This was also the first
+reference in copyright legislation in the United Kingdom to ‘‘compilations’’,
+although the Copyright Act 1909 (US) had previously included ‘‘composite and
+cyclop’dic works, directories, gazetteers and other compilations’’ within the
+subject matter of copyright.
+359
+The background to the inclusion of the reference to compilations in the 1911
+Act is of some interest. The definition of ‘‘literary work’’ in the Copyright Bill
+made no mention of compilations. The insertion of the word was suggested in
+the debate in the House of Lords by Lord Gorell, the Chairman of the Board of
+Trade Committee which had reported in favour of ratifying the Berlin
+Convention: Board of Trade, Report of the Committee on the Law of Copyright
+(C 4976, 1909). Lord Gorell explained the amendment as follows (House of
+Lords, Parliamentary Debates, 15 November 1911, p 211):
+‘‘It has been suggested to me that this definition would not include many
+cases which are instances of copyright. The best instance I can give to
+your Lordships is Bradshaw[’s Guide], which would not come under the
+present interpretation but would come under the interpretation if the words
+‘and compilations’, which I propose to insert, were added.’’
+
+Post-1911 UK cases
+
+360
+Curiously enough, one of the first cases under the 1911 Act involved
+Bradshaw’s Guide. In H Blacklock & Co Ltd v C Arthur Pearson Ltd [1915]
+2 Ch 376, the plaintiffs were the publishers of the Guide, which was a
+compilation of the current timetables of the various railways of the United
+Kingdom. The Guide, which was published monthly, included an alphabetical
+index to the thousands of railway stations mentioned. The defendants printed
+and sold for profit a list of railway stations, in connection with a competition
+they were conducting. The list bore a ‘‘striking resemblance’’ to the list in the
+index to Bradshaw’s Guide. It was not, however, taken entirely from the Guide
+(see at 378).
+
+580
+FEDERAL COURT REPORTS
+[(2002)
+
+361
+Joyce J held that copyright subsisted in the list of names contained in the
+index. He observed (at 380) that the compilation of the index and in particular
+the making up of a list of names of stations from the timetable ‘‘would
+obviously be a work of labour and therefore of expense’’. The defendants had
+taken a ‘‘substantial proportion’’ of the names contained in the index, thereby
+(at 383) ‘‘without any exertion of their own getting the benefit of the labour
+and expense expended in compiling the list which formed the index to
+Bradshaw’’.
+362
+Mr Nettle accepted that Blacklock v Pearson can be seen as a case in which a
+claim for copyright was upheld solely on the labour and expense of the
+compiler. Moreover, it is a whole of universe case. Nevertheless, Mr Nettle
+submitted that if that were the correct interpretation, the case went further than
+was justified by the previous authorities, especially Leslie v Young. There is,
+however, a clear distinction between the two cases that explains the different
+outcomes. In Leslie v Young, the independent work of the publisher, insofar as
+it related to the compilation of the timetables, was too slight to support
+copyright. In Blacklock v Pearson, Joyce J thought (at 380) that the making up
+of the list of names and stations was ‘‘obviously’’ a work of labour and
+expense.
+363
+In University of London Press Ltd v University Tutorial Press Ltd [1916]
+2 Ch 601, it was held that examination papers could be the subject of copyright
+as a ‘‘literary work’’. Peterson J, in a much cited judgment, took a broad view
+(at 608) of the word ‘‘literary’’:
+‘‘Under the Act of 1842, which protected ‘books’, many things which had
+no pretensions to literary style acquired copyright; for example, a list of
+registered bills of sale, a list of foxhounds and hunting days, and trade
+catalogues; and I see no ground for coming to the conclusion that the
+present Act was intended to curtail the rights of authors. In my view the
+words ‘literary work’ cover work which is expressed in print or writing,
+irrespective of the question whether the quality or style is high. The word
+‘literary’ seems to be used in a sense somewhat similar to the use of the
+word ‘literature’ in political or electioneering literature and refers to
+written or printed matter.’’
+His Lordship also gave minimal content to the requirement that a work be
+‘‘original’’ (at 608-609):
+‘‘Copyright Acts are not concerned with the originality of ideas, but with
+the expression of thought, and, in the case of ‘literary work’, with the
+expression of thought in print or writing. The originality which is required
+relates to the expression of the thought. But the Act does not require that
+the expression must be in an original or novel form, but that the work must
+not be copied from another work — that it should originate from the
+author.’’ (Emphasis added.)
+364
+G A Cramp & Sons Ltd v Frank Smythson Ltd [1944] AC 329, like Leslie v
+Young, was a case where insufficient labour or skill was involved in preparing
+the compilation to support copyright. The plaintiffs (respondents to the appeal)
+published
+the
+‘‘Liteblue’’
+diary.
+The
+diary
+included
+pages
+containing
+information of a kind customarily found in diaries: a calendar, postal
+information, a selection of ‘‘days and dates for the year’’, tables of weights and
+measures and the like. The argument in favour of the defendants (appellants)
+was that there was no evidence that anyone had ever brought any labour, skill
+or judgment to bear on the compilation.
+
+581
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Sackville J)
+
+365
+Lord Macmillan, with whom Lords Roche and Simonds concurred, observed
+(at 337) that not every compilation could claim to be an original literary work
+‘‘even in the pedestrian sense attributed to these words by the law’’. He gave as
+a ‘‘familiar example’’ the decision in Leslie v Young, where the compilation,
+although convenient, did ‘‘not require either such labour or such ingenuity in
+its preparation as to render it fit subject-matter for copyright’’ (emphasis
+added). See also at 340, per Lord Porter; cf at 336, per Lord Simon LC (no
+feature of the diary was ‘‘novel’’ or ‘‘meritorious’’ and there was no element
+of ‘‘originality or skill’’ in the order).
+366
+Football League Ltd v Littlewoods Pools Ltd [1959] Ch 637, shows that
+ingenuity and effort preceding the preparation of a compilation may be taken
+into account in determining whether copyright subsists in the compilation. The
+arrangement of the fixture lists for the soccer season, in a way that met the
+requirements of the 92 clubs in the four divisions for the forthcoming season,
+required considerable skill and ingenuity. Once the fixtures list was completed,
+the preparation of a ‘‘chronological list’’ of fixtures was an automatic process,
+but one necessitating ‘‘painstaking accuracy’’.
+367
+Upjohn J held that the League had copyright in its chronological list and
+copyright had been infringed by the defendants who copied portions of the list
+each fortnight on their gambling coupons. He emphasised (at 650-651) the
+peculiar characteristics of compilations:
+‘‘Compilations frequently, though not, of course, necessarily, consist of
+merely quasi-statistical reference matter such as railway time tables, horse-
+breeding material, catalogues, indices, solar and lunar calendar events and
+reference directories. Such material has no literary merit in the sense of
+having grammatical composition. The chronological list falls into this
+category of compilations; as to such compilations the law is clear, but
+difficulty arises in its application. Copyright for such a compilation can be
+claimed successfully if it be shown that some labour, skill, judgment or
+ingenuity has been brought to bear upon the compilation. The amount of
+labour, skill, judgment or ingenuity required to support successfully a
+claim for copyright is a question of fact and degree in every case.’’
+(Emphasis added.)
+368
+His Lordship accepted (at 651) that there could be no copyright in
+information and that copyright can only be claimed in the composition or
+language which is chosen to express the information. He considered, however,
+that the League’s activities in preparing the following season’s football
+program had to be regarded as leading to the production of the chronological
+list. It was not open to the defendants to break down the League’s activities into
+separate components: the chronological list had been produced as the result of
+the entire skill, labour, time, judgment and ingenuity of the League (at 656).
+369
+Upjohn J also considered the position if, contrary to his view, the only work
+of compilation consisted of the production of the chronological list from the
+clubs’ list. He said (at 656) that the case was a borderline one, but that he
+would have been prepared to find in favour of the League:
+‘‘I accept at once that in such a compilation there is no element of skill, of
+selection, of taste, of judgment or of ingenuity. As the secretary of the
+League said, there is no difficulty — it is automatic. But, I would add, it
+involves a great deal of painstaking hard work with complete accuracy as
+the keynote. That was all that was required, for example, in H Blacklock
+& Co Ltd v C Arthur Pearson Ltd.’’ (Emphasis added.)
+
+582
+FEDERAL COURT REPORTS
+[(2002)
+
+370
+The well-known case of Ladbroke v William Hill was in many respects
+similar to the Littlewoods case. Bookmakers sent their clients each week a fixed
+odds betting coupon. The coupon consisted of a single sheet of paper on which
+16 lists of matches were recorded. Clients were offered a variety of lists. It was
+not in dispute that ‘‘a vast amount of skill, judgment, experience and work’’
+had gone into building up the coupon (at 275; 468). In particular, the
+bookmakers had to select profitable wagers that would nonetheless appeal to
+clients and had to present the coupons attractively. They had used the same
+format for many years, although of course the selection of matches changed
+each week. The appellants, also bookmakers, copied 15 of the 16 lists and used
+similar headings and offered virtually the same varieties of bets. The
+competitors did not, however, copy the bookmakers’ actual odds or the
+particular matches they selected each week.
+371
+The competitors argued that the bookmakers’ coupons had to be regarded as
+having been produced in two stages: first, the working out of the bets to be
+offered and, secondly, the writing out of the results. It was said that only the
+skill, labour and judgment at the second stage could be taken into account in
+assessing whether the coupons were ‘‘original’’ works. Four members of the
+House of Lords held that the preparatory work could not be segregated in this
+fashion. Lord Hodson said (at 287; 477) that a line could not be drawn between
+the effort involved in developing ideas and the ‘‘minimal effort’’ involved in
+setting down those ideas on paper. His Lordship illustrated the point by
+reference to the catalogue cases such as Collis v Cater; see also at 278; 470, per
+Lord Reid; at 287-288; 476-478, per Lord Hodson; at 290; 478-479, per Lord
+Devlin; at 292-293; 480-481, per Lord Pearce.
+372
+The judgments devoted some attention to the question of originality in
+compilations. Lord Pearce adopted (at 291) Peterson J’s definition of originality
+in University of London Press v University Tutorial Press (as did Lord Reid,
+at 277). His Lordship observed (at 291-292) that in compilation cases:
+‘‘. . . the courts have looked to see whether the compilation of the
+unoriginal material called for work or skill or expense. If it did, it is
+entitled to be considered original and to be protected against those who
+wish to steal the fruits of the work or skill or expense by copying it
+without taking the trouble to compile it themselves . . .
+Thus, directories, catalogues, and the like have been held to be original
+and to acquire copyright if the work that goes to their making has been
+sufficient: (Collis v Cater, Stoffel & Fortt Ltd; H Blacklock & Co Ltd v
+C Arthur Pearson Ltd.)
+. . .
+So in each case it is a question of degree whether the labour or skill or
+ingenuity or expense involved in the compilation is sufficient to warrant a
+claim to originality in a compilation.’’
+Lord Devlin took a similar approach (at 289):
+‘‘There is copyright in every original literary work, which by definition
+includes compilation, so that there can be copyright in such productions as
+timetables and directories, provided always they are ‘original’. The
+requirement of originality means that the product must originate from the
+author in the sense that it is the result of a substantial degree of skill,
+industry or experience employed by him.’’
+Lord Reid said (at 277-278) that:
+‘‘. . . as regards compilation, originality is a matter of degree depending on
+
+583
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Sackville J)
+
+the amount of skill, judgment or labour that has been involved in making
+the compilation.’’
+373
+Ladbroke v William Hill was a case involving not merely industrious
+collection of information, but the exercise of skill and judgment, which was
+held to be inseverable from the preparation of the coupons themselves.
+Nonetheless, the reasoning lends support to the view that the requirement of
+originality in factual compilations may be satisfied by skill, judgment or labour
+and, moreover, that skill, judgment or labour prior to the final stage of
+preparing the compilation in material form may be taken into account.
+374
+In Autospin v Beehive Spinning, as has already been mentioned, Laddie J
+considered whether the construction of a three dimensional work (a type of oil
+seal) reproduced a compilation of measurements contained in certain charts.
+While ultimately rejecting the claim on the facts, his Lordship held that, in
+principle, it would infringe copyright in the compilation to reproduce it in the
+form of a three dimensional article. He said this (at 698):
+‘‘The type of literary work at issue in this case is a compilation. Once
+again, it is not the mere form of words or notation used which justifies
+copyright protection for a compilation, it is the author’s skill and effort
+expended in gathering together the information which it contains. For
+example, it is clear that the physical effort of writing down names and
+addresses to produce a street directory does not of itself justify the creation
+of compilation copyright in it. It is the effort and skill expended in finding
+out who lives at which addresses in which road which merits protection
+(see Kelly v Morris (1866) LR 1 Eq 697). When someone copies a
+directory he infringes because he reproduces the product of the author’s
+skill and effort in compiling information, not his literary style. The
+relevant skill may be that involved in collecting the information, selecting
+it or arranging it, or all of these. The skill and effort deployed by the
+author is not in any conventional sense ‘literary’ yet copyright protection
+is given to it and the product of the author’s endeavours is called for
+convenience a ‘literary work’.’’ (Emphasis added.)
+This passage supports the proposition that what is protected in the case of a
+compilation is not merely the form of presentation, but the skill and effort
+expended in gathering the information contained in the compilation.
+375
+The authors of a standard text (who include Laddie J) have summarised the
+current law in the United Kingdom as follows (H Laddie, P Prescott, M Vitoria,
+A Speck and L Lane, The Modern Law of Copyright and Designs (3rd ed,
+2000) at pars 3.88 and 3.90):
+‘‘A compilation is a work consisting of a collection of materials, and its
+merit normally resides in the painstaking labour which has been expended
+in assembling the facts (as in the case of a directory); or in the skill,
+judgment and knowledge involved in selecting those things which are to
+be included (as in the case of an anthology); or both. Consequently the
+copyright in such a work may be infringed by appropriating an undue
+amount of the material, although the language employed be different or
+the order of the material be altered. Were the law otherwise copyrights in
+compilations would be of little or no value. The point is succinctly stated
+in two dicta which have frequently been approved: ‘No man is entitled to
+avail himself of the previous labours of another for the purpose of
+conveying to the public the same information’: and ‘The true principle in
+all these cases is that the defendant is not at liberty to use or avail himself
+
+584
+FEDERAL COURT REPORTS
+[(2002)
+
+of the labour which the plaintiff has been at for the purpose of producing
+his work; that is, in fact, merely to take away the result of another man’s
+labour or, in other words, his property.
+. . .
+In Football League Ltd v Littlewoods Pools Ltd it was left as an open
+question whether a copyist might legitimately take the contents of a
+compilation by rearranging the order of the words. It is submitted that the
+result of the authorities . . . is that he may not do so if he is still
+appropriating for himself a substantial amount of the pains, skill,
+judgment, knowledge and so on of the original author. Where, however,
+the originality resides in the order of the material, and the effect of the
+rearrangement is to destroy this, so that he is no longer appropriating a
+substantial part of the author’s work, the process is legitimate.’’ (Emphasis
+added.)
+While these passages address both the question of copyright in a factual
+compilation and the circumstances in which copyright will be infringed, they
+emphasise that an important rationale underlying the current law in the United
+Kingdom is the need to protect the painstaking labour involved in assembling
+the compilation.
+
+The Australian authorities
+
+376
+It is hardly surprising that the Australian law concerning factual compilations
+has mirrored that in England. The 1911 Act was adopted as Australian law in
+1912 and until the 1960s Australian courts, including the High Court, regarded
+themselves as bound to follow decisions of the House of Lords. The similarity
+of copyright law in Australia and the United Kingdom was emphasised in the
+Report of the Copyright Law Review Committee 1959 (the Spicer Report). The
+Committee, whose recommendations were ultimately largely implemented by
+the Copyright Act, said (at par 19):
+‘‘It thus appears that Australian law governing copyright has at all times
+followed closely, though (at times before the establishment of the
+Commonwealth) somewhat belatedly, developments in Great Britain, and
+for all practical purposes it can be said that since 1912 Australian law on
+this subject has been the same as that of Great Britain. Indeed, it may be
+said that Australian copyright law has always been substantially the same
+as the law operating in Great Britain.’’
+The Spicer Report went on to note that certain differences in United Kingdom
+and Australian law had come about as the result of the Copyright Act 1956
+(UK) which, curiously enough, preserved the operation of the 1911 Act in
+Australia notwithstanding its repeal in the United Kingdom.
+377
+In Sands & McDougall v Robinson, to which reference has already been
+made, the plaintiff (the respondent to the appeal) had applied intellectual effort
+and judgment in preparing a map of the world that ‘‘presented both in its
+totality and in specific parts distinct differences from other existing maps’’
+(at 52). The defendant argued that the statutory requirement of originality,
+introduced in Australia by the adoption of the 1911 Act, meant that a work had
+to be original in the same sense in which a patent must be novel.
+378
+Isaacs J (with whom Gavan Duffy and Rich JJ agreed) rejected the argument.
+I have previously referred to his Honour’s analysis of Walter v Lane (see [336]
+above). His Honour observed (at 55-56) that:
+‘‘. . . in copyright law the two expressions ‘author’ and ‘original work’
+
+585
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Sackville J)
+
+have always been correlative; the one connotes the other, and there is no
+indication in the Act that the Legislature intended to depart from the
+accepted signification of the words as applied to the subject matter.
+Indeed, the circumstance of reciprocal connotation is the key to the
+meaning of the enactment. We find in the Oxford Dictionary . . . ‘author’
+defined as ‘the person who originates or gives existence to anything’.
+‘Original work’ in the Act is, in my opinion, used in the same sense as
+the phrase was used by Lord Eldon in Wilkins v Aikin [(1810) 17 Ves 422
+at 426; 34 ER 163 at 166], where he speaks of ‘a mental operation
+deserving the character of an original work’.’’
+Isaacs J saw nothing in the Berlin Convention warranting a different
+conclusion.
+379
+As Dr Emmerson accepted, Isaacs J’s reference to a ‘‘mental operation’’,
+taken in isolation, might suggest that originality for copyright purposes involves
+some creative element. Isaacs J, however, expressed agreement in the same
+paragraph with the judgments of Joyce J in Blacklock v Pearson at 381, and
+Peterson J in University of London Press v University Tutorial Press at 608.
+Each of those judgments supports the proposition that originality does not
+require that a literary work or compilation be in an original or novel form, but
+merely that the work not be copied from another author. It is clear enough that
+Isaacs J was not intending to depart from that principle.
+380
+Sands & McDougall v Robinson emphasised the link between authorship and
+originality and endorsed a low threshold test for determining whether a work is
+original. The actual decision in the case is of limited significance for present
+purposes, because once the defendant’s argument equating originality with
+novelty was rejected, there could be no doubt that the plaintiff’s map satisfied
+the test for originality, however expressed. The High Court was not directly
+concerned with copyright in factual compilations.
+381
+The question of copyright in a compilation of a particular kind arose,
+however, in Victoria Park v Taylor, albeit as a subsidiary issue. In the High
+Court, although not at first instance, the racecourse proprietor argued that it had
+copyright in the names and numbers of starting horses and of the winners of
+races. These were displayed on notice boards at the racecourse. The proprietor
+asserted that the defendant had infringed copyright by reading and broadcasting
+the information. Two members of the Court addressed this issue.
+382
+Latham CJ said (at 497) that the proprietor’s contention did not require a
+detailed answer. He considered it untenable that merely because the proprietor
+had caused numbers of horses to be exhibited in a particular order for a few
+minutes on a noticeboard, everybody in Australia was thereafter precluded for a
+term of at least 50 years from reproducing them in a material form. His Honour
+said this (at 498):
+‘‘The law of copyright does not operate to give any person an exclusive
+right to state or to describe particular facts. A person cannot by first
+announcing that a man fell off a bus or that a particular horse won a race
+prevent other people from stating those facts . . . What the law of copyright
+protects is some originality in the expression of thought.’’
+383
+Dixon J observed (at 511) in the context of rejecting an argument founded on
+infringement of copyright in a published race book, that ‘‘it is not information
+that is protected in the case of literary works but the manner in which ideas and
+information are expressed or used’’. His Honour also expressed the view
+(at 511) that if the list of starting or winning horses on the board was the
+
+586
+FEDERAL COURT REPORTS
+[(2002)
+
+subject of copyright, repeating the order did not amount to an infringement of
+copyright. He continued (at 511):
+‘‘I am, however, quite unable to suppose that, when the names of the
+starters, their positions, jockeys and so on are exhibited before a race,
+doing so amounts to publishing a literary work which becomes the subject
+of copyright. No doubt the expression ‘literary work’ includes compi-
+lation. The definition section says so (sec 35(1)). But some original result
+must be produced. This does not mean that new or inventive ideas must be
+contributed. The work need show no literary or other skill or judgment.
+But it must originate with the author and be more than a copy of other
+material. The material for the board consists in the actual allotment of
+places and other arrangements made by the plaintiff company’s officers in
+respect of the horses. To fit in on the notice board the names and figures
+which will display this information for a short time does not appear to me
+to make an original literary work.’’ (Emphasis added.)
+384
+As the judgments indicate, the proprietor’s claim in Victoria Park v Taylor
+faced a number of obstacles. Dixon J seems clearly to have rejected the notion
+that ‘‘literary or other skill or judgment’’ was a prerequisite to copyright in a
+compilation. Moreover, as Mr Nettle accepted, Dixon J construed the word
+‘‘original’’ in the 1911 Act in accordance with the English authorities, to mean
+simply that the work had to originate with the author and be more than a mere
+copy of other material. On the other hand, Latham CJ’s approach, as Dr
+Emmerson acknowledged, was rather different. He placed greater emphasis on
+the principle that there can be no copyright in facts and appeared to accept that
+copyright protects originality in the expression of thought.
+385
+Mr Nettle relied on John Fairfax & Sons Pty Ltd v Australian Consolidated
+Press Ltd [1960] SR (NSW) 413, to support the proposition that copyright in a
+compilation of facts protects only the particular arrangement or selection of
+facts and not the reproduction of the facts in some altered or rearranged format.
+The issue in John Fairfax was whether the respondent had committed contempt
+by infringing an ex parte injunction granted to the appellant. The injunction had
+restrained the respondent from ‘‘copying’’ the whole or a substantial part of the
+births and deaths columns in the Sydney Morning Herald, a newspaper
+published by the appellant.
+386
+The appellant had obtained the injunction after the respondent
+had
+reproduced in its newspaper, the Daily Telegraph, large numbers of births and
+deaths announcements in the same form and sequence as they had appeared in
+the Sydney Morning Herald. The Full Court of the Supreme Court of New
+South Wales identified the question for determination as the meaning to be
+attributed to the word ‘‘copying’’ in the injunction.
+387
+The Court held that the word did not extend to the publication of a
+colourable imitation of the births and deaths column, but was confined to the
+literal transcription of the column. The Court said this (at 415-416):
+‘‘Having regard to the fact already mentioned that the plaintiff could not
+have and did not claim copyright in the individual announcements
+themselves but only in their form of arrangement in the column, the only
+appropriate injunction was one which prevented such a literal transcrip-
+tion. This is supported by the fact that the normal form of injunction in a
+copyright suit directs the defendant to refrain from copying or colourably
+imitating or altering the work in which the plaintiff has copyright . . .
+The choice of a more limited form of injunction was not, in our view,
+
+587
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Sackville J)
+
+accidental but deliberate because to grant the normal and wider form of
+relief would presuppose that the plaintiff had copyright in the announce-
+ments themselves or in the statements of facts and events which they
+contained, whereas whatever rights it may have could exist only in respect
+of the total arrangement of the columns. Indeed, the plaintiff’s counsel
+was prepared to concede at one point of his argument that there could be
+no such thing as a colourable imitation of a compilation in which
+copyright subsisted, yet if the injunction be construed in the wider sense
+contended for the plaintiff it would have that effect. Finally, we think that
+whatever general meaning may be imparted to the word ‘copy’ in ordinary
+parlance, in the law of copyright it means ‘copy’ in the sense of literal
+transcription.’’
+388
+In my view, John Fairfax has limited significance for the present case. It
+was, after all, a contempt proceeding. Moreover, the Full Court said (at 415)
+that the appellant’s claim to copyright rested:
+‘‘. . . solely on the fact that although the copyright in the text of each
+announcement belonged to the advertiser who tendered it for publication,
+the skill and labour applied by the plaintiff’s employees, in adapting the
+announcements and arranging them in sequence for publication, conferred
+on it copyright in the relevant columns of announcements as published.’’
+In other words, the appellant had not invested significant labour or skill in
+compiling the relevant information. Any skill and labour could be directed only
+to adapting and arranging the notices submitted by individual advertisers. Thus
+copyright in the announcements was limited to the form of arrangement or
+presentation.
+389
+The Copyright Act, which came into force on 1 May 1969, did not make any
+significant changes to the provisions governing copyright in factual compi-
+lations.
+As
+I
+have
+noted,
+the
+legislation
+implemented
+many
+of
+the
+recommendations of the Spicer Report. The Report did not, however,
+specifically address the law relating to compilations, although it did include a
+section headed ‘‘Sporting Spectacles’’. Under that heading, the Spicer Report
+considered submissions from football bodies which had argued that copyright
+should exist in lists of players and the numbers allocated to them. The Spicer
+Report rejected the submission (at pars 483-484):
+‘‘We are unable to see how copyright can be conferred merely in respect
+of the name of a player associated with his football number. It has been
+held that copyright may exist in various compilations such as an
+alphabetical list of railway stations, a list of railway stations, a list of fox-
+hounds and hunting dogs and lists of stock exchange prices and football
+fixtures. In all these cases the question whether copyright exists depends
+to a large extent on the amount of labour, capital or skill expended in
+making the compilation. We think that the law in this regard should not be
+changed.
+It seems that the football clubs may have copyright in the lists they
+prepare as published in the various football publications (see Football
+League Ltd v Littlewoods Pools Ltd [1959] 3 WLR 42). Such copyright,
+however, does not prevent a person making his own list by attending a
+match.’’ (Emphasis added.)
+The Spicer Report seems to have taken the view that whether copyright existed
+in a compilation depended on the amount of labour, capital or skill expended in
+making the compilation and that the law in that respect should not be changed.
+
+588
+FEDERAL COURT REPORTS
+[(2002)
+
+390
+Desktop contended that the decision of the High Court in Data Access v
+Powerflex was inconsistent with, or at least detracted from, the view taken by
+the primary judge, namely that industrious collection of information is enough
+to establish copyright in a compilation independently of the selection,
+arrangement or presentation of the information. The principal issue in Data
+Access v Powerflex was whether the ‘‘Reserved Words’’ in the Dataflex
+computer programs, either individually or collectively constituted a ‘‘computer
+program’’ as defined in the Copyright Act. As the joint judgment noted (at 12),
+each word in a computer language is an instruction to the computer to invoke
+lower level processes.
+391
+In the course of addressing that issue, the Court considered whether the
+Reserved Words were a substantial part of the Dataflex computer program. The
+joint judgment rejected the proposition (accepted in Autodesk Inc v Dyason
+(No 1) (1992) 173 CLR 330 at 346, per Dawson J, with whom the other
+members of the Court agreed, and in Autodesk Inc v Dyason (No 2) (1993)
+176 CLR 300 at 311-312, per Brennan J; at 330, per Gaudron J) that the test of
+substantiality requires attention to be focussed on the ‘‘essentiality’’ or
+‘‘criticality’’ of the element of the copyright work taken by the alleged
+infringer. Their Honours preferred the dissenting view of Mason CJ in Autodesk
+(No 2) at 305, that the phrase ‘‘substantial part’’, as used in s 14(1)(b) of the
+Copyright Act, refers to the quality of what is taken rather than the quantity and
+that the essential or material features of a work should be ascertained by
+considering the originality of the part allegedly taken. They pointed out that the
+‘‘but for’’ test was not a practicable means of determining substantiality in
+relation to a computer program. The test would embrace even a minor, non-
+original element of the program if the program could not work without that
+element. It followed (at 33) that a person who merely reproduced those parts of
+a program which were ‘‘data’’ or ‘‘related information’’, but which were
+irrelevant to its structure and choice of commands, would be unlikely to have
+reproduced a substantial part of the program.
+392
+The joint judgment next held (at 34) that the Reserved Words, when
+considered as a collocation, lacked ‘‘sufficient originality as data to constitute a
+substantial part of [the Dataflex computer program]’’. The Reserved Words
+were merely ‘‘literal strings’’ which, from the computer’s perspective could be
+replaced by any other literal string. Many of the words used were ordinary
+English words which were suggestive of the function to be performed (for
+example ‘‘RETAIN’’ and ‘‘UNLOCK’’), while others were concatenations of two
+or more English words suggesting the function to be performed (for example,
+‘‘AUTOFIND’’). Still others were single words in common use in other computer
+languages
+or
+concatenations
+of
+common
+computer
+terms
+(such
+as
+‘‘SAVERECORD’’).
+393
+The Court also rejected the submission that copyright subsisted in the table
+or compilation of the Reserved Words in the Dataflex User’s Guide. The joint
+judgment noted that there had been no submission that the Reserved Words
+were traditional literary works ‘‘no doubt because they would face significant
+hurdles in the form of originality and substantiality’’. Their Honours said
+(at 35) that:
+‘‘. . . very little skill or labour was involved in compiling the Reserved
+Words in the form in which they appear in the User’s Guide [that is, in
+alphabetical order] over and above the sum of the skill and labour
+involved in devising each [word].’’
+
+589
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Sackville J)
+
+Moreover, each word was suggestive of the function it performed and many
+were English words or combinations of such words.
+394
+Their Honours added these observations (at 35):
+‘‘Even if the skill and labour involved in devising each individual
+Reserved Word is combined and consideration given to the total skill and
+labour, there may still be a real question as to whether there is sufficient
+originality for copyright to subsist in the combination: cf G A Cramp &
+Sons Ltd v Frank Smythson Ltd [1944] AC 329; Australian Consolidated
+Press Ltd v Morgan (1965) 112 CLR 483 at 486-487; Exxon Corporation
+v Exxon Insurance Consultants International Ltd [1982] Ch 119 at 144.
+In any event, even if copyright does subsist in the table or compilation
+of the Reserved Words, we do not think that the respondents have
+infringed this copyright. The Reserved Words appear in the PFXplus
+source code program not as an alphabetical list, but as literal strings to
+which certain commands are assigned.’’
+395
+Finally, the Court held that the ‘‘Huffman compression table’’ embedded in
+the Dataflex program fell within the extended definition of ‘‘literary work’’,
+being a ‘‘table . . . expressed in figures and symbols (whether or not in a visible
+form)’’. The joint judgment addressed the issue of originality as follows (at
+41-42):
+‘‘For copyright to subsist in the standard Dataflex Huffman table, it
+must be an ‘original literary . . . work’ (s 32(1) of the Act). As we have
+indicated, the requirement that a work be ‘original’ in copyright law is a
+requirement that ‘the work emanates from the person claiming to be its
+author, in the sense that he has originated it or brought it into existence
+and has not copied it from another’: S Ricketson, The Law of Intellectual
+Property (1984), p 83. At first instance, Jenkinson J found that ‘[t]he use
+of the Huffman system to produce a compression table requires the
+employment of substantial skill and judgment and a very great deal of hard
+work’ . . .
+That being so, the Full Court was correct in holding that the standard
+Dataflex Huffman table constituted an original literary work.’’
+396
+It is difficult to see how Data Access v Powerflex assists Desktop. The joint
+judgment specifically accepts that originality in copyright law merely requires
+that the work emanate from the author, in the sense that he or she has brought it
+into existence and not copied it. Not surprisingly, the Court’s approach to
+copyright in the Reserved Words was consistent with its view of originality.
+The citation of Cramp v Smythson, Australian Consolidated Press v Morgan
+and Exxon shows that the Court’s doubts about the combination of Reserved
+Words having sufficient originality for copyright to subsist rested on Data
+Access’s failure to pass the threshold test of skill or labour. As has been
+explained, Cramp v Smythson was such a case. Exxon involved an unsuccessful
+attempt to claim copyright in ‘‘an artificial combination of four letters of the
+alphabet’’: at 144, per Oliver LJ. In the passage cited in the joint judgment
+from Australian Consolidated Press v Morgan, Barwick CJ referred, inter alia,
+to Kelly v Morris and Football League v Littlewoods to show that ‘‘the law has
+gone a long way . . . to protect the labours of a man in producing and tabulating
+information’’. The adoption of Mason CJ’s test of substantiality does not
+resolve or even bear directly on the test for determining whether and, if so in
+what respects, a compilation is original for the purposes of the law of
+copyright.
+
+590
+FEDERAL COURT REPORTS
+[(2002)
+
+397
+In Skybase Nominees Pty Ltd v Fortuity Pty Ltd, a case also relied on by
+Desktop, the issue was whether the appellant’s weight reduction program,
+including recipes and other information, infringed the respondent’s copyright in
+its ‘‘Weight Watchers’’ programs. The Full Court upheld the primary judge’s
+finding that the respondent’s program involved a sufficient degree of skill and
+judgment in compiling and arranging the work to conclude that copyright
+subsisted in the program. It also upheld a finding of infringement.
+398
+Mr Nettle referred to the observations of Hill J (at 532) on the question of
+infringement:
+‘‘While the degree of similarity between the two works may lead to an
+inference of causal connection, both substantial reproduction and causal
+connection are separate and necessary ingredients of infringement. Mere
+causal connection will not be enough. A defendant may rework the work
+of a plaintiff, capturing the ideas used or facts referred to, but in his own
+language in such a way as not to constitute an infringement but rather to
+create his own new original work. Whether he has done so will involve a
+question of fact and degree. There is no principle of law, so far as I am
+aware, that the mere fact that it is shown that a defendant commences with
+the work of the plaintiff and then by his own skill and labours constructs a
+totally different work requires the conclusion that the new work is a
+reproduction of the original.
+The
+extent
+of
+similarity
+which
+is
+required
+to
+exist
+before
+an
+infringement is found will vary depending upon the nature of the work
+alleged to have been reproduced and the degree of originality in it. It must,
+however, be said in general terms that it is ‘the quality of what is taken
+rather than the quantity’ which will be important: Autodesk Inc v Dyason
+(No 2) (1993) 176 CLR 300. For example, where the work said to be
+copied is a musical work the fact that the infringing work captures the
+essence of the melody will suffice, even though in another key or but a
+few bars . . . On the other end of the spectrum a more exact reproduction
+of words used may be necessary to constitute infringement of a poem
+where the essence of the poem lies in the use of language to express ideas.
+The case of an alleged infringement of a compilation where the originality
+of the material copied might lie in the arrangement of the material, rather
+than in the words used, presents yet another class of case; cf Football
+League v Littlewoods Pools; Ladbroke v William Hill; Blackie & Sons Ltd
+v Lothian Book Publishing Co Pty Ltd (1921) 29 CLR 396; John Fairfax v
+Australian Consolidated Press.’’
+399
+This passage from Hill J’s judgment is consistent with the authorities.
+Mr Nettle was correct to rely on it to show that substantial reproduction and
+causal connection are separate and cumulative requirements for a finding of
+infringement. But I do not read the passage as suggesting that copyright in a
+factual compilation can protect only the arrangement of material, as distinct
+from the labour and expense in collecting in one place the information recorded
+in the compilation. Hill J was not addressing that question. Rather, his Honour
+was concerned only to point out that the extent of similarity required for a
+finding of infringement, depends on the nature of the copyright work and its
+degree of originality. One illustration his Honour gave was a compilation work
+where the originality of the material copied lay in the arrangement of the
+material, rather than in some other attribute. Blackie & Sons v Lothian, for
+example, one of the cases cited by Hill J, involved an infringement of copyright
+
+591
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Sackville J)
+
+in an annotated edition of Shakespeare’s Henry the Fifth. A case where the
+copyright work is a factual compilation, which reflects substantial labour and
+expense on the part of the compiler in gathering the facts, might be quite
+different.
+
+The Berne Convention
+
+400
+Desktop argued that Australian law relating to originality should be
+construed
+in
+conformity
+with
+Australia’s
+obligations
+under
+the
+Berne
+Convention. Although the contention was not developed at length, it appears to
+rest on Art 2(5) of the Berne Convention, which provides as follows:
+‘‘Collections of literary or artistic works such as encyclopaedias and
+anthologies which, by reason of the selection and arrangement of their
+contents, constitute intellectual creations, shall be protected as such,
+without prejudice to the copyright in each of the works forming part of
+such collections.’’
+401
+Article 2(5) was introduced in its present form at the Brussels Conference of
+1948 (and renumbered by the Paris Conference of 1971). It is true that Art 2(5)
+refers to ‘‘intellectual creations’’. But, as Telstra pointed out, the Berne
+Convention prescribes only minimum standards in relation to copyright
+protection. As Professor S Ricketson has observed (The Berne Convention for
+the Protection of Literary and Artistic Works: 1886-1986 (1987), p 303):
+‘‘Article 2(5), by definition, does not cover collections of subject matter
+that are not capable of attracting copyright protection, that is, because they
+are not literary or artistic works in their own right. Instances are the names
+and addresses in a telephone directory . . . such collections of non-
+copyright material may involve selection and arrangement in the same
+degree as are required for collections of literary or artistic works, but there
+is no requirement to protect them under Article 2(5). This, then, is a matter
+for national legislation . . .’’ (Emphasis added.)
+402
+As I have noted, the requirement of originality was first introduced by statute
+into English law in 1911. At that time, the Berne Convention merely provided,
+in what was then Art 2(2), that State parties were bound to protect ‘‘collections
+of different works’’. The 1909 Gorell Report, examined the extent to which
+English law was not in accord with the Berne Convention. The Gorell Report
+did not, however, address the question of copyright in compilations. The
+legislation specifically dealt with the question of compilations only because of
+an amendment proposed by Lord Gorell himself (see above at [359]).
+403
+It may be that the grant of copyright protection to compilations which are
+original in the sense accepted by the English and Australian authorities goes
+further than required by international law. But that does not place Australia in
+breach of its international obligations. Nor does the fact that Australian law
+goes further than the requirements of the Berne Convention justify modifying
+the law.
+
+A synthesis
+
+404
+This survey of the authorities shows that English and Australian courts have
+long grappled with the special difficulties created by claims of copyright in
+compilations. Well before legislation accorded compilations express recognition
+as ‘‘literary works’’, English and Scottish cases accepted that compilations of
+factual information, such as directories and catalogues, could be the subject
+matter of copyright. The underlying rationale, stated in early cases such as
+
+592
+FEDERAL COURT REPORTS
+[(2002)
+
+Kelly v Morris and Morris v Ashbee but repeated in many later cases, was that
+the compiler should be rewarded for the labour and expense involved in
+collecting and presenting the information. The first copyright statute, 8 Anne
+c 19 (1709), had included among its objects the encouragement of learning and
+the prevention of ruin to authors and proprietors of books by unauthorised
+reprinting and publishing (see the preamble, set out in S Ricketson and
+C Creswell, The Law of Intellectual Property: Copyright, Designs and
+Confidential
+Information (2001)
+at
+par
+3.125).
+The
+nineteenth
+century
+authorities extended the rationale beyond the authors of ‘‘literary’’ works in the
+traditional sense to the less creative, but not necessarily less useful endeavours
+of compilers of factual information.
+405
+Some of the earlier judgments, reflecting the prevailing enthusiasm to protect
+the labour and expense of compilers, gave an expansive interpretation to the
+scope of copyright in compilations. Hence the famous but excessive admonition
+to the defendant in Kelly v Morris, that he was not entitled to take a single line
+of the plaintiff’s directory for the purpose of saving himself labour and trouble
+in getting his information. Later cases recognised the difficulty of reconciling
+an admonition in these terms with the principle that the ‘‘law of copyright does
+not . . . give any person an exclusive right to state or describe particular facts’’
+(Victoria Park v Taylor at 498, per Latham CJ).
+406
+The need to reconcile apparently conflicting imperatives led to two important
+qualifications or refinements of the approach taken in the early cases. The first
+was to impose a threshold requirement to be satisfied before the compiler’s
+labour and expense could support copyright in a particular compilation. Cases
+such as Leslie v Young; Cramp v Smythson and Victoria Park v Taylor are
+illustrations of a compiler’s failure to satisfy the threshold requirement.
+Secondly, later authorities emphasised the significance of the statutory
+requirement that, in order to establish infringement, the copyright owner must
+show that a substantial part of the work has been taken (Copyright Act,
+s 14(1)). This requirement has become more onerous for the copyright owner in
+Australia by reason of the High Court’s rejection, in Data Access v Powerflex,
+of the so-called ‘‘but for’’ test of substantiality and the substitution of a test
+requiring reference to the originality of that part of the copyright work taken by
+the alleged infringer.
+407
+Despite these qualifications, the course of authority in the United Kingdom
+and Australia recognises that originality in a factual compilation may lie in the
+labour and expense involved in collecting the information recorded in the work,
+as distinct from the ‘‘creative’’ exercise of skill or judgment, or the application
+of intellectual effort. The formulations, for example, of Dixon J in Victoria
+Park v Taylor and of the members of the House of Lords in Ladbroke v
+William Hill support this proposition. So too do the authorities which have
+approved the reasoning in Blacklock v Pearson. That case is very difficult to
+interpret except as a decision upholding copyright in a compilation which
+involved much work and effort in collecting information, but which required no
+particular judgment or skill. Moreover, much-cited cases such as Football
+League v Littlewoods and Ladbroke v William Hill have rejected the view that,
+in assessing the originality of a compilation, only skill, judgment or labour
+associated with the presentation of the compilation (as distinct from skill,
+judgment or labour at an earlier stage) can be taken into account.
+408
+It is true, as Dr Emmerson accepted, that the circumstances of the present
+case are not governed by an authoritative Australian decision. But it is also true
+
+593
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Sackville J)
+
+that this is an area where the law of copyright of the United Kingdom and
+Australian law have developed in tandem, a point recognised by the Spicer
+Report in 1959 and reinforced by more recent authorities. There are now, of
+course, differences between the legislative arrangements in force in the two
+jurisdictions. There is as yet no equivalent in Australia, for example, of the
+Copyright and Rights in Databases Regulations 1997 (UK) (the UK Database
+Regulations), which implements the European Union’s Directive on the Legal
+Protection of Databases 1996 (the 1996 Directive): see [424] below. But there
+is nothing in the Copyright Act that suggests that, except for specific provisions
+such as the UK Database Regulations, the Australian law governing copyright
+in factual compilations differs materially from United Kingdom law.
+409
+In summary, the authorities support these propositions:
+(i)
+A compilation will ordinarily be an original literary work for copyright
+purposes if the compiler has exercised skill, judgment or knowledge in
+selecting the material for inclusion in the compilation (as with a collection
+of commentaries) or in presenting or arranging the material (as with the
+births and deaths column in John Fairfax).
+(ii) In addition, a compilation of factual information will ordinarily be an
+original literary work for copyright purposes if the compiler has
+undertaken substantial labour or incurred substantial expense in collecting
+the information recorded in the compilation.
+(iii) In order for copyright to subsist in a factual compilation, on the basis of
+the labour or expense required to collect the information, the compiler
+must show that the labour or expense exceeds a minimum threshold
+(Cramp v Smythson; Victoria Park v Taylor). Various formulations have
+been advanced to describe the threshold requirement (see Kalamazoo v
+Compact Business Systems (1985) 84 FLR 101 at 120ff, per Thomas J),
+but it is not necessary to pursue the issue further in this case. In this sense,
+the question of whether a factual compilation is original is a matter of fact
+and degree (cf Ladbroke v William Hill).
+(iv) In assessing whether a factual compilation is an original work, the labour
+or expense required to collect the information can be taken into account
+regardless of whether the labour or expense was directly related to the
+preparation or presentation of the compilation in material form, provided it
+was for the purpose of producing the compilations (Football League v
+Littlewoods; Ladbroke v William Hill).
+(v)
+Copyright in a factual compilation will be infringed only where the alleged
+infringer takes a substantial part of the copyright work. Substantiality is to
+be determined by reference to the originality of that part of the work taken
+by the alleged infringer (Data Access v Powerflex). Where originality in a
+factual compilation is found, in whole or in part, in the compiler’s labour
+or expense required to collect the information, infringement depends on
+the extent to which the collected information has been appropriated by the
+alleged infringer. To this extent, too, the issue of infringement may
+involve matters of fact and degree.
+(vi) These principles apply to ‘‘whole of universe’’ compilations.
+
+Feist Publications Inc v Rural Telephone Service Co Inc
+
+The reasoning in Feist
+
+410
+The submissions devoted considerable attention to the decision of the
+
+594
+FEDERAL COURT REPORTS
+[(2002)
+
+Supreme Court in the United States in Feist Publications Inc v Rural Telephone
+Service Co Inc. In Feist, the respondent, Rural, was a certified public utility
+that provided telephone services to several communities in north-west Kansas.
+Pursuant to a requirement of State law, imposed as a condition of its monopoly
+franchise, Rural published annually an updated telephone directory, consisting
+of white and yellow pages in conventional form. Rural obtained the data for the
+directory from subscribers, who had to provide their names and addresses to
+obtain telephone services. Rural distributed its directory free of charge to
+subscribers but derived revenue from selling yellow pages advertisements.
+411
+The petitioner, Feist, was a publishing company specialising in area-wide
+telephone directories, covering much larger areas than particular directories.
+The Feist directory in issue in the litigation covered 11 different telephone
+service areas and contained nearly 47,000 white pages listings, compared with
+Rural’s 7,700 listings. The Feist directory, like the Rural directory, was
+distributed free of charge, but Feist and Rural competed vigorously for yellow
+pages advertising.
+412
+Feist lacked independent access to subscriber information. It sought
+permission from the 11 telephone companies operating in north-west Kansas to
+use their white pages listings. All agreed except Rural. Feist nonetheless used
+Rural’s white pages listings, taking 1,309 names, towns and telephone numbers
+without Rural’s consent in order to complete its area-wide directory.
+413
+Rural successfully sued for copyright infringement in the District Court. The
+Court of Appeals for the Tenth Circuit affirmed. The Supreme Court, in an
+opinion delivered by O’Connor J, unanimously reversed the Court of Appeals,
+holding that the selection, co-ordination and arrangement of Rural’s white
+pages did not satisfy the minimum standards of originality for copyright
+protection in the United States.
+414
+O’Connor J observed (at 344) that the case concerned the interaction
+between two well-established propositions. The first was that facts are not
+copyrightable; the second was that factual compilations are copyrightable. The
+key to resolving the ‘‘undeniable tension’’ between the two propositions lay in
+understanding why facts are not copyrightable. O’Connor J said that to qualify
+for copyright protection a work must be original to the author (at 345):
+‘‘Original, as the term is used in copyright, means only that the work was
+independently created by the author (as opposed to copied from other
+works), and that it possesses at least some minimal degree of creativity . . .
+To be sure, the requisite level of creativity is extremely low; even a slight
+amount will suffice. The vast majority of works make the grade quite
+easily, as they possess some creative spark, ‘no matter how crude, humble
+or obvious’ it might be.’’
+415
+The opinion emphasised that, in the United States, originality was a
+constitutional requirement. The source of Congress’ power was Art I, §8, cl 8
+of the United States Constitution which authorises Congress to ‘‘secur[e] for
+limited times to Authors . . . the exclusive Right to their respective writings’’.
+In The Trade-Mark Cases (1879) 100 US 82, for example, the Court had
+explained that for a particular work to be classified as the writings of an author
+it had to be ‘‘original’’ and ‘‘originality’’ required independent creation plus a
+modicum of creativity. It was this ‘‘bedrock principle of copyright’’ that
+mandated the law’s seemingly disparate treatment of facts and factual
+compilations (at 347):
+‘‘[F]acts do not owe their origin to an act of authorship. The distinction is
+
+595
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Sackville J)
+
+one between creation and discovery: the first person to find and report a
+particular fact has not created the fact: he or she has merely discovered its
+existence.’’
+416
+O’Connor J recognised that factual compilations can possess the requisite
+originality. Choices concerning the selection and arrangement of data, so long
+as they are made independently by the compiler and ‘‘entail a minimum degree
+of creativity’’ are sufficiently original that Congress can protect such
+compilations through copyright (at 348). But where the compiler author adds no
+written expression but lets the facts speak for themselves, the ‘‘only
+conceivable expression is the manner in which the compiler has selected and
+arranged the facts’’ (at 341). Furthermore, the mere fact that a work is the
+subject of copyright does not mean that every element of it is protected
+(at 348):
+‘‘Originality remains the sine qua non of copyright; accordingly, copyright
+protection may extend only to those components of a work that are
+original to the author . . . Thus, if the compilation author clothes facts with
+an original collocation of words, he or she may be able to claim a
+copyright in this written expression. Others may copy the underlying facts
+from the publication, but not the precise words used to present them.’’
+417
+The opinion acknowledged (at 349) that copyright in a factual compilation
+inevitably is ‘‘thin’’. In answer to the apparent unfairness that much of the fruit
+of the compiler’s labour may be used by others without compensation,
+O’Connor J observed that the primary objective of copyright is not to reward
+the labour of authors but to ‘‘promote the Progress of Science and useful Arts’’
+(the language of Art I, §8, cl 8). She noted (at 349-350) that:
+‘‘[t]o this end, copyright assures authors the right to their original
+expression, but encourages others to build freely upon the ideas and
+information conveyed by a work.’’
+The idea/expression or fact/expression dichotomy applied to all works of
+authorship. As applied to a factual compilation, in the absence of original
+written expression (at 350-351): ‘‘only the compiler’s selection and arrange-
+ment may be protected; the raw facts may be copied at will.’’
+418
+O’Connor J criticised the so-called ‘‘sweat of the brow’’ doctrine that had
+been embraced by a number of courts in the United States. The doctrine’s most
+‘‘glaring’’ flaw was that it extended copyright in a compilation beyond
+selection and arrangement to the facts themselves (at 353). The ‘‘sweat of the
+brow’’ courts had ‘‘eschewed the most fundamental axiom of copyright law —
+that no one may copyright facts or ideas’’.
+419
+Applying these principles to the facts, O’Connor J concluded (at 362) that
+Feist, by taking the 1,309 names, towns and telephone numbers had not copied
+anything ‘‘original’’ to Rural. The raw data were uncopyrightable facts. Rural’s
+selection and arrangement of the raw data were so mechanical or routine as to
+require no creativity whatsoever. Rural had merely taken the data provided by
+subscribers and listed their names in alphabetical order.
+
+Is Feist in point?
+
+420
+Desktop argued that the reasoning of the Supreme Court in Feist, although
+not binding on Australian courts, applied directly to the circumstances of the
+present case and, accordingly, should be followed. This submission, in my
+view, underestimates the extent to which the opinion in Feist reflects
+considerations peculiar to the United States. The conception of originality
+
+596
+FEDERAL COURT REPORTS
+[(2002)
+
+endorsed by the Supreme Court owes much both to its construction of the
+‘‘Writings and Discoveries’’ power in Art I, §8, cl 8 and to the terms of the
+Copyright Act 1976 (US).
+421
+Mr Nettle acknowledged, as he had to, that constitutional issues played a part
+in the reasoning of the Supreme Court. But, so he argued, the Writings and
+Discoveries power, to the extent that it incorporates a minimum constitutional
+requirement for copyright protection of a ‘‘modicum of creativity’’ has an
+effect no different than s 51(xviii) of the Constitution. This argument
+encounters the difficulty that in Grain
+Pools
+of
+Western
+Australia
+v
+Commonwealth (2000) 202 CLR 479 at 498, the joint judgment pointed out that
+there were important textual differences between the two constitutional
+provisions. Their Honours noted, especially, the absence of the ‘‘purposive
+element’’ to be found in the introductory words of Art I, §8, cl 8 (‘‘To promote
+the progress of Science and useful Arts’’) and said that s 51(xviii), unlike its
+counterpart, is not to be ‘‘constricted’’ by this purposive element. Perhaps more
+importantly, their Honours were at pains to give s 51(xviii) of the Constitution
+a broad construction, specifically rejecting an argument that the boundaries of
+the power are to be ascertained by identifying the content of ‘‘copyright’’ in
+1900. Nor does the reference in the joint judgment in Nintendo Co Ltd v
+Centronics Systems Pty Ltd (1994) 181 CLR 134 at 160, to ‘‘products of
+intellectual effort’’ being the subject matter of s 51(xviii) suggest that the scope
+of the power conferred by s 51(xviii) is confined in the same manner as Art I,
+§8, cl 8. The comment in Nintendo was made in support of a broad construction
+of the constitutional power, sufficient to uphold the validity of the new rights
+conferred by the Circuit Layouts Act 1989 (Cth).
+422
+Moreover, the Supreme Court’s opinion in Feist rests to a considerable
+extent on the language of the Copyright Act 1976 (US). O’Connor J pointed out
+that Congress had deleted the specific mention of ‘‘directories’’ in the previous
+legislation (the Copyright Act 1909 (US)) and provided a definition of
+‘‘compilation’’. The current definition (s 101 of the Copyright Act 1976 (US))
+is as follows:
+‘‘. . . a work formed by the collection and assembling of pre-existing
+materials or of data that are selected, coordinated, or arranged in such a
+way that the resulting work as a whole constitutes an original work of
+authorship.’’ (Emphasis added.)
+Not surprisingly, the Supreme Court construed this language as instructing
+courts that (at 358):
+‘‘. . . in determining whether a fact-based work is an original work of
+authorship, they should focus on the manner in which the collected facts
+have been selected, co-ordinated and arranged.’’
+See, too, the discussion of s 103(b) of the Copyright Act 1976 (US): Feist
+at 359. It is clear that the Supreme Court’s definition of originality in relation to
+factual compilations was informed by its construction of the Copyright Act
+1976 (US).
+
+Policy issues
+
+423
+In view of these matters, the significance of Feist for present purposes is
+whether the reasoning, shorn of issues peculiar to the United States,
+convincingly establishes a ‘‘unitary concept of creative originality for copyright
+law’’: J C Ginsburg, ‘‘No ‘Sweat’? Copyright and Other Protection of Works
+of Information After Feist v Rural Telephone (1992) 92 Colum L Rev 338
+
+597
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Sackville J)
+
+at p 341. The opinion shows that the concept of ‘‘originality’’ in copyright law
+is
+capable
+of
+being
+understood
+as
+incorporating
+a
+‘‘creative
+spark’’
+requirement. But this is not the only view that can be taken. The English and
+Australian authorities, to which reference has already been made, demonstrate
+that the concept of originality can equally be understood as embracing a
+compilation that is the product of substantial labour or expense, provided that it
+goes beyond the mere copying of other works. On this approach, originality
+does not always involve the ‘‘creative spark’’ identified as essential in Feist.
+This view of originality also accommodates the special characteristics of factual
+compilations which, by statute, can be the subject matter of copyright.
+424
+Doubtless there would be good reasons to follow Feist in Australia if, from a
+policy perspective, its approach offers clear advantages over one which protects
+industrious compilations. The policy question essentially revolves around the
+means of resolving the tension between providing incentives to produce
+potentially useful works and encouraging free access to information or ‘‘raw
+facts’’. In an article cited by the Supreme Court in Feist, Professor Denicola
+argues in favour of recognising that a ‘‘particular collection of facts appearing
+in a work is itself a work of authorship’’ (Denicola at p 542). Professor
+Denicola criticises as too limited the ‘‘traditional approach’’ (later affirmed in
+Feist) which insists on some creativity in the selection or arrangement of data.
+He argues (at 530) that the:
+‘‘. . . effort of authorship can be effectively encouraged and rewarded only
+by linking the existence and extent of protection to the total labor of
+production. To focus on the superficial form of the final product to the
+exclusion of the effort expended in collecting the data presented in the
+work is to ignore the central contribution of the compiler.’’
+This analysis, of course, reflects the policy considerations informing the
+nineteenth century authorities on copyright in factual compilations. The danger
+in refusing copyright protection to an industrious compilation is that a potential
+compiler will be deprived of the incentive to undertake work that may prove to
+be of great value. It is doubtless for this reason that the United Kingdom, in
+accordance with the 1996 Directive issued by the European Union, has
+established a separate regime for databases, including a sui generis property
+right called a ‘‘database right’’, which applies regardless of whether the
+database is a copyright work: see UK Databases Regulations, reg 13;
+K Garnett, J James, G Davies, Copinger and Skone James on Copyright
+(14th ed, 1999), pars 3-88, 3-96, 180-03ff. (United Kingdom law now provides
+that a database receives protection under the copyright regime only if ‘‘by
+reason of the selection or arrangement of the contents of the database the
+database constitutes the author’s own intellectual creation’’: UK Databases
+Regulations, reg 5; Copyright, Designs and Patents Act 1988 (UK), s 3A.)
+425
+Professor Denicola addresses the argument, subsequently given much
+emphasis by the Supreme Court, that copyright protection for industrious
+compilations would effectively confer monopoly rights in relation to facts. He
+argues (at 531) that unfettered access to individual facts would be protected by
+the requirement of substantial similarity:
+‘‘Since it is the collection as a whole that represents the original work of
+authorship, only copying sufficient to produce a substantially similar
+collection would generate potential liability.’’
+He also argues that the fair use doctrine provides a mechanism to moderate the
+effect of recognised property interests in collections of data (at 532). In short,
+
+598
+FEDERAL COURT REPORTS
+[(2002)
+
+he rejects the suggestion that copyright protection for industrious compilations
+amounts to granting copyright over facts as such. A competitor is free to gather
+facts from whatever source he or she wishes, so long as the product (in
+Australian terms) does not reproduce in a material form a substantial part of the
+compiler’s work. It is the collection in respect of which copyright subsists, not
+the facts collected by the compiler.
+426
+Another commentator has suggested that Feist encourages compilers of facts
+to add elements to a compilation of facts, not for the benefit of consumers but
+to satisfy the minimum creativity requirements of copyright law (Ginsburg
+at p 347). In such cases, the compiler’s primary interest is in securing copyright
+protection for the effort or expense in compiling the material, rather than for the
+particular form or presentation of the compilation. On the Feist approach, it is
+necessary to distinguish between the original (marginally creative) elements of
+the compilation and the non-creative labour or expense that has gone into the
+gathering of data. But the distinction may not be easy to draw (cf Kregos v
+Associated Press (1991) 937 F (2d) 700 (2nd Cir); Bellsouth Advertising
+Publishing Corporation v Donnelly Information Publishing, Inc (1993) 999 F
+(2d) 1436 (11th Cir); CCC Information Services v Maclean Hunter Market
+Report, Inc (1994) 44 F (3d) 61 (2nd Cir)).
+427
+I do not suggest that the policy issues raised by Feist and indeed by the
+present case are easy to resolve. The point is that policy considerations by no
+means compel the conclusion that the approach in Feist should be followed in
+Australia. The general propositions I have derived from the authorities can be
+supported by cogent policy arguments.
+428
+This is not to say that affording copyright protection to the compiler of a
+factual compilation, who happens to enjoy monopoly privileges that facilitate
+the making of the compilation, is necessarily a satisfactory state of affairs. This
+was an issue raised, but not pursued in depth, in the course of argument. It is
+striking that Telstra in the present case, like Rural in Feist, was able, for at least
+part of the relevant period, to compile the information incorporated into its
+White Pages by virtue of monopoly powers granted to it by law. (Telstra’s
+position changed from 1 July 1997, when the Telecommunications Act came
+into force and the extent of its monopoly thereafter was not made entirely
+clear.) There may be powerful reasons, in such circumstances, for requiring the
+owner of copyright in the compilation to submit to a compulsory licensing
+regime. Such schemes are established by statute in other areas: see, for
+example, Copyright Act, s 108, providing that copyright in a recording is not
+infringed
+by
+a
+public
+performance
+if
+equitable
+remuneration
+is
+paid.
+A compulsory licensing regime might appropriately reward the monopolist’s
+labour and expense, yet leave room for innovative competitors who cannot gain
+access to the basic information required to establish databases of potential
+commercial value.
+429
+A court is ill-equipped to undertake the inquiries and make the policy
+assessments necessary to resolve these issues. The questions are for Parliament
+to consider. In the meantime, Australian law recognises copyright in so-called
+industrious compilations, even in the case of whole of universe compilations
+prepared by monopolists.
+430
+As I have noted (see [326] above), Mr Nettle made reference in argument to
+the decision of the Court of Appeal of Canada in Tele-Direct (Publications) Inc
+v American Business Information Inc. There the Court of Appeal followed the
+approach to originality adopted by the Supreme Court of the United States in
+
+599
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Sackville J)
+
+Feist. Although the Court of Appeal referred to the well-known English
+authorities, the decision was heavily influenced by the terms of the North
+American Free Trade Agreement (NAFTA) and a definition of ‘‘compilation’’
+inserted into the Copyright Act 1985 (Can) by the North American Free Trade
+Agreement Implementation Act 1993 (Can): see 29-30. For present purposes, it
+carries the matter no further than Feist itself.
+
+Copyright subsists in Telstra’s Directories and Headings Books
+
+431
+The primary judge pointed out that it is necessary, for the purpose of
+determining whether a work is protected by copyright to look at the work as a
+whole. As Lord Reid said in Ladbroke v William Hill at 277, the correct
+approach:
+‘‘. . . is first to determine whether the plaintiffs’ work as a whole is
+‘original’ and protected by copyright, and then to inquire whether the part
+taken by the defendant is substantial.’’
+Given that a compilation may constitute an original literary work if the
+compiler has undertaken substantial labour or incurred substantial expense in
+collecting the information recorded in the compilation, there is no difficulty in
+concluding that the primary judge was correct to hold that Telstra had copyright
+in the White Pages and Yellow Pages directories.
+432
+The White Pages directories largely comprise the listing data compiled by
+Telstra. This material satisfies the statutory requirement of originality. As
+I have explained, it was common ground that Telstra had undertaken substantial
+labour and incurred substantial expense in compiling and presenting the listing
+data. Other features of the White Pages directories such as the information
+pages are, as the primary judge found, clearly the subject of copyright.
+433
+Much the same analysis applies to the Yellow Pages directories. They, too,
+largely comprise the listing data compiled by Telstra. The remaining material,
+including information pages, advertising artwork and the like, is also mainly if
+not entirely the subject of copyright.
+434
+The question of whether copyright subsisted in the headings books received
+little attention in argument. It might have been thought that the issue was of
+minor importance compared with the questions of copyright in the listing data.
+Be that as it may, so far as copyright is concerned, the heading books are in a
+somewhat different position than the listing data.
+435
+The primary judge appeared to approach the question by applying the
+decision in Lamb v Evans. In that case it was held that a publisher of a trade
+directory had copyright in the headings that were used to classify the various
+advertisements. The subsistence or otherwise of copyright in the headings
+books in the present case cannot be determined simply by reference to
+authority. Ultimately the resolution of the questions must depend on the facts of
+the case. The primary judge in fact made a number of findings relevant to the
+question. In particular, he found that Telstra had established a committee
+responsible for updating and revising the headings books annually; and that the
+committee
+or
+its
+contractor
+had
+surveyed
+households
+and
+businesses,
+undertaken research and considered requests made by users in order to select
+and amend headings. A reading of the judgment as a whole suggests that his
+Honour intended to find that the headings books, although not the product of
+intellectual effort, were produced in consequence of an investment by Telstra of
+substantial labour and expense. I think it was open to him to do so.
+436
+It follows that no error has been shown in the primary judge’s conclusion
+
+600
+FEDERAL COURT REPORTS
+[(2002)
+
+that Telstra had copyright in the White Pages directories, the Yellow Pages
+directories and the headings books.
+
+Infringement
+
+437
+Desktop
+in
+substance
+relied
+on
+two
+arguments
+on
+the
+question
+of
+infringement. The first was that the primary judge had failed to keep in mind
+the principle that in determining whether a substantial part of copyright work
+has been taken it is necessary to consider the originality of the part allegedly
+taken: Data Access v Powerflex at 32-33. The second was that the primary
+judge had failed to pay proper regard to the requirement that the notion of
+reproduction for the purposes of copyright law requires not only a causal
+connection between the copyright work and the allegedly infringing work, but a
+sufficient degree of objective similarity between the two works: S W Hart & Co
+Pty Ltd v Edwards Hot Water Systems (1985) 159 CLR 466 at 472, per
+Gibbs CJ.
+438
+The answer to the first argument has already been given. The listing
+information incorporated in Telstra’s directories satisfies the requirement of
+originality because of the labour and expense involved in the compilation. The
+originality of the compilation for copyright purposes does not lie in the prosaic
+method of presentation of the data, that is the listing in alphabetical order of the
+names and details of each subscriber.
+439
+Desktop accepts that information electronically stored on its CD-ROMs
+includes virtually all the listing data compiled by Telstra and published in its
+directories. The primary judge found that around 95 per cent of the headings
+used by Desktop at the relevant times were identical to those used by Telstra
+and which had been derived from its headings books. Desktop clearly enough
+took the great bulk of headings compiled in the headings books (via the Yellow
+Pages directories). Once it is accepted that the originality in Telstra’s
+compilations lies in the labour and expense involved in compiling the
+information, the primary judge was right to conclude that Desktop had taken a
+substantial part of each of Telstra’s copyright works. It is not to the point that
+Desktop may not have adopted Telstra’s mode of presentation of the data.
+440
+So far as the second argument is concerned, I agree in substance with what
+has been said by Lindgren J. The approach outlined by his Honour is consistent
+with the authorities to which I have referred: see especially [117], [118]. See
+also Copinger and Skone James on Copyright at [7]-[57]; Independent
+Television Publications Ltd v Time Out Ltd [1984] FSR 64 at 72-74, per
+Whitford J; British Columbia Jockey Club v Standen (1985) 22 DLR (4th) 467
+(BC CA).
+441
+Even if it were necessary to demonstrate some degree of visual similarity
+between Telstra’s directories and headings books, on the one hand, and
+Desktop’s CD-ROM products, on the other, I think that Telstra has discharged
+the burden, at least in relation to the residential CD-ROMs and Marketing Pro.
+442
+In relation to a literary work, including a compilation, ‘‘material form’’
+includes ‘‘any form (whether visible or not) of storage from which the work or
+a substantial part of the work . . . can be reproduced’’. The definition is
+principally intended to overcome the difficulty under the earlier law that a
+database stored in electronic form may not have had the required objective
+similarity to a copyright work in a written form even though the database had
+been compiled from the copyright work: cf Computer Edge Pty Ltd v Apple
+Computer Inc (1986) 161 CLR 171 at 186, per Gibbs CJ; Pacific Gaming Pty
+
+601
+119 FCR 491]
+DESKTOP MARKETING v TELSTRA CORPORATION (Sackville J)
+
+Ltd v Aristocrat Leisure Industries Pty Ltd (2001) 116 FCR 448 at 477-478
+[105]-[108], per curiam.
+443
+It is true that the definition is only of the expression ‘‘material form’’. The
+definition does not apply to the word ‘‘reproduce’’ in s 31(1)(a)(i) of the
+Copyright Act. But in overcoming the difficulty in copyright law associated
+with the taking of (say) printed works and reproducing them in (say) electronic
+form, Parliament must have intended that, if a visual comparison is to be made,
+it must be made between forms of presentation that are capable of comparison.
+In the case of alleged infringement of a printed work by the production of a
+CD-ROM, for example, it is necessary (assuming objective similarity must be
+established) to find a common medium for the purposes of the comparison.
+Depending on the circumstances, the comparison might be between the printed
+work and hard copy material derived from the data on the CD-ROM.
+Alternatively, the comparison might be between the printed work and material
+derived from a CD-ROM which is displayed on a screen.
+444
+In the present case, the information stored on Desktop’s residential CD-
+ROMs was capable of being reproduced as a print-out of 55 alphabetical
+listings of subscribers, each corresponding to the alphabetical listing in a
+Telstra White Pages directory. The only significant difference between the
+contents of the alphabetical list in each case would be the absence, in the case
+of the print-out of the Desktop CD-ROMs, of the business entries included in
+each White Pages directory. Approximately 90 per cent of the entries
+(according to the estimates made in argument) would in substance be the same,
+although each listing would not have the same layout (for example, the Desktop
+listings would not be in columns).
+445
+Similarly, at least in the case of Desktop’s most sophisticated business CD-
+ROM, Marketing Pro, it appears that the data can be reproduced in alphabetical
+order, grouped by reference to descriptors, so as to correspond closely to the
+information printed in each Yellow Pages directory. There will be some
+differences in content. While 95 per cent of the descriptors used in the CD-
+ROMs are identical to the headings in the Yellow Pages directories, some
+five per cent are not. And of course the Desktop material will not include the
+advertisements or artwork in the Yellow Pages directories. Nonetheless, the
+data in the CD-ROMs can be manipulated to produce material capable of being
+read which corresponds in content and presentation quite closely to Telstra’s
+Yellow Pages directories.
+446
+For the reasons given by Lindgren J, I do not think it matters if there is no
+visual similarity between reproduction of the data stored on the Desktop CD-
+ROMs and Telstra’s Yellow Pages and White Pages directories. But if some
+visual similarity is required in cases involving the taking of factual compilation,
+I think that the form in which the information stored on Desktop’s CD-ROMs
+can be reproduced satisfies any such requirement.
+
+Conclusion
+
+447
+The appeal should be dismissed. There is no need to address Telstra’s notice
+of contention. Desktop should pay Telstra’s costs.
+
+Orders accordingly
+
+602
+FEDERAL COURT REPORTS
+[(2002)
+
+Solicitors for the appellant: Abbott Stillman and Wilson.
+
+Solicitors for the respondent: Mallesons Stephen Jaques.
+
+JUSTINE BEAUMONT

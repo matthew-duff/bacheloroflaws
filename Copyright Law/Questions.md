@@ -1,0 +1,27 @@
+## 1. The "Licensing-First" Approach and Its Practicality
+In your Copyright Infringement and AI guidance note, you document the shift from a proposed TDM exception to a "licensing-first" approach after the government ruled out TDM in October 2025. But the Productivity Commission's final report conceded it's uncertain **"whether licensing markets for open web material will emerge without intervention."** How realistic is a licensing-first model when millions of individual copyright owners (bloggers, photographers, small creators) lack the bargaining power or infrastructure to negotiate with AI companies? Is there a risk that licensing-first effectively benefits only large publishers like News Corp and the NYT, while smaller creators get nothing?
+
+Also regarding the textbook readings, one of the primary purposes that was discussed for copyright was the enforcement of the rights for technology and creativity between nation states.
+
+however, it seems the AI arms race probably supercedes this.
+
+2. The Three Cs and the Power Imbalance
+Your submission with Trent Dalton argues for Compensation, Credit, and Control for creators. But the licensing deals you document — Taylor & Francis licensing academic authors' work to Microsoft, HarperCollins approaching authors for AI licences — suggest that intermediaries (publishers), not individual creators, are negotiating and capturing value. Do the "Three Cs" require rethinking who holds the bargaining position, and should the law empower individual authors to bypass publishers in AI licensing, or is collective licensing (like a collecting society model) the better path?
+
+3. Market Dilution as the Decisive Fair Use Factor
+You highlight Kadrey v Meta as important authority, where the court said market dilution from AI-generated competing works is a legitimate fourth-factor concern, but the plaintiffs lost because they didn't plead or evidence it. What would a successful market dilution argument actually look like in practice? How would a plaintiff prove that an LLM can produce works that compete in their specific market, given the difficulty of tracing AI outputs back to specific training inputs?
+
+4. The s 22(6) Problem — Who "Determines the Content"?
+In your infringement note, you flag s 22(6) of the Copyright Act — which deems a communication to have been made by the person "responsible for determining the content." In an AI context, is that the developer who built and trained the model, or the end user who wrote the prompt? Could both be liable? And does this provision need amendment, or is it flexible enough to cover AI-generated communications?
+5. Proving Copying When AI Outputs Are "Inexact Statistical Recreations"
+You note that whether an "inexact statistical recreation" counts as a copy is both a difficult legal and technical question. Should Australian law develop a new test for substantial similarity in the AI context — something beyond the traditional IceTV "independent intellectual effort" and qualitative assessment — or can existing doctrine handle these cases adequately?
+6. Extraterritorial Application of Australian Copyright
+In the Dalton submission, you propose that Australian copyright should apply to AI models trained overseas but made available in Australia. How would this work in practice? Would it be a "product-by-process" approach — if the model was trained on infringing copies, making it available here is itself infringing? And does this create enforcement challenges, given that the training data and the copying occurred in another jurisdiction?
+7. Human-AI Collaboration and the Authorship Threshold
+In IP and AI-Generated Works, you suggest that where a human uses AI as a tool and contributes "significant intellectual effort, skill and judgment," the human may be author. Where exactly is the line? If I give a detailed, creative prompt to an AI image generator — specifying style, composition, colour palette, subject — is that enough? And how should creators document their contribution to protect themselves, practically speaking?
+8. Moral Rights in the AI Training Context
+You note that "little consideration has been given" to whether using works as training data could infringe authors' moral rights. Do you think the right of integrity (s 195AI) could be engaged where an AI system, trained on an author's work, produces output that distorts or mutilates the character of that work — for example, generating content "in the style of" an author but containing views they would find repugnant?
+9. The Censorship Concern
+The Dalton submission raises a distinctive point: that concentration of AI tools in a few companies enables censorship of certain views. Do you see this as a copyright issue, a competition issue, or a broader free expression issue? And is requiring AI providers to publish explanations of their "override rules" a realistic remedy, given the opacity of how content policies are implemented in large language models?
+10. The Breyer Framework Applied to AI
+You recommended Breyer's Uneasy Case for Copyright, which argues that copyright is a policy instrument — a "tax on readers for the purpose of giving a bounty to writers" — and that transaction costs matter enormously. Applying Breyer's economic lens, is the real problem with AI and copyright not the training itself, but that the transaction costs of licensing millions of works are so high that no practical market can form? And if so, does that argue for a compulsory licensing scheme rather than either TDM exceptions or voluntary licensing?

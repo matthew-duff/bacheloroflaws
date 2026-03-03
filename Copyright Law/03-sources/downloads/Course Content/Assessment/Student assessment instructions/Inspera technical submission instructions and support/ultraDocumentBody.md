@@ -1,0 +1,1 @@
+Dear students,&nbsp;If you're having trouble using the Inspera platform, please see the guides and support resources listed below for help.&nbsp;InstructionsInspera Student&nbsp;guideSupportContact the&nbsp;UQ Library AskUs service&nbsp;if you need further technical help.

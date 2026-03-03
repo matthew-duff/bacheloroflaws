@@ -1,0 +1,6 @@
+# 44B Reproduction of writing on approved label for containers for
+
+chemical product
+The reproduction on a label on a container for a chemical product of any writing appearing on an approved label is not an infringement of any copyright subsisting under this Part in relation to that writing.
+
+Division 3  Acts not constituting infringements of copyright in works

@@ -1,0 +1,5 @@
+# 49 Tribunal has discretion in relation to procedure
+
+(1) The procedure of the Tribunal in a proceeding is within the discretion of the Tribunal.
+(2) In exercising its discretion, the Tribunal must have regard to the circumstances of the proceeding.
+(3) Subsections (1) and (2) are subject to this Act and the rules.

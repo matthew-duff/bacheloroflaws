@@ -1,0 +1,6 @@
+# 195CJ Legislative instruments
+
+The National Library Minister may, by legislative instrument, prescribe matters required or permitted by this Division to be prescribed by that Minister.
+
+Other matters  Division 4
+Division 4—Other matters

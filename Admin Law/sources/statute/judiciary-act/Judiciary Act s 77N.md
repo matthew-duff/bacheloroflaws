@@ -1,0 +1,6 @@
+# 77N Interest on judgment debts
+
+A judgment debt under a judgment of the High Court carries interest, at such rate as is fixed by the Rules of Court, from the date as of which the judgment is entered.
+
+Judgment and execution  Division 5
+Judiciary Act 1903 81

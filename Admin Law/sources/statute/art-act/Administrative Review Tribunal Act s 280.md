@@ -1,0 +1,17 @@
+# 280 Delegation by Principal Registrar
+
+General rule
+(1) The Principal Registrar may, in writing, delegate the Principal
+Registrar’s functions or powers under this Act, another Act or an instrument made under an Act to a registrar or staff member.
+Exception—functions and powers that must not be delegated
+(2) Despite subsection (1), the Principal Registrar must not delegate a function or power that the Principal Registrar has because the
+Principal Registrar is authorised under section 283 to perform or exercise the function or power.
+
+Delegation  Division 3
+Administrative Review Tribunal Act 2024 243
+Delegates must comply with directions
+(3) In performing or exercising a function or power delegated under this section, the delegate must comply with any written directions of the Principal Registrar.
+
+Division 4  Performing and exercising functions and powers of Tribunal
+Division 4—Performing and exercising functions and powers of Tribunal
+Subdivision A—Performance and exercise of functions and powers

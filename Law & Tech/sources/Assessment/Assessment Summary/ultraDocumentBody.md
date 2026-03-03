@@ -1,0 +1,1 @@
+CategoryAssessment taskWeightDue dateLearning OutcomesEssay/ CritiqueWritten AssignmentOnline40%&nbsp;ExaminationEnd-of-semester ExaminationIn-person60%&nbsp;End of Semester Exam Period

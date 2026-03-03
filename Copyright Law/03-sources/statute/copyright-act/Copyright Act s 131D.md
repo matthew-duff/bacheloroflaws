@@ -1,0 +1,9 @@
+# 131D Jurisdiction of Federal Circuit and Family Court of Australia
+
+(Division 2)
+Jurisdiction is conferred on the Federal Circuit and Family Court of
+Australia (Division 2) with respect to civil actions under this Part (other than section 115A).
+
+Division 5  Offences and summary proceedings
+Division 5—Offences and summary proceedings
+Subdivision A—Preliminary

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "_11889334_1",
+    "parentId": "_11889314_1",
+    "title": "ultraDocumentBody",
+    "body": "<div data-layout-row=\"cef12af9-4910-479e-b5d9-8b51c0f2b42e\"><div data-layout-column=\"d90de74c-d5c7-45c5-9b74-f3100fbe89b2\" data-layout-column-width=\"12\"><div data-bbid=\"bbml-editor-id_de6b5966-9dab-474e-8a28-fece9705aa80\"><h4>eLearning tool student support</h4><h5><strong>Learn.UQ (Blackboard)</strong></h5><p>For advice and guidance on Learn.UQ and other centrally supported eLearning tools, refer to the&nbsp;<a href=\"https://elearning.uq.edu.au/student-guides-ultra\">student guides</a>&nbsp;webpage.&nbsp;</p><h5><strong>Library AskUs team</strong></h5><p>The&nbsp;<a href=\"https://web.library.uq.edu.au/contact-us\">Library AskUs team</a>&nbsp;are also available to provide student technical support.</p><h5><strong>Services and resources</strong></h5><p>The&nbsp;<a href=\"https://web.library.uq.edu.au/library-services/services-students\">Library website</a>&nbsp;contains a range of services and resources for students including:</p><ul><li>technology support</li><li>assignment and study resources</li><li>support to build your skills</li><li>finding resources</li><li>study and personal help.</li></ul><h4>Information and services</h4><h5><strong>Manage my program</strong></h5><p>The&nbsp;<a href=\"https://my.uq.edu.au/information-and-services/manage-my-program\">Manage my program</a>&nbsp;webpage provides information about:</p><ul><li>classes, timetables and coursework</li><li>exams and assessment (including exam information and applying for extensions)</li><li>student integrity and conduct (including academic integrity and plagiarism)</li><li>complaints and academic appeals</li><li>fees, payment and refunds</li><li>and more.</li></ul><h5>Student support</h5><p>The&nbsp;<a href=\"https://my.uq.edu.au/student-support\">Student support</a>&nbsp;webpage provides information about:</p><ul><li>study skills and learning advice</li><li>health and wellbeing</li><li>student advice and welfare</li><li>diversity, disability and inclusion</li><li>financial support</li><li>workshops</li><li>and more.</li></ul></div></div></div>",
+    "created": "2024-08-29T08:14:32.286Z",
+    "modified": "2025-08-20T05:19:31.590Z",
+    "position": 0,
+    "launchInNewWindow": true,
+    "reviewable": false,
+    "availability": {
+      "available": "Yes",
+      "allowGuests": true,
+      "allowObservers": true,
+      "adaptiveRelease": {}
+    },
+    "contentHandler": {
+      "id": "resource/x-bb-document"
+    },
+    "links": [
+      {
+        "href": "/ultra/redirect?redirectType=nautilus&courseId=_196877_1&contentId=_11889334_1&parentId=_11889314_1",
+        "rel": "alternate",
+        "title": "User Interface View",
+        "type": "text/html"
+      }
+    ]
+  }
+]

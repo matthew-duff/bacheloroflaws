@@ -1,0 +1,5 @@
+# 113Y Scope of this Subdivision
+
+This Subdivision applies to:
+(a) a works collecting society; or
+(b) the broadcasts collecting society.

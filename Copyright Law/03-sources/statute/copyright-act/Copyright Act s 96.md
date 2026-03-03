@@ -1,0 +1,7 @@
+# 96 Duration of copyright in published editions of works
+
+Copyright subsisting in a published edition of a work or works by virtue of this Part continues to subsist until the expiration of 25 years after the expiration of the calendar year in which the edition was first published.
+
+Division 5  Ownership of copyright in subject-matter other than works
+Division 5—Ownership of copyright in subject-matter other than works
+Subdivision A—Ownership of copyright in subject-matter other than works

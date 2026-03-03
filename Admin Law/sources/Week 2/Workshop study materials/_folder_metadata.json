@@ -1,0 +1,147 @@
+[
+  {
+    "id": "_12136886_1",
+    "parentId": "_12136690_1",
+    "title": "Workshop 1 Learning Guide and Workshop Questions",
+    "created": "2025-08-27T05:29:01.536Z",
+    "modified": "2026-02-22T12:09:19.852Z",
+    "position": 0,
+    "hasChildren": true,
+    "launchInNewWindow": false,
+    "reviewable": true,
+    "availability": {
+      "available": "Yes",
+      "allowGuests": true,
+      "allowObservers": true,
+      "adaptiveRelease": {}
+    },
+    "contentHandler": {
+      "id": "resource/x-bb-folder",
+      "isBbPage": true
+    },
+    "links": [
+      {
+        "href": "/ultra/redirect?redirectType=nautilus&courseId=_196877_1&contentId=_12136886_1&parentId=_12136690_1",
+        "rel": "alternate",
+        "title": "User Interface View",
+        "type": "text/html"
+      }
+    ]
+  },
+  {
+    "id": "_12136913_1",
+    "parentId": "_12136690_1",
+    "title": "French on Administrative Justice",
+    "created": "2025-08-27T05:29:02.635Z",
+    "modified": "2025-09-07T06:43:57.549Z",
+    "position": 1,
+    "hasChildren": true,
+    "launchInNewWindow": false,
+    "reviewable": true,
+    "availability": {
+      "available": "Yes",
+      "allowGuests": true,
+      "allowObservers": true,
+      "adaptiveRelease": {}
+    },
+    "contentHandler": {
+      "id": "resource/x-bb-folder",
+      "isBbPage": true
+    },
+    "links": [
+      {
+        "href": "/ultra/redirect?redirectType=nautilus&courseId=_196877_1&contentId=_12136913_1&parentId=_12136690_1",
+        "rel": "alternate",
+        "title": "User Interface View",
+        "type": "text/html"
+      }
+    ]
+  },
+  {
+    "id": "_12136921_1",
+    "parentId": "_12136690_1",
+    "title": "Creyke's article on integrity in government",
+    "created": "2025-08-27T05:29:03.073Z",
+    "modified": "2025-09-07T06:43:57.550Z",
+    "position": 2,
+    "hasChildren": true,
+    "launchInNewWindow": false,
+    "reviewable": true,
+    "availability": {
+      "available": "Yes",
+      "allowGuests": true,
+      "allowObservers": true,
+      "adaptiveRelease": {}
+    },
+    "contentHandler": {
+      "id": "resource/x-bb-folder",
+      "isBbPage": true
+    },
+    "links": [
+      {
+        "href": "/ultra/redirect?redirectType=nautilus&courseId=_196877_1&contentId=_12136921_1&parentId=_12136690_1",
+        "rel": "alternate",
+        "title": "User Interface View",
+        "type": "text/html"
+      }
+    ]
+  },
+  {
+    "id": "_12136930_1",
+    "parentId": "_12136690_1",
+    "title": "Groves & Boughey on Admin Law In Aust",
+    "created": "2025-08-27T05:29:03.475Z",
+    "modified": "2025-09-07T06:43:57.550Z",
+    "position": 3,
+    "hasChildren": true,
+    "launchInNewWindow": false,
+    "reviewable": true,
+    "availability": {
+      "available": "Yes",
+      "allowGuests": true,
+      "allowObservers": true,
+      "adaptiveRelease": {}
+    },
+    "contentHandler": {
+      "id": "resource/x-bb-folder",
+      "isBbPage": true
+    },
+    "links": [
+      {
+        "href": "/ultra/redirect?redirectType=nautilus&courseId=_196877_1&contentId=_12136930_1&parentId=_12136690_1",
+        "rel": "alternate",
+        "title": "User Interface View",
+        "type": "text/html"
+      }
+    ]
+  },
+  {
+    "id": "_12136931_1",
+    "parentId": "_12136690_1",
+    "title": "Effective letter writing",
+    "created": "2025-08-27T05:29:03.528Z",
+    "modified": "2025-09-07T06:43:57.552Z",
+    "position": 4,
+    "hasChildren": true,
+    "launchInNewWindow": false,
+    "reviewable": true,
+    "availability": {
+      "available": "Yes",
+      "allowGuests": true,
+      "allowObservers": true,
+      "adaptiveRelease": {}
+    },
+    "contentHandler": {
+      "id": "resource/x-bb-folder",
+      "isBbPage": true
+    },
+    "links": [
+      {
+        "href": "/ultra/redirect?redirectType=nautilus&courseId=_196877_1&contentId=_12136931_1&parentId=_12136690_1",
+        "rel": "alternate",
+        "title": "User Interface View",
+        "type": "text/html"
+      }
+    ]
+  }
+]

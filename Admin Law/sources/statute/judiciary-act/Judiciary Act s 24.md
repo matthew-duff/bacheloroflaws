@@ -1,0 +1,3 @@
+# 24 Contempt
+
+The High Court shall have the same power to punish contempts of its power and authority as is possessed at the commencement of this Act by the Supreme Court of Judicature in England.

@@ -1,0 +1,8 @@
+# 164 Procedure
+
+In proceedings before the Tribunal:
+(a) the procedure of the Tribunal is, subject to this Act and the regulations, within the discretion of the Tribunal;
+(b) the Tribunal is not bound by the rules of evidence; and
+(c) the proceedings shall be conducted with as little formality, and with as much expedition, as the requirements of this Act
+
+Division 4  Procedure and evidence and a proper consideration of the matters before the Tribunal permit.

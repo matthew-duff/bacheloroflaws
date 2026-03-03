@@ -1,0 +1,30 @@
+[
+  {
+    "id": "_11889331_1",
+    "parentId": "_11889308_1",
+    "title": "ultraDocumentBody",
+    "body": "<div data-bbid=\"bbml-editor-id_d081b079-4088-4651-b049-f4ab69ebb411\"><p>UQ uses technology to create transcripts and/or closed captions for lectures and that process is inherently fallible. Given the volume of materials created for lectures, UQ teaching staff are not expected to review, correct or edit transcripts and/or closed captions. Accordingly, such materials may contain errors and/or omissions and students should exercise caution and not rely solely upon such materials. Views expressed by individual presenters and participants in lectures are not necessarily the views of the University, and should not be taken as being endorsed by the University.</p></div>",
+    "created": "2024-08-29T08:14:32.286Z",
+    "modified": "2025-08-20T05:19:31.320Z",
+    "position": 0,
+    "launchInNewWindow": true,
+    "reviewable": false,
+    "availability": {
+      "available": "Yes",
+      "allowGuests": true,
+      "allowObservers": true,
+      "adaptiveRelease": {}
+    },
+    "contentHandler": {
+      "id": "resource/x-bb-document"
+    },
+    "links": [
+      {
+        "href": "/ultra/redirect?redirectType=nautilus&courseId=_196877_1&contentId=_11889331_1&parentId=_11889308_1",
+        "rel": "alternate",
+        "title": "User Interface View",
+        "type": "text/html"
+      }
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+# 175 Proof of orders of Tribunal
+
+Without prejudice to any other method available by law for the proof of orders of the Tribunal, a document purporting to be a copy of such an order, and to be certified by the Registrar to be a true copy of the order, is, in any proceeding, evidence of the order.
+
+Crown copyright  Division 1
+Part VII—The Crown
+Division 1—Crown copyright

@@ -1,0 +1,4 @@
+# 116AF Category D activity
+
+A service provider carries out a Category D activity by referring users to an online location using information location tools or technology.
+Subdivision C—Limitations on remedies

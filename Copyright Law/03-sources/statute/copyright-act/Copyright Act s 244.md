@@ -1,0 +1,4 @@
+# 244 Application
+
+This Division applies to works made before 1 July 1912. 245  Rights conferred by Copyright Act, 1911
+Notwithstanding anything in Division 2, section 32 of this Act does not apply to a work to which this Division applies unless a right conferred by the Copyright Act, 1911 subsisted in the work immediately before the commencement of this Act.

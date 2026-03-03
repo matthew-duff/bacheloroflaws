@@ -1,0 +1,1 @@
+Dear students,&nbsp;If you're having trouble submitting your assignment, please see the guides and support resources listed below for help.&nbsp;InstructionsSubmit Assignments&nbsp;guideView and download your results guideSupportContact the&nbsp;UQ Library AskUs service&nbsp;if you need further technical help.

@@ -1,0 +1,18 @@
+# 144 Disclosure of standards
+
+General rule
+(1) The Tribunal must do all things necessary to ensure that a copy of a standard (or a part of a standard) given to the Tribunal under section 143, or any information contained in the copy, is not disclosed to the applicant or any person other than:
+(a) the Director-General of Security or the Director-General’s representative; or
+
+Division 2  Starting a review
+(b) a member in the course of the performance of the member’s duties; or
+(c) the Principal Registrar in the course of the performance of the Principal Registrar’s duties; or
+(d) a staff member in the course of the performance of the staff member’s duties.
+Exception
+(2) However, subsection (1) does not apply in relation to disclosure to the applicant or a person representing the applicant to the extent that the information:
+(a) has already been lawfully disclosed to the applicant; or
+(b) is disclosed to the applicant with the consent of the Director-General of Security.
+
+Proceedings  Division 3
+Administrative Review Tribunal Act 2024 135
+Division 3—Proceedings

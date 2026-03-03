@@ -1,0 +1,3 @@
+# 36 New Trials
+
+The High Court in the exercise of its appellate jurisdiction shall have power to grant a new trial in any cause in which there has been a trial whether with or without a jury.

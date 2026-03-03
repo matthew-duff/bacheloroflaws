@@ -1,0 +1,1 @@
+Dear students,&nbsp;If you're having trouble using Buddycheck to evaluate your peers' contributions and your group work during the project, view the guides and support resources listed below for help.&nbsp;InstructionsSubmit a Buddycheck peer evaluation&nbsp;guideSupportContact the&nbsp;UQ Library AskUs service&nbsp;if you need further technical help.

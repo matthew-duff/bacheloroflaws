@@ -1,0 +1,3 @@
+# 19 Quorum of a Full Court
+
+Except as hereinafter provided, a Full Court may be constituted by any two or more Justices of the High Court sitting together.

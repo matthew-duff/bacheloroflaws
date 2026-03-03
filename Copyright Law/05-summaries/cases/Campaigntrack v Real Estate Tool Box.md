@@ -1,0 +1,25 @@
+[[Copyright Law/03-sources/cases/Campaigntrack Pty Ltd v Real Estate Tool Box Pty Ltd [2021] FCA 809]]
+
+**Citation**: [2021] FCA 809
+
+### Facts
+Campaigntrack Pty Ltd provides online marketing and sales services to the real estate industry using its "Campaigntrack" software system. DreamDesk was a competing cloud-based real estate marketing system originally created by Mr David Semmens (third respondent). Campaigntrack and New Litho Pty Ltd purchased the intellectual property rights in DreamDesk from Dream Desk Pty Ltd (DDPL) in order to shut down the software and persuade DreamDesk clients (including Biggin & Scott) to move to Campaigntrack. After the sale in July 2016, Mr Semmens created another real estate marketing software system called "Real Estate Tool Box" (Toolbox). Campaigntrack alleged that Toolbox reproduced substantial parts of the DreamDesk source code, database structure, tables and PDF templates, thereby infringing copyright. Campaigntrack also brought claims for breach of contract (against DDPL and Mr Meissner), breach of undertakings and breach of confidence. Mr Semmens represented himself from early in the proceedings; the other respondents were represented.
+
+### Issue
+Whether Mr Semmens and the other respondents infringed Campaigntrack's copyright in the DreamDesk works (source code, database, tables, PDFs) by creating and operating the Toolbox system, including through primary reproduction or authorisation of infringement; and whether the other claims (contract, undertakings, breach of confidence) were made out.
+
+### Held
+- **Mr Semmens**: Copyright infringement was **established** in respect of the Source Code Works, Database Work, Table Works, and PDF Works. He reproduced substantial parts of these works and authorised acts of infringement by other developers and users of Toolbox.
+- **Biggin & Scott, RETB, Mr Stoner, Ms Bartels**: Copyright infringement **not established**. They did not authorise infringement; authorisation required a mental element and they had given instructions not to infringe and trusted Mr Semmens to comply.
+- **DDPL and Mr Meissner**: Copyright infringement **not established**. No primary infringement or authorisation was proved.
+- **Menu Work**: Copyright subsistence in a separate "Menu Work" was not established.
+- The contract, undertakings and breach of confidence claims against the represented respondents were not established.
+
+### Reasoning
+- **Infringement by Mr Semmens**: The court inferred that Mr Semmens copied the whole or substantial parts of the DreamDesk source code and then modified it (e.g. substituting eDocBuilder for Process 55, using the Laravel framework). Expert evidence showed many lines of identical source code between DreamDesk and early versions of Toolbox. Mr Semmens also reproduced the database and table structures and the PDF Works. Adverse inferences were drawn from his deletion of Git commits/branches, Bitbucket accounts, emails, and computers, and from his alteration of documentation (per *Blatch v Archer*, *omnia praesumuntur contra spoliatorem*).
+- **No authorisation by other respondents**: Authorisation connotes sanction, approval or countenance and includes a mental element. The respondents had instructed Mr Semmens not to infringe and trusted him. They did not know or have reason to suspect that infringement would occur. The fact they commissioned Mr Semmens, paid him, and did not conduct an independent audit did not, either alone or cumulatively, establish authorisation.
+- **Subsistence and ownership**: Copyright subsisted in the DreamDesk source code as a whole and in each of the three pleaded PHP files as separate "computer programs" (subset of instructions can be a computer program if it brings about a certain result and is sufficiently substantial). The Database Work and Table Works were original literary works (compilations); selection, arrangement and ordering of tables and fields involved intellectual effort notwithstanding that many fields were common for real estate systems. The DreamDesk sale agreement, construed broadly, assigned all IP "associated with the operation of the DreamDesk Business", including the PHP files, Database Work, Table Works and PDF Works.
+- **Menu Work**: Evidence did not establish a separate "Menu Work" in which copyright subsisted independently of the source code.
+
+### Significance
+Important for **copyright in software and databases**: confirms that (1) a subset of source code can be a separate "computer program" under the *Copyright Act 1968* (Cth); (2) database schemas and tables can be original literary works where there is sufficient selection, arrangement and ordering; (3) commissioning or paying a developer does not equate to authorisation of infringement where instructions not to infringe are given and the mental element is absent; (4) adverse evidentiary inferences can be drawn from destruction or withholding of evidence in infringement proceedings; and (5) broad IP assignment clauses will be construed to encompass works associated with the business being sold.

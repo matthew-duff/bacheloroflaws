@@ -1,0 +1,6 @@
+# 162 Agreements or awards not affected
+
+Nothing in this Part affects the operation of any agreement or of any award made by an arbitrator, whether the agreement or award was made before, or is made after, the commencement of this Act.
+
+Procedure and evidence  Division 4
+Division 4—Procedure and evidence

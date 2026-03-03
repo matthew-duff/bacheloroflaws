@@ -1,0 +1,4 @@
+# 195AA Identification of author to be clear and reasonably
+
+prominent
+An identification of the author of a work must be clear and reasonably prominent.

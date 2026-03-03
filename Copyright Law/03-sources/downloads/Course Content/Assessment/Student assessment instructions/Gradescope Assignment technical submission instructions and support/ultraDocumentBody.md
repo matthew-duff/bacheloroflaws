@@ -1,0 +1,1 @@
+Dear students,&nbsp;If you're having trouble using Gradescope to submit your assignment, view the guides and support resources listed below for help.&nbsp;InstructionsSubmit your GradeScope assignment&nbsp;guideView your GradeScope assignment marks and feedback&nbsp;guideSupportContact the&nbsp;UQ Library AskUs service&nbsp;if you need further technical help.

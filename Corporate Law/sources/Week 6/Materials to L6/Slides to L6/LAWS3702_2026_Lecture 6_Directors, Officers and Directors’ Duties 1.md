@@ -1,0 +1,492 @@
+LAWS3702 Corporate Law
+
+Lecture 6
+Directors, Officers and Directors’ Duties 1
+
+1
+
+1. Directors and other officers
+
+2. Decision-making by the board
+
+3. The duty of care, skill and diligence
+
+Today’s Lecture
+
+2
+
+Directors & other officers
+
+3
+
+Who is a company officer?
+
+Was Mr King an officer of parent company?
+
+Who is a company director?
+
+6
+
+•
+Consenting adults 
+who are not 
+disqualified or (for 
+some) current or 
+recent auditory (inc 
+Aust resident/s): 
+ss201A-D, 324CI
+
+•
+Methods of 
+appointment 
+discussed in L4
+
+Option #1 By 
+appointment
+
+1.
+Retirement at end of their term
+
+2.
+Resignation: s203A (RR), s203AA and s203AB
+
+3.
+Removal by members: ss203C-E
+
+4.
+Disqualification: s206B-F
+
+How do people stop being appointed as directors?
+
+8
+
+1.
+Automatic disqualification: s206B
+
+For bankruptcy, certain convictions & disqualification abroad
+2.
+Court-ordered disqualification: s206C-EAB
+
+For breach of civil penalty provisions, multiple corporate failures, repeated 
+breaches of the CA, breaches of some other acts, unpaid employee entitlements 
+3.
+Disqualification by ASIC: s206F
+
+For multiple corporate failures but easier for ASIC to prove (rebuttal of ‘show 
+cause notice’)
+
+•
+Potential length of disqualification varies depending on mode of disqualification
+
+•
+Purpose of disqualification is to protect the public
+
+•
+Relevant factors for actual disqualification calculations set out in ASIC v GetSwift
+
+•
+Applications for leave to manage s206G; relevant factors in Re Westgate Ports
+
+More about disqualification
+
+De facto directors
+
+•
+Not validly appointed
+
+•
+But act in the position of director
+
+•
+Includes those not properly appointed and ‘outright usurpers’ 
+(Grantham 2022)
+
+•
+Principles in Grimaldi v Chameleon Mining NL (No 2)
+
+Option #2: By acting as a director
+
+Shadow directors
+
+•
+Not validly appointed
+
+•
+But the formal directors are accustomed to acting in accordance with 
+their wishes
+
+•
+Principles in Buzzle Computers
+
+•
+Can be another company! Standard Chartered Bank v Antico
+
+Option #3: By calling the shots with the de jure directors
+
+•
+In some circumstances, it is possible for the one person to be both a shadow 
+director and a de facto director. 
+•
+It is not necessary that the instructions or wishes of the shadow director be given 
+over the whole areas of corporate activity for which the directors are responsible. 
+•
+A person is not a shadow director merely because they impose conditions on 
+their commercial dealings with the company with which the directors feel obliged 
+to comply. 
+•
+There must be a causal connection between the instruction or the wish of the 
+shadow director and the directors acting on it. It is not sufficient if the act that 
+was specified in the instruction is something that the directors would do 
+irrespective of the instruction. 
+•
+The directors collectively must be accustomed to act on the shadow director’s 
+instructions or wishes and it is sufficient if a ‘governing majority’ of the board is 
+so accustomed to act.
+
+Buzzle Operations v Apple (per White J, aff’d on appeal)
+
+Shadow directors – principles
+
+•
+Natural people +18 years ordinarily resident in Australia: s204A
+•
+Optional for pty companies and mandatory for public companies
+•
+Functions 
+- Record-keeping (core function)
+- Special obligations under the CA
+- Precise scope of the office differs between companies
+
+•
+No longer ‘mere servants’ but officers (s9)
+
+Who is a company secretary?
+
+13
+
+Directors’ duties in overview
+
+1
+4
+
+Statutory duties
+
+• Always owned by ‘directors’ as defined in s9
+
+• Most also apply to ‘officers’ as defined in s9 (but not s191 or s588G)
+
+• Two statutory duties imposed on employees (s182 and s183)
+
+• Breach may arise through involvement in someone else’s contravention, as well as attempts
+
+General law duties are owed by fiduciaries
+
+As a rule, to the company as a separate legal entity: Percival v Wright
+
+Exceptionally, duties may be owed to individual shareholders (particular 
+reliance on information and advice): Brunninghausen v Glavanics
+
+Who owes and to whom?
+
+16
+
+•
+The company as the ‘proper plaintiff’ for general law duties
+-
+Compensation or damages
+-
+Board’s power to decides whether to enforce the duties 
+-
+Liquidator’s power during a winding-up
+
+•
+ASIC enforces statutory duties and can seek civil penalties
+-
+disqualification order
+-
+pecuniary penalty order
+-
+compensation order
+
+•
+… and criminal penalties for some dishonest breaches
+
+Who enforces the duties and how?
+
+17
+
+The Duty of Care
+
+1
+8
+
+180 Care and diligence—civil obligation only
+
+Care and diligence—directors and other officers
+
+(1)  
+A director or other officer of a corporation must exercise their powers and 
+discharge their duties with the degree of care and diligence that a reasonable person would 
+exercise if they:
+ 
+(a) were a director or officer of a corporation in the corporation’s circumstances; and
+ 
+(b) occupied the office held by, and had the same responsibilities within the 
+corporation as, the director or officer.
+
+Note: This subsection is a civil penalty provision (see section 1317E).
+
+•
+As well as the director’s employment contract (if they have one) and the 
+common law
+
+•
+The standard of conduct is the same in each of the sources.
+
+What are its sources?
+
+19
+
+•
+By determining how the director behaved and comparing that 
+behaviour with the care, skill & diligence that:
+
+
+A reasonable person would use
+
+If they were a director/officer
+
+Of a company in that company’s circumstances
+
+And in the director/officer’s office & with their responsibilities
+
+•
+A director or other officer breaches this duty if he or she is ‘negligent’
+
+•
+Negligence is more than reasonable risk taking or mere mistakes: 
+United Petroleum v HSF
+
+•
+The foreseeable harm(s) must unreasonably outweigh the potential 
+gains
+
+How the court determines breach
+
+20
+
+No, per the old cases: Re City Equitable Fire Insurance, Re Cardiff 
+Savings Bank (Marquis of Bute’s Case).
+
+Yes, per the 'modern' cases since Daniels v AWA Ltd. It set up an 
+objective test.
+
+Now, all directors must be in a position to guide and monitor the 
+company by:
+
+•
+Obtaining a basic understanding of the co’s business and its fundamentals
+
+•
+Keeping informed the activities of the company on an ongoing basis
+
+•
+Monitoring the co’s activities including by attending board meetings regularly
+
+•
+Monitoring the co’s financial position by reviewing financial statements
+
+Is there a minimum standard of care?
+
+21
+
+•
+Care is that of a reasonable person in the same circumstances
+
+•
+Skill will depend upon whether
+-
+the position required special skills: Vines v ASIC (CFO)
+-
+the director is an executive or non-executive
+-
+or had special qualifications: South Australia v Marcus Clark
+
+•
+Diligence is that of a reasonable person in the same circumstances
+
+The three parts of the statutory duty
+
+22
+
+ASIC v Rich (Austin J): Consider – 
+• The type of company (eg is it listed?)
+• The size and nature of its business
+• The terms of its constitution
+• The composition of the board
+• The distribution of work and responsibility between execs and board
+• Whether or not the company is controlled by a parent company
+
+What are the relevant circumstances?
+
+23
+
+ASIC v Rich: factual arrangements within the company, not just legal 
+duties, incl:
+•
+Specific tasks delegated to the director
+•
+Way in which work is distributed within the company
+•
+The particular director’s experience and skills
+
+What are the relevant responsibilities?
+
+24
+
+Part of the equitable duty but not mentioned in s 180; per ASIC v Vines, the 
+skill requirement is implicit
+
+The standard of skill depends upon whether the director is an executive or 
+non-executive director, and whether the person has special qualifications
+
+Directors with special skills are held to the standard of a person professing 
+to have those skills: Gold Ribbon (Accountants) P/L v Sheers
+
+Executive directors’ greater involvement in the business of the company 
+leads to an expectation of greater knowledge, focus, and awareness.
+
+What about skill?
+
+25
+
+Chair of the Board – ASIC v Rich
+
+Audit Committee – ASIC v Healey
+
+General Counsel – Shafron v ASIC
+
+Common specific board roles
+
+26
+
+There is not (yet) enough uniformity among non-executive roles for 
+them to be a ‘type’ of board position with set professional expectations.
+
+But that may evolve – some people are professional NEDs, after all.
+
+‘The law has not yet established the extent to which the position of a 
+non-executive director shapes the content of the duty of care.’ ASIC v 
+Macdonald (No 11)
+
+Meantime, NEDs must meet the minimum standard of care and apply 
+any special expertise they have to the benefit of the company.
+
+What about NEDs?
+
+27
+
+The degree of diligence required of a director will vary according to the 
+circumstances of the director’s appointment
+
+But all directors must exercise the amount of diligence that would allow 
+them to be familiar with the operations of the company’s business and 
+keep informed about the financial status of the company.
+
+Sheahan v Verco (2001) 19 ACLC 814
+
+The ‘silent partner’?
+
+Diligence
+
+28
+
+•
+What boards may delegate and to whom?
+
+-
+Certain functions to committees: s 198D
+
+-
+Day-to-day management to the CEO / managing director: s 198C (RR)
+
+-
+Any power to a director, employee or someone else: s 198D
+
+•
+The delegate must follow directions, but the delegate’s actions are 
+treated as the directors’ actions: s 198D(2) and (3).
+
+•
+The directors remain responsible for the acts of their delegates 
+unless the conditions in s190 are met
+
+•
+Conditions concern beliefs re: compliance & competence/reliability
+
+When is delegation allowed (and an excuse)?
+
+29
+
+When is a director NOT responsible for delegate? Section 190
+
+30
+
+•
+ASIC v Ryan (2024) as an example of successful reliance on 
+reliance!
+
+What about reliance on information or advice? Section 189
+
+31
+
+•
+Exception to liability
+•
+Requirements of s180(2) CA 2001
+
+1.
+Good faith and a proper purpose
+2.
+No material personal interest in the decision
+3.
+Informed themselves about the subject matter of the judgment to the extent 
+he/she reasonably believed appropriate
+4.
+Rational belief that the decision is in the best interests of the company (a 
+presumption of rationality applies)
+•
+Director must prove the elements of the defense are met (onus)
+•
+Examples: ASIC v Mariner Corp Ltd (2015); Pacific Current Group v 
+Fitzpatrick et al (2025), [1246] et seq
+
+What about business judgements?
+
+32
+
+In some recent cases, directors have been held liable for a breach of s180 for 
+allowing their company to contravene the law: eg ASIC v Flugge (foreign bribes)
+
+Breach of the law by the company is a ‘stepping stone’ to imposing liability of 
+directors (without high standard of proof in individual enforcement proceedings 
+for the underlying contravention): ASIC v Fortescue Metals
+
+What are the risks of this approach? Caution has been expressed in ASIC v 
+Mariner Corp Ltd and ASIC v Cassimatis (No 8) (no general individual obligation 
+to ensure compliance – facts are key)
+
+BUT it’s probably here to stay and may get broader: ASIC v Wilson ref ASIC v 
+Cassimatis (proof of corporate contravention vs ‘extreme likelihood of breach)
+
+Veil piercing by other means?
+
+33
+
+ASIC v Adler
+
+34
+
+ASIC v Macdonald [No 11] & ASIC v Hellicar
+
+35

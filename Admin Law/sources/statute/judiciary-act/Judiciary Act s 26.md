@@ -1,0 +1,3 @@
+# 26 Costs
+
+The High Court and every Justice thereof sitting other than in open court shall have jurisdiction to award costs in all matters brought before the Court, including matters dismissed for want of jurisdiction.

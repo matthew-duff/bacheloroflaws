@@ -1,0 +1,5 @@
+# 52 Tribunal is not bound by rules of evidence
+
+The Tribunal is not bound by the rules of evidence, but may inform itself on any matter in such manner as it considers appropriate.
+
+Division 5  Tribunal procedure

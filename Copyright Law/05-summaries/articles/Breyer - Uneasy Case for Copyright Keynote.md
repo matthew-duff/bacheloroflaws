@@ -1,0 +1,13 @@
+[[79-6-Breyer]]
+
+**Citation / Reference:** The Honourable Stephen G Breyer, "The Uneasy Case for Copyright: A Look Back Across Four Decades", (2011) 79(6) *George Washington Law Review* 1635 (keynote address, 4 November 2010, celebrating the 40th anniversary of his article *The Uneasy Case for Copyright*).
+
+**Overview / Key points**
+- Retrospective on Breyer’s 1970 article *The Uneasy Case for Copyright* (84 Harv L Rev 281): purpose was to show that economics matters in copyright (e.g. Coasean transaction costs and property-rights allocation) and that law professors can contribute by gathering industry facts and applying an economic framework.
+- **Framework that “might last”:** (1) Industries may have revenue streams even without copyright; when designing IP, consider the real value of the right and the need for it. (2) Consider all arguments *against* protection; **transaction costs** are often overlooked—e.g. long (e.g. 100-year) terms make clearing rights costly; many rightholders are dead or unfindable; extensions can create “orphan” problems. Suggests mechanisms (e.g. deposit-and-distribute schemes) to lower transaction costs in return for term extension. (3) Copyright is not a natural right to “every penny”; following Macaulay, it is “a tax on readers for the purpose of giving a bounty to writers”—so scope, duration and conditions are policy choices to be justified in detail.
+- **Technology:** In 1970, some assumed centralised computing would make copyright less critical (single toll point). The article argued that if programs were distributed off-the-shelf to many users, copyright would still be needed; that prediction held. The same fact- and framework-based approach applies to new industries and technologies.
+- Personal context: written for tenure; encouraged by Ben Kaplan; influenced by antitrust law-and-economics (Areeda, Turner); emphasis on marshalling arguments and omitting weaker points.
+
+**Significance for Copyright Law**
+- Reinforces an **economic, fact-sensitive** approach to copyright: incentives, transaction costs, and industry structure matter more than abstract natural-rights rhetoric.
+- Supports **limits on protection** (term, scope, exceptions) and **transaction-cost-aware** design (e.g. orphan works, licensing) as core copyright policy concerns, and links directly to Breyer J’s dissent in *Eldred v Ashcroft* on term extension.

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "_11889316_1",
+    "parentId": "_11889291_1",
+    "title": "Week 1 Overview",
+    "created": "2024-08-29T08:14:33.017Z",
+    "modified": "2025-08-20T05:19:33.175Z",
+    "position": 0,
+    "hasChildren": true,
+    "launchInNewWindow": true,
+    "reviewable": true,
+    "availability": {
+      "available": "Yes",
+      "allowGuests": true,
+      "allowObservers": true,
+      "adaptiveRelease": {}
+    },
+    "contentHandler": {
+      "id": "resource/x-bb-folder",
+      "isBbPage": true
+    },
+    "links": [
+      {
+        "href": "/ultra/redirect?redirectType=nautilus&courseId=_196877_1&contentId=_11889316_1&parentId=_11889291_1",
+        "rel": "alternate",
+        "title": "User Interface View",
+        "type": "text/html"
+      }
+    ]
+  }
+]

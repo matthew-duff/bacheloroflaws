@@ -1,0 +1,11 @@
+# 135AK Immunity of the Commonwealth
+
+The Commonwealth is not liable for any loss or damage suffered by a person:
+(a) because of the seizure of copies, or the failure of the
+Comptroller-General of Customs to seize copies, under this
+Division; or
+(b) because of the release of any seized copies.
+
+Division 1  Preliminary
+Part VAA—Unauthorised access to encoded broadcasts
+Division 1—Preliminary

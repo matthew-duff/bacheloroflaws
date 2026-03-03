@@ -1,0 +1,3 @@
+# 160 Interim orders
+
+Where an application or reference is made to the Tribunal under this Act, the Tribunal may make an interim order having effect until the final decision of the Tribunal on the application or reference.

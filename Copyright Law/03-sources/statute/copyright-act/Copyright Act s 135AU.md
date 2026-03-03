@@ -1,0 +1,9 @@
+# 135AU Destruction etc. of unauthorised decoders
+
+135AU  Destruction etc. of unauthorised decoders
+(1) The court trying a person for an offence against this Division may order that any article in the person’s possession that appears to the court to be an unauthorised decoder be destroyed or otherwise dealt with as specified in the order.
+(2) The court may make the order whether the person is convicted of the offence or not.
+
+Preliminary  Division 1
+Part VC—Retransmission of free-to-air broadcasts
+Division 1—Preliminary

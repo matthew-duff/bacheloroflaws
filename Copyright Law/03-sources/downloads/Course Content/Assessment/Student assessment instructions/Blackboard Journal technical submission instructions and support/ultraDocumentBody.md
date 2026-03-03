@@ -1,0 +1,1 @@
+Dear students,&nbsp;If you're having trouble submitting your journal, please see the guides and support resources listed below for help.&nbsp;InstructionsSubmit Journals&nbsp;(Blackboard)&nbsp;guideSupportContact the&nbsp;UQ Library AskUs service&nbsp;if you need further technical help.

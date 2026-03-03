@@ -1,0 +1,7 @@
+# 77Q Discharge of property taken in execution
+
+A seizure or attachment of property in execution upon process issued out of the High Court becomes inoperative upon the occurrence of any event by which, according to the laws of the
+State or Territory in which the property is situated, the seizure or attachment would become inoperative if made upon like process issued out of the Supreme Court of that State or Territory.
+
+Division 6  Receivers and managers
+Division 6—Receivers and managers

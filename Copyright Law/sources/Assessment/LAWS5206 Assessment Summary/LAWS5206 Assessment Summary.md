@@ -1,0 +1,1 @@
+Assessment TaskDue DateWeightingMini Quiz in ClassConducted during class10%Research Paper2pm, 21 April 202630%Group Presentation, Written Outline and ReflectionWritten outline (10%) 1/05/2026 2:00 pmGroup Presentation (40%)- Presentations will be in the week commencing 25 May 2026. Week 13,Reflection (10%) 8/06/2026 2:00 pm60%

@@ -1,0 +1,1 @@
+Dear students,&nbsp;If you're having trouble using Turnitin to submit your assignment, view the guides and support resources listed below for help.&nbsp;InstructionsSubmit your Turnitin assignment&nbsp;guideView Turnitin Similarity Report and marks&nbsp;guideSupportContact the&nbsp;UQ Library AskUs service&nbsp;if you need further technical help.

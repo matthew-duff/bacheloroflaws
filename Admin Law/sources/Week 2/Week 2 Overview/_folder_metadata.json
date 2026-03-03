@@ -1,0 +1,30 @@
+[
+  {
+    "id": "_11889337_1",
+    "parentId": "_11889317_1",
+    "title": "ultraDocumentBody",
+    "body": "<div data-layout-row=\"16d42f17-2472-4db9-ae11-714006d44977\"><div data-layout-column=\"875bc815-9502-4109-a694-d1f3f775196f\" data-layout-column-width=\"12\"><a data-bbid=\"bbml-editor-id_48f40559-c56e-4fa9-926a-a72b5cc93fff\" data-bbfile=\"{&quot;linkName&quot;:&quot;Week 2-01.png&quot;,&quot;displayName&quot;:&quot;Week 2-01.png&quot;,&quot;mimeType&quot;:&quot;image/png&quot;,&quot;alternativeText&quot;:&quot;Week 2&quot;,&quot;isDecorative&quot;:false,&quot;render&quot;:&quot;inlineOnly&quot;}\" href=\"https://learn.uq.edu.au/bbcswebdav/pid-11889337-dt-content-rid-78442524_1/xid-78442524_1?Kq3cZcYS15=72501d55390d4d7f84a9c34f302e8821&VxJw3wfC56=1772364891&3cCnGYSz89=ztF5jAC7OuvgI3tb%2FnbVse4ODsvu0SKJ7r5VLW8yV%2Fo%3D\"></a></div></div><div data-layout-row=\"22e242d5-08e5-41be-8a03-b7d62e5dde6a\"><div data-layout-column=\"726c83b3-497a-4af5-b8f4-a72807a06e0b\" data-layout-column-width=\"12\"><div data-bbid=\"bbml-editor-id_69a48e84-2ed2-42bf-8776-1153ed649766\"><p>Lectures continue this week and workshops commence.&nbsp;&nbsp;The lecture this week is an introduction to merits review and legality review.&nbsp;&nbsp;The workshops this week introduce administrative law, government accountability and administrative justice.</p></div></div></div>",
+    "created": "2024-08-29T08:14:33.289Z",
+    "modified": "2026-02-22T12:21:48.615Z",
+    "position": 0,
+    "launchInNewWindow": true,
+    "reviewable": false,
+    "availability": {
+      "available": "Yes",
+      "allowGuests": true,
+      "allowObservers": true,
+      "adaptiveRelease": {}
+    },
+    "contentHandler": {
+      "id": "resource/x-bb-document"
+    },
+    "links": [
+      {
+        "href": "/ultra/redirect?redirectType=nautilus&courseId=_196877_1&contentId=_11889337_1&parentId=_11889317_1",
+        "rel": "alternate",
+        "title": "User Interface View",
+        "type": "text/html"
+      }
+    ]
+  }
+]

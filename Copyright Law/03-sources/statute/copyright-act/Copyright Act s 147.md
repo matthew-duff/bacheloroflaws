@@ -1,0 +1,7 @@
+# 147 President to arrange business of Tribunal
+
+The President may give directions as to the arrangement of the business of the Tribunal and, subject to subsection 146(2) or (3), as to the constitution of the Tribunal for the purposes of particular proceedings.
+
+Applications and references to the Tribunal  Division 3
+Division 3—Applications and references to the Tribunal
+Subdivision B—Applications relating to Parts III and IV

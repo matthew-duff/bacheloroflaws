@@ -1,0 +1,6 @@
+# 258 Leave
+
+The Minister may grant leave of absence to an appointed member on the terms and conditions that the Minister determines.
+
+Appointment  Division 4
+Administrative Review Tribunal Act 2024 223

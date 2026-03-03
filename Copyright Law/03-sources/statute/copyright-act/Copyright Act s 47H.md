@@ -1,0 +1,6 @@
+# 47H Agreements excluding operation of certain provisions
+
+An agreement, or a provision of an agreement, that excludes or limits, or has the effect of excluding or limiting, the operation of subsection 47B(3), or section 47C, 47D, 47E or 47F, has no effect.
+
+Acts not constituting infringements of copyright in artistic works  Division 4B
+Division 4B—Acts not constituting infringements of copyright in artistic works

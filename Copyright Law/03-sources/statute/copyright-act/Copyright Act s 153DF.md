@@ -1,0 +1,3 @@
+# 153DF Meaning of copyright material
+
+In this Subdivision: copyright material has the same meaning as in Division 2 of Part VII.

@@ -1,0 +1,7 @@
+# 64 Sections 55 and 59 to be disregarded in determining whether an
+
+infringement has been committed by the importation of records
+For the purpose of any provision of this Act relating to imported articles, in determining whether the making of a record made outside Australia would have constituted an infringement of copyright if the record had been made in Australia by the importer, sections 55 and 59 shall be disregarded.
+
+Division 7  Acts not constituting infringements of copyright in artistic works
+Division 7—Acts not constituting infringements of copyright in artistic works

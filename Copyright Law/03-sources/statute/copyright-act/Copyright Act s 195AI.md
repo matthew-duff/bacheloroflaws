@@ -1,0 +1,4 @@
+# 195AI Author’s right of integrity of authorship
+
+(1) The author of a work has a right of integrity of authorship in respect of the work.
+(2) The author’s right is the right not to have the work subjected to derogatory treatment.

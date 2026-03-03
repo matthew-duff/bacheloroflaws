@@ -1,0 +1,6 @@
+# 51 Application of this Part
+
+This Part does not apply in relation to an order made later than 2 years after the commencement of the Criminal Proceedings Act 1984 of Victoria.
+
+
+Part VIIIA—Legal practitioners

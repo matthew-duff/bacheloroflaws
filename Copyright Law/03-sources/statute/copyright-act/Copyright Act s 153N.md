@@ -1,0 +1,8 @@
+# 153N Applications to Tribunal under subsection 135ZZN(3)
+
+(1) The parties to an application to the Tribunal under subsection 135ZZN(3) for the determination of a record system are the collecting society and the retransmitter concerned.
+(2) On an application to the Tribunal under subsection 135ZZN(3), the
+Tribunal must consider the application and, after giving the parties an opportunity to present their cases, make an order determining the record system.
+
+Division 3  Applications and references to the Tribunal
+(3) In this section, collecting society and retransmitter have the same meanings as in Part VC.

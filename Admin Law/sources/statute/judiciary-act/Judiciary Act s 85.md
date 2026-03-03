@@ -1,0 +1,6 @@
+# 85 Property seized as forfeited
+
+All property taken or obtained by any officer or person under the authority of any revenue law of the Commonwealth shall be deemed to be in the custody of the law, and subject only to the orders and judgments of the Courts having jurisdiction thereof under this or any Act.
+
+Division 4  Rules of Court
+Division 4—Rules of Court

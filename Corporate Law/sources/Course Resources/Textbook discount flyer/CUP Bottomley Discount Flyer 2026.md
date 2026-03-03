@@ -1,0 +1,41 @@
+Access 20% student discount
+
+This offer is valid for both Print and eBook textbook formats, exclusive to the Cambridge University Press websites. 
+Click the buttons below and enter the code QLD20 at checkout to recieve the 20% discount with free shipping*
+
+Discount code: QLD20
+
+Buy print book
+Buy eBook
+
+If you have any questions or problems regarding this discount please email us at:
+academicmarketing@cambridge.org
+
+*Student offer only available for Australian addresses, expires 30 September 2026.
+
+Contemporary Australian 
+Corporate Law
+Third edition
+
+Title information
+Published: September 2025
+Format: Paperback
+ISBN: 9781009448215
+
+Author information
+Stephen Bottomley, Australian National University
+Kath Hall
+Peta Spender, Australian National University
+Beth Nosworthy, University of Adelaide
+
+Sign-up
+
+Are you interested in receiving
+more exclusive student discounts?
+
+Enter your details here to access
+
+Purchasing options
+For your Cambridge University Press Textbook
+
+cambridge.org/highereducation

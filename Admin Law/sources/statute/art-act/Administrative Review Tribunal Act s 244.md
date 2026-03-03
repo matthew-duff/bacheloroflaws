@@ -1,0 +1,8 @@
+# 244 Proceedings arising out of management of Tribunal
+
+Any judicial or other proceeding relating to a matter arising out of the management of the administrative affairs of the Tribunal, including any proceeding relating to anything done by the
+President or the Principal Registrar under Divisions 4 to 7, may be instituted by or against the Commonwealth.
+
+Division 1  Preliminary
+Part 9—Administrative Review Council
+Division 1—Preliminary

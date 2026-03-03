@@ -1,0 +1,6 @@
+# 25 Powers of court to extend to whole Commonwealth
+
+The process of the High Court shall run, and the judgments and orders of the High Court shall have effect and may be executed, throughout the Commonwealth.
+
+Division 4A  Summary judgment
+Division 4A—Summary judgment

@@ -1,0 +1,4 @@
+# 195AX Acts or omissions outside Australia
+
+It is not an infringement of an author’s moral right in respect of a work to do, or omit to do, something outside Australia.
+Subdivision B—Infringement of moral rights of performers

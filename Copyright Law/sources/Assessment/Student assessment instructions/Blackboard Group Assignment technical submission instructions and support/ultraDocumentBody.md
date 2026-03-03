@@ -1,0 +1,1 @@
+Dear students,If you're having trouble submitting your assignment, please see the guides and support resources listed below for help.&nbsp;InstructionsSubmit Group Assignments&nbsp;(Blackboard)&nbsp;guideSupportContact the&nbsp;UQ Library AskUs service&nbsp;if you need further technical help.

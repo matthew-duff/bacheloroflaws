@@ -1,0 +1,4 @@
+# 195CA Simplified outline
+
+Persons publishing certain literary, dramatic, musical or artistic works in Australia must deliver copies of the works to the National
+Library. The National Library may also request the delivery of works that are available online.

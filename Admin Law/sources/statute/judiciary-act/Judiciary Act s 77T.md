@@ -1,0 +1,3 @@
+# 77T Institution of appeals
+
+Appeals to the High Court shall be instituted within such time and in such manner as are prescribed by Rules of Court.

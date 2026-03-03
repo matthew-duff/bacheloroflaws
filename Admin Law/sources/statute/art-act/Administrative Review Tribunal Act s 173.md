@@ -1,0 +1,4 @@
+# 173 Decisions about standing
+
+A person may appeal to the Federal Court from a decision of the
+Tribunal that the person’s interests are not affected by a reviewable decision.
