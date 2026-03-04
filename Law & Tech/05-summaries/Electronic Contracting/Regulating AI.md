@@ -7,23 +7,76 @@ type: Article
 
 **Reference:** Giusella Finocchiaro, 'The regulation of artificial intelligence' (2023) *AI & SOCIETY* <https://doi.org/10.1007/s00146-023-01650-z>.
 
-## Overview
-This article examines the regulatory landscape of artificial intelligence (AI), focusing on the European Union's proposal for an AI Act (2021). It explores the challenges of defining AI, the geopolitical motivations behind the EU's horizontal regulatory approach, and the specific risk-based model adopted.
+## 1. The Definitional Dilemma: What is AI?
 
-### Key Points
-- **Defining AI**: Definition is difficult due to the risk of anthropomorphising technology. The article favors Turing's functional approach (machines doing what requires intelligence when done by humans) over purely descriptive definitions.
-- **Regulatory Approaches**: 
-    - **Horizontal**: Regulating AI as a whole (the EU's choice).
-    - **Sector-specific**: Regulating applications in specific areas (e.g., healthcare, liability, contract law).
-- **Geopolitical Context**: The EU aims for "digital sovereignty" and to set global standards (the "Brussels effect"), positioning itself as a leader in rulemaking rather than technological production, in contrast to the US (self-regulatory/antitrust) and China (state-led/dirigiste).
-- **The EU Risk Model**:
-    - **Unacceptable Risk**: Banned (e.g., social scoring, real-time biometric ID in public).
-    - **High Risk**: Subject to ex-ante conformity assessments, CE marking, and strict quality/transparency criteria.
-    - **Low/Minimal Risk**: Subject to transparency obligations (e.g., disclosing AI interaction, deepfakes).
-- **Critical Issues**:
-    - **Inflexibility**: The rigid risk classification may struggle to adapt to rapid technological evolution.
-    - **Administrative Burden**: High compliance costs may disproportionately affect SMEs and start-ups.
-    - **Substantive Gaps**: The proposal focuses on administrative/marketing frameworks rather than resolving core legal issues like a comprehensive liability model or specific protections against AI-driven discrimination.
+Defining the subject matter is the "first hurdle" for any regulator. Finocchiaro highlights three primary approaches:
 
-## Significance
-The article is significant for Law & Tech as it provides a critical analysis of the world's first comprehensive attempt to regulate AI. It highlights the tension between broad horizontal regulation and the need for dynamic, sector-specific rules. For legal practitioners and scholars, it underscores that while the EU AI Act sets a procedural benchmark, substantive legal challenges—particularly regarding liability and fundamental rights enforcement—remain largely unresolved and deferred to future directives or technical standards.
+- **The Functional (Turing) Approach:** Defines AI by output. If a machine produces a result that would be deemed "intelligent" if done by a human, it is AI.
+- **The European Commission (2018) Approach:** Focuses on systems displaying intelligent behavior via environment analysis and "some degree of autonomy."
+- **The Proposal (Art. 3) Approach:** A descriptive, technique-based definition (Annex I) coupled with the ability to influence environments through content, predictions, or decisions.
+- **The "Anthropomorphic Risk":** Using the term "intelligence" risks surreptitiously granting AI **legal subjectivity** by treating it "as if" it were a person.
+    
+
+---
+
+## 2. The Geopolitical Context: The "Brussels Effect"
+
+The EU is not a global leader in AI production (only 7% of global investment compared to the US and China). Instead, its strategy is **normative leadership**:
+
+- **The Brussels Effect:** Leveraging regulatory power to shape global standards so that the European model becomes the default worldwide.
+    
+- **Digital Sovereignty:** Ensuring a single European digital market while preventing fragmentation among Member States.
+    
+- **Competing Models:**
+    
+    - **USA:** Self-regulatory, rooted in Antitrust law.
+        
+    - **China:** _Dirigiste_ model based on State capitalism and recent data security laws (PIPL, DSL).
+        
+    - **EU:** Rights-based, horizontal regulation centered on European "values" (dignity, privacy, non-discrimination).
+        
+
+---
+
+## 3. The Regulatory Architecture: Risk-Based Approach
+
+The EU AI Act moves away from sector-specific (vertical) rules toward a **horizontal, risk-management model**.
+
+|Risk Category|Examples|Legal Consequence|
+|---|---|---|
+|**Unacceptable Risk**|Social scoring, real-time remote biometrics in public.|**Prohibited**|
+|**High Risk**|Critical infrastructure, education, employment, justice.|**Strict Compliance** (Ex-ante conformity, CE marking, logging).|
+|**Low/Minimal Risk**|Chatbots, deep fakes.|**Transparency Obligations** (Users must know they are interacting with AI).|
+
+Export to Sheets
+
+---
+
+## 4. Critical Legal Analysis (Exam Themes)
+
+Finocchiaro identifies several significant "gaps" and "rigidities" in the current proposal that are frequent targets for academic critique:
+
+- **Static vs. Dynamic:** Unlike the GDPR’s "accountability" principle (which lets the controller assess risk), the AI Act has the _legislator_ pre-define what is high-risk. This may fail to adapt to future technological shifts.
+    
+- **Administrative Burden:** The onerous documentation and certification requirements may stifle SMEs and start-ups, potentially favoring large incumbents who can absorb compliance costs.
+    
+- **The "Accountability Gap":** The Act focuses on market entry (administrative/product safety) but defers the most difficult substantive issue: **Civil Liability**.
+    
+    - _Note:_ The **AI Liability Directive** currently only proposes minimum harmonization for fault-based rules and burden of proof.
+        
+- **The Formalism Critique:** The author argues that "certification" does not equal "protection." Real protection requires new, rapid instruments for individuals to challenge discrimination and data misuse, which are currently missing.
+    
+
+---
+
+## 5. Key Legislative Cross-References
+
+To understand the AI Act, one must see it as the final pillar of the EU’s Digital Strategy:
+
+1. **GDPR:** Data protection and fundamental rights.
+    
+2. **Data Act / Data Governance Act:** Data exploitation.
+    
+3. **DSA / DMA:** Digital services and market contestability.
+    
+4. **AI Act:** Safety and ethics of automated decision-making.

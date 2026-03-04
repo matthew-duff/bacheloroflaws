@@ -2,20 +2,60 @@
 
 **Citation**: [2000] FCA 1273; (2000) 105 FCR 153
 
+Here is a concise case brief of the judgment, structured for clear and quick reference.
+
+### Case Name & Citation
+
 ### Facts
-Aristocrat designed, manufactured and sold electronic gaming machines, including "Top Gear", "Enchanted Forest", "Tequila Sunrise" and "White Tiger". Pacific was a commercial competitor whose games ("Diamonds in the Sky", "Yellow Brick Road", "Fortune Turtle" and "Lucky Lion") corresponded to Aristocrat's four games. Aristocrat claimed that Pacific had infringed its copyright in the written specifications for those games. The specifications were in a form required by the Liquor Administration Board (LAB) under NSW law and comprised sections A (rules and display), B (reel symbols and order) and C (prize tables). Aristocrat's game designers (Colin Fong and Nicholas Bennett) had invested substantial time and original work creating the specifications. Pacific denied the specifications were original literary works and denied infringement. Aristocrat sought declarations, injunctions, damages and delivery up.
+
+- **The Parties:** Aristocrat (applicant) and Pacific (respondent) are commercial competitors who design, manufacture, and sell electronic gaming machines (poker machines).
+    
+- **The Works:** Aristocrat's employees created detailed written specifications for four electronic games. These documents outlined the rules, reel symbol arrangements, and prize tables, which were the result of extensive mathematical calculation, trial and error, and design choices regarding game "volatility" and "balance."
+    
+- **The Alleged Infringement:** Pacific released four competing games with striking mathematical and structural similarities to Aristocrat's games.
+    
+- **The Evidence:** Internal Pacific memoranda revealed a deliberate company policy of obtaining, reverse-engineering, and analyzing competitors' popular games to develop their own software and specifications. Furthermore, Pacific's games replicated specific design anomalies (e.g., a disproportionate number of "Queen" symbols on a reel) present in Aristocrat's games.
+    
+
+### Procedural History
+
+Aristocrat filed an original application in the Federal Court of Australia seeking a declaration of copyright infringement, an injunction restraining further infringement, an account of profits, damages, and the delivery up of the offending machines.
 
 ### Issue
-(1) Whether the Aristocrat game specifications were original literary works within s 10(1) of the *Copyright Act 1968* (Cth); (2) whether they constituted "dramatic" works; (3) whether the games constituted "cinematograph films"; and (4) whether Pacific had infringed copyright.
 
-### Held
-(1) Yes—the specifications were original literary works. (2) No—they were not dramatic works. (3) No—the basic games did not constitute cinematograph films. (4) Yes—Pacific had infringed copyright. Injunction granted; quantum of pecuniary relief to be tried separately.
+1. **Whether** the written specifications for the gaming machines qualify as "original literary works" or "dramatic works" under s 10(1) of the _Copyright Act 1968_ (Cth).
+    
+2. **Whether** the visual sequences of the games (specifically the simulated spinning reels) constitute a "cinematograph film."
+    
+3. **Whether** Pacific infringed Aristocrat’s copyright by reproducing a substantial part of these specifications in its own games and E Proms (computer programs).
+    
+
+### Holding
+
+The Federal Court (Tamberlin J) held in favor of Aristocrat, granting the injunction. The Court decided that:
+
+1. The specifications **are** original literary works, but they **are not** dramatic works.
+    
+2. The simulated spinning reels of the basic game **do not** constitute a cinematograph film.
+    
+3. Pacific **did** intentionally infringe Aristocrat’s copyright by copying substantial parts of the specifications into its own documents and computer programs.
+    
+
+### Rule of Law
+
+A compilation of words, figures, and symbols (such as gaming machine specifications and prize tables) qualifies as an "original literary work" under the _Copyright Act 1968_ if its creation involves independent intellectual effort, skill, and labor, regardless of its literary merit or standard formatting constraints.
 
 ### Reasoning
-- **Literary work**: The threshold for "literary work" under s 10(1) is low. The Act expressly includes compilations expressed in words, figures or symbols. The specifications were compilations of that kind. The evidence of Bennett and Fong showed considerable time and original work in designing games (symbols, reels, prize structures, features), and the specifications were the expression of that work. *Ladbroke (Football) Ltd v William Hill* applied. The "rules of the game" qualified as literary work—they did not merely define a function or operation. LAB format constraints did not preclude originality.
-- **Dramatic work**: "Dramatic work" includes choreography, dumb show, or scenario/script for a film. It requires elements capable of performance (plot, choreography, script, character interaction). The specifications lacked these; there was no performance by characters, no plot, choreography or script, and a strong element of randomness.
-- **Cinematograph film**: A cinematograph film requires an aggregate of visual images capable of being shown as a "moving picture". The basic reel-spinning games involved static symbols simulating rotation, without the progression or movement of a traditional film. *Sega* and *Nintendo* cases were distinguished on their facts.
-- **Infringement**: Pacific had access to Aristocrat's specifications (memoranda showed systematic collection and analysis of competitors' games). Pacific failed to explain the significant similarities. Internal documents (including Sellathamby's notes linking "Top Gear" to "Diamonds in the Sky" and "White Tiger" to "Lucky Lion", and identical feature hit rates) supported copying. Expert evidence (Oldfield, Olive) established substantial objective similarity. Pacific's E Proms substantially reproduced the Aristocrat specifications.
 
-### Significance
-Establishes that **game specifications** (rules, reel-strip configurations and prize tables) lodged with gambling regulators can be **original literary works** protected by copyright. The "rules of the game" expressed in such specifications fall within the extended meaning of "literary work" and are not excluded by regulatory format. The case also confirms that failure to explain significant similarities, combined with proven access and internal documents evidencing use of competitors' material, supports an inference of infringement. It reinforces that copyright protects the expression of design work and calculations, even where the format is partly conventional.
+- **Original Literary Work:** Relying on the precedent of _Ladbroke (Football) Ltd v William Hill_, the Court noted that a "literary work" does not require high literary quality. Because Aristocrat's employees expended considerable time, calculation, and judgment to compile the specifications, the documents possessed the requisite originality.
+    
+- **Dramatic Work:** The Court rejected the argument that the specifications were a "dramatic work." The games lacked essential elements of performance, choreography, plot, or character interaction, and relied heavily on randomness rather than a predetermined script.
+    
+- **Cinematograph Film:** While acknowledging the need to interpret copyright legislation liberally, the Court found that the basic game's simulated spinning reels lacked the visual progression and movement necessary to be classified as a "moving picture."
+    
+- **Infringement Analysis:** The burden shifted to Pacific after Aristocrat established both access to the works and substantial objective similarity. Pacific failed to provide a credible alternative explanation for the similarities or call key employees to testify about their independent design process. The reproduction of the specifications into Pacific's physical E Proms constituted an infringement of Aristocrat's literary works.
+    
+
+---
+
+Would you like me to elaborate on how the court handled the distinction between "idea" and "expression" in the context of these mathematical game mechanics?
