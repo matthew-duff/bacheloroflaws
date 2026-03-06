@@ -65,6 +65,8 @@ class NoteRecord:
     period: str
     jurisdiction: str
     assessment_relevance: str
+    ratio: str
+    case_outcome: str
     last_hash: str
     updated_at: str
 
@@ -399,6 +401,10 @@ def parse_llm_json(raw_output: str) -> dict[str, Any]:
     raise json.JSONDecodeError("No JSON object found in LLM output", raw_output, 0)
 
 
+def is_case_note_title(title: str) -> bool:
+    return " v " in title.casefold()
+
+
 def normalize_tag_text(value: str) -> str:
     text = " ".join(value.split()).strip()
     text = text.lstrip("#")
@@ -427,6 +433,45 @@ def normalize_tags(values: Any, config: dict[str, Any]) -> list[str]:
 
     max_tags = int(config["max_tags"])
     return normalized[:max_tags]
+
+
+def normalize_case_outcome(value: Any) -> str:
+    if not isinstance(value, str):
+        return ""
+
+    normalized = " ".join(value.split()).strip().casefold()
+    if not normalized:
+        return ""
+
+    if normalized in {"won", "win", "successful", "success", "allowed", "upheld"}:
+        return "won"
+    if normalized in {"lost", "loss", "not won", "unsuccessful", "failed", "dismissed"}:
+        return "lost"
+    if normalized in {"mixed", "partial", "partly successful", "partially successful"}:
+        return "mixed"
+    if normalized in {"unclear", "unknown", "not stated"}:
+        return "unclear"
+    return normalized
+
+
+def case_outcome_tag(case_outcome: str) -> str:
+    mapping = {
+        "won": "case-won",
+        "lost": "case-lost",
+        "mixed": "case-mixed",
+        "unclear": "case-outcome-unclear",
+    }
+    return mapping.get(case_outcome, "")
+
+
+def ensure_tag(tags: list[str], tag: str, config: dict[str, Any]) -> list[str]:
+    if not tag or tag in tags:
+        return tags
+
+    max_tags = int(config["max_tags"])
+    if len(tags) >= max_tags:
+        return [*tags[: max_tags - 1], tag]
+    return [*tags, tag]
 
 
 def fallback_tags(path: str, title: str, config: dict[str, Any]) -> list[str]:
@@ -649,6 +694,8 @@ def build_note_index(
             "figures": existing.get("figures", []),
             "cases": existing.get("cases", []),
             "statutes": existing.get("statutes", []),
+            "ratio": existing.get("ratio", ""),
+            "case_outcome": existing.get("case_outcome", ""),
         }
 
     return index
@@ -694,6 +741,35 @@ def extract_metadata_pass(
         "period": period,
         "jurisdiction": jurisdiction,
         "assessment_relevance": assessment_relevance,
+    }
+
+
+def extract_case_metadata_pass(
+    *,
+    path: Path,
+    domain: str,
+    config: dict[str, Any],
+    case_prompt_template: str,
+    model: str,
+) -> dict[str, str]:
+    text = read_text(path)
+    relative_path = relative_to_repo(path)
+    current_title = extract_title(path, text)
+    prompt = render_extract_prompt(
+        case_prompt_template,
+        domain=domain,
+        note_path=relative_path,
+        note_title=current_title,
+        note_body=text,
+        config=config,
+    )
+    response = parse_llm_json(call_ollama(model, prompt))
+
+    ratio = " ".join(str(response.get("ratio", "")).split()).strip()
+    case_outcome = normalize_case_outcome(response.get("case_outcome", ""))
+    return {
+        "ratio": ratio,
+        "case_outcome": case_outcome,
     }
 
 
@@ -807,6 +883,8 @@ def update_memory_record(
         period=extracted.get("period", ""),
         jurisdiction=extracted.get("jurisdiction", ""),
         assessment_relevance=extracted.get("assessment_relevance", ""),
+        ratio=extracted.get("ratio", ""),
+        case_outcome=extracted.get("case_outcome", ""),
         last_hash=content_hash,
         updated_at=now,
     )
@@ -827,6 +905,8 @@ def update_memory_record(
         "period": record.period,
         "jurisdiction": record.jurisdiction,
         "assessment_relevance": record.assessment_relevance,
+        "ratio": record.ratio,
+        "case_outcome": record.case_outcome,
         "last_hash": record.last_hash,
         "updated_at": record.updated_at,
     }
@@ -842,6 +922,8 @@ def update_memory_record(
         "figures": record.figures,
         "cases": record.cases,
         "statutes": record.statutes,
+        "ratio": record.ratio,
+        "case_outcome": record.case_outcome,
     }
 
     return record
@@ -874,6 +956,7 @@ def process_note(
     memory: dict[str, Any],
     config: dict[str, Any],
     extract_prompt_template: str,
+    case_prompt_template: str,
     related_prompt_template: str,
     model: str,
     dry_run: bool,
@@ -883,7 +966,7 @@ def process_note(
     relative_path = relative_to_repo(path)
     current_title = extract_title(path, text)
 
-    # Pass 1: extraction
+    # Pass 1: general extraction
     extracted = extract_metadata_pass(
         path=path,
         domain=domain,
@@ -892,15 +975,31 @@ def process_note(
         model=model,
     )
 
-    # Pass 2: topics -> tags
+    # Pass 2: case-only extraction
+    if is_case_note_title(current_title):
+        extracted.update(
+            extract_case_metadata_pass(
+                path=path,
+                domain=domain,
+                config=config,
+                case_prompt_template=case_prompt_template,
+                model=model,
+            )
+        )
+    else:
+        extracted["ratio"] = ""
+        extracted["case_outcome"] = ""
+
+    # Pass 3: topics -> tags
     tags = normalize_topics_to_tags(
         topics=extracted.get("topics", []),
         fallback_path=relative_path,
         fallback_title=current_title,
         config=config,
     )
+    tags = ensure_tag(tags, case_outcome_tag(extracted.get("case_outcome", "")), config)
 
-    # Pass 3: related notes
+    # Pass 4: related notes
     # Build a shallow metadata view for the linking prompt
     current_metadata = {
         "path": relative_path,
@@ -909,6 +1008,8 @@ def process_note(
         "figures": extracted.get("figures", []),
         "cases": extracted.get("cases", []),
         "statutes": extracted.get("statutes", []),
+        "ratio": extracted.get("ratio", ""),
+        "case_outcome": extracted.get("case_outcome", ""),
     }
     see_also = select_related_notes_pass(
         path=path,
@@ -932,7 +1033,7 @@ def process_note(
         note_index=note_index,
     )
 
-    # Pass 4: projection into the note
+    # Pass 5: projection into the note
     if not dry_run and not memory_only:
         project_note_updates(
             path=path,
@@ -1007,6 +1108,9 @@ def main() -> None:
     config = load_json(args.config)
     model = args.model or config["model"]
     extract_prompt_template = read_text(REPO_ROOT / config["extract_prompt_path"])
+    case_prompt_template = read_text(
+        REPO_ROOT / config.get("case_prompt_path", ".agent/prompts/pass2_case.txt")
+    )
     related_prompt_template = read_text(REPO_ROOT / config["related_prompt_path"])
 
     if args.single_file:
@@ -1053,6 +1157,7 @@ def main() -> None:
                 memory=memory,
                 config=config,
                 extract_prompt_template=extract_prompt_template,
+                case_prompt_template=case_prompt_template,
                 related_prompt_template=related_prompt_template,
                 model=model,
                 dry_run=args.dry_run,

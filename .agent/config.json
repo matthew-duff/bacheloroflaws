@@ -1,5 +1,5 @@
 {
-  "model": "ministral-3:14b",
+  "model": "lfm2",
   "include_domains": [],
   "exclude_domains": [
     ".agent",
@@ -33,5 +33,6 @@
   "see_also_marker": "agent:see-also",
   "memory_dir": ".agent/memories",
   "extract_prompt_path": ".agent/prompts/pass1_extract.txt",
+  "case_prompt_path": ".agent/prompts/pass2_case.txt",
   "related_prompt_path": ".agent/prompts/pass3_related.txt"
 }
