@@ -1,0 +1,38 @@
+### THE
+
+### ECONOMIC
+
+### JOURNAL
+
+### [MARCH
+
+McCrone faces up to the fact that the creation of the E.E.C. is likely to aggravate rather than ease the regional problem in member countries. Yannopoulos examines (with the aid of more economic analysis than is employed by most contributors), the effect of E.E.C. labour regulations, not only upon member countries but also upon third countries. Mr. Liesner's paper on problems which arise in harmonising policy in regard to government purchasing, taxation and transport contains a wealth of analysis of these problems, not only in the E.E.C. but also in E.F.T.A. Another scholarly paper is that of Professor Swann, who in his paper on cartels and concentrations stresses the changing nature of the problem facing the communities in this respect. He emphasises the growing interest in the encouragement of concentration and amalgamation as a means of improving the competitive efficiency of Western Europe vis-d-vis the U.S.A. There is an extremely interesting survey of relations between the E.E.C. and developing countries by Miss Carol Cosgrove. The paper is a useful antidote to the still heard criticism of the E.E.C. as a rich man's club. The paper is also a useful example of the way in which economic and political considerations react in the Community. As well as editing the whole volume, Mr. Denton contributes a paper on planning and integration. This paper throws much light on the complex issues involved in the question. At present the degree of actual plan co-ordination within the Community is small, and the discussion of the circumstances surrounding the establishment of the Medium Term Economic Policy Committee makes it clear that the whole question is fraught with difficulties. But it is good to have the difficulties set out so lucidly. Other papers in the symposium are by Professor John Dunning, Mr. John Pinder, Mr. David Robertson and Mr. T. K. Warley. Each in his own way illuminates the subject matter of the volume. Dunning writes on foreign capital and economic growth in Europe; John Pinder asks some fundamental questions-e.g. what do we really mean by an economic union? Warley outlines the agricultural problem in the E.E.C. and David Robertson sets European integration in a broader world context. All these papers, indeed the whole book, will reward careful study. S. J. WELLS
+
+### University of Salford.
+
+The AModern Corporation and Pr ivate Property. Revised Editionl. By A. A. BERLE and G. C. MEAN.S. (New York: Harcoturt, Brmce and Wold11,
+1968. Pp. xlvi + 380. $9.75.)
+
+
+### 1970] MODERN CORPORATION AND PRIVATE PROPERTY 121
+course, central to the theories of the firm which were current at the time when the book was originally published. To the present-day reader, accustomed to a diet of Penrose, Baumol, Williamson, Marris, Cyert and March and Galbraith, this idea comes as no surprise. He may, however, be surprised at how much these later works owe to Berle and Means and may, at times, be dismayed at the fact that, in terms of solid empirical support, Berle and Means is superior to much of the later work. Perhaps the most impressive feature of Berle and Means' work is that it is a most successful inter-disciplinary study. The two authors are respectively a lawyer and an economist. Each discipline provides one vital ingredient in the argument: the legal framework allows ownership to be separated from control in large corporations, and the predominance of the
+
+### 200 or so largest firms in the U.S. corporate sector, together with the
+widely dispersed ownership of their shares, makes this an important, as well as an interesting, phenomenon. In deriving implications from this result, the two disciplines again have distinct contributions to make-the economist sees the deficiencies of the traditional theory of the firm, in which profitability is the only control mechanism, while the lawyer sees implications for the concept of property in a society in which a large section of property owners (the corporate shareholders) have abdicated direct control of their property. The revised edition maintains the original work intact. The " revisions " are in reality, additions. Each author provides a new preface and Dr. Means also provides an updated statistical picture of the place of the large corporation in the United States corporate sector and of the dispersion of shareholding. Professor Berle's new preface attempts to bring up to date the picture of changing property relationships. Not surprisingly, he emphasises the increasing role of the state as the supplier of " technical property " (or, as Galbraith would say, an under-writer of technology), as a participant in profits (through corporate taxation), and through direct legal constraints. He also emphasises the extension of " passive property " through the growth of stockholding by " intermediate institutions " such as pension funds. He optimistically sees " passive property " as a means by which wealth can be redistributed without interrupting production, i.e. if ownership is separate from control, ownership can be changed without interrupting control.
+
+### Dr. Means' new contribution has two distinct aspects. Firstly, he
+
+### THE
+
+### ECONOMIC
+
+### JOURNAL
+
+### [MARCH
+book. The more solid part of Dr. Means' new contribution is contained mainly in the statistical appendix, which shows that, in the United St concentration within the non-financial company sector has increased and the ownership of large corporations has become more dispersed since 1929. Berle and Means' original conclusion that concentration was increasing has been attacked on the grounds that if 1937 had been compared with 1900, instead of 1929 with 1909, concentration would have appeared to have decreased. The new data, comparing 1962 with 1929 might similarly be criticised on the grounds that they may possibly hide, for example, a tendency for concentration to decrease during the Thirties and then to increase during the Fifties. However, the overall trend in concentration seems to be upwards, if not quite to the extent anticipated by Berle and Means in the heat of their original discovery, and the absolute level of concentration is impressively high.
+
+### In summary, this is a reprint of a classic work which repays re-reading.
+
+The new prefaces are stimulating and provocative rather than profound or informative, but there is solid merit in Dr. Means' new statistical appendix. G. WHITTINGTON Department of Applied Economics, Cambridge.
+
+### Human Values and Economic Policy. A Symposium. Edited by S. HOOK.

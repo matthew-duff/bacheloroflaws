@@ -1,14 +1,10 @@
 # Reading Guide to Lecture 6: Directors’ Duties, Part 1 (The Duty of Care)
 
+Source | Link ------ | ---- Bottomley, ch 11 | Not readily available open access – check prescribed textbook / library databases (Bottomley, contemporary Australian corporate law text, ch 11). Harris, ch 8, 9 | Not readily available open access – check prescribed textbook / library databases (Harris, Australian company law text, chs 8–9). ASIC v Adler [2002] NSWSC 171 | Not readily available open access via a single stable URL – check AustLII or library databases by citation. ASIC v Macdonald (No 11) (2009) 256 ALR 199 | Not readily available open access via a single stable URL – check AustLII or library databases by citation (James Hardie decision). ASIC v Cassimatis (No 8) [2016] FCA 1023 | [AustLII](https://austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2016/1023.html) Grantham, The Law and Practice of Corporate Governance (2nd ed, 2022) ch 9 | [LexisNexis publisher page](https://store.lexisnexis.com/en-au/products/the-law-and-practice-of-corporate-governance-2nd-edition.html) (access via library subscription). Ford, ch 8 | [Ford, Austin and Ramsay’s Principles of Corporations Law – LexisNexis](https://www.lexisnexis.com/en-au/content/practice-areas/corporations/ford-austin-and-ramsays-principles-of-corporations-law) (access via library subscription; see ch 8). Shafron v ASIC [2012] HCA 19 | Not readily available open access via a single stable URL – check AustLII or library databases by citation (James Hardie/Shafron decision). ASIC v King [2020] HCA 4 | Not readily available open access via a single stable URL – check AustLII or library databases by citation. Grimaldi v Chameleon Mining NL (No 2) [2012] FCAFC 6 | [AustLII](https://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCAFC/2012/6.html) Re ACN 092 745 330 [2017] NSWSC 241 | Not readily available open access via a single stable URL – check AustLII or library databases by citation. Buzzle Operations Pty Ltd (in liq) v Apple Computer Australia Pty Ltd (2011) 277 ALR 189 | Not readily available open access – check library databases (reported at 277 ALR 189, Young JA). ASIC v Adler (2002) 41 ACSR 72 | See entry for ASIC v Adler [2002] NSWSC 171 – same matter; use AustLII / library databases. R v Fodera [2007] NSWSC 1194, [22] | Not readily available open access via a single stable URL – check AustLII or library databases by citation. Carlen v Drury (1812) 1 Ves & B 154 at 158 | Not readily available open access – likely only in historical report series; check library databases. Permanent Building Society v Wheeler (1994) 11 WAR 187 | Not readily available open access – check library databases (Western Australian Reports). Re City Equitable Fire Insurance Company Ltd (1925) Ch 407 | Not readily available open access – check UK law report databases or library services. Re Cardiff Savings Bank (Marquis of Bute’s Case) [1892] 2 Ch 100 | Not readily available open access – check UK law report databases or library services. Statewide Tobacco Services Ltd v Morley (1990) 2 ACSR 405; [1993] 1 VR 423 | Not readily available open access – check ACSR/VR reports via library databases. Commonwealth Bank of Australia v Friedrich (1991) 5 ACSR 115 | Not readily available open access – check ACSR reports via library databases. Daniels (formerly practising as Deloitte Haskin & Sells) v Anderson (1995) 37 NSWLR 438 (CA) | Not readily available open access – check NSWLR or AustLII/library databases. Vrisakis v ASC (1993) 11 ACSR 162 | Not readily available open access – check ACSR reports via library databases. ASIC v Adler (No 3) (2002) 41 ACSR 72 at 167 | See entry for ASIC v Adler [2002] NSWSC 171 – same matter; use AustLII / library databases. Nettle, ‘The Changing Position and Duties of Company Directors’ (2018) 41 Melbourne ULR 1402 | Not readily available open access – check Melbourne University Law Review via library databases. Langford, Ramsay and Welsh, ‘The Origins of Company Directors’ Statutory Duty of Care’ (2015) 37 Sydney Law Review 489 | Not readily available open access – check Sydney Law Review via library databases. Corporations Act 2001 (Cth) s 180(1), (2) | [AustLII – s 180](https://www5.austlii.edu.au/au/legis/cth/consol_act/ca2001172/s180.html) ASIC v Rich [2009] NSWSC 1229 | Not readily available open access via a single stable URL – check AustLII or library databases by citation. ASIC v Maxwell [2006] NSWSC 1052 | Not readily available open access via a single stable URL – check AustLII or library databases by citation. ASIC v Vines [2003] NSWSC 1116 | Not readily available open access via a single stable URL – check AustLII or library databases by citation. Gold Ribbon (Accountants) P/L v Sheers [2006] QCA 335 | Not readily available open access via a single stable URL – check AustLII (QCA) or library databases by citation. ASIC v Healey [2011] FCA 717 | Not readily available open access via a single stable URL – check AustLII (FCA) or library databases by citation. Shafron v ASIC (2012) 247 CLR 465 | See Shafron v ASIC entry – check CLR reports via library databases. Sheahan v Verco (2001) 19 ACLC 814 | Not readily available open access – check ACLC reports via library databases. ASIC v Healey (No 2) (2011) 196 FCR 430, [86]–[87] | Not readily available open access – check FCR reports via library databases (Centro “No 2”). Forge v ASIC (2004) 52 ACSR 1 | Not readily available open access – check ACSR reports via library databases. ASIC v Ryan [2024] FCA 1267 | [ASIC media release (case outcome)](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2024-releases/24-246mr-asic-s-proceedings-against-dixon-advisory-director-paul-ryan-dismissed/) Pacific Current Group Ltd v Fitzpatrick et al [2024] FCA 1480 | Not readily available open access via a single stable URL – check Federal Court / AustLII or library databases by citation. ASIC v Mariner Corp Ltd [2015] FCA 589; (2015) 327 ALR 95 | Not readily available open access via a single stable URL – check AustLII (FCA) or library databases by citation. ASIC v Cassimatis (No 8) [2016] FCA 1023 (stepping stones) | See Cassimatis entry above – [AustLII](https://austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FCA/2016/1023.html) ASIC v Wilson (No 3) [2023] FCA 1009 | Not readily available open access via a single stable URL – check Federal Court / AustLII or library databases by citation. ASIC v Isignthis [2024] FCA 669 | [ASIC media release summary](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2024-releases/24-132mr-court-finds-isignthis-breached-disclosure-laws-and-nickolas-karantzis-breached-his-directors-duties/) (judgment available via Federal Court/AustLII). Langford, ‘Corporate culpability, stepping stones and Mariner’ (2016) 34 Company and Securities LJ 75 | Not readily available open access – check Company and Securities Law Journal via library databases. McGregor, ‘Stepping-Stone Liability and the Directors’ Statutory Duty of Care and Diligence’ (2018) 36 Company and Securities LJ 245 | Not readily available open access – check Company and Securities Law Journal via library databases. Hodge and Tame, Opinion & AICD Practice Statement on s 180 duty (2024) | [AICD Practice Statement and resources](https://www.aicd.com.au/board-of-directors/duties/liabilities-of-directors/directors-oversight-of-company-compliance-obligations.html) Dorchester Finance v Stebbings (1989) BCLC 498 | Not readily available open access – check BCLC reports via library databases. AWA Ltd v Daniels (1992) 7 ACSR 759 at 868 | Not readily available open access – check ACSR reports via library databases. Biala Pty Ltd v Mallina Holdings Ltd (No 2) (1993) 11 ACSR 785 at 856–8 | Not readily available open access – check ACSR reports via library databases. ASIC v Hellicar [2012] HCA 17 | [AustLII](https://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/2012/17.html) ASIC v Sino Australian Oil [2016] FCA 934 | Not readily available open access via a single stable URL – check Federal Court / AustLII or library databases by citation. Harlowe’s Nominees Pty Ltd v Woodside (Lakes Entrance) Oil Co NL (1968) 121 CLR 483, 493 | Not readily available open access – check CLR reports via library databases. Howard Smith Ltd v Ampol Petroleum Ltd [1974] AC 821, 832 | Not readily available open access – check UK law reports via library databases. Registered Organisations Commissioner v Australian Nursing and Midwifery Federation [2018] FCA 1735 | [Fair Work Commission case summary](https://fwc.gov.au/registered-organisations/regulatory-education/inquiries-investigations-and-litigation/summaries-court-cases/anmf) ASIC v Fortescue Metals Group Ltd (2011) 190 FCR 364; app Forrest v ASIC (2012) 247 CLR 486 | Forrest appeal summary: [High Court judgment summary PDF](https://www.hcourt.gov.au/assets/publications/judgment-summaries/2012/hca39-2012-10-02.pdf); full reports via library databases. Varzaly, ‘Protecting the Authority of Directors: An Empirical Analysis of the Statutory Business Judgment Rule’ (2012) 12 JCLS 429 | [Durham Research Online repository](https://durham-repository.worktribe.com/output/1259628/protecting-the-authority-of-directors-an-empirical-analysis-of-the-statutory-business-judgment-rule) Duffy; Re Westgate Ports Pty Ltd (2010) 79 ACSR 267 | Not readily available open access – check ACSR reports via library databases. ASIC v GetSwift Ltd (Penalty Hearing) (2023) 167 ACSR 178; [2023] FCA 100 | [ASIC media release summary](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2023-releases/23-029mr-federal-court-sanctions-getswift-with-record-continuous-disclosure-penalty/) (judgment available via Federal Court/AustLII). Waters v Diesel Holdings Pty Ltd (As Trustee For Daniel Baxter Family Trust) [2024] VSCA 77 | Not readily available open access via a single stable URL – check Victorian Court of Appeal / AustLII or library databases by citation.
+
 ## Required Reading
 
-Bottomley, ch 11 OR Harris, ch 8, 9
-
-ASIC v Adler [2002] NSWSC 171, [372] (as relevant)
-
-ASIC v Macdonald (No 11) (2009) 256 ALR 199, especially paras [259]-[261] and [333]
-
-ASIC v Cassimatis (No 8) [2016] FCA 1023 (as relevant)
+Bottomley, ch 11 OR Harris, ch 8, 9 ASIC v Adler [2002] NSWSC 171, [372] (as relevant) ASIC v Macdonald (No 11) (2009) 256 ALR 199, especially paras [259]-[261] and [333] ASIC v Cassimatis (No 8) [2016] FCA 1023 (as relevant)
 
 ## Key Instruments
 
@@ -16,136 +12,28 @@ ASIC v Cassimatis (No 8) [2016] FCA 1023 (as relevant)
 
 ### General
 
-Grantham, The Law and Practice of Corporate Governance (2nd ed, LexisNexis, 2022) ch 9
-
-Ford, ch 8
+Grantham, The Law and Practice of Corporate Governance (2nd ed, LexisNexis, 2022) ch 9 Ford, ch 8
 
 ### Concept of director/officer
 
-ASIC v Adler [2002] NSWSC 171
-
-Shafron v ASIC [2012] HCA 19, at [23] et seq
-
-ASIC v King [2020] HCA 4
-
-Grimaldi v Chameleon Mining NL (No 2) [2012] FCAFC 6, [62]–[76]
-
-Re ACN 092 745 330 [2017] NSWSC 241
-
-Buzzle Operations Pty Ltd (in liq) v Apple Computer Australia Pty Ltd (2011) 277 ALR 189 (per Young JA)
+ASIC v Adler [2002] NSWSC 171 Shafron v ASIC [2012] HCA 19, at [23] et seq ASIC v King [2020] HCA 4 Grimaldi v Chameleon Mining NL (No 2) [2012] FCAFC 6, [62]–[76] Re ACN 092 745 330 [2017] NSWSC 241 Buzzle Operations Pty Ltd (in liq) v Apple Computer Australia Pty Ltd (2011) 277 ALR 189 (per Young JA)
 
 ### Duty of care, skill, and diligence and exceptions/defenses
 
-ASIC v Adler (2002) 41 ACSR 72
-
-R v Fodera [2007] NSWSC 1194, [22]
-
-Carlen v Drury (1812) 1 Ves & B 154 at 158
-
-Permanent Building Society v Wheeler (1994) 11 WAR 187
-
-Re City Equitable Fire Insurance Company Ltd (1925) Ch 407 per Romer J
-
-Re Cardiff Savings Bank (Marquis of Bute’s Case) [1892] 2 Ch 100
-
-Statewide Tobacco Services Ltd v Morley (1990) 2 ACSR 405 and on appeal [1993] 1 VR 423
-
-Commonwealth Bank of Australia v Friedrich (1991) 5 ACSR 115
-
-Daniels (formerly practising as Deloitte Haskin & Sells) v Anderson (1995) 37 NSWLR 438 (CA)
-
-Vrisakis v ASC (1993) 11 ACSR 162
-
-ASIC v Adler (No 3) 2002) 41 ACSR 72 at 167
-
-Nettle, ‘The Changing Position and Duties of Company Directors’ (2018) 41 Melbourne ULR 1402
-
-Langford, Ramsay and Welsh, ‘The Origins of Company Directors’ Statutory Duty of Care’ (2015) 37 Sydney Law Review 489
-
-CA, s 180(1)
-
-ASIC v Rich [2009] NSWSC 1229
-
-ASIC v Maxwell [2006] NSWSC 1052 at [100]
-
-ASIC v Vines [2003] NSWSC 1116
-
-Gold Ribbon (Accountants) P/L v Sheers [2006] QCA 335
-
-ASIC v Macdonald (No 11) (2009) 71 ACSR 368
-
-ASIC v Healey [2011] FCA 717
-
-Shafron v ASIC (2012) 247 CLR 465
-
-Sheahan v Verco (2001) 19 ACLC 814
-
-ASIC v Healey (No 2) (2011) 196 FCR 430, [86]–[87]
-
-Forge v ASIC (2004) 52 ACSR 1
-
-ASIC v Ryan [2024] FCA 1267
-
-Pacific Current Group Ltd v Fitzpatrick et al [2024] FCA 1480
+ASIC v Adler (2002) 41 ACSR 72 R v Fodera [2007] NSWSC 1194, [22] Carlen v Drury (1812) 1 Ves & B 154 at 158 Permanent Building Society v Wheeler (1994) 11 WAR 187 Re City Equitable Fire Insurance Company Ltd (1925) Ch 407 per Romer J Re Cardiff Savings Bank (Marquis of Bute’s Case) [1892] 2 Ch 100 Statewide Tobacco Services Ltd v Morley (1990) 2 ACSR 405 and on appeal [1993] 1 VR 423 Commonwealth Bank of Australia v Friedrich (1991) 5 ACSR 115 Daniels (formerly practising as Deloitte Haskin & Sells) v Anderson (1995) 37 NSWLR 438 (CA) Vrisakis v ASC (1993) 11 ACSR 162 ASIC v Adler (No 3) 2002) 41 ACSR 72 at 167 Nettle, ‘The Changing Position and Duties of Company Directors’ (2018) 41 Melbourne ULR 1402 Langford, Ramsay and Welsh, ‘The Origins of Company Directors’ Statutory Duty of Care’ (2015) 37 Sydney Law Review 489 CA, s 180(1) ASIC v Rich [2009] NSWSC 1229 ASIC v Maxwell [2006] NSWSC 1052 at [100] ASIC v Vines [2003] NSWSC 1116 Gold Ribbon (Accountants) P/L v Sheers [2006] QCA 335 ASIC v Macdonald (No 11) (2009) 71 ACSR 368 ASIC v Healey [2011] FCA 717 Shafron v ASIC (2012) 247 CLR 465 Sheahan v Verco (2001) 19 ACLC 814 ASIC v Healey (No 2) (2011) 196 FCR 430, [86]–[87] Forge v ASIC (2004) 52 ACSR 1 ASIC v Ryan [2024] FCA 1267 Pacific Current Group Ltd v Fitzpatrick et al [2024] FCA 1480
 
 ### Stepping Stones
 
-ASIC v Mariner Corp Ltd [2015] FCA 589
-
-ASIC v Cassimatis (No 8) [2016] FCA 1023
-
-ASIC v Wilson (No 3) [2023] FCA 1009
-
-ASIC v Isignthis [2024] FCA 669
-
-Langford, ‘Corporate culpability, stepping stones and Mariner: Contention surrounding directors' duties where the company breaches the law’ (2016) 34 Company and Securities LJ 75
-
-McGregor, ‘Stepping-Stone Liability and the Directors’ Statutory Duty of Care and Diligence’ (2018) 36 Company and Securities LJ 245
-
-Hodge and Tame, Directors’ section 180 duty of care and diligence & regulatory compliance obligations: Opinion for Australian Institute of Company Directors (2024) and related AICD Practice Statement: https://www.aicd.com.au/board-of-directors/duties/liabilities-of-directors/directors-oversight-of-company-compliance-obligations.html
+ASIC v Mariner Corp Ltd [2015] FCA 589 ASIC v Cassimatis (No 8) [2016] FCA 1023 ASIC v Wilson (No 3) [2023] FCA 1009 ASIC v Isignthis [2024] FCA 669 Langford, ‘Corporate culpability, stepping stones and Mariner: Contention surrounding directors' duties where the company breaches the law’ (2016) 34 Company and Securities LJ 75 McGregor, ‘Stepping-Stone Liability and the Directors’ Statutory Duty of Care and Diligence’ (2018) 36 Company and Securities LJ 245 Hodge and Tame, Directors’ section 180 duty of care and diligence & regulatory compliance obligations: Opinion for Australian Institute of Company Directors (2024) and related AICD Practice Statement: https://www.aicd.com.au/board-of-directors/duties/liabilities-of-directors/directors-oversight-of-company-compliance-obligations.html
 
 ### Delegation and Reliance
 
-Dorchester Finance v Stebbings (1989) BCLC 498
-
-AWA Ltd v Daniels (1992) 7 ACSR 759 at 868
-
-Biala Pty Ltd v Mallina Holdings Ltd (No 2) (1993) 11 ACSR 785 at 856-8
-
-ASIC v Adler [2002] NSWSC 171, [372]
-
-ASIC v Macdonald (No 11) (2009) 256 ALR 199, especially paras [259]-[261] and [333]
-
-ASIC v Hellicar [2012] HCA 17
-
-ASIC v Sino Australian Oil [2016] FCA 934
+Dorchester Finance v Stebbings (1989) BCLC 498 AWA Ltd v Daniels (1992) 7 ACSR 759 at 868 Biala Pty Ltd v Mallina Holdings Ltd (No 2) (1993) 11 ACSR 785 at 856-8 ASIC v Adler [2002] NSWSC 171, [372] ASIC v Macdonald (No 11) (2009) 256 ALR 199, especially paras [259]-[261] and [333] ASIC v Hellicar [2012] HCA 17 ASIC v Sino Australian Oil [2016] FCA 934
 
 ### Business Judgment Rule
 
-Carlen v Drury (1812) 1 Ves & B 154 at 158
-
-Harlowe’s Nominees Pty Ltd v Woodside (Lakes Entrance) Oil Co NL (1968) 121 CLR 483, 493
-
-Howard Smith Ltd v Ampol Petroleum Ltd [1974] AC 821, 832
-
-CA, s 180(2)
-
-ASIC v Rich (2009) NSWSC 1229 at [7253-7289]
-
-Registered Organisations Commissioner v Australian Nursing and Midwifery Federation [2018] FCA 1735
-
-ASIC v Adler (2002) 41 ACSR 72
-
-ASIC v Fortescue Metals Group Ltd (2011) 190 FCR 364; app Forrest v ASIC (2012) 247 CLR 486
-
-ASIC v Mariner Corp (2015) 327 ALR 95, [495]
-
-Varzaly, ‘Protecting the Authority of Directors: An Empirical Analysis of the Statutory Business Judgment Rule’ (2012) 12 Journal of Corporate Law Studies 429
+Carlen v Drury (1812) 1 Ves & B 154 at 158 Harlowe’s Nominees Pty Ltd v Woodside (Lakes Entrance) Oil Co NL (1968) 121 CLR 483, 493 Howard Smith Ltd v Ampol Petroleum Ltd [1974] AC 821, 832 CA, s 180(2) ASIC v Rich (2009) NSWSC 1229 at [7253-7289] Registered Organisations Commissioner v Australian Nursing and Midwifery Federation [2018] FCA 1735 ASIC v Adler (2002) 41 ACSR 72 ASIC v Fortescue Metals Group Ltd (2011) 190 FCR 364; app Forrest v ASIC (2012) 247 CLR 486 ASIC v Mariner Corp (2015) 327 ALR 95, [495] Varzaly, ‘Protecting the Authority of Directors: An Empirical Analysis of the Statutory Business Judgment Rule’ (2012) 12 Journal of Corporate Law Studies 429
 
 ### Disqualification
 
-Duffy; Re Westgate Ports Pty Ltd (ACN 096 501 727) and Another (2010) 79 ACSR 267
-
-ASIC (ASIC) v GetSwift Ltd (Penalty Hearing) (2023) 167 ACSR 178; [2023] FCA 100
-
-Waters v Diesel Holdings Pty Ltd (As Trustee For Daniel Baxter Family Trust) [2024] VSCA 77
+Duffy; Re Westgate Ports Pty Ltd (ACN 096 501 727) and Another (2010) 79 ACSR 267 ASIC (ASIC) v GetSwift Ltd (Penalty Hearing) (2023) 167 ACSR 178; [2023] FCA 100 Waters v Diesel Holdings Pty Ltd (As Trustee For Daniel Baxter Family Trust) [2024] VSCA 77

@@ -1,12 +1,47 @@
 # Reading Guide to Lecture 3: Corporate Personality and Liability
 
+| Source                                                                                                           | Link                                                                                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bottomley, ch 3                                                                                                  | [Contemporary Australian Corporate Law – catalogue entry](https://catalogue.nla.gov.au/catalog/8550808)                                                                                |
+| Harris, chs 4–5                                                                                                  | [Harris, *Company Law: Theories, Principles and Applications* – catalogue entry](https://catalogue.nla.gov.au/catalog/10002042)                                                        |
+| [[Salomon v Salomon & Co Ltd [1897] AC 22]]                                                                        | [BAILII – *Salomon v Salomon & Co Ltd* [1896] UKHL 1](https://www.bailii.org/uk/cases/UKHL/1896/1.html)                                                                                |
+| *Prest v Petrodel Resources Ltd* [2013] UKSC 34                                                                  | [BAILII – *Prest v Petrodel Resources Ltd and others* [2013] UKSC 34](http://www.bailii.org/uk/cases/UKSC/2013/34.html)                                                                |
+| [[Macaura v Northern Assurance Co Ltd [1925] AC 619]]                                                              | [Case summary (secondary source)](https://casejudgments.com/macaura-v-northern-assurance-co-ltd-1925-case-summary/)                                                                    |
+| [[Lee v Lee’s Air Farming Ltd [1961] AC 12]]                                                                       | [BAILII – *Lee v Lee’s Air Farming Ltd* [1960] UKPC 33](https://www.bailii.org/uk/cases/UKPC/1960/1960_33.html)                                                                        |
+| [[Lennard’s Carrying Co Ltd v Asiatic Petroleum Co Ltd [1915] AC 705]]                                             | [Unreported decisions collection – full text](https://www.uniset.ca/other/cs2/1915AC705.html)                                                                                          |
+| [[Walker v Wimborne (1976) 137 CLR 1]]                                                                             | [Case analysis (secondary source)](https://casejudgments.com/a-case-analysis-of-walker-v-wimborne-1976/)                                                                               |
+| [[Industrial Equity v Blackburn (1977) 137 CLR 567]]                                                           | Not readily available open access – check CLR volumes or AustLII via library databases.                                                                                                |
+| [[Briggs v James Hardie & Co Pty Ltd (1989) 16 NSWLR 549]]                                                         | [AustLII LawCite entry](https://austlii.edu.au/cgi-bin/LawCite?cit=%281989%29%2016%20NSWLR%20549)                                                                                      |
+| [[Re Darby, ex parte Brougham [1911] 1 KB 95]]                                                                     | [Case summary (secondary source)](https://casejudgments.com/re-darby-ex-parte-brougham-1911-case-summary/)                                                                             |
+| [[Gilford Motor Co Ltd v Horne [1933] Ch 935]]                                                                     | [Case note – *Gilford Motor Co Ltd v Horne*](https://swarb.co.uk/gilford-motor-co-ltd-v-horne-ca-1933/)                                                                                |
+| [[Jones v Lipman [1962] 1 WLR 832]]                                                                                | [Case summary – *Jones v Lipman*](https://casejudgments.com/a-case-summary-of-jones-v-lipman-1962/)                                                                                    |
+| [[VTB Capital plc v Nutritek International Corp [2013] UKSC 5]]                                                    | [BAILII – *VTB Capital plc v Nutritek International Corp & Ors* [2013] UKSC 5](http://www.bailii.org/uk/cases/UKSC/2013/5.html)                                                        |
+| [[Re FG (Films) Ltd [1953] 1 WLR 483]]                                                                             | Not readily available open access – check UK law reports via library databases.                                                                                                        |
+| [[Smith, Stone & Knight Ltd v Birmingham Corporation [1939] 4 All ER 116]]                                         | [Uniset – *Smith, Stone and Knight Ltd v Birmingham Corporation*](https://www.uniset.ca/other/pollypeck/19394AER116.html)                                                              |
+| [[DHN Food Distributors Ltd v Tower Hamlets London Borough Council - [1976] 3 All ER 462]]                                                 | [Wikipedia overview – *DHN Food Distributors Ltd v Tower Hamlets LBC*](https://en.wikipedia.org/wiki/DHN_Food_Distributors_Ltd_v_Tower_Hamlets_LBC)                                    |
+| [[Spreag v Paeson Pty Ltd [1990] 94 ALR 679]]                                                                      | Not readily available open access – check ALR reports via library databases.                                                                                                           |
+| [[ACN 007 528 207 Pty Ltd (in liq) v Bird Cameron (reg) and Others (2005) 54 ACSR 505]]                                 | [AustLII – *ACN 007 528 207 Pty Ltd (in liq) v Bird Cameron (reg) & Ors* [2005] SASC 204](https://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/sa/SASC/2005/204.html)                  |
+| [[ACCC v Hillside (Australia New Media) Pty Ltd (t-as Bet365) [2015] FCA 1007]]                                    | [ACCC media release and case summary](https://www.accc.gov.au/media-release/court-imposes-275-million-in-penalties-on-bet365-companies-for-misrepresenting-free-bet-offer)             |
+| [[Easterbrook and Fischel, ‘Limited Liability and the Corporation’ (1985)]]                          | [Chicago Unbound – article landing page](https://chicagounbound.uchicago.edu/uclrev/vol52/iss1/3/)                                                                                     |
+| [[Ireland, ‘Limited liability, Shareholder Rights and the Problem of Corporate Irresponsibility’ (2010)]] | [SSRN / author manuscript](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2068954)                                                                                                |
+| von Nessen & Herzberg, ‘James Hardie’s Asbestos Liability Legacy in Australia’ (2011) 26 AJCL 55                 | [Monash University research portal entry](https://research.monash.edu/en/publications/james-hardies-asbestos-liability-legacy-in-australia-disclosure-c/)                              |
+| [[Meridian Global Funds Management Asia Ltd v Securities Commission [1995] 3 All ER 918]]                                         | [Case overview – *Meridian Global Funds Management Asia Ltd v Securities Commission*](https://en.wikipedia.org/wiki/Meridian_Global_Funds_Management_Asia_Ltd_v_Securities_Commission) |
+| [[Mousell Brothers Ltd v London and North-Western Railway Co (1917) 2 KB 836]]                                     | Not readily available open access – check KB reports via library databases.                                                                                                            |
+| [[R v Australasian Films Ltd (1921) 29 CLR 195]]                                                                   | Not readily available open access – check CLR volumes via library databases.                                                                                                           |
+| [[Tesco Supermarkets Ltd v Nattrass [1972] AC 153]]                                                                | [BAILII – *Tesco Supermarkets Ltd v Nattrass* [1971] UKHL 1](https://knyvet.bailii.org/uk/cases/UKHL/1971/1.html)                                                                      |
+| *Serious Fraud Office v Barclays Plc and another* [2020] 1 Cr App R 28                                           | [Commentary on SFO prosecution of Barclays](https://www.herbertsmithfreehills.com/notes/fsrandcorpcrime/2020-05/no-directing-mind-and-will-found-in-sfo-prosecution-of-barclays)       |
+| [[Jetivia SA v Bilta (UK) Ltd [2015] UKSC 23]]                                     | [Wikipedia overview – *Jetivia SA v Bilta (UK) Ltd*](https://en.wikipedia.org/wiki/Jetivia_SA_v_Bilta_(UK)_Limited_(in_liquidation))                                                   |
+| Criminal Code Act 1995 (Cth), Sch 1 pt 2.5 s 12                                                                  | [Commonwealth Criminal Code – AustLII (Schedule 1)](https://classic.austlii.edu.au/au/legis/cth/num_act/cca1995115/sch1.html)                                                          |
+| [[ALRC, Final Report- Corporate Criminal Responsibility (2020)]]                                            | [ALRC – Corporate Criminal Responsibility (Report 136)](https://www.alrc.gov.au/publication/corporate-criminal-responsibility/)                                                        |
+| [[Qintex Australia Finance Ltd v Schroders Australia Ltd (1990) 3 ACSR 267]]                                       | [Case summary (secondary source)](https://www.scribd.com/document/272046061/Case-Summary-Qintex-1990)                                                                                  |
+| [[ANZ Executors & Trustee Co Ltd v Qintex Australia Ltd [1991] 2 Qd R 360]]                                        | Not readily available open access – check Qd R reports via library databases.                                                                                                          |
+| [[Adams v Cape Industries plc - [1991] 1 All ER 929]]                                                                   | [Wikipedia overview – *Adams v Cape Industries plc*](https://en.wikipedia.org/wiki/Adams_v_Cape_Industries_plc)                                                                        |
+| [[CSR Ltd v Wren (1997) 44 NSWLR 463]]                                                                             | Not readily available open access – check NSWLR reports via library databases.                                                                                                         |
+| [[CSR Ltd v Young]]                                                                            | Not readily available open access – check NSWCCR reports via library databases.                                                                                                        |
+
 ## Required Reading
 
-Bottomley ch. 3 OR Harris, ch 4, 5
-
-Salomon v Salomon & Co Ltd [1897] AC 22 (HL)
-
-Prest v Petrodel Resources Ltd [2013] UKSC 34
+Bottomley ch. 3 OR Harris, ch 4, 5 [[Salomon v Salomon & Co Ltd [1897] AC 22]] (HL) [[Prest v Petrodel Resources Ltd [2013] UKSC 34]]
 
 ## Key Instruments
 
@@ -14,74 +49,16 @@ Prest v Petrodel Resources Ltd [2013] UKSC 34
 
 ### Essential Characteristics
 
-Macaura v Northern Assurance Co Ltd [1925] AC 619
-
-Lee v Lee’s Air Farming Ltd [1961] AC 12
-
-Lennard’s Carrying Co Ltd v Asiatic Petroleum Co Ltd [1915] AC 705
+[[Macaura v Northern Assurance Co Ltd [1925] AC 619]] [[Lee v Lee’s Air Farming Ltd [1961] AC 12]] [[Lennard’s Carrying Co Ltd v Asiatic Petroleum Co Ltd [1915] AC 705]]
 
 ### Corporate Groups and Related Entities
 
-Walker v Wimborne (1976) 137 CLR 1
-
-Industrial Equity v Blackburn (1977) 137 CLR 567
+[[Walker v Wimborne (1976) 137 CLR 1]] [[Industrial Equity v Blackburn (1977) 137 CLR 567]]
 
 ### Lifting the Veil
 
-Briggs v James Hardie & Co Pty Ltd (1989) 16 NSWLR 549
-
-Re Darby [1911] 1 KB 95
-
-Gilford Motor Co Ltd v Horne [1933] Ch 935
-
-Jones v Lipman [1962] 1 WLR 832
-
-VTB Capital plc v Nutritek International Corp [2013] UKSC 5
-
-Re FG (Films) Ltd [1953] 1 WLR 483
-
-Smith, Stone & Knight Ltd v Birmingham Corporation [1939] 4 All ER 116
-
-DHN Food Distributors Ltd v London Borough of Tower Hamlets [1976] 1 WLR 852
-
-Spreag v Paeson Pty Ltd [1990] 94 ALR 679
-
-ACN 007 528 207 Pty Ltd (in liq) v Bird Cameron (reg) and Others (2005) 54 ACSR 505
-
-Australian Competition and Consumer Commission v Hillside (Australia New Media) Pty Ltd (t/as Bet365) [2015] FCA 1007, paras. 128–161
-
-Easterbrook and Fischel, ‘Limited Liability and the Corporation’ (1985) 52 University of Chicago Law Review 89
-
-Ireland, ‘Limited liability, Shareholder Rights and the Problem of Corporate Irresponsibility’ (2010) 34 Cambridge Journal of Economics 837
-
-von Nessen and Herzberg, ‘James Hardie’s Asbestos Liability Legacy in Australia: Disclosure, Corporate Social Responsibility and the Power of Persuasion’ (2011) 26 Australian Journal of Corporate Law 55
+[[Briggs v James Hardie & Co Pty Ltd (1989) 16 NSWLR 549]] [[Re Darby, ex parte Brougham [1911] 1 KB 95]] [[Gilford Motor Co Ltd v Horne [1933] Ch 935]] [[Jones v Lipman [1962] 1 WLR 832]] [[VTB Capital plc v Nutritek International Corp [2013] UKSC 5]] [[Re FG (Films) Ltd [1953] 1 WLR 483]] [[Smith, Stone & Knight Ltd v Birmingham Corporation [1939] 4 All ER 116]] [[DHN Food Distributors Ltd v Tower Hamlets London Borough Council - [1976] 3 All ER 462]] [[Spreag v Paeson Pty Ltd [1990] 94 ALR 679]] [[ACN 007 528 207 Pty Ltd (in liq) v Bird Cameron (reg) and Others (2005) 54 ACSR 505]] [[ACCC v Hillside (Australia New Media) Pty Ltd (t-as Bet365) [2015] FCA 1007]], paras. 128–161 [[Easterbrook and Fischel, ‘Limited Liability and the Corporation’ (1985)]] [[Ireland, ‘Limited liability, Shareholder Rights and the Problem of Corporate Irresponsibility’ (2010)]] von Nessen and Herzberg, ‘James Hardie’s Asbestos Liability Legacy in Australia: Disclosure, Corporate Social Responsibility and the Power of Persuasion’ (2011) 26 Australian Journal of Corporate Law 55
 
 ### Corporate Wrongs / Wrongdoing
 
-Meridian Global Funds Asia Ltd v Securities Commission [1995] 2 AC 500
-
-Mousell Brothers Ltd v London and North-Western Railway Co (1917) 2 KB 836
-
-R v Australasian Films Ltd (1921) 29 CLR 195
-
-Tesco Supermarkets v Nattrass [1972] AC 153
-
-Lennard’s Carrying Co Ltd v Asiatic Petroleum Co Ltd [1915] AC 705
-
-Serious Fraud Office v Barclays Plc and Another [2020] 1 CrAppR 28
-
-Jetivia SA and another (Appellants) v Bilta (UK) Limited (in liquidation) and others (Respondents) [2015] UKSC 23
-
-Criminal Code Act 1995 (Cth), Schedule 1, pt 2.5, s 12
-
-ALRC, Final Report: Corporate Criminal Responsibility, ARLC Report No 136 (April 2020)
-
-Qintex Australia Finance Ltd v Schroders Australia Ltd [1990] 3 ACSR 267
-
-ANZ Executors & Trustee Co Ltd v Qintex Australia Ltd [1991] 2 Qd R 360
-
-Adams v Cape Industries plc [1990] 2WLR 657
-
-CSR Ltd v Wren (1997) 44 NSWLR 463
-
-CSR Ltd v Young (1998) 16 NSWCCR 56
+[[Meridian Global Funds Management Asia Ltd v Securities Commission [1995] 3 All ER 918]] [[Mousell Brothers Ltd v London and North-Western Railway Co (1917) 2 KB 836]] [[R v Australasian Films Ltd (1921) 29 CLR 195]] [[Tesco Supermarkets Ltd v Nattrass [1972] AC 153]] [[Lennard’s Carrying Co Ltd v Asiatic Petroleum Co Ltd [1915] AC 705]] [[Serious Fraud Office v Barclays Plc and Another [2020] 1 CrAppR 28]] [[Jetivia SA v Bilta (UK) Ltd [2015] UKSC 23]] Criminal Code Act 1995 (Cth), Schedule 1, pt 2.5, s 12 [[ALRC, Final Report- Corporate Criminal Responsibility (2020)]] [[Qintex Australia Finance Ltd v Schroders Australia Ltd (1990) 3 ACSR 267]] [[ANZ Executors & Trustee Co Ltd v Qintex Australia Ltd [1991] 2 Qd R 360]] [[Adams v Cape Industries plc - [1991] 1 All ER 929]] [[CSR Ltd v Wren (1997) 44 NSWLR 463]] [[CSR Ltd v Young]]

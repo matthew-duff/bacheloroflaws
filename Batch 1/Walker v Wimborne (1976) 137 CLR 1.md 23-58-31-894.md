@@ -1,0 +1,957 @@
+                        REPORTS OF CASES
+
+                              DETERMINED IN THE
+
+
+
+        HIGH COURT OF AUSTRAUA
+
+
+                      [HIGH COURT OF AUSTRAllA.j
+
+WALKER                                                          APPELLANT;
+    APPLICANT,
+
+                                     AND
+
+
+WIMBORNE AND OTHERS                                           RESPONDENTS.
+    RESPONDENTS,
+
+              ON APPEAL FROM THE SUPREME COURT OF
+                        NEW SOUTH WALES.
+Companies-Liquidation-Directors-Negligence, default, breach of duty or breach H. C. OF A.
+   of trust-Companies administered as a group by common directors-Payment 1975-1976.
+   by one company to another in group-No benefit or advantage to payer             ',--'
+   company-Payer company insolvent-General policy for movement of funds            1975,
+                                                                                 SYDNEY,
+   between companies-Payments to employees of other companies-Gratuitous Nov. 6, 10.
+  payments to former director in recognition of past services- Whether payments
+   made negligently or in breach of duty or breach of trust-Companies Act, 1961    1976,
+                                                                                MELBOURNE,
+  (N.S. W.), S. 367B (1) (b).                                                    March 3.
+     Section 367B (1) (b) of the Companies Act, 1961 (N.S.W.) as amended by the    Barwick C.J.,
+   Companies (Amendment) Act, 1973, s. 7 (b) empowered the liquidator of a          Mason and
+                                                                                    Jacobs JJ.
+   company, where it appeared to him that a person who had taken part in the
+   administration or management of a company had been guilty of "any
+   negligence, default, breach of duty or breach of trust in relation to the
+   company", to apply to the Supreme Court for an order that that person pay to
+   the company such sum by way of damages in respect of the negligence, default,
+   breach of duty or breach of trust, as the Court thought just.
+      The directors of a company, which was one of several companies with
+   common directors administered as a group, authorized the making by the
+   company of four payments or series of payments. The company went into liqui.
+   dation and the payments were challenged by the liquidator as having been
+   made in breach of duty or breach of trust within s. 367B. The directors had
+   formulated a general policy for moving funds between the companies in the
+   group. to meet exigencies as they arose. The first of the challenged payments
+   had been made to a company in the group which was in financial dif-
+   ficulty. The only consideration for the payment was the implied promise of
+   the recipient to repay the sum. The payer company received no benefit or
+   advantage. On the day of the payment the payer company borrowed an
+2                                              HIGH COURT                          [1975-1976.
+
+H. C. OF A.      equivalent amount from a third company in the group; the borrowing was
+ 1975-1976.      secured by an equitable charge over the borrower's assets. The payer company
+   '-y-J         was insolvent at the time of the transaction. The second payment was made to
+    WALKER
+                 another company in the group, allegedly for consultancy work carried out by the
+      u.
+WIMBORNE.        recipient as a subcontractor to the payer company. The recipient had not been
+                 incorporated when part of the work was carried out, and there were no entries in
+                 the books of either company which supported the alleged entitlement. The
+                 third payments were made to employees of other companies in the group as
+                 salaries and wages. There was no evidence that they had performed
+                 significant services for the payer company. The fourth payments were made to
+                 a former director of the company in recognition of past services. There was
+                 evidence that the former director had played a significant part in the company's
+                 affairs in years past and that the decision to make gratuitous payments to him
+                 by way of regular pension had been made long before winding-up was
+                 imminent.
+                   Held: (1) That the making of the third payments was a misapplication of
+                 funds for which the director who decided to make the payments and the
+                 governing director who stood by when they were made were responsible.
+                   (2) That the fourth payments were of a class or category which might be
+                 reasonably incidental to the carrying on of the company's business, and the
+                 evidence showed that they had been made bona fide and with a view to
+                 advancing the company's interests.
+                   (3) By Barwick C.J. and Mason J., Jacobs J. dissenting, that the first and
+                 second payments constituted breaches of duty or breaches of trust by the
+                 directors.
+                   Per Mason J. (Barwick C.J. concurring, Jacobs J. contra). In adopting a
+                 general policy governing the movement of funds between the companies in the
+                 group the directors had disregarded the interests of the company and its
+                 creditors.
+                   Decision of the Supreme Court of New South Wales (Street C.J. in Eq.): Re
+                 Asiatic Electric Co. Pty. Ltd. (in liq.), [1973] 1 N.S.W.L.R. 603, varied.
+
+              APPEAL from the Supreme Court of New South Wales.
+                The liquidator of Asiatic Electric Co. Pty. Ltd. took out a
+              summons under s.367B of the Companies Act, 1961 (N.S.W.)
+              against former directors of the company for orders that they pay
+              the amount of losses sustained by the company as a result of the
+              making of certain payments which they had made or
+              authorized. The circumstances in which the payments were
+              made are set out in the judgment of Mason J. Street C.J. in
+              Eq. dismissed the summons (Be Asiatic Electric Co. Pty. Ltd. (in
+              liq.) (1». The liquidator appealed to the High Court.
+                E. H. St. John Q.C. and D. A. Cowdroy, for the appellant,
+              referred to Montgomerie's Brewery Co. Ltd. v. Blyth (2); Charter-
+              bridge Corporation v. Lloyds Bank Ltd. (3); Parke v. Daily
+
+                (1) [1973] 1 N.S.W.L.R. 603. The case is          (2) (1901) 27 V.L.R. 175.
+                      reported only upon the orders for           (3) [1970] Ch. 62.
+                      costs.
+137 C.L.R.]                  OF AUSTRALIA.                                               3
+
+News Ltd. (4); Re Automotive and General Industries Ltd.                      H. C. OF A
+(5); Hurstville Finance Pty. Ltd. v. Franklin (6).                             1975-1976.
+                                                                                 '-r-'
+                                                                               WALKER
+  L. J. Priestley Q.C. and P. G. Hely, for the respondent, referred                V.
+                                                                              WIMBORNE.
+to In re Etic Ltd. (7); Lopes v. Taylor (8); Eyre v. Nationwide
+News Pty. Ltd. (9); Lee v. Lee's Air Farming Ltd. (10); In re W.
+& M. Roith Ltd. (11); In re B. Johnson & Co. (Builders) Ltd.
+(12); Couve v. J. Pierre Couve Ltd. (in liq.) (13).
+
+                                                      Cur. adv. vult.
+
+  The following written judgments were delivered:-                 1976, March 3.
+  BARWICK C.J. My brother Mason, in the reasons for judgment
+which he has prepared in this matter and which I have had the
+advantage of reading, sets out the relevant facts found by the
+Supreme Court of New South Wales. On those facts a finding
+against the respondents in respect of the sums of $10,000, of
+$40,523.82 and $17,960.93 was, in my opinion, inescapable. No
+interest of the company concerned could have justified those
+payments out of its funds. I agree with my brother Mason's
+reasons for concluding that in respect of those sums the appellant
+should succeed.
+  After consideration I am prepared to agree with my brother
+Mason's reasons and his conclusion as to the sums which total
+$15,400. Upon the facts found by the Supreme Court, a contrary
+finding would be understandable. However, though not without
+some doubt, I agree that the appellant should fail in respect of
+this total sum.
+  I therefore agree with the orders proposed by my brother
+Mason.
+
+  MASON J. This is an appeal by the liquidator of Asiatic
+Electric Co. Pty. Ltd. ("Asiatic") against the dismissal by Street
+C.J. in Eq. (as he then was) of a misfeasance summons brought
+by the liquidator under s. 367B of the Companies Act, 1961
+(N.S.W.), as amended, against Raymond Joseph Wimborne, Pearl
+Manson Wimborne, and David John Wimborne, former directors
+of Asiatic. The respondents were also the directors of certain
+other companies which, together with Asiatic, they administered
+  (4) (1962) Ch. 927.                (10) (1961) AC. 12.
+  (5) (1975) V.R. 454.               (11) (1967) 1 W.L.R. 432; (1967) 1 All
+  (6) (1968) 70 S.R. (N.S.W.) 350.          E.R. 427.
+  (7) (1928) Ch. 861.                (12) (1955) Ch. 634.
+  (8) (1970) 44 AL.J.R. 412.         (13) (1933) 49 C.L.R. 486.
+  (9) (1968) 13 F.L.R. 180.
+4                                         HIGH COURT                   [1975-1976.
+
+H. C. OF A.      as a group. Whether this policy was adopted because the
+    1975-1976.
+                 companies had common shareholders we do not know-the
+      '-Y
+     WALKER      evidence does not reveal how the share capital in the companies
+        V.
+    WIMBORNE.
+                 was held.
+     Mason J.
+                   The source of Asiatic's financial difficulties was a contract
+                 which the company had with Chevron Sydney Ltd. ("Chevron")
+                 which undertook the creation of an hotel at Kings Cross. Asiatic
+                 was owed substantially in excess of $100,000 by Chevron for work
+                 done in connexion with the hotel. Chevron was unable to pay a
+                 large part of the debt. The inability of Chevron to pay the debt
+                 led to a shortage of funds within the group of companies and the
+                 adoption of a practice whereby funds were moved between the
+                 companies within the group to meet exigencies as they arose.
+                   This practice was adopted with the approval or acquiescence of
+                 all the directors, so his Honour found. One of the difficulties is
+                 that the transactions which resulted in the movement of funds
+                 between the companies were not considered at meetings of
+                 directors or, alternatively, if they were so considered, they were
+                 not the subject of resolutions recorded in the companies' minute
+                 books. However, the oral evidence of R. J. Wimborne makes it
+                 clear that the particular transactions which took place were
+                 transactions which fell within the terms of the general policy
+                 formulated and approved by the directors.
+                   The liquidator's case comprised four separate claims. The first
+                 three claims are made against R. J. Wimborne (who was
+                 governing director of Asiatic) and his son D. J. Wimborne. In
+                 each instance the liquidator asserts that payments were made by
+                 Asiatic which were not made bona fide in the interests of the
+                 company and constituted a misapplication of its funds. The
+                 payments in question were: (a) a payment by cheque of $10,000
+                 by Asiatic to Australian Sound and Communications Pty. Ltd.
+                 ("Australian Sound"), a company in the group, on 14th December
+                 1967; (b) a payment by cheque of $40,523.82 by Asiatic to
+                 Starkstrom Control Gear (Australia) Pty. Ltd. ("Starkstrom") in
+                 March 1967; and (c) payments totalling $17,960.93 by Asiatic
+                 between 18th March 1967 and 2nd January 1968 allegedly by way
+                 of salaries and wages. The fourth claim, made against all the
+                 respondents, relates to payments totalling $15,400 made to A. B.
+                 Wimborne between 1961 and 1966 on account of wages or by way
+                 of pension. Again, it is said that the payments to A. B.
+                 Wimborne were not bona fide in the interests of the company lind
+                 constituted a misapplication of its funds.
+                   The payment of $10,000 to Australian Sound on 14th December,
+                 was not authorized by a resolution of the board of direc-
+                 tors. However, it was a payment which fell within the general
+137 C.L.R.]             OF AUSTRALIA.                                             5
+
+policy to which I have referred. In his oral evidence R. J.          H. C. OF A.
+Wimborne sought to justify the general practice of moving funds      1975-1976.
+                                                                        '--y--'
+between companies within the group on the ground that it              WALKER
+avoided or diminished the liability for interest on overdraft             U.
+                                                                     WIMBORNE.
+accounts, the banks being unwilling to set off a credit in one
+                                                                      Mason J.
+company account against another company account. Whatever
+may be said as to the wisdom ofthis policy, it had no relevance to
+the transaction under consideration for it is transparently clear
+that the payment of $10,000 to Australian Sound had nothing to
+do with reducing that company's liability for interest on its
+overdraft. R. J. Wimborne said that "the only reason for
+transferring" the $10,000 was that Australian Sound "needed the
+money". Evidently it needed the money to complete a business
+transaction in which it was then engaged.
+   It was not suggested that Asiatic received any benefit or
+advantage from the making of the payment. The only con-
+sideration which it received was the implied promise to repay the
+money on demand. No security and no promise to pay interest
+was exacted from Australian Sound. No attention was given to
+these aspects of the matter, no doubt because the respondents
+failed to appreciate that each company was a separate legal entity
+and that entry into each transaction required to be examined in
+the light of the interests of each company participating in it.
+   On the evidence the transaction was not merely a transaction
+which failed to present any opportunity of advantage to Asiatic,
+it was one which offered the probable prospect of loss. Australian
+Sound was, according to the finding of the primary judge, in
+financial difficulties at the time. R. J. Wimborne admitted that
+it did not then have the money to repay the loan. In fact
+Australian Sound was then unable to pay its debts as they fell
+due and the loan should not have been made for this reason
+alone.
+   On the same day a sum of $10,000 was credited to Asiatic's
+bank account, this being an amount transferred by Est-oril Pty.
+Ltd. ("Estoril"), another company in the group. The repayment
+of this amount to Estoril was secured by an equitable charge
+granted by Asiatic to Estoril. The consequence of the two
+transactions was that Asiatic paid $10,000 to Australian Sound, a
+company which was unable to repay that amount; in return it
+received, by way of loan, the sum of $10,000 from Estoril, but the
+repayment of this amount was secured by the equitable mortgage.
+   The final aspect of the matter is that at the time of the
+transaction Asiatic was itself insolvent. According to the
+evidence of R. J. Wimborne it was unable to pay its debts as they
+fell due from 1961-1962 onwards. In February 1967 Esanda Ltd.
+6                                       HIGH COURT                    [1975-1976.
+
+H. C. OF A.    obtained a judgment against Asiatic for $5,301, an amount which
+ 1975-1976.    had been outstanding, despite pressing demands for payment,
+   '-y-J
+    WALKER     since 1963. Asiatic had, without success, endeavoured to effect a
+       V.
+WIMBORNE
+               compromise of the debt owing to Esanda Ltd. whereby half the
+               debt was to be paid immediately and payment of the balance was
+    Mason J.
+               to be postponed. At the time of the making of the payment to
+               Australian Sound, Asiatic had been served with a notice of
+               demand. The petition on which the sequestration order was
+               made was based on non-compliance with this notice of
+               demand. According to its balance sheet as at 30th June 1967,
+               Asiatic's solvency depended on the ability of Starkstrom to pay
+               a debt of $146,852, the principal asset shown in the balance sheet.
+               It was a debt which Starkstrom could not then repay.
+                  Despite these circumstances the primary judge concluded that
+               the liquidator had not made out a prima facie case of mis-
+               feasance. Why his Honour came to this conclusion does not
+               appear with any clarity. His Honour seems to have been
+               influenced by two considerations: first, that Asiatic received
+               $10,000 from Estoril on the same day; secondly, that as the
+               transaction was undertaken for the benefit of the group, or
+               another company in the group, this invested the transaction with
+               an aura of legitimacy.
+                  To speak of the companies as being members of a group is
+               something of a misnomer which may well have led his Honour
+               into error. The word "group" is generally applied to a number
+               of companies which are associated by common or interlocking
+               shareholdings, allied to unified control or capacity to control. In
+               such a case the payment of money by company A to company B
+               to enable company B to carry on its business may have derivative
+               benefits for company A as a shareholder in company B if that
+               company is enabled to trade profitably or realize its assets to
+               advantage. Even so, the transaction is one which must be
+               viewed from the standpoint of company A and judged according
+               to the criterion of the interests of that company.
+                  Here, however, the companies were not members of a group
+               in the sense already described. There were no common or
+               interlocking shareholdings. Asiatic did not hold shares in
+               Australian Sound. Asiatic did not stand to lose if Australian
+               Sound went into liquidation; nor did it derive any benefit if
+               Australian Sound succeeded in staving off liquidation. The
+               "group" argument therefore provides no justification for what
+               occurred.
+                  Indeed, the emphasis given by the primary judge to the
+               circumstance that the group derived a benefit from the transac-
+               tion tended to obscure the fundamental principles that each of the
+137 C.L.R.]                    OF AUSTRALIA.                                          7
+
+companies was a separate and independent legal entity, and that H. C. OF A.
+it was the duty of the directors of Asiatic to consult its interests 1975-1976.
+                                                                       '-y-'
+and its interests alone in deciding whether payments should be        WALKER
+made to other companies. In this respect it should be emphasiz-          V.
+                                                                     WIMBORNE.
+ed that the directors of a company in discharging their duty to
+                                                                      Mason J.
+the company must take account of the interest of its shareholders
+and its creditors. Any failure by the directors to take into
+account the interests of creditors will have adverse consequences
+for the company as well as for them. The creditor of a company,
+whether it be a member of a "group" of companies in the accepted
+sense of that term or not, must look to that company for
+payment. His interests may be prejudiced by the movement of
+funds between companies in the event that the companies become
+insolvent.
+   The other factor relied upon by the primary judge, the receipt of
+$10,000 from Estoril, overlooks the prejudice to Asiatic's un-
+secured creditors worked by the transaction. As the repayment
+of the $10,000 to Estoril was fully secured, the transaction
+diminished by $10,000 the assets of the company to which the
+unsecured creditors of Asiatic could have resort.
+   The transaction offered no prospect of advantage to Asiatic, it
+exposed Asiatic to the probable prospect of substantial loss, and
+thereby seriously prejudiced the unsecured creditors of
+Asiatic. It was more than an improvident transaction reflecting
+an error of judgment; it was undertaken in accordance with a
+policy adopted by the directors in total disregard of the interests
+of the company and its creditors.
+   The payment to Australian Sound was in my view a
+"misfeasance" within the me'aning of s. 367B (1) of the Companies
+Act, 1961, as amended. As Lord Evershed M.R. observed in In re
+B. Johnson & Co. (Builders) Ltd. (14):
+      "There is no such distinct wrongful act known to the law as
+    'misfeasance' . " But it is clearly established that it is not
+    every kind of wrongful act so done that is comprehended by
+    the section."
+However, it is well established that "misfeasance" in this con-
+text means "misfeasance in the nature of a breach of trust,
+that is to say, it refers to something which the officer ... has
+done wrongly by misapplying or retaining in his own hands any
+moneys of the company, or by which the company's property has
+been wasted, or the company's credit improperly pledged" (In re
+Canadian Land Reclaiming and Colonizing Co. (15); Couve v.
+J. Pierre Couve Ltd. (in liq.) (16)).
+ (14) [1955] Ch. 634, at p. 648.              (16) (1933) 49 C.L.R. 486, at p. 495.
+ (15) (1880) L.R. 14 Ch. D. 660, at p. 670.
+8                                       HIGH COURT                    [1975-1976.
+
+H. C. OF A.      To constitute a misfeasance it must appear that there has been
+    1975-1976.
+      '-y-'
+              something more than mere negligence; it must be shown that
+     WALKER   what occurred amounted to a breach of duty. The conclusion
+        V.
+    WIMBORNE.
+              that   a breach of duty was committed was to my mind not only
+              open on the evidence, but it was irresistible. I am quite unable to
+     Mason J.
+              agree with the primary judge's view that the evidence did not
+              amount to a prima facie case against the respondents.
+                 The directors in adopting the general policy governing the
+              movement of funds between the companies completely disregard-
+              ed the interests of the individual companies. It is no answer to
+              say that R. J. Wimborne did not participate in the decision to
+              make the actual payment to Australian Sound and that he was
+              therefore not responsible for it. The payment was made in
+              accordance with the policy for which he was responsible together
+              with D. J. Wimborne.
+                 It seems not to be in dispute that Asiatic sustained some loss in
+              consequence of the wrongful payment. However, the amount of
+              its loss was not investigated and its right to recover must be
+              proportioned to the actual loss which it has sustained.
+                 The second payment subject of the claims made by the
+              liquidator has antecedents which are, to say the least of them,
+              somewhat obscure. The liquidator's case before the primary
+              judge was that the payment of $40,523.80 to Starkstrom was not
+              made in discharge of any pre-existing debt due to that company,
+              the principal basis for this contention being that the work in
+              question was not done by Starkstrom but by R. J. Wimborne Pty.
+              Ltd. and others engaged by it. His Honour held that the
+              materials available were insufficiently precise to enable him to
+              make a finding in favour of the liquidator.
+                 From the evidence it seems that of the total amount of
+              $40,523.82, $40,111.40 was referable to consultancy fees
+              associated with electrical installations at the Chevron in the
+              years 1959-1961. The balance related to an alleged consulting
+              fee payable in' connexion with work undertaken in or about
+              March 1961. It is not in dispute that there was a contract
+              between Asiatic and Chevron whereby Asiatic was to under-
+              take, and did undertake, electrical installations in the hotel. It
+              was under that contract that the primary judge found well over
+              $100,000 was owing by Chevron to Asiatic on 4th April
+              1961. That amount included two items representing consulting
+              fees (a) $23,638.90 being 3112 per cent on the total value of the
+              contract-$775,397 to 17th February 1961; and (b) $16,471.80
+              being 2112 per cent of the value of the completed work as at 30th
+              November 1960-$658,870. On 4th April 1961 Asiatic made
+137 C.L.R.]             OF AUSTRALIA.                                          9
+
+written application to Chevron seeking payment in cash of part H. C. OF A.
+of the debt and the issue of registered first mortgage stock in 1975-1976.
+                                                                       '---.,--J
+Chevron to satisfy the balance of the debt. As I have already         WALKER
+
+mentioned, the debt was not paid. What is significant for WIMBORNE.       v.
+present purposes is that Asiatic was itself charging consultancy
+                                                                      Mason J.
+fees and no mention was made of any liability to pay such fees to
+Starkstrom.
+   The respondents' case was that Starkstrom was appointed as
+consultant by Asiatic by way of subcontract. The subcontract
+was not evidenced by any writing or by resolution in the minute
+book of either of the companies. In fact Starkstrom was not
+incorporated until 3rd February 1960 at a time when, as his
+Honour found, "the consultancy work was well advanced". The
+consultancy work was actually carried out by R. J. Wimborne and
+others engaged by him.
+   It is not easy to determine for whom they were working but
+there is no reason to suppose that they were working on behalf of
+a company not then incorporated when the principal contractor
+was in existence and attending to the work, its governing director
+being the principal actor in the enterprise.
+   The respondents' case is that the subcontract came into
+existence because R. J. Wimborne as governing director of both
+companies decided in his own mind that this is how events
+should fall out. Although R. J. Wimborne's evidence of his state
+of mind cannot constitute evidence of a contract, the existence of
+a contract of the kind alleged could be established from the
+performance of consultancy work by Starkstrom at the request of
+Asiatic in circumstances in which it could be inferred that
+Starkstrom would be remunerated for its services. The problem
+is that R. J. Wimborne was regarded as un unreliable witness by
+the judge and that it is not clear from the evidence that
+consultancy work undertaken by individuals was undertaken on
+behalf of Starkstrom rather than Asiatic.
+   Telling strongly against the suggestion that the work was done
+on behalf of Starkstrom or done in circumstances which would
+entitle Starkstrom to payment is, subject to entries relating to an
+amount of $35,769.97 to be mentioned later, the absence of any
+entry in the books of either company before July 1966, suggesting
+that Starkstrom was to receive any payment from Asiatic in
+connexion with the consultancy fees in question. Then, on the
+instructions of R. J. Wimborne an invoice dated 14th July 1966
+was made out for the amount of $40,523.82 directed to Asiatic. It
+is an odd circumstance, to say the least of it, that if a subcontract
+was made, at least four years were allowed to elapse after
+10                                        HIGH COURT                     [1975-1976.
+
+H. C. OF A.      completion of the work before any attempt was made to quantify
+ 1975-1976.      Starkstrom's remuneration or to make an entry relating to it in
+      '---y--'
+     WALKER      the books of account.
+        v.         The aura of mystery which surrounds the respondents' case is
+WIMBORNE.
+                 not dispelled by the fact that according to the books of both
+     Mason J.
+                 companies Asiatic expended money in payment of wages on
+                 behalf of Starkstrom in the years ended 30th June 1960 and 1961
+                 and that Starkstrom then debited to Asiatic fifty per cent of the
+                 total of the wages so paid. The total of the wages and the
+                 increment of fifty per cent amounted to $35,769. This amount
+                 was satisfied by payment of wages and by other credits set off
+                 against Starkstrom in the books of the companies. R. J.
+                 Wimborne in his evidence before the Master was unable to state
+                 whether the work covered by the invoice of 14th July, 1966, was
+                 part of the work to which the figure of $35,769.97 related.
+                    It is wrong to say, as his Honour did, that in these circum-
+                 stances the liquidator made out a case of suspicion and no
+                 more. He presented evidence from which an inference could and
+                 should have been drawn that there was no foundation for the
+                 1966 invoice and the payment which was made in satisfaction
+                 of it in March 1967 after Esanda Ltd. had obtained judgment
+                 against Asiatic and it was in serious financial difficulties. The
+                 circumstances in which an invoice was raised for the first time
+                 not less than four years after the work to which it related had
+                 been completed, work not otherwise the subject of entries in the
+                 companies' books, plainly required an explanation from those
+                 who were then managing the affairs of the companies. No
+                 persuasive explanation was offered by R. J. Wimborne or those
+                 with whom he was associated. The fact that his evidence was
+                 held to be unreliable was an additional difficulty which the
+                 respondents bore in rebutting the liquidator's case.
+                   The conclusion that the payment constituted a misfeasance is
+                 irresistible. It was a serious breach of duty to make the payment
+                 on a basis which has proved to be without foundation. That
+                 Asiatic sustained a loss in consequence of the payment is not in
+                 question, though the amount of the loss will need to be
+                 ascertained.
+                   The third claim for relief relates to amounts totalling $17,960.93
+                 between 18th March 1967 and 2nd January 1968 paid by way of
+                 salaries and wages. The liquidator's case is that the payments
+                 were made to persons who were not employees of Asiatic but were
+                 employees of other companies within the group. Here again his
+                 Honour's suspicions were excited, but not to the extent of making
+                 a finding adverse to the respondents.
+137 C.L.R.]             OF AUSTRALIA.                                             11
+
+  It is apparent that the business of Asiatic had virtually ground     H. C. OF A.
+                                                                        1975-1976.
+to a halt by the first half of 1966. J. I. Kidd, who was the              ',--'
+contracts clerk of the entire "group" of companies, stated in           WALKER
+                                                                           v.
+evidence that Asiatic entered into no contracts after 1964. Ac-        WIMBORNE.
+cording to its books it made no payment by way of wages or
+                                                                        Mason J.
+salaries from 1st July 1966 to March 1967. In response to the
+suggestion that Asiatic was at 1st July 1966 a dormant com-
+pany, completely inoperative but for attempting to collect debts
+owing to it, R. J. Wimborne said in evidence: "Not completely
+inoperative. They were collecting debts and also tidying up
+contracts, to the best of my knowledge." No indication was
+given of what the reference to "tidying up contracts" en-
+tailed. Some suggestion was made by R. J. Wimborne that in
+1966 Asiatic's payroll may have been "two or three hundred
+dollars a week".
+  It is against this background that the payment to Starkstrom
+of $40,523 in March 1967 and the payment of wages and salaries
+now under consideration which commenced in March 1967 must
+be considered. It will be recalled that in the previous month
+Esanda Ltd. obtained its judgment against Asiatic. And it is
+clear that Asiatic did not enter into any new contracts which
+required the employment of new or additional staff at that time.
+  It seems from the evidence that the employees in question were
+employees of other companies within the group before 18th
+March 1967. There is no evidence to the effect that new
+contractual arrangements were made in consequence of which
+their pre-existing employment was terminated at that date. All
+that appears to have occurred is that they were "transferred to
+the books" of Asiatic on 18th March 1967, to use his Honour's
+expression. His Honour said:
+      "The evidence establishes that the company derived
+    minimal, if any, benefit from the services of these em-
+    ployees. It establishes, moreover, that the overwhelming
+    proponion of the services rendered by them was rendered for
+    the benefit of other companies within the group. In the
+    result, the other companies would in due course have sent
+    accounts to customers and received payments in return for
+    work done by one or more of these employees."
+  He said: "       the recipients of these monies were bona fide
+employees and       the wages were properly due to them." " ...
+the employees were genuine employees and ... the wages paid
+to them were genuine wages for work in fact done by them."
+  In the light of what I have said it is not easy to discern how his
+Honour could come to the conclusion that the recipients of the
+moneys were bona fide or genuine employees of Asiatic. There
+12                                       HIGH COURT                     [1975-1976.
+
+H. C. OF A. was no evidence to support such a conclusion.            Perhaps his
+ 1975-1976.
+                Honour meant no more than that they were employees of
+      '-r-'
+     WALKER     companies within the group, but for reasons which I have already
+        V.
+WIMBORNE.
+                discussed this circumstance did not justify the expenditure of
+                Asiatic's moneys in the payment of their wages and salaries
+     Mason J.
+                unless Asiatic was deriving some significant benefit from their
+                services, a fact negatived by the judge's findings.
+                  Once again the inference is irresistible that there was a
+                misapplication of the company's funds, a misapplication which
+                occcurred because the directors disregarded, and were blind to,
+                their duty to act in the best interests of Asiatic. Accordingly,
+                there was a misfeasance and in this instance it may be safely
+                concluded that the whole of the moneys paid away have been
+                lost.
+                  There is the question whether all the directors were parties to
+                the misfeasance. Although D. J. Wimborne made the decision to
+                make the payments I see no reason for excluding R. J. Wimborne
+                from responsibility for what occurred. It is scarcely conceivable
+                that as governing director he was unaware that Asiatic was
+                making these payments. And if he was unaware this in itself
+                reflects a gross disregard for the company and its affairs.
+                  The final claim made by the liquidator relates to payments
+                totalling $15,400 to A. B. Wimborne between 1964 and 1966. Of
+                this claim his Honour said:
+                      "The evidence indicates that, to a greater or less extent, Mr.
+                    A. B. Wimborne was living in retirement throughout this
+                    period. He is now dead. He came from time to time to the
+                    company's premises, and worked from time to time at various
+                    activities. On the whole of the evidence, however, I am
+                    satisfied that he did not in fact earn, nor was he regarded by
+                    the three respondents as earning, this amount by way of
+                    wages during the period in question. The assertion made in,
+                    for example, the company's income tax return for the year
+                    ended 30th June, 1966 that he had been employed in that
+                    year as a manager is untrue. It is abundantly clear that
+                    these payments were of a gratuitous nature, and that they
+                    were made to him by way of pension in respect of past
+                    services to, and past association with, the group."
+                  The judge accepted that A. B. Wimborne had played a
+                significant part in the affairs of the company in the years gone
+                by and concluded that the payments were justified as a
+                gratuitous recognition of past services by way of regular
+                pension. There are difficulties in reaching the conclusion
+                arrived at by his Honour. First, the case initially presented by
+                the respondents, in conformity with claims made in Asiatic's
+                income tax returns, was that the payments were payments of
+137 C.L.R.]              OF AUSTRALIA.                                     13
+
+salary to A. B. Wimborne as manager of the company. Second- H. C. OF A.
+ly, to the extent to which the payments were made by way of 1975-1976.
+                                                                      '-rJ
+recognition of past services, the past services so recognized were,  WALKER
+it seems, services which he gave to the group generally, as             V.
+                                                                    WIMBORNE.
+distinct from Asiatic in particular. Finally, there was no
+                                                                     Mason J.
+resolution of the directors of Asiatic authorizing the payments on
+the footing that he should be remunerated for past services.
+   However, I am not inclined to disagree with the conclusion
+reached by the judge on this issue. His Honour made two
+findings of fact which are relevant to the question. They were:
+      "The facts in this instance contained no element of unfair
+    or unjust enrichment of Mr. A. B. Wimborne, nor, other than
+    in an indirect sense, of any financial advantage to the
+    directors who are charged with the misfeasance. The
+    payments originated at a point of time long before the
+    winding up became imminent, and at a point of time when it
+    may be assumed that the company was regarded as having
+    satisfactory prospects."
+   The payment of a pension to a retired director may be
+reasonably incidental to the carrying on of the business of a
+company. It is implicit on his Honour's findings that the
+payments were made bona fide and with a view to advancing the
+interests of Asiatic. Although the payments were not authorized
+by a resolution of the directors, it is not disputed that the decision
+to make the payments fell within R. J. Wimborne's authority as
+governing director and that had the approval of the other
+directors. Moreover, there was evidence that A. B. Wimborne
+took some part in the company's business in the years in question
+and that he promoted its goodwill. Accordingly, I would dismiss
+the appeal in so far as it relates to these payments.
+   In the result I would allow the appeal to the extent to which it
+relates to the payments made to Australian Sound, Starkstrom
+and the payments totalling $17,960 for wages and salaries. In
+relation to the first and second claims I would order the
+respondents to pay to the applicant such loss as Asiatic may
+have sustained in consequence of their misfeasance, the amount
+of that loss to be ascertained by the Supreme Court. In relation
+to the third claim, that which relates to the payments totalling
+$17,960, I would order the respondents to pay that sum to the
+liquidator. Otherwise I would dismiss the appeal.
+  JACOBS J. In my opinion the conclusion of the judge at first
+instance except in relation to the sum of $17,960.93 should not be
+disturbed, I find nothing to suggest that he did not apply the
+correct principles although he did not find it necessary to set
+them out. It was a matter of applying established principles to
+14                                                 HIGH COURT                  [1975-1976.
+
+H. C. OF A.      the facts. The matter on appeal has become confused because
+ 1975-1976.      the stricture passed by the judge on the method in which the
+   L..,-J
+     WALKER      company's business was carried on by its directors and the
+        v.       method of keeping its books have been confused by the appel-
+WIMBORNE.
+                 lant with the findings made by the judge on the questions in
+     Jacobs J.
+                 issue. I have no doubt that the judge kept the two questions
+                 distinct in his mind but in a case where such strictures do not
+                 either determine the issues or form part of the reasoning leading
+                 to their determination it may, with respect, be doubted whether
+                 the expression of such views, however useful they may be
+                 thought to be for directors and company managers generally,
+                 are apposite. They can confuse, as it seems to me they have
+                 in the present case.
+                    The basis of the appellant's submissions has been that these
+                 strictures expressed by the judge showed that a prima facie case
+                 of misfeasance existed and that his Honour erred in not drawing
+                 the correct inference from the facts so found by him. However, it
+                 seems to me that a prima facie case is just what his Honour did
+                 not find. The appellant was bound to establish in accordance
+                 with the allegations in the pleadings that the payments were not
+                 made bona fide in the interests of the company and were a
+                 misapplication of the company's funds. Section 367B (replacing
+                 s. 305) of the Companies Act, 1961 (N.S.W.) "does not create any
+                 new liability or new right; it only provides a summary mode of
+                 enforcing rights, including rights created by the winding up,
+                 which must otherwise have been enforced by the court's ordinary
+                 jurisdiction": Halsbury's Laws of England, 4th ed., vol. 7, par.
+                 1196. The scope and effect of the section were stated by Maugham
+                 J. in In re Etic Ltd. (17) in words approved by Dixon J. in Couve v.
+                 J. Pierre Couve Ltd. (in liq.) (18):
+                        "The conclusion at which I have arrived is that s_ 215" (i_e.
+                     s. 162 of the New South Wales Act) "is not applicable to all
+                     cases in which the company has a right of action against an
+                     officer of the company. It is limited to cases where there has
+                     been something in the nature of a breach of duty by an officer
+                     of the company as such which has caused pecuniary loss to
+                     the company. Breach of duty of course would include a
+                     misfeasance or a breach of trust in the stricter sense, and the
+                     section will apply to a true case of misapplication of money or
+                     property of the company. or a case where there has been
+                     retention of money or property which the officer was bound to
+                     have paid or returned to the company."
+                   The Court must therefore be satisfied that the officer was in
+                 breach of a fiduciary duty or "something in the nature" thereof
+
+                  (17) [1928] Ch. 861, at p.875.           (18) (1933) 49 C.L.R 486, at p.495.
+137 C.L.R.]             OF AUSTRALIA.                                          15
+
+for which he is accountable in a court applying principles of         H. C. OF A.
+                                                                      1975-1976.
+Equity. That is what must be meant by "beach of duty" in the
+                                                                         ~
+context of the passage which I have quoted.                            WALKER
+                                                                          V.
+   The misfeasances charged were as follows:                          WIMBORNE.
+   (1) That a payment of $10,000 made by the company to an
+                                                                       Jacobs J.
+associated company, Australian Sound and Communications
+Pty. Ltd., on 14th December 1967, was not made bona fide in the
+interests of the company, and was a misapplication of the
+company's funds.
+    (2) That a payment of $40,523.82 made by the company to
+ another associated company, Starkstrom Control Gear
+ (Australia) Pty. Ltd., in March 1967, was not made bona fide in
+the interests of the company and was a misapplication of the
+ company's funds.
+    (3) That a payment of an amount totalling $17,960.93 between
+ 18th March 1967, and 2nd January 1968, by the company
+ allegedly by way of salaries and wages was not made bona fide
+in the interests of the company, and was a misapplication of the
+ company's funds.
+    (4) That payments of $15,400 by the company purportedly by
+ way of wages to A. B. Wimborne between 1961 and 1966 were not
+ made bona fide in the interests of the company and were a
+ misapplication of the company's funds.
+    The evidence was lengthy. It consisted in part of oral evidence
+ and in part of documentary evidence including the notes of the
+ examination of the respondents under s. 250 of the Companies
+Act, 1961 (N.S.W.). These notes were admissible under s. 250 (7)
+(c) in any legal proceedings against the respondents. The
+paragraph makes them admissible for or against the respondents
+in such legal proceedings. If it did not, it would be an
+unnecessary provision. There is no substance in grounds A (2)
+ and A (3) of the notice of appeal.
+(1) The payment of $10,000.
+   The payment was made to Australian Sound and Com-
+munications Pty. Ltd. This was a company which worked in
+conjunction with Asiatic Electric Co. Pty. Ltd., the company in
+liquidation. The exact relationship does not appear but it was so
+close that work was done by employees of the one company in
+perfonnance of the contracts of the other company and ad-
+justments to take account thereof would be regularly made in the
+books of both companies. In 1964, it was arranged that a third
+associated company, Estoril Pty. Ltd., would have an equitable
+charge over the assets of Asiatic and, it would appear, the other
+companies working in association, the purpose being that Estoril
+16                                        HIGH COURT                    [1975-1976.
+
+H. C. OF A.      would hold security for all the inter-company debts. The
+ 1975-1976.
+      ',-J       association between the various companies was a business
+     WALKER      association and there was no evidence that its purpose was not
+        V.
+WIMBORNE.
+                 one thought to be for the benefit of all the companies. This
+     Jacobs J.
+                 being so, for present purpose~ it is of no consequence that the
+                 various companies were not organized as subsidiaries of one of
+                 them or were not otherwise in a legally interlocking structure.
+                   The payment of $10,000 was made very shortly before the
+                 presentation of the petition for winding up. At the time
+                 Australian Sound and Communications Pty. Ltd. was not in a
+                 financially stable position but it was carrying on its
+                 business. The money to make the payment came from Estoril
+                 Pty. Ltd. with the result that the secured indebtedness of Estoril
+                 Pty. Ltd. was increased by that amount. It is not possible to
+                 isolate one aspect of the transaction. What D. J. Wimborne did
+                 was to pay to Australian Sound and Communications Pty. Ltd.
+                 the $10,000 which Asiatic Electric Co. Pty. Ltd. had received for
+                 the purpose, it can only be inferred from the evidence, of so
+                 doing. Street C.J. in Eq. was satisfied that Australian Sound
+                 and Communications Pty. Ltd. needed the money to complete a
+                 legitimate business transaction upon which it was then
+                 engaged. In these circumstances Street C.J. in Eq. said:
+                        "I am not able to conclude from an evaluation of the whole
+                     of the evidence that the liquidator has made good his
+                     challenge that this payment was a misfeasance so as to
+                     require the director responsible for it, Mr. D. J. Wimborne, to
+                     make good to the company the amount involved."
+                 In my opinion this conclusion was open and cannot be dis-
+                 turbed on appeal. Before a different conclusion could be reached
+                 it would be necessary to be satisfied that the purpose of the
+                 transaction was to increase the security of Estoril Pty. Ltd.
+                 over the assets of Asiatic Electric Co. Pty. Ltd. at the expense of
+                 unsecured creditors. In my opinion the judge was entitled on the
+                 evidence not to be so satisfied.
+                 (2) The $40,523.82 to Starkstrom Control Gear (Australia) Pty.
+                 Ltd.
+                    Street C.J. in Eq. expressed his conclusion on this claim as
+                 follows:
+                        "This transaction, also, went through the company's bank
+                      account and was associated with credits coming in from
+                      elsewhere, resulting in no signficant change in the ultimate
+                      balance of the account. In fact on 10th March 1967 the bank
+                      account was in credit $368.29. At the close of business on
+                      17th March 1967 after all the credits and debits had been
+137 C.L.R.]            OF AUSTRALIA.                                       17
+
+   entered, (that is to say, after the debit of $40,523.82), the H. C. OF A.
+   account was in credit $848.36.                                  1975-1976.
+                                                                     L.y-'
+      Of the total sum of $40,523.82, $40,110.70 was referable to WALKER
+   consultancy fees associated with the electrical installation at     v.
+   the Chevron Hotel for Chevron Sydney Ltd. in about the year WIMBORNE.
+   1960. It is not necessary to advert separately to the balance    Jacobs J.
+   of $413.12.
+     The evidence establishes that Chevron Sydney Ltd.
+   acknowledged a liability for consultancy fees in the sum of
+   $40,110.70. This acknowledgment was in fact made to the
+   company. It is claimed, however, on behalf of the respon-
+   dents, that the cousultancy work was not performed by the
+   company. The actual work was done by Mr. R. J. Wimborne
+   and others engaged by him. There is no evidence which
+   would establish that any of such other persons was acting as
+   an employee of the company in carrying out any of the
+   activities of the consultancy work. This also extends to Mr.
+   R. J. Wimborne himself. It was the respondents' case that
+   the consultancy work was in fact carried out by Starkstrom
+   Control Gear (Australia) Pty. Ltd. This claim encountered
+   difficulties by reason of the point of time at which Starkstrom
+   Control Gear (Australia) Pty. Ltd. was incorporated. It
+   appeared that this company was not incorporated until the
+   consultancy work was already well advanced. The suspicion
+   engendered by the foundering of this contention on the part
+   of the respondents needs no elaboration. But suspicion will
+   not take the place of evidence. I have grave misgivings
+   regarding the precise form of the inter-company rights and
+   liabilities in connexion with the consultancy work on the
+   Chevron Hotel project, and it is at least possible that the
+   whole matter was left in an amorphous state by reason, no
+   doubt, of the uncertainties and difficulties created by the
+   insolvency of Chevron Sydney Ltd. There may have been no
+   clear arrangement whatever made back in 1960. On the
+   other hand, there may at some stage have been such an
+   arrangement as was claimed by Mr. R. J. Wimborne, namely
+   that Starkstrom Control Gear (Australia) Pty. Ltd. would
+   perform the consultancy work for the group, and it would nbt
+   be inconsistent with such an arrangement for Starkstrom
+   Control Gear (Australia) Pty. Ltd. to have succeeded to
+    whatever contractual rights Mr. R. J. Wimborne personally
+    might have had for consultancy services prior to the
+   incorporation of Starkstrom Control Gear (Australia) Pty.
+    Ltd.
+     I find it impossible to determine judicially where the truth
+   ultimately lies in connection with the consultancy work. The
+   narrative is shrouded in the past, and obscured by what I
+   again call the irresponsibility with which the internal deal-
+   ings between the companies in this group were managed.
+   I am, however, prepared to accept the assertion made on
+   behalf of the respondents that the lateness of adjustment of
+   the consultancy fees (1967) as against work done over five
+18                                     HIGH COURT                    [1975-1976_
+
+H. C. OF A.       years previously is explicable by reason of the non-payment
+ 1975-1976.       by Chevron Sydney Ltd. of the large debt owed by it in
+      ~           respect of the electrical installation work as well as the con-
+     WALKER
+       v.         sultancy work.
+WIMBORNE.            Without giving undue weight to elements of suspicion, I
+ Jacobs J.
+                  have weighed such evidence as the liquidator has been able
+                  to adduce, with due regard to what is called the scintilla
+                  doctrine. But, even after adding to the scales on the
+                  liquidator's side every item which could count against the
+                  respondents on this aspect of the claim, I find myself
+                  insufficiently satisfied to make a judicial finding that the
+                  transfers of these funds amounted to a misfeasance."
+                 I find myself unable to determine that this conclusion is
+              wrong. There was evidence that all the moneys to make the
+              payments came from Estoril Pty. Ltd., and that there was a
+              "round robin" of cheques. There was, as the judge found, no
+              significant change in the ultimate funds of Asiatic Electric Co.
+              Pty. Ltd. Moneys which came in were paid out for the purpose
+              for which they were received. This in itself cannot be a misappli-
+              cation of funds. If thereby Estoril Pty. Ltd. obtained security for
+              the amounts paid to Asiatic Electric Co. Pty. Ltd. (contrary to
+              evidence that Estoril Pty. Ltd. received Chevron debentures in
+              consideration for its payments) then it would have needed to be
+              proved that the purpose of the transactions was to give that
+              security. There was no such proof. Further, if there was no
+              consideration for the crediting of Starkstrom Control Gear
+              (Australia) Pty. Ltd. with the sum in question then the existing
+              indebtedness of Starkstrom Control Gear (Australia) Pty. Ltd.
+              to Asiatic Electric Co. Pty. Ltd. was not reduced. But it is not
+              possible to segregate a part of the whole sequence of events and
+              charge the respondents with a misapplication of funds in the sum
+              claimed.
+              (3) The payment of $17,960.93 between 18th March 1967 and 2nd
+              January 1968.
+                 I agree that the appeal should be allowed in respect of this
+              sum. Street C.J. in Eq. was not satisfied of the complicity of the
+              respondents in the transfer of the employees to the payroll of
+              Asiatic Electric Co. Pty. Ltd. and the subsequent payment of
+              wages to them. I am of the opinion that there was evidence
+              which ought so to have satisfied him for the reasons expressed by
+              Mason J.
+              (4) The payments of $15,400 to A. B. Wimborne between 1961
+              and 1966.
+                 I agree that the appeal should be dismissed in respect of this
+              sum for the reasons expressed by Mason J.
+137 C.L.R.]            OF AUSTRALIA.                                         19
+
+              1. Appeal allowed in part. Order of the Supreme       H. C. OF A.
+                   Court of New South Wales varied by inser-        1975-1976.
+                                                                       '-y---J
+                   ting:                                             WALKER
+                   (a) An order that the respondents Raymond            v.
+                                                                    WIMBORNE.
+                       Joseph Wimborne and David John Wim-
+                       borne pay to the applicant the amount of
+                       the loss sustained by Asiatic Electric Co.
+                       Pty. Ltd. as a result of the payment on
+                       14th December 1967 of $10,000 by Asiatic
+                       Electric Co. Pty. Ltd. to Australian Sound
+                       and Communications Pty. Ltd.
+                   (b) An order that the respondents Raymond
+                       Joseph Wimborne and David John Wim-
+                       borne pay to the applicant the amount of
+                       the loss sustained by Asiatic Electric Co.
+                       Pty. Ltd. as a result of the payment on
+                       14th and 15th March 1967 of $40,523.82 by
+                       Asiatic Electric Co. Pty. Ltd. to Stark-
+                       strom Control Gear (Australia) Pty. Ltd.
+                  (c) An order that the respondents Raymond
+                       Joseph Wimborne and David John Wim-
+                       borne pay to the applicant the sum of
+                       $17,960.93 which was paid by Asiatic
+                       Electric Co. Pty. Ltd. by way of wages and
+                       salaries between 18th March 1967 and 2nd
+                       January 1968.
+              2. The matter to be remitted to the Supreme Court
+                  of New South Wales for assessment of the
+                  amount of the losses referred to in (a) and (b)
+                  above.
+              3. Appeal otherwise dismissed.
+              4. The respondents Raymond Joseph Wimborne
+                  and David John Wimborne to pay one half the
+                  costs of the applicant 'Jf the appeal.
+
+ Solicitors for the appellant, Fisher & Macansh.
+ Solicitors for the respondents, H. N. Chippindall & Co.
+                                                     R.A.S.
+

@@ -1,0 +1,37 @@
+# Case Summary: Briggs v James Hardie & Co Pty Ltd (1989) 16 NSWLR 549
+
+## 1. Overview
+*   **Court:** NSW Court of Appeal (Hope, Meagher JJA; Rogers A-JA)
+*   **Context:** Application for extension of limitation period (s 58 *Limitation Act 1969*) by a plaintiff (Briggs) suffering from asbestosis.
+*   **Key Issue:** Whether there was sufficient evidence to establish a cause of action against the parent companies (James Hardie and Wunderlich) by "piercing the corporate veil" or through agency, despite the plaintiff being employed by the subsidiary (Asbestos Mines Pty Ltd).
+
+## 2. Key Legal Principles & Findings
+
+### A. Piercing the Corporate Veil: Tort vs. Contract
+The most significant contribution of this case (specifically the judgment of **Rogers A-JA**) is the discussion on the different policy considerations for piercing the veil in tort versus contract:
+
+*   **Contract (Voluntary):** Parties choose to deal with a specific entity. They can perform due diligence (check capital, insurance, etc.) and choose not to contract with an undercapitalized subsidiary.
+*   **Tort (Involuntary):** A tort victim (e.g., a pedestrian or an employee exposed to asbestos) has no choice in the selection of the tortfeasor. 
+*   **Significance:** Rogers A-JA suggested that the law should be more willing to pierce the veil in tort cases because the victim never "elected" to take the risk of the subsidiary's insolvency.
+
+### B. Control and Dominance
+*   The court reaffirmed that **mere "complete dominion and control"** by a parent company over a subsidiary is **insufficient** to pierce the veil (following *Salomon*, *Industrial Equity v Blackburn*, and *Walker v Wimborne*).
+*   Commercial reality (that parents usually control subsidiaries) does not override the legal reality of separate entities.
+
+### C. Agency
+*   To establish liability via agency, it must be shown that the subsidiary was a "mere cypher" or "conduit."
+*   **Meagher JA** noted that evidence of the subsidiary making its own profits and selling products to the parent effectively negatived an agency relationship.
+
+## 3. Ratio Decidendi (The Holding)
+1.  **Limitation Act Standard:** For an extension of time, the plaintiff only needs to show that evidence *exists* which *might* establish a cause of action; they do not need to prove the case at this stage.
+2.  **Uncertainty as a Basis for Leave:** Because the law on piercing the corporate veil is "in a state of flux" and uncertain, it is possible that a parent could be held liable at trial. Therefore, the plaintiff should be allowed to proceed to discovery to uncover the full nature of the parent-subsidiary relationship.
+3.  **Result:** The Court (Meagher JA dissenting) granted the extension of time, allowing the claim against the parent companies to proceed to trial.
+
+## 4. Legal Significance for Exams
+*   **The "State of Flux":** This case is the primary Australian authority for the proposition that there is **no settled principle** for when a court will pierce the corporate veil.
+*   **Critique of Salomon:** It highlights the "unreality and formalism" of the *Salomon* principle in modern corporate groups.
+*   **Tort Exception:** Often cited for the *potential* (though not yet fully realized in Australia) for a different, more liberal test for piercing the veil in tort cases compared to contract cases.
+*   **Practical Tip:** Use this case to argue that the law is unsettled and that "control" alone is not enough, but that policy reasons (especially in tort) might justify looking behind the veil.
+
+---
+**Model Used:** gemini-3-flash-preview (via Cursor Agent)

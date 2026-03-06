@@ -1,4 +1,13 @@
-
+---
+tags:
+  - 'company law history'
+  - 'incorporation by registration'
+  - 'limited liability'
+  - 'salomon principle'
+  - 'public vs private companies'
+  - 'uniform companies acts'
+  - 'commonwealth constitutional power'
+---
 > [!important] Core Exam Themes
 > Four **perennial tensions** in corporate law · Historical evolution of the corporation · Constitutional basis of the Corporations Act 2001 · The **referral of powers** scheme · ASIC's role · The **civil penalty regime** · Statutory interpretation of the Act
 
@@ -9,12 +18,12 @@
 > [!TIP] Exam relevance
 > These four tensions are a **conceptual framework** that recurs throughout the entire course. Examiners expect you to identify which tension a given issue engages.
 
-| # | Tension | Central Question | Examples |
-|---|---------|-----------------|----------|
-| **1** | **Group vs Individual** | To what extent should the law recognise *corporations* (rather than individuals) as bearers of rights, obligations & liabilities? | Should members limit their liability? Can a group hold property / sue independently of members? |
-| **2** | **Management vs Ownership** | How should the law address the separation of ownership (members) from control (directors/officers)? | Minority shareholder protection; director accountability; agency costs |
-| **3** | **Facilitation vs Intervention** | Should government regulation of corporations be minimal (facilitative) or active (interventionist)? | Laissez-faire philosophy of the 1856 Act vs mandatory disclosure rules post-Depression |
-| **4** | **Private vs Public** | Are corporations essentially *private associations* for private profit, or do they owe their existence to the state and carry *public responsibilities*? | CSR debates; chartered companies' public purpose vs deed of settlement companies' private purpose |
+| #     | Tension                          | Central Question                                                                                                                                         | Examples                                                                                          |
+| ----- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| **1** | **Group vs Individual**          | To what extent should the law recognise *corporations* (rather than individuals) as bearers of rights, obligations & liabilities?                        | Should members limit their liability? Can a group hold property / sue independently of members?   |
+| **2** | **Management vs Ownership**      | How should the law address the separation of ownership (members) from control (directors/officers)?                                                      | Minority shareholder protection; director accountability; agency costs                            |
+| **3** | **Facilitation vs Intervention** | Should government regulation of corporations be minimal (facilitative) or active (interventionist)?                                                      | Laissez-faire philosophy of the 1856 Act vs mandatory disclosure rules post-Depression            |
+| **4** | **Private vs Public**            | Are corporations essentially *private associations* for private profit, or do they owe their existence to the state and carry *public responsibilities*? | CSR debates; chartered companies' public purpose vs deed of settlement companies' private purpose |
 
 > [!NOTE]
 > These tensions **overlap** — the answer to one shapes the answer to another. There is no permanent "right" answer; positions have oscillated in response to economic crises, political shifts, and changing social expectations.
@@ -213,19 +222,19 @@ Three exam-worthy points:
 
 The Act relies on **three sources** of Commonwealth power:
 
-| # | Source | Scope |
-|---|--------|-------|
-| 1 | **s 51 legislative powers** | General Commonwealth heads of power — but does **not** extend to registration/incorporation |
-| 2 | **s 122 (territories power)** | Ensures coverage in ACT and NT |
-| 3 | **s 51(xxxvii) — referral of powers from the states** | Supplies the authority the Commonwealth otherwise lacks (per *NSW v Commonwealth*) |
+| #   | Source                                                | Scope                                                                                       |
+| --- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| 1   | **s 51 legislative powers**                           | General Commonwealth heads of power — but does **not** extend to registration/incorporation |
+| 2   | **s 122 (territories power)**                         | Ensures coverage in ACT and NT                                                              |
+| 3   | **s 51(xxxvii) — referral of powers from the states** | Supplies the authority the Commonwealth otherwise lacks (per *NSW v Commonwealth*)          |
 
 ### 4.2 Referral of Powers (ss 4(4)–(5))
 
 Each referring state makes **two referrals**:
 
-| Referral | Purpose |
-|----------|---------|
-| **Initial reference** (s 4(4)) | Sufficient power to enact the original Corporations Act and ASIC Act |
+| Referral                         | Purpose                                                                                                            |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **Initial reference** (s 4(4))   | Sufficient power to enact the original Corporations Act and ASIC Act                                               |
 | **Amendment reference** (s 4(5)) | Power to make *express* amendments in relation to formation, corporate regulation, and financial products/services |
 
 - "Express amendment" = direct amendment to the Act; cannot indirectly legislate on other matters (s 4(9)).
@@ -384,11 +393,11 @@ ASIC applies to court for a **declaration of contravention** (s 1317J(1)). If gr
 
 Three modes of interaction between the Act and the general law:
 
-| Mode | Description | Example |
-|------|-------------|---------|
-| **1. Act replaces general law** | Statute expressly abolishes pre-existing common law/equity rules | **s 236(3)** — abolishes the right to bring a shareholder derivative action at general law (pt 2F.1A) |
-| **2. Act draws on general law** | Statute incorporates/modifies general law rules; question is how far Parliament intended to depart | **ss 128–129** — assumptions in corporate contracting, understood by reference to established case law |
-| **3. Act and general law operate side by side** | Statutory provisions enforceable by ASIC; general law doctrines provide separate causes of action | **pt 2D.1** — directors' duties: statutory duties + general law fiduciary/care obligations |
+| Mode                                            | Description                                                                                        | Example                                                                                                |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **1. Act replaces general law**                 | Statute expressly abolishes pre-existing common law/equity rules                                   | **s 236(3)** — abolishes the right to bring a shareholder derivative action at general law (pt 2F.1A)  |
+| **2. Act draws on general law**                 | Statute incorporates/modifies general law rules; question is how far Parliament intended to depart | **ss 128–129** — assumptions in corporate contracting, understood by reference to established case law |
+| **3. Act and general law operate side by side** | Statutory provisions enforceable by ASIC; general law doctrines provide separate causes of action  | **pt 2D.1** — directors' duties: statutory duties + general law fiduciary/care obligations             |
 
 ---
 
@@ -400,7 +409,7 @@ Three modes of interaction between the Act and the general law:
 1. **Insiders**: rights, duties and liabilities of **members** and **directors**.
 2. **Outsiders**: relations between the company and **creditors**, contracting parties, and **regulators**.
 
-Corporate law does **not** directly address the role of corporations as: employers, taxpayers, or environmental actors. Whether this demarcation is defensible is a recurring exam theme.
+Corporate law does **not** directly address the role of corporations as: employers, taxpayers, or environmental actors. *Whether this demarcation is defensible is a recurring exam theme.*
 
 ---
 
@@ -416,27 +425,27 @@ Corporate law does **not** directly address the role of corporations as: employe
 
 ### Key Legislation
 
-| Legislation | Significance |
-|-------------|-------------|
-| **Bubble Act 1720** | First company legislation; outlawed unincorporated joint stock companies with transferable shares |
-| **Joint Stock Companies Act 1844** | Introduced incorporation by registration + mandatory financial disclosure |
-| **1855 Amendment** | Limited liability became an entitlement on incorporation |
-| **Joint Stock Companies Act 1856** | Memorandum & Articles of Association; minimum 7 members; freedom of contract philosophy |
-| **Companies Act 1862** | Company recognised as distinct from members; model for first Australian statutes |
-| **Companies (Mining) Act 1871 (Vic)** | No-liability companies — first Australian departure from English precedent |
-| **Companies Act 1896 (Vic)** | Mandatory accounting/auditing; created the proprietary company category |
-| **Corporations Act 2001 (Cth)** | Current national legislation — relies on referral of powers from states |
+| Legislation                           | Significance                                                                                      |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| **Bubble Act 1720**                   | First company legislation; outlawed unincorporated joint stock companies with transferable shares |
+| **Joint Stock Companies Act 1844**    | Introduced incorporation by registration + mandatory financial disclosure                         |
+| **1855 Amendment**                    | Limited liability became an entitlement on incorporation                                          |
+| **Joint Stock Companies Act 1856**    | Memorandum & Articles of Association; minimum 7 members; freedom of contract philosophy           |
+| **Companies Act 1862**                | Company recognised as distinct from members; model for first Australian statutes                  |
+| **Companies (Mining) Act 1871 (Vic)** | No-liability companies — first Australian departure from English precedent                        |
+| **Companies Act 1896 (Vic)**          | Mandatory accounting/auditing; created the proprietary company category                           |
+| **Corporations Act 2001 (Cth)**       | Current national legislation — relies on referral of powers from states                           |
 
 ### Key Cases
 
-| Case | Principle |
-|------|-----------|
-| **Huddart, Parker & Co Ltd v Moorehead** (1909) | Commonwealth under s 51(xx) confined to *existing* corporations — cannot legislate for incorporation |
-| **Strickland v Rocla Concrete Pipes Ltd** (1971) | Overruled Huddart Parker's reserved powers doctrine; reopened door for federal legislation |
-| **NSW v Commonwealth** (1990) ("Incorporation Case") | Commonwealth has **no power** under s 51(xx) to incorporate companies. 6:1 majority (Deane J dissent) |
-| **Re Wakim** (1999) | Cross-vesting of state jurisdiction to Federal Court under ss 75–77 Constitution held **invalid** |
-| **R v Hughes** (2000) | Doubts about Commonwealth officers exercising powers conferred by state law; prompted current referral scheme |
-| **Bond Corp v Grace Brothers** | ASIC regulatory guides are "proper to be considered" but **cannot bind** a judge |
+| Case                                                 | Principle                                                                                                     |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **Huddart, Parker & Co Ltd v Moorehead** (1909)      | Commonwealth under s 51(xx) confined to *existing* corporations — cannot legislate for incorporation          |
+| **Strickland v Rocla Concrete Pipes Ltd** (1971)     | Overruled Huddart Parker's reserved powers doctrine; reopened door for federal legislation                    |
+| **NSW v Commonwealth** (1990) ("Incorporation Case") | Commonwealth has **no power** under s 51(xx) to incorporate companies. 6:1 majority (Deane J dissent)         |
+| **Re Wakim** (1999)                                  | Cross-vesting of state jurisdiction to Federal Court under ss 75–77 Constitution held **invalid**             |
+| **R v Hughes** (2000)                                | Doubts about Commonwealth officers exercising powers conferred by state law; prompted current referral scheme |
+| **Bond Corp v Grace Brothers**                       | ASIC regulatory guides are "proper to be considered" but **cannot bind** a judge                              |
 
 ---
 
@@ -452,8 +461,11 @@ timeline
     1844 : Joint Stock Companies Act — incorporation by registration + mandatory financial disclosure
     1855 : Amendment — limited liability on incorporation
     1856 : Memorandum & Articles; freedom of contract philosophy; min 7 members
-    1862 : Companies Act — company now legally distinct from members; model for Australian colonies
+	1862 : Companies Act — company now legally distinct from members; model for Australian colonies
     1871 : No-liability companies (Vic) — Australian departure from English precedent
+```
+```mermaid
+timeline
     1896 : Companies Act (Vic) — mandatory auditing; proprietary company created
     1909 : Huddart Parker — Commonwealth cannot incorporate under s 51(xx)
     1961–62 : Uniform Companies Acts (all states/territories)

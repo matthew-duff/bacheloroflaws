@@ -1,12 +1,49 @@
 # Reading Guide to Lecture 4: Internal Structures and Operations
 
+| Source                                                                                                                                | Link                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bottomley, ch 5                                                                                                                       | [Contemporary Australian Corporate Law – catalogue entry](https://catalogue.nla.gov.au/catalog/8550808)                                                                     |
+| Harris, ch 6                                                                                                                          | [Harris, *Company Law: Theories, Principles and Applications* – catalogue entry](https://catalogue.nla.gov.au/catalog/5784201)                                              |
+| *Bailey v New South Wales Medical Defence Union Ltd* (1995) 184 CLR 399                                                               | Not readily available open access – check CLR volumes or AustLII via library databases.                                                                                     |
+| *Australian Centre for Corporate Responsibility v Commonwealth Bank of Australia* [2016] FCAFC 80                                     | [Case overview – ACCR v CBA](https://climatecasechart.com/non-us-case/australasian-centre-for-corporate-responsibility-accr-v-commonwealth-bank-of-australia)               |
+| Grantham, *The Law and Practice of Corporate Governance* (2nd ed, 2022) ch 6                                                          | [LexisNexis – book landing page](https://store.lexisnexis.com/en-au/products/the-law-and-practice-of-corporate-governance-2nd-edition.html)                                 |
+| Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry, Final Report (2019) Vol 1, pp 347–67 | [Treasury – Final Report of the Royal Commission](https://treasury.gov.au/publication/p2019-fsrc-final-report)                                                              |
+| Harris, ‘The Corporate Constitution as a Statutory Contract: Artifice or Anachronism?’ (2020) 36 AJCL 25                              | [Sydney eScholarship Repository – article manuscript](https://ses.library.usyd.edu.au/handle/2123/32908)                                                                    |
+| *Hickman v Kent or Romney Marsh Sheepbreeders’ Association* [1915] 1 Ch 881                                                           | Not readily available open access – check Chancery reports via library databases.                                                                                           |
+| *Smolarek v Liwszyc* (2006) 32 WAR 101                                                                                                | Not readily available open access – check WAR reports via library databases.                                                                                                |
+| *Eley v Positive Government Security Life Assurance Co* [1875] 1 Ex D 20                                                              | [Wikipedia overview – *Eley v Positive Government Security Life Assurance Co Ltd*](https://en.wikipedia.org/wiki/Eley_v_Positive_Government_Security_Life_Assurance_Co_Ltd) |
+| *Marketing Advisory Services (MAS) v Football Tasmania Ltd* (2002) 42 ACSR 128                                                        | Not readily available open access – check ACSR reports via library databases.                                                                                               |
+| *Webb Distributors (Aust) Pty Ltd v Victoria* (1993) 179 CLR 15                                                                       | Not readily available open access – check CLR volumes or AustLII via library databases.                                                                                     |
+| *Shaw Stockbroking Ltd v Australian Stock Exchange Ltd* (1998) 26 ACSR 702                                                            | Not readily available open access – check ACSR reports via library databases.                                                                                               |
+| *Simon v HPM Industries Pty Ltd* (1989) 7 ACLC 770                                                                                    | Not readily available open access – check ACLC reports via library databases.                                                                                               |
+| *Houldsworth v City of Glasgow Bank* (1880) 5 App Cas 317                                                                             | Not readily available open access – check App Cas reports via library databases.                                                                                            |
+| *Dungowan Manly Pty Ltd v McLaughlin* (2012) 90 ACSR 62                                                                               | Not readily available open access – check ACSR reports via library databases.                                                                                               |
+| *Lion Nathan Australia Pty Ltd v Coopers Brewery Ltd* (2006) 156 FCR 1                                                                | Not readily available open access – check FCR reports or AustLII via library databases.                                                                                     |
+| *Gambotto v WCP Ltd* (1995) 182 CLR 432                                                                                               | [High Court of Australia – AustLII full text](https://austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/1995/12.html)                                                         |
+| *Isle of Wight Railway v Tahourdin* (1883) 25 ChD 320                                                                                 | Not readily available open access – check Chancery Division reports via library databases.                                                                                  |
+| *Marshall’s Valve Gear Co Ltd v Manning Wardle & Co Ltd* [1909] 1 Ch 267                                                              | Not readily available open access – check Chancery Division reports via library databases.                                                                                  |
+| *Thomas Logan Ltd v Davis* (1911) 104 LT 914                                                                                          | Not readily available open access – check LT reports via library databases.                                                                                                 |
+| *Dowse v Marks* (1913) 13 SR (NSW) 332                                                                                                | Not readily available open access – check SR (NSW) reports via library databases.                                                                                           |
+| *Automatic Self-Cleansing Filter Syndicate Co Ltd v Cunninghame* [1906] 2 Ch 34                                                       | Not readily available open access – check Chancery Division reports via library databases.                                                                                  |
+| *Gramophone and Typewriter Ltd v Stanley* [1908] 2 KB 89                                                                              | [Uniset – case report](https://www.uniset.ca/other/cs3/19082KB89.html)                                                                                                      |
+| *Salmon v Quin & Axtens Ltd* [1909] 1 Ch 311; [1909] AC 442                                                                           | Not readily available open access – check Chancery and AC reports via library databases.                                                                                    |
+| *John Shaw & Sons (Salford) Ltd v Shaw* [1935] 2 KB 113                                                                               | Not readily available open access – check KB reports via library databases.                                                                                                 |
+| Goldberg, ‘Articles 80 of Table A of the Companies Act 1948’ (1970) 33 MLR 177                                                        | Not readily available open access – check MLR via library databases.                                                                                                        |
+| Sullivan, ‘The Relationship between the Board of Directors and the General Meeting in Limited Companies’ (1977) 93 LQR 569            | Not readily available open access – check LQR via library databases.                                                                                                        |
+| *Winthrop Investments Ltd v Winns Ltd* [1975] 2 NSWLR 666 (CA)                                                                        | Not readily available open access – check NSWLR reports via library databases.                                                                                              |
+| *National Roads & Motorists’ Association v Parker* (1986) 6 NSWLR 517                                                                 | Not readily available open access – check NSWLR reports via library databases.                                                                                              |
+| Bottomley, ‘Rethinking the Law on Shareholder-Initiated Resolutions at Company General Meetings’ (2019) 43 MULR 93                    | Not readily available open access – check Melbourne University Law Review via library databases.                                                                            |
+| *Barron v Potter* [1914] 1 Ch 895                                                                                                     | Not readily available open access – check Chancery Division reports via library databases.                                                                                  |
+| *Alexander v Samyang* [1975] 1 WLR 673 (HL Sc)                                                                                        | Not readily available open access – check WLR reports via library databases.                                                                                                |
+| *Foster v Foster* [1916] 1 Ch 532                                                                                                     | Not readily available open access – check Chancery Division reports via library databases.                                                                                  |
+| *Massey v Wales* (2003) 47 ACSR 1                                                                                                     | Not readily available open access – check ACSR reports via library databases.                                                                                               |
+| *AWA Ltd v Daniels (trading as Deloitte Haskins & Sells)* (1992) 7 ACSR 759                                                           | [Case summary – *Daniels v Anderson* (AWA case)](https://casejudgments.com/daniels-v-anderson-1995-redefining-directors-duty-in-australia/)                                 |
+| ASX Corporate Governance Council, *Corporate Governance Principles and Recommendations* (4th ed, 2019)                                | [ASX – Corporate Governance Principles and Recommendations (4th ed)](https://www.asx.com.au/documents/regulation/cgc-principles-and-recommendations-fourth-edn.pdf)         |
+| *ASIC v Rich* [2003] NSWSC 85                                                                                                         | [AustLII – *ASIC v Rich* (subsequent judgment)](https://www8.austlii.edu.au/cgi-bin/viewdoc/au/cases/nsw/NSWSC/2009/1229.html)                                              |
+
 ## Required Reading
 
-Bottomley, ch 5 OR Harris, ch 6
-
-Bailey v New South Wales Medical Defence Union Ltd (1995) 184 CLR 399
-
-Australian Centre for Corporate Responsibility v Commonwealth Bank of Australia [2016] FCAFC 80
+Bottomley, ch 5 OR Harris, ch 6 Bailey v New South Wales Medical Defence Union Ltd (1995) 184 CLR 399 Australian Centre for Corporate Responsibility v Commonwealth Bank of Australia [2016] FCAFC 80
 
 ## Key Instruments
 
@@ -14,86 +51,24 @@ Australian Centre for Corporate Responsibility v Commonwealth Bank of Australia
 
 ### General
 
-Grantham, The Law and Practice of Corporate Governance (2nd ed, LexisNexis, 2022) ch 6
-
-Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry, Final Report Canberra, 2019, Vol 1, pp 347-67
+Grantham, The Law and Practice of Corporate Governance (2nd ed, LexisNexis, 2022) ch 6 Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry, Final Report Canberra, 2019, Vol 1, pp 347-67
 
 ### Internal Governance Rules
 
-Harris, ‘The Corporate Constitution as a Statutory Contract: Artifice or Anachronism?’ (2020) 36 Australian Journal of Corporate Law 25
-
-Hickman v Kent or Romney Marsh Sheepbreeders’ Association [1915] 1 Ch 881
-
-Smolarek v Liwszyc (2006) 32 WAR 101
-
-Eley v Positive Government Security Life Assurance Co [1875] 1 Ex D 20
-
-Bailey v New South Wales Medical Defence Union Ltd (1995) 184 CLR 399
-
-Marketing Advisory Services (MAS) v Football Tasmania Ltd (2002) 42 ACSR 128
-
-Webb Distributors (Aust) Pty Ltd v Victoria (1993) 179 CLR 15
-
-Shaw Stockbroking Ltd v Australian Stock Exchange Ltd (1998) 26 ACSR 702 at 716 (injunction)
-
-Simon v HPM Industries Pty Ltd (1989) 7 ACLC 770, 778 (rectification)
-
-Houldsworth v City of Glasgow Bank (1880) 5 App Cas 317; Dungowan Manly Pty Ltd v McLaughlin (2012) 90 ACSR 62 (damages)
-
-Lion Nathan Australia Pty Ltd v Coopers Brewery Ltd (2006) 156 FCR 1 (interpretation)
-
-Gambotto v WCP Ltd (1995) 182 CLR 432 (alteration)
+Harris, ‘The Corporate Constitution as a Statutory Contract: Artifice or Anachronism?’ (2020) 36 Australian Journal of Corporate Law 25 Hickman v Kent or Romney Marsh Sheepbreeders’ Association [1915] 1 Ch 881 Smolarek v Liwszyc (2006) 32 WAR 101 Eley v Positive Government Security Life Assurance Co [1875] 1 Ex D 20 Bailey v New South Wales Medical Defence Union Ltd (1995) 184 CLR 399 Marketing Advisory Services (MAS) v Football Tasmania Ltd (2002) 42 ACSR 128 Webb Distributors (Aust) Pty Ltd v Victoria (1993) 179 CLR 15 Shaw Stockbroking Ltd v Australian Stock Exchange Ltd (1998) 26 ACSR 702 at 716 (injunction) Simon v HPM Industries Pty Ltd (1989) 7 ACLC 770, 778 (rectification) Houldsworth v City of Glasgow Bank (1880) 5 App Cas 317; Dungowan Manly Pty Ltd v McLaughlin (2012) 90 ACSR 62 (damages) Lion Nathan Australia Pty Ltd v Coopers Brewery Ltd (2006) 156 FCR 1 (interpretation) Gambotto v WCP Ltd (1995) 182 CLR 432 (alteration)
 
 ### Allocation of Control Rights
 
-Isle of Wight Railway v Tahourdin (1883) 25 ChD 320 (CA)
-
-Marshall’s Valve Gear Co Ltd v Manning Wardle & Co Ltd [1909] 1 Ch 267 at 274
-
-Thomas Logan Ltd v Davis (1911) 104 LT 914
-
-Dowse v Marks (1913) 13 SR (NSW) 332
-
-Automatic Self-Cleansing Filter Syndicate Co Ltd v Cunninghame [1906] 2 Ch 34
-
-Gramophone and Typewriter Ltd v Stanley [1908] 2 KB 89
-
-Salmon v Quin & Axtens Ltd [1909] 1 Ch 311 (CA); aff’d [1909] AC 442
-
-John Shaw & Sons (Salford) Ltd v Shaw [1935] 2 KB 113
-
-Goldberg, ‘Articles 80 of Table A of the Companies Act 1948’ (1970) 33 MLR 177
-
-Sullivan, ‘The Relationship between the Board of Directors and the General Meeting in Limited Companies’ (1977) 93 LQR 569
-
-Winthrop Investments Ltd v Winns Ltd [1975] 2 NSWLR 666 (CA)
-
-National Roads & Motorists’ Association v Parker (1986) 6 NSWLR 517
-
-Australian Centre for Corporate Responsibility v Commonwealth Bank of Australia [2016] FCAFC 80
-
-Bottomley, ‘Rethinking the Law on Shareholder-Initiated Resolutions at Company General Meetings’ (2019) 43 Melbourne ULR 93
+Isle of Wight Railway v Tahourdin (1883) 25 ChD 320 (CA) Marshall’s Valve Gear Co Ltd v Manning Wardle & Co Ltd [1909] 1 Ch 267 at 274 Thomas Logan Ltd v Davis (1911) 104 LT 914 Dowse v Marks (1913) 13 SR (NSW) 332 Automatic Self-Cleansing Filter Syndicate Co Ltd v Cunninghame [1906] 2 Ch 34 Gramophone and Typewriter Ltd v Stanley [1908] 2 KB 89 Salmon v Quin & Axtens Ltd [1909] 1 Ch 311 (CA); aff’d [1909] AC 442 John Shaw & Sons (Salford) Ltd v Shaw [1935] 2 KB 113 Goldberg, ‘Articles 80 of Table A of the Companies Act 1948’ (1970) 33 MLR 177 Sullivan, ‘The Relationship between the Board of Directors and the General Meeting in Limited Companies’ (1977) 93 LQR 569 Winthrop Investments Ltd v Winns Ltd [1975] 2 NSWLR 666 (CA) National Roads & Motorists’ Association v Parker (1986) 6 NSWLR 517 Australian Centre for Corporate Responsibility v Commonwealth Bank of Australia [2016] FCAFC 80 Bottomley, ‘Rethinking the Law on Shareholder-Initiated Resolutions at Company General Meetings’ (2019) 43 Melbourne ULR 93
 
 ### Reserve powers
 
-Barron v Potter [1914] 1 Ch 895
-
-Alexander v Samyang [1975] 1 WLR 673 (HL Sc)
-
-Foster v Foster [1916] 1 Ch 532
-
-Massey v Wales (2003) 47 ACSR 1
+Barron v Potter [1914] 1 Ch 895 Alexander v Samyang [1975] 1 WLR 673 (HL Sc) Foster v Foster [1916] 1 Ch 532 Massey v Wales (2003) 47 ACSR 1
 
 ### The Board of Directors
 
-AWA Ltd v Daniels (trading as Deloitte Haskins & Sells) (1992) 7 ACSR 759 (NSWSC)
-
-ASX Corporate Governance Council, Corporate Governance Principles and Recommendations (4th ed, 2019)
-
-ASIC v Rich [2003] NSWSC 85
+AWA Ltd v Daniels (trading as Deloitte Haskins & Sells) (1992) 7 ACSR 759 (NSWSC) ASX Corporate Governance Council, Corporate Governance Principles and Recommendations (4th ed, 2019) ASIC v Rich [2003] NSWSC 85
 
 ### Shareholders in General Meeting
 
-National Roads & Motorists’ Association v Parker (1986) 6 NSWLR 517
-
-Australian Centre for Corporate Responsibility v Commonwealth Bank of Australia [2016] FCAFC 80
+National Roads & Motorists’ Association v Parker (1986) 6 NSWLR 517 Australian Centre for Corporate Responsibility v Commonwealth Bank of Australia [2016] FCAFC 80

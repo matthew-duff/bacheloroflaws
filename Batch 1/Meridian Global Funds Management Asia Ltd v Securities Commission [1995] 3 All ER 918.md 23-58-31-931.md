@@ -1,0 +1,613 @@
+918 All England Law Reports [1995] 3 AIlER
+
+Meridian Global Funds Management Asia Ltd v
+Securities Commission
+
+PRIVY COUNCIL
+
+LORD KEITH OF KINKEL, LORD JAUNCEY OF TULLICHETTLE, LORD MUSTILL, LORD LLOYD
+OF BERWICK AND LORD HOFFMANN
+
+9, 10 MAY, 26 JUNE 1995
+
+Company — Knowledge of company — Liability of company for employee’s acts —
+Directing mind and will of company — Investment manager acting without authority to
+provide funds for take-over of New Zealand company — Investment company becoming
+substantial security holder of take-over target — Target company and stock exchange not
+notified of holding as required by statute — Whether investment company liable for
+investment manager’s actions — Securities Amendment Act 1988 (New Zealand),
+s 20(3)(4).
+
+Under s 20(3) and (4)* of the New Zealand Securities Amendment Act 1988 every
+person who became a ‘substantial security holder’, defined as holding a relevant
+interest in 5% or more of the voting shares, of a public company listed on the
+New Zealand Stock Exchange was required to give notice of his interest to the
+company and the stock exchange as soon he knew, or ought to have known, that
+he was a substantial security holder in the company. The aim of the Act was to
+enable the board of a company and investors to know who was behind a nominee
+holding the company’s shares. In 1990 a group of investors in New Zealand,
+Malaysia and Hong Kong tried to gain control of a cash-rich publicly listed New
+Zealand company in order to use its assets for their own purposes. The scheme
+was to use bridging finance to obtain a 49% controlling holding in the company
+and then to use the company’s own assets to repay the bridging finance once the
+group had gained control. The bridging finance was provided out of funds
+managed by the appellant company, which was a substantial Hong Kong
+investment management company and a subsidiary of an Australian life
+insurance company. Two senior investment managers, K and N, who were
+employed by the appellant and were party to the scheme, improperly used their
+authority to provide the necessary finance. K had been the managing director of
+the appellant but had been replaced and was at the time its chief investment
+officer and in theory reported to the new managing director but in practice
+continued to buy and sell securities without supervision and without reporting
+his transactions to his superiors. The appellant’s board only met once a year. The
+scheme foundered when the independent directors of the target company
+blocked the use of the company’s funds. The Securities Commission investigated
+the scheme and applied for orders against various participants in the scheme,
+including the appellant. The judge, by attributing the knowledge of K and N,
+who undoubtedly knew all the relevant facts, to the appellant, held that it was a
+‘substantial security holder’ in the target company for the purposes of s 20(3) and
+(4) and although not making any penal order against the appellant he ordered it
+to pay substantial costs. The appellant appealed to the New Zealand Court of
+Appeal, which affirmed the judge’s decision on the ground that K’s knowledge
+
+a Section 20, so far as material, is set out at p 921 € to g, post
+PC Meridian Global v Securities Commission 919
+
+should be attributed to the appellant because he was the ‘directing mind and will’
+of the company. The appellant appealed to the Privy Council.
+
+Held — Where a company’s rights and obligations could not be determined either
+by the primary rules of attribution, expressed in its constitution or implied by
+law, for determining what acts were to be attributed to the company, or by the
+application of the general principles of agency or vicarious liability, the question
+of attribution for a particular substantive rule was a matter of interpretation or
+construction of that rule. If the court decided that the substantive rule was
+intended to apply to a company it then had to decide how the rule was intended
+to apply and whose act or knowledge or state of mind was for that purpose
+intended to count as the act, knowledge or state of mind of the company.
+Although in some cases that could be determined by applying the test of whose
+was the ‘directing mind and will’ of the company so that his fault or knowledge
+became the company’s fault or knowledge, that test was not appropriate in all
+cases. Since the policy of the 1988 Act was to compel, in fast-moving markets, the
+immediate disclosure of the identity of persons who became substantial security
+holders in publicly listed companies, the application of the Act to corporate
+security holders required a rule of attribution by which the knowledge of the
+person who, with the authority of the company, acquired the relevant interest
+was to be attributed to the company, since otherwise the policy of the Act would
+be defeated and there would be a premium on the board paying as little attention
+as possible to what its investment managers were doing. Accordingly, on the
+true construction of s 20(3) and (4) of the 1988 Act, a company knew that it had
+become a substantial security holder when that fact was known to the person
+who had authority to do the deal and it was then obliged to give notice under
+s 20(3). It followed that K’s knowledge was to be attributed to the appellant. The
+appeal would therefore be dismissed (see p 922 j to p 923 bgh, p924 ab and p 927 f
+to j, post).
+
+Tesco Supermarkets Ltd v Nattrass [1971] 2 All ER 127 and Re Supply of Ready
+Mixed Concrete (No 2), Director General of Fair Trading v Pioneer Concrete (UK) Ltd
+[1995] 1 All ER 135 applied.
+
+Dictum of Viscount Haldane LC in Lennard’s Carrying Co Ltd v Asiatic Petroleum
+Co Ltd [1914-15] All ER Rep 280 at 283 explained.
+
+Notes
+For criminal liability of corporations, see 9 Halsbury’s Laws (4th edn) para 1379.
+
+Cases referred to in judgment
+Bolton (H L) (Engineering) Co Ltd v TJ Graham & Sons Ltd [1956] 3 All ER 624, [1957]
+1 QB 159, [1956] 3 WLR 804, CA.
+Lady Gwendolen, The, Arthur Guinness, Son & Co (Dublin) Ltd v MV Freshfield
+(owners) [1965] 2 All ER 283, [1965] P 294, [1965] 3 WLR 91, CA.
+Lennard’s Carrying Co Ltd v Asiatic Petroleum Co Ltd [1915] AC 705, [1914-15] All ER
+1 Rep 280, HL.
+Moore v I Bresler Ltd [1944] 2 All ER 515, DC.
+Multinational Gas and Petrochemical Co v Multinational Gas and Petrochemical Services
+Ltd [1983] 2 All ER 563, [1983] Ch 258, [1983] 3 WLR 492, CA.
+Supply of Ready Mixed Concrete, Re (No 2), Director General of Fair Trading v Pioneer
+Concrete (UK) Ltd [1995] 1 All ER 135, [1995] 1 AC 456, [1994] 3 WLR 1249, HL.
+920 All England Law Reports [1995] 3 AIl ER
+
+Tesco Supermarkets Ltd v Nattrass [1971] 2 All ER 127, [1972] AC 153, [1971]2 WLR
+1166, HL.
+
+Truculent (HMS), The Admiralty v Divina (owners) [1951] 2 All ER 968, [1952] P 1,
+Adm Ct.
+
+Appeal
+
+Meridian Global Funds Management Asia Ltd (Meridian) appealed with leave of
+the Court of Appeal of New Zealand from the decision of that court (Cooke P,
+Hardie Boys J and Sir Gordon Bisson) ([1994] 2 NZLR 291) delivered on 17
+December 1993 dismissing its appeal from the order made by Heron J on 23
+November 1992 in the High Court ordering Meridian to pay $50,000 towards the
+costs of the Securities Commission of New Zealand and $15,000 towards the
+costs of a minority shareholder in Euro-National Corp Ltd (ENC) following his
+judgment delivered on 10 December 1991 in an action brought by the
+commission in which the judge made a declaration that Meridian had acquired a
+relevant interest in ENC and should have given notice of such interest to ENC
+and the New Zealand Stock Exchange pursuant to s 20(3) and (4) of the New
+Zealand Securities Amendment Act 1988. The facts are set out in the judgment
+of the Board.
+
+Michael Beloff QC, John Stevenson (of the New Zealand Bar) and Andrew Tabachnik
+(instructed by Bower Cotton & Bower) for Meridian.
+
+Robert Dobson and Norman Miller (both of the New Zealand Bar) (instructed by
+Alan Taylor é Co) for the commission.
+
+The Board took time for consideration.
+
+26 June 1995. The following judgment of the Board was delivered.
+
+LORD HOFFMANN. In 1990 a group of people in New Zealand, Malaysia and
+Hong Kong tried to gain control of a cash-rich publicly listed New Zealand
+company, Euro-National Corp Ltd (ENC), and use its assets for their own
+purposes. The predators included a New Zealand businessman called David Lee
+Sian Mun, two Hong Kong investment managers called Norman Koo Hai Ching
+(Koo) and Norman Ng Wo Sui (Ng), who were employed by the appellant,
+Meridian Global Funds Management Asia Ltd (Meridian), and members of a
+Malaysian sharebroking firm called Hwang & Yusoff Securities Sdn Bhd (Hwang
+& Yusoff). Their scheme required the purchase, through apparently respectable
+New Zealand merchant bankers, of a 49% controlling holding in ENC for
+$NZ18-2m. The intention was to fund this purchase out of ENC’s own assets, but
+bridging finance was needed to fill the gap between buying the shares and gaining
+control of the company’s money. This was provided by Koo and Ng out of funds
+managed by Meridian. Meridian is a substantial Hong Kong investment manage-
+ment company, a subsidiary of National Mutual Life Association of Australasia
+Ltd. Koo was its chief investment officer, Ng a senior portfolio manager. Their
+Lordships do not know exactly how they were to receive their share of the spoils.
+But they funded the scheme by improperly using their authority to buy and sell
+Asian shares. They contracted on behalf of Meridian, through Hwang & Yusoff,
+to buy a parcel of shares in Malaysian and Indonesian companies from ENC for
+$21m and at the same time to resell the same shares to ENC for a slightly greater
+price. Payment for the purchase was made to Hwang & Yusoff on 30 October
+PC Meridian Global v Securities Commission (Lord Hoffmann) 921
+
+and payment for the resale was to be made by ENC on 19 November. ENC did
+not own the shares in question and the persons who purported to sell on its behalf
+had at that stage no authority to do so, but Meridian paid the money and on 9
+November Hwang & Yusoff used $18.2m to buy the shares in ENC. But the
+scheme to pay Meridian back out of ENC’s money on 19 November was
+frustrated by the independent directors of ENC, who imposed conditions on the
+use of the company’s funds with which the predators could not comply. Unable
+to get their hands on the company’s money, they had to unwind the scheme as
+best they could. It is unnecessary to go into the details of how the participants
+tried to extricate themselves except to notice two matters. First, that on 10
+December 1990 Koo, on behalf of Meridian, agreed to release its rights under the
+original funding arrangements and accept instead a payment and undertakings
+from Hwang & Yusoff. Secondly, that the net result was that the funds under
+Meridian’s management suffered a loss, which the Australian parent company
+had to make good to the beneficial owners of the funds when the affair was
+discovered some six or seven months later.
+
+Stockmarket regulators have found that one way to help boards and investors
+to resist such raids is to require immediate disclosure to the target company and
+the stock exchange of the identity of anyone acquiring a substantial interest of
+any kind in the company’s shares. This enables the board and the investors to
+know who is behind the respectable nominees. Part II of the New Zealand
+Securities Amendment Act 1988 was intended, among other things, to introduce
+such transparency into dealings in publicly quoted securities. The relevant duties
+of disclosure are contained in s 20(3) and (4):
+
+‘(3) Every person who, after the commencement of this section, becomes
+a substantial security holder in a public issuer shall give notice that the
+person is a substantial security holder in the public issuer to—(a) The public
+issuer; and (b) Any stock exchange on which the securities of the public
+issuer are listed.
+
+(4) Every notice under subsection (3) of this section shall—(a) Be in the
+prescribed form; and (b) Contain the prescribed information; and (c) Be
+accompanied by, or have annexed, such documents, certificates, and
+statements as may be prescribed; and (d) Be given in the prescribed manner;
+and (e) Be given as soon as the person knows, or ought to know, that the
+person is a substantial security holder in the public issuer.’
+
+A ‘public issuer’ means a company listed on the New Zealand Stock Exchange
+and ‘substantial security holder’ means a person who has a ‘relevant interest’ in
+5% or more of the voting securities in the public issuer. The definition of
+‘relevant interest’ in s 5 is both complicated and comprehensive, but there is no
+need to examine its terms because, although the matter was disputed in the
+courts below, the appellants have accepted before their Lordships’ Board that the
+effect of the transaction was to give Meridian a relevant interest in the 49%
+holding in ENC between 9 November 1990, when its money was used to buy it,
+and 10 December 1990 when the scheme was unwound. It gave no notice under
+s 20(3).
+
+Section 30 of the Act provides that where there are ‘reasonable grounds to
+suspect’ that a substantial security holder has not complied with, among other
+provisions, s 20, the court may, on the application of the Securities Commission,
+make one or more of a number of orders mentioned in s 32. These range from
+ordering the substantial security holder to comply with the Act to forfeiting the
+922 All England Law Reports [1995] 3 All ER
+
+shares in which he has an interest. After holding its own inquiry in March 1991,
+the commission applied for orders against various participants in the scheme.
+Meridian was not among the original defendants but was joined a few days before
+the trial began.
+
+Heron J held that Meridian knew on 9 November that it was a ‘substantial
+security holder’ in ENC for the purposes of s 20(4)(e). He arrived at this
+conclusion by attributing to Meridian the knowledge of Koo and Ng, who
+undoubtedly knew all the relevant facts. He did not go into the juridical basis for
+this attribution in any detail. It seemed obvious to him that if Koo and Ng had
+authority to enter into the transaction, their knowledge that they had done so
+should be attributed to Meridian. It had therefore been in breach of its duty to
+give notice under s 20(3). In view of the fact that its relevant interest had ceased
+on 10 December 1990 the judge made no order against Meridian except that it
+should pay $50,000 towards the commission’s costs and $15,000 towards the costs
+of a minority shareholder in ENC. The finding that Meridian was in breach was
+incorporated in a declaration made by the judge at the request of Meridian so that
+it could have an order against which to appeal. The Court of Appeal [1994] 2
+NZLR 291) affirmed the decision of Heron J on somewhat different grounds. It
+decided that Koo’s knowledge should be attributed to Meridian because he was
+the ‘directing mind and will’ of the company. The Court of Appeal received
+some evidence about how Meridian functioned. The members of the board lived
+partly in Hong Kong and partly in Australia and met only once a year, for the
+formal business before the annual general meeting. Other matters which
+required a board resolution were circulated by post. Koo used to be managing
+director but was replaced by a Mr Armour on 1 August 1990. Although Koo
+thereafter in theory reported to Mr Armour, in the matter of buying and selling
+securities he went on in the same way as before. The ENC purchases and sales
+were openly recorded in the books but Koo did not specifically report them to Mr
+Armour, who only found out about them after Koo had left. Nor did Koo report
+anything else and there was no evidence that Mr Armour or the other members
+of the board tried to supervise what he was doing. By leave of the Court of
+Appeal, Meridian now appeals to their Lordships’ Board. It says that its only
+directing mind and will was that of its board, or possibly of Mr Armour, but not
+Koo, whom the Court of Appeal correctly described as ‘under Mr Armour’ in the
+corporate hierarchy.
+
+The phrase ‘directing mind and will’ comes of course from the celebrated
+speech of Viscount Haldane LC in Lennard’s Carrying Co Ltd v Asiatic Petroleum Co
+Ltd [1915] AC 705 at 713, [1914-15] All ER Rep 280 at 283. But their Lordships
+think that there has been some misunderstanding of the true principle upon
+which that case was decided. It may be helpful to start by stating the nature of
+the problem in a case like this and then come back to Lennard’s case later.
+
+Any proposition about a company necessarily involves a reference to a set of
+rules. A company exists because there is a rule (usually in a statute) which says
+that a persona ficta shall be deemed to exist and to have certain of the powers,
+rights and duties of a natural person. But there would be little sense in deeming
+such a persona ficta to exist unless there were also rules to tell one what acts were
+to count as acts of the company. It is therefore a necessary part of corporate
+personality that there should be rules by which acts are attributed to the
+company. These may be called ‘the rules of attribution’.
+
+The company’s primary rules of attribution will generally be found in its
+constitution, typically the articles of association, and will say things such as ‘for
+PC Meridian Global v Securities Commission (Lord Hoffmann) 923
+
+the purpose of appointing members of the board, a majority vote of the
+shareholders shall be a decision of the company’ or ‘the decisions of the board in
+managing the company’s business shall be the decisions of the company’. There
+are also primary rules of attribution which are not expressly stated in the articles
+but implied by company law, such as ‘the unanimous decision of all the
+shareholders in a solvent company about anything which the company under its
+memorandum of association has power to do shall be the decision of the
+company’: see Multinational Gas and Petrochemical Co v Multinational Gas and
+Petrochemical Services Ltd [1983] 2 All ER 563, [1983] Ch 258.
+
+These primary rules of attribution are obviously not enough to enable a
+company to go out into the world and do business. Not every act on behalf of
+the company could be expected to be the subject of a resolution of the board or
+a unanimous decision of the shareholders. The company therefore builds upon
+the primary rules of attribution by using general rules of attribution which are
+equally available to natural persons, namely, the principles of agency. It will
+appoint servants and agents whose acts, by a combination of the general
+principles of agency and the company’s primary rules of attribution, count as the
+acts of the company. And having done so, it will also make itself subject to the
+general rules by which liability for the acts of others can be attributed to natural
+persons, such as estoppel or ostensible authority in contract and vicarious liability
+in tort.
+
+It is worth pausing at this stage to make what may seem an obvious point. Any
+statement about what a company has or has not done, or can or cannot do, is
+necessarily a reference to the rules of attribution (primary and general) as they
+apply to that company. Judges sometimes say that a company ‘as such’ cannot
+do anything; it must act by servants or agents. This may seem an unexcep-
+tionable, even banal remark. And of course the meaning is usually perfectly clear.
+But a reference to a company ‘as such’ might suggest that there is something out
+there called the company of which one can meaningfully say that it can or cannot
+do something. There is in fact no such thing as the company as such, no ‘ding an
+sich’, only the applicable rules. To say that a company cannot do something
+means only that there is no one whose doing of that act would, under the
+applicable rules of attribution, count as an act of the company.
+
+The company’s primary rules of attribution together with the general
+principles of agency, vicarious liability and so forth are usually sufficient to enable
+one to determine its rights and obligations. In exceptional cases, however, they
+will not provide an answer. This will be the case when a rule of law, either
+expressly or by implication, excludes attribution on the basis of the general
+principles of agency or vicarious liability. For example, a rule may be stated in
+language primarily applicable to a natural person and require some act or state of
+mind on the part of that person ‘himself’, as opposed to his servants or agents.
+This is generally true of rules of the criminal law, which ordinarily impose
+liability only for the actus reus and mens rea of the defendant himself. How is
+such a rule to be applied to a company?
+
+One possibility is that the court may come to the conclusion that the rule was
+not intended to apply to companies at all; for example, a law which created an
+offence for which the only penalty was community service. Another possibility
+is that the court might interpret the law as meaning that it could apply to a
+company only on the basis of its primary rules of attribution, ie if the act giving
+rise to liability was specifically authorised by a resolution of the board or a
+unanimous agreement of the shareholders. But there will be many cases in which
+924 All England Law Reports [1995] 3 AllER
+
+neither of these solutions is satisfactory; in which the court considers that the law
+was intended to apply to companies and that, although it excludes ordinary
+vicarious liability, insistence on the primary rules of attribution would in practice
+defeat that intention. In such a case, the court must fashion a special rule of
+attribution for the particular substantive rule. This is always a matter of
+interpretation: given that it was intended to apply to a company, how was it
+intended to apply? Whose act (or knowledge, or state of mind) was for this purpose
+intended to count as the act etc of the company? One finds the answer to this
+question by applying the usual canons of interpretation, taking into account the
+language of the rule (if it is a statute) and its content and policy.
+
+The fact that the rule of attribution is a matter of interpretation or construction
+of the relevant substantive rule is shown by the contrast between two decisions
+of the House of Lords, Tesco Supermarkets Ltd v Nattrass [1971] 2 All ER 127, [1972]
+AC 153 and Re Supply of Ready Mixed Concrete (No 2), Director General of Fair Trading
+v Pioneer Concrete (UK) Ltd [1995] 1 All ER 135, [1995] 1 AC 456. In the Tesco case
+the question involved the construction of a provision of the Trade Descriptions
+Act 1968. Tesco were prosecuted under s 11(2) for displaying a notice that goods
+were ‘being offered at a price less than that at which they were in fact being
+offered ...’ Its supermarket in Northwich had advertised that it was selling certain
+packets of washing powder at the reduced price of 2s 11d, but a customer who
+asked for one was told he would have to pay the normal price of 3s 11d. This
+happened because the shop manager had negligently failed to notice that he had
+run out of the specially marked low-price packets. Section 24(1) provided a
+defence for a shopowner who could prove that the commission of the offence
+was caused by ‘another person’ and that—
+
+‘he took all reasonable precautions and exercised all due diligence to avoid
+the commission of such an offence by himself or any person under his
+control.’
+
+The company was able to show that it owned hundreds of shops and that the
+board had instituted systems of supervision and training which amounted, on its
+part, to taking reasonable precautions and exercising all due diligence to avoid
+the commission of such offences in its shops. The question was: whose
+precautions counted as those of the company? If it was the board, then the
+defence was made out. If they had to include those of the manager, then it failed.
+
+The House of Lords held that the precautions taken by the board were
+sufficient for the purposes of s 24(1) to count as precautions taken by the com-
+pany and that the manager’s negligence was not attributable to the company. It
+did so by examining the purpose of s 24(1) in providing a defence to what would
+otherwise have been an absolute offence: it was intended to give effect to ‘a
+policy of consumer protection which does have a rational and moral justification’
+({1971] 2 All ER 127 at 151, [1972] AC 153 at 194-195 per Lord Diplock). This led
+to the conclusion that the acts and defaults of the manager were not intended to
+be attributed to the company. As Lord Diplock said ({1971] 2 All ER 127 at 158,
+[1972] AC 153 at 203):
+
+‘It may be a reasonable step for an employer to instruct a superior servant
+to supervise the activities of inferior servants whose physical acts may in the
+absence of supervision result in that being done which it is sought to prevent.
+This is not to delegate the employer's duty to exercise all due diligence; it is
+to perform it. To treat the duty of an employer to exercise due diligence as
+PC Meridian Global v Securities Commission (Lord Hoffmann) 925
+
+unperformed unless due diligence was also exercised by all his servants to
+whom he had reasonably given all proper instructions and upon whom he
+could reasonably rely to carry them out, would be to render the defence of
+due diligence nugatory and so thwart the clear intention of Parliament in
+
+providing it.’
+
+On the other hand, in the Ready Mixed Concrete case a restrictive arrangement
+in breach of an undertaking by a company to the Restrictive Practices Court was
+made by executives of the company acting within the scope of their employment.
+The board knew nothing of the arrangement; it had in fact given instructions to
+the company’s employees that they were not to make such arrangements. But
+the House of Lords held that for the purposes of deciding whether the company
+was in contempt, the act and state of mind of an employee who entered into an
+arrangement in the course of his employment should be attributed to the
+company. This attribution rule was derived from a construction of the
+undertaking against the background of the Restrictive Trade Practices Act 1976:
+such undertakings by corporations would be worth little if the company could
+avoid liability for what its employees had actually done on the ground that the
+board did not know about it. As Lord Templeman said, an uncritical trans-
+position of the Tesco construction—
+
+‘would allow a company to enjoy the benefit of restrictions outlawed by
+Parliament and the benefit of arrangements prohibited by the courts
+provided that the restrictions were accepted and implemented and the
+arrangements were negotiated by one or more employees who had been
+forbidden to do so by some superior employee identified in argument as a
+member of the “higher management” of the company or by one or more
+directors of the company identified in argument as “the guiding will” of the
+company. (See [1995] 1 All ER 135 at 141-142, [1995] 1 AC 456 at 465.)
+
+Against this background of general principle, their Lordships can return to
+Viscount Haldane. In the Lennard’s case the substantive provision for which an
+attribution rule had to be devised was s 502 of the Merchant Shipping Act 1894,
+which provided a shipowner with a defence to a claim for the loss of cargo put on
+board his ship if he could show that the casualty happened ‘without his actual
+fault or privity’. The cargo had been destroyed by a fire caused by the
+unseaworthy condition of the ship’s boilers. The language of s 502 excludes
+vicarious liability; it is clear that in the case of an individual owner, only his own
+fault or privity can defeat the statutory protection. How is this rule to be applied
+to a company? Viscount Haldane rejected the possibility that it did not apply to
+companies at all or (which would have come to the same thing) that it required
+fault or privity attributable under the company’s primary rules. Instead, guided
+by the language and purpose of the section, he looked for the person whose
+functions in the company, in relation to the cause of the casualty, were the same
+as those to be expected of the individual shipowner to whom the language
+; primarily applied. Who in the company was responsible for monitoring the
+condition of the ship, receiving the reports of the master and ship’s agents,
+authorising repairs etc? This person was Mr Lennard, whom Viscount Haldane
+described as the ‘directing mind and will’ of the company. It was therefore his
+fault or privity which s 502 attributed to the company.
+
+Because Lennard’s Carrying Co Ltd does not seem to have done anything
+except own ships, there was no need to distinguish between the person who
+926 All England Law Reports [1995] 3 All ER
+
+fulfilled the function of running the company’s business in general and the person
+whose functions corresponded, in relation to the cause of the casualty, to those
+of an individual owner of a ship. They were one and the same person. It was this
+coincidence which left Viscount Haldane’s speech open to the interpretation that
+he was expounding a general metaphysic of companies. In H L Bolton
+(Engineering) Co Ltd v T J Graham & Sons Ltd [1956] 3 All ER 624 at 630, [1957] 1
+QB 159 at 172 Denning LJ certainly regarded it as a generalisation about
+companies ‘as such’ when, in an equally well-known passage, he likened a
+company to a human body:
+
+“They have a brain and a nerve centre which controls what they do. They
+also have hands which hold the tools and act in accordance with directions
+from the centre.’
+
+But this anthropomorphism, by the very power of the image, distracts
+attention from the purpose for which Viscount Haldane said he was using the
+notion of directing mind and will, namely to apply the attribution rule derived
+from s 502 to the particular defendant in the case:
+
+‘For if Mr. Lennard was the directing mind of the company, then his action
+must, unless a corporation is not to be liable at all, have been an action which
+was the action of the company itself within the meaning of s. 502.’ ([1915] AC
+705 at 713, [1914-15] All ER Rep 280 at 283; my emphasis.)
+
+The true nature of the exercise became much clearer, however, in later cases on
+the 1894 Act. In HMS Truculent, The Admiralty v The Divina (owners) [1951] 2 All
+ER 968, [1952] P 1, an action to limit liability for damage caused by collision under
+s 503, which also required the owner of the ship which caused the collision to
+show that the casualty happened without his ‘actual fault or privity’, the
+offending ship was a Royal Navy submarine. Her collision with a fishing vessel
+had been caused by the inadequate system of navigation lights then carried by
+submarines. Willmer J held that for this purpose the “directing mind and will’ of
+the Crown, which owned the submarine, was the Third Sea Lord, to whom the
+Board of Admiralty had entrusted the function of supervising such matters as the
+systems of navigation lights carried by warships. That function was one which
+an individual owner of a ship would be expected to fulfil. In The Lady Gwendolen,
+Arthur Guinness, Son é Co (Dublin) Ltd v MV Freshfield (owners) [1965] 2 All ER 283,
+[1965] P 294 the owners of the ship were Arthur Guinness, Son & Co (Dublin)
+Ltd. The collision occurred because the master, in accordance with his custom,
+had taken his vessel laden with stout up the Mersey Channel to Liverpool at full
+speed in dense fog without more than the odd casual glance at his radar. Owning
+ships was a very subsidiary part of the company’s activities. It had a traffic
+department which managed the ships under the general supervision of a member
+of the board who was a brewer and took no interest in the safety of their
+navigation. The manager of the traffic department knew about railways but took
+equally little interest in ships. The marine superintendent, one beneath him in
+the hierarchy, failed to observe that the master of The Lady Gwendolen was given
+to dangerous navigation, although, as Willmer L] said ((1965] 2 All ER 283 at 291,
+[1965] P 294 at 338):
+
+‘It would not have required any very detailed examination of the engine
+room records in order to ascertain that The Lady Gwendolen was frequently
+proceeding at full speed at times when the deck log was recording dense fog.’
+PC Meridian Global v Securities Commission (Lord Hoffmann) 927
+
+In applying s 503 of the 1894 Act, Sellers LJ said of the company ([1965] 2 All ER
+283 at 288 [1965] P 294 at 333):
+
+‘In their capacity as shipowners they must be judged by the standard of
+conduct of the ordinary reasonable shipowner in the management and
+control of a vessel or of a fleet of vessels.’
+
+The court found that a reasonable shipowner would have realised what was
+happening and given the master proper instruction in the use of radar. None of
+the people in the company’s hierarchy had done so.
+
+It is difficult to see how, on any reasonable construction of s 503, these findings
+would not involve the actual fault or privity of Guinness. So far as anyone in the
+hierarchy had functions corresponding to those to be expected of an individual
+owner, his failure to discharge them was attributable to the company. So far as
+there was no such person, the superior management was at fault in failing to
+ensure that there was. In either case, the fault was attributable to the company.
+But the Court of Appeal found it necessary to identify a ‘directing mind and will’
+of the company and lodged it in the responsible member of the board or (in the
+case of Willmer LJ) the railway expert who managed the traffic department.
+
+Some commentators have not been altogether comfortable with the idea of
+the Third Sea Lord being the directing mind and will of the Crown or the traffic
+manager being the directing mind and will of Guinness. Their Lordships would
+agree that the phrase does not fit the facts of HMS Truculent or The Lady Gwendolen
+as happily as it did those of the Lennard’s case. They think, however, that the
+difficulty has been caused by concentration on that particular phrase rather than
+the purpose for which Viscount Haldane was using it. It will often be the most
+appropriate description of the person designated by the relevant attribution rule,
+but it might be better to acknowledge that not every such rule has to be forced
+into the same formula.
+
+Once it is appreciated that the question is one of construction rather than
+metaphysics, the answer in this case seems to their Lordships to be as
+straightforward as it did to Heron J. The policy of s 20 of the 1988 Act is to
+compel, in fast-moving markets, the immediate disclosure of the identity of
+persons who become substantial security holders in public issuers. Notice must
+be given as soon as that person knows that he has become a substantial security
+holder. In the case of a corporate security holder, what rule should be implied as
+to the person whose knowledge for this purpose is to count as the knowledge of
+the company? Surely the person who, with the authority of the company,
+acquired the relevant interest. Otherwise the policy of the Act would be
+defeated. Companies would be able to allow employees to acquire interests on
+their behalf which made them substantial security holders but would not have to
+report them until the board or someone else in senior management got to know
+about it. This would put a premium on the board paying as little attention as
+possible to what its investment managers were doing. Their Lordships would
+therefore hold that upon the true construction of s 20(4)(e), the company knows
+; that it has become a substantial security holder when that is known to the person
+who had authority to do the deal. It is then obliged to give notice under s 20(3).
+The fact that Koo did the deal for a corrupt purpose and did not give such notice
+because he did not want his employers to find out cannot in their Lordships’ view
+affect the attribution of knowledge and the consequent duty to notify.
+
+It was therefore not necessary in this case to inquire into whether Koo could
+have been described in some more general sense as the ‘directing mind and will’
+928 All England Law Reports [1995] 3 All ER
+
+of the company. But their Lordships would wish to guard themselves against
+being understood to mean that whenever a servant of a company has authority
+to do an act on its behalf, knowledge of that act will for all purposes be attributed
+to the company. It is a question of construction in each case as to whether the
+particular rule requires that the knowledge that an act has been done, or the state
+of mind with which it was done, should be attributed to the company.
+Sometimes, as in the Ready Mixed Concrete case and this case, it will be
+appropriate. Likewise in a case in which a company was required to make a
+return for revenue purposes and the statute made it an offence to make a false
+return with intent to deceive, the Divisional Court held that the mens rea of the
+servant authorised to discharge the duty to make the return should be attributed
+to the company: see Moore v I Bresler Ltd [1944] 2 All ER 515. On the other hand,
+the fact that a company’s employee is authorised to drive a lorry does not in itself
+lead to the conclusion that if he kills someone by reckless driving, the company
+will be guilty of manslaughter. There is no inconsistency. Each is an example of
+an attribution rule for a particular purpose, tailored as it always must be to the
+terms and policies of the substantive rule.
+
+The commission in their printed case put forward an alternative argument
+based upon s 35 of the 1988 Act, which creates a presumption of knowledge:
+
+‘In any proceedings under this Part of this Act, it shall be presumed in the
+absence of proof to the contrary, that a person knew, at a material time, of
+the existence of a relevant interest in voting securities in a public issuer or of
+a fact or matter concerning the existence of a relevant interest in the
+securities if, at that time, an employee or agent of that person knew in his or
+her capacity as employee or agent of the existence of the relevant interest or
+of a fact or matter concerning the existence of it.’
+
+Their Lordships did not find it necessary to call upon counsel for the commission
+on this or any other point and have therefore heard no oral submissions in
+support of the commission’s alternative argument. But they find it difficult to see
+how, on the facts of this case, s 35 can advance the matter. There is no doubt that
+the knowledge of Koo and Ng would have activated the presumption. But the
+presumption may be rebutted by ‘proof to the contrary’. Proof of what? Proof,
+presumably, that in fact none of the persons whose knowledge counted as the
+knowledge of the company did know about the relevant interest. But the section
+gives no guidance as to who those persons are. That is left to the process of
+construction of s 20(4)(e) which their Lordships have undertaken. If, as they
+think, Koo’s knowledge was attributable to the company, the evidence made
+reliance on the presumption unnecessary. And if only the knowledge of Mr
+Armour or the board was so attributable, then the evidence showed clearly that
+they did not know and the presumption was rebutted. Either way, it would have
+had no effect on the outcome of the case.
+
+Their Lordships will humbly advise Her Majesty that the appeal should be
+dismissed. Meridian must pay the costs of the commission before their
+Lordships’ Board.
+
+Appeal dismissed.
+
+Celia Fox Barrister.

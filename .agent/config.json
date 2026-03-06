@@ -1,0 +1,37 @@
+{
+  "model": "glm-stable:latest",
+  "include_domains": [],
+  "exclude_domains": [
+    ".agent",
+    ".git",
+    ".obsidian",
+    ".obsidian-themes",
+    ".util",
+    "__pycache__"
+  ],
+  "exclude_path_substrings": [
+    "/.agent/",
+    "/.git/",
+    "/.obsidian/",
+    "/__pycache__/",
+    "/sources/",
+    "/03-sources/"
+  ],
+  "include_path_substrings": [
+    "/summaries/",
+    "/05-summaries/"
+  ],
+  "markdown_extensions": [
+    ".md"
+  ],
+  "max_body_chars": 14000,
+  "max_candidates": 12,
+  "max_links_per_note": 5,
+  "min_tags": 4,
+  "max_tags": 12,
+  "see_also_heading": "## See also",
+  "see_also_marker": "agent:see-also",
+  "memory_dir": ".agent/memories",
+  "extract_prompt_path": ".agent/prompts/pass1_extract.txt",
+  "related_prompt_path": ".agent/prompts/pass3_related.txt"
+}

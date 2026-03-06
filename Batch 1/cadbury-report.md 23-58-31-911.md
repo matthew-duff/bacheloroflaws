@@ -1,0 +1,3628 @@
+0 0 REPORT       OF   THE    COMMITTEE    ON   0 0
+
+
+
+
+                       THE
+
+
+  F INANCIAL A S P E C T S
+                        OF
+
+
+C ORPORATE G OVERNANCE
+
+
+
+
+             1    DE C E M B E R   1992
+0 0 REPORT   OF   THE    COMMITTEE   ON   0 0
+
+
+
+
+                   THE
+
+
+   F INANCIAL A S P E C T S
+                    OF
+
+
+C ORPORATE G OVERNANCE
+0 1992 The Committee on the Financial Aspects of
+Corporate Governance and Gee and Co. Ltd.
+
+
+Reproduction of this publication in whole or in part is
+unrestricted for internal communications within a given
+organisation. It is otherwise subject to permission which
+will not be refused but will attract a reasonable
+reproduction charge. A leaflet is available from the
+Publishers setting out full details of the level of the charge
+and when it is applicable.
+
+
+First published December 1992
+
+
+
+
+ISBN 0 85258 913 1 (Report)
+ISBN 0 85258 915 8 (Report with Code of Best Practice)
+
+
+
+
+Gee (a division of Professional Publishing Ltd)
+South Quay Plaza
+183 Marsh Wall
+London El4 9FS
+Freephone: (0800) 289520
+Fax: (071) 537-2557
+
+
+
+
+Printed in Great Britain by Burgess Science Press.
+Queries and correspondence relating to the report should be
+addressed to:
+    The Secretary
+    Committee on the Financial Aspects of Corporate
+       Governance
+
+    Up to 31 Decemher~ 1992
+
+    P.O. Box 433
+    Moorgate Place
+    London EC2P 2BJ
+    Tel: (07 I) 628-7060 ext.2565
+    Fax: (071) 6281874
+
+
+    From 1 Ja/rrrar~y 1 9 9 3
+
+    c/o The London Stock Exchange
+    L o n d o n EC2N IHP
+    Tel: (071) 797-4575
+    Fax: (071) 4.1~0:6822
+
+
+
+
+Additional copies of the report may be obtained from:
+
+Gee (a division of Professional Publishing Ltd)
+South Quay Plaza
+183 Marsh Wall
+London El4 9FS
+Freephone: (0800) 289520
+Fax: (071) 537-2557
+
+Price: &IO.00 per copy, including a copy of the Code of
+Best Practice.
+
+The Code of Best Practice may also be purchased as a
+separate publication, price fIlO.00 per pack of ten.
+                                                                              PAGE
+PREFACE                                                                                9
+
+
+TH E                                                                               11
+
+
+INTRO D llc1‘10 N
+
+       R EASONS     FOR      SETTING       UP    THE   COMMITTEE
+       C ORPORATE          GOVERNANCE
+       R EPORT C O N T E N T
+
+T H E C ODE   OF    B EST P R A C T I C E                                          16
+
+       C OMPANIES          TO   WHOM       DIRECTED
+                                                                       Ai__   -
+       C ODE P R I N C I P L E S
+                                                                 CiL              .-
+       S TATEMENT       OF      COMPLIANCE
+       K EEPING      THE     C ODE   UP     TO    DATE
+
+       COMPLIANCE
+
+T H E BOARD                                                                        20
+                                                                       _
+        B OARD E F F E C T I V E N E S S
+                                                                       __
+        T HE C H A I R M A N
+        N O N- EXECUTIVE           DIRECTORS
+        P ROFESSIONAL           ADVICE
+        DIKECTORS' TRAINING
+        B OARD S TRUCTURES             AND       PROCEDURES
+                                                               ,~~~
+        T HE C OMPANY           SECRETARY
+        D IRECTORS ' RE SP ONSIBILITIES
+        S TANDARDS         01: CO N D U C T
+        N OMINATION          COMMITTEES
+        INTEKNAL CoNTRoLs
+        AUDIT COMMITTEES
+        INTEKNAL AU D I T
+        B OARD R E M U N E R A T I O N
+CONTENTS
+
+
+
+                                                                                     PAGE
+
+         F INANCIAL R E P O R T S
+         R EPORTING P R A C T I C E
+         P ENSIONS G O V E R N A N C E
+
+                                                                                          36
+
+         I MPORTANCE OF A U D I T
+         P ROFESSIONAL O B J E C T I V I T Y
+                       ‘ QU A R A N T I N I N G’ AUDIT FROM O T H E R SERVICES
+                       R OTATION OF A U D I T O R S
+         W AYS TO INCREASE E F F E C T I V E N E S S          AND   V ALUE OF THE A U D I T
+                       T HE ‘ EX P E C T A T I O N S G A P’
+                                                                                      _
+                       INTERNAL C O N T R O L
+                       ~~~~__~
+                       G OING C O N C E R N
+                       FRAUD
+                       O THER I LLEGAL A C T S
+         A U D I T O R S ’ LI A B I L I T Y
+          A UDIT C O N F I D E N C E
+
+TH E SHAREHOLDERS                                                                         48
+
+          A CCOUNTABILITY           OF    B OARDS TO S H A R E H O L D E R S
+          INSTITUTIONAL SHAREHOLDERS                                           ‘_
+          SHAREHOLDER C O M M U N I C A T I O N S
+          S H A R E H O L D E R INFLUENCE
+
+c 0 NC I, US I 0 N                                                                        53
+
+
+SUMMAKY OI’ ~~liCOMMENl)A1‘IONS                                                           54
+                                                                             CONTENTS
+
+
+
+                                                                                  PAGE
+
+
+
+A.PPENDICES                                                                        61
+
+     I   T H E C O M M I T T E E’ S M E M B E R S H I P       AND    T ERMS OF
+         R EFERENCE
+
+     2   T HE R OLE OF B O D I E S R E F E R R E D T O I N T H E R E P O R T
+
+     3    D I R E C T O R S’ R E S P O N S I B I L I T Y S T A T E M E N T
+
+     4    A UDIT C O M M I T T E E S
+
+     5    C URRENT S TATUTORY AND O THER R E Q U I R E M E N T S
+
+     6    A U D I T O R S ’ LI A B I L I T Y : TH E C A P A R O C A S E
+
+     I    C ONTRIBUTORS AND R ELEVANT P UBLISHED S T A T E M E N T S
+When our Committee was formed just over eighteen months ago,
+neither our title nor our work programme seemed framed to catch
+the headlines. In the event, the Committee has become the focus
+of far more attention than I e v e r e n v i s a g e d w h e n I a c c e p t e d t h e
+invitation to become its chairman. The harsh economic climate is
+partly responsible, since it has exposed company reports and
+accounts to unusually close scrutiny. It is, however, the
+continuing concern about standards of financial reporting and
+accountability, heightened by BCCI, Maxwell and the controversy
+over directors’ pay, which has kept corporate governance in the
+public eye.
+
+Unexpected though this attention may have been, it reflects a
+climate of opinion which accepts that changes are needed and it
+presents an opportunity to raise standards of which we should take
+full advantage. Our draft proposals have been thoroughly aired
+and have attracted a considerable weight of informed comment
+from a wide range of individuals and bodies with an interest in
+matters of corporate governance. While it has not been uncritical,
+the great majority of our respondents have supported the
+Committee’s approach and it is this consensus which gives us a
+mandate to proceed. The Committee is being looked to for a lead,
+which we have a duty to provide.
+
+I wish to thank the members of the Committee for their diligence
+and above all our Secretary, whose single-minded commitment to
+the Committee’s progress has enabled us to complete the task we
+were set in May of last year. The report represents a shared view
+of the action which needs to be taken in the field of financial
+reporting and accountability and it is one to which every member
+of the Committee has contributed. The Committee has benefited
+from the breadth of its representation, which has included
+members o f t h o s e b o d i e s b e s t p l a c e d t o s u p p o r t t h e
+implementation of its recommendations.
+
+I would also like on behalf of the Committee to express our
+gratitude to everyone who has contributed to our work either by
+s u b m i t t i n g e v i d e n c e 10 us directly, or through the press or by
+providing platforms for debates on governance issues.
+PREFACE
+
+
+
+Acceptance of the report’s findings will mark an important
+advance in the process of establishing corporate standards. Our
+recommendations will, however, have to be reviewed
+as circumstances change and as the broader debate on governance
+develops. We will continue in existence as a Committee until a
+successor body -is appointed, to act as a source of authority on our
+recommendations and to review their implementation.
+
+
+
+
+Adrian Cadbury
+Chairman
+1 December 1992
+1.1   The country’s economy depends on the drive and efficiency
+      of its companies. Thus the effectiveness with which their
+      boards discharge their responsibilities determines Britain’s
+      competitive position. They must be free to drive their
+      companies forward, but exercise that freedom within a
+      framework of effective accountability. This is the essence
+      of any system of good corporate governance.
+
+1.2   The Committee’s recommendations are focused on the
+      control and reporting functions of boards, and on the role
+      of auditors. This reflects the Committee’s purpose, which
+      was to review those aspects of corporate governance
+      specifically    r e l a t e d t o financial reporting and
+      accountability. Our proposals do, however, seek to
+      contribute positively to the promotion of good corporate
+      governance as a whole.
+
+1.3   At the heart of the Committee’s recommendations is a Code
+      of Best Practice designed to achieve the necessary high
+      standards of corporate behaviour. The London Stock
+      Exchange intend to require all listed companies registered
+      in the United Kingdom, as a continuing obligation of
+      listing, to state whether they are complying with the Code
+      and to give reasons for any areas of non-compliance. This
+      requirement will enable shareholders to know where the
+      companies in which they have invested stand in relation to
+      the Code. The obligation will be enforced in the same way
+      as all other listing obligations. This may include, in
+      appropriate cases, the publication of a formal statement of
+      censure.
+
+1.4   The Committee will remain responsible for reviewing the
+      implementation of its proposals until a successor body is
+      appointed in two years’ time, to examine progress and to
+      continue the ongoing governance review. It will be for our
+      sponsors to agree the remit of the new body and to
+      establish the basis of its support. In the meantime. a
+      programme of research will be undertaken to assist the
+      future monitoring of the Code.
+
+1.5   By adhering to the Code, listed companies will strengthen
+      both their control over their businesses and their public
+      accountability. In so doing. they will be striking the right
+      balance between meeting the standards of corporate
+      governance now expected of them and retaining the
+      essential spirit of enterprise.
+THE SETTING FOR THE REPORT
+
+
+
+1.6    Bringing greater clarity to the respective responsibilities of
+       directors, shareholders and auditors will also strengthen
+       trust in the corporate system. Companies whose standards
+       of corporate governance are high are the more likely to
+       gain the confidence of investors and support for the
+       development of their businesses.
+
+1.7    The basic system of corporate governance in Britain is
+       sound. The principles are well known and widely followed.
+       Indeed the Code closely reflects existing best practice.
+       This sets the standard which all listed companies need to
+       match.
+
+1.8    Our proposals aim to strengthen the unitary board system
+       and increase its effectiveness, not to replace it. In law. all
+       directors are responsible for the stewardship of the
+       company’s assets. All directors, therefore, whether or not
+       they have executive responsibilities, have a monitoring role
+       and are responsible for ensuring that the necessary controls
+       over the activities of their companies are in place - and
+       working.
+
+1.9    Had a Code such as ours been in existence in the past, we
+       believe that a number of the recent examples of unexpected
+       company failures and cases of fraud would have received
+       attention earlier. It must, however, be recognised that no
+       system of control can eliminate the risk of fraud without so
+       shackling companies as to impede their ability to compete
+       in the market place.
+
+1.10   We believe that our approach, based on compliance with a
+       voluntary code coupled with disclosure, wi-II prove more
+       effective than a statutory code. It is directed at establishing
+       best practice, at encouraging pressure from shareholders to
+       hasten its widespread adoption, and at allowing some
+       flexibility in implementation. We recognise, however. that
+       if companies do not back our recommendations. it is
+       probable that legislation and external regulation will be
+       sought to deal with some of the underlying problems which
+       the report identifies. Statutory measures would impose a
+       minimum standard and there would be a greater risk of
+       boards complying with the letter, rather than with the
+       spirit, of their requirements.
+                            THE SETTING FOR THE REPORT
+
+
+
+1.11   The Committee is clear that action by boards of directors
+       and auditors on the financial aspects of corporate
+       governance is expected and necessary. We are encouraged
+       by the degree to which boards are already reviewing their
+       structures and systems in the light of our draft
+       recommendations. The adoption of our recommendations
+       will mark an important step forward in the continuing
+       process of raising standards in corporate governance.
+INTRODUCTION
+
+Reasons for setting up the Committee
+
+2.1   The Committee was set up in May 1991 by the Financial
+      Reporting Council, the London Stock Exchange and the
+      accountancy profession to address the financial aspects of
+      corporate governance. The Committee’s membership and
+      terms of reference are set out in Appent/i.r 1. I t s s p o n s o r s
+      were concerned at the perceived low level of confidence
+      both in financial reporting and in the ability of auditors to
+      provide the safeguards which the users of company reports
+      sought and expected. The underlying factors were seen as
+      the looseness of accounting standards, the absence of a
+      clear framework for ensuring that directors kept under
+      review the controls in their business, and competitive
+      pressures both on companies and on auditors which made it
+      difficult for auditors to stand up to demanding boards.
+
+2.2    These concerns about the working of the corporate system
+       were heightened by some unexpected failures of major
+       companies’ and by criticisms of the lack of effective board
+       accountability for such matters as directors’ pay.. Further
+       evidence of the breadth of feeling that action had to be
+       taken to clarify responsibilities and to raise standards came
+       from a number of reports on different aspects of corporate
+       governance which had either been published or were in
+       preparation at that time.
+
+2.3    The Committee wherever possible drew on these
+       documents, and a wide range of submissions from
+       interested parties, in producing its draft report which was
+       issued for public comment on 27 May 1992.
+
+2.4    Since then, the Committee has received over 200 written
+       responses to its proposals, the great majority of which
+       broadly support the Committee’s approach, and has
+       carefully considered the balance of opinions expressed on
+       particular issues. The Committee is most grateful to all
+       those who have taken the time and trouble to give us their
+       comments. They have helped to shape our final report and,
+       in addition, they are a valuable reference source for our
+       successors. A list of contributors and of relevant published
+       statements appears in Appcndis 7.
+                                                                       .,.,.   ,.,.I, ~.~...,,,,,.....,..,,,,...~.   .,,. ,.,. ,. ,., .   .   ,,,,,.I
+
+
+
+
+                                                                 INTRODUCTION
+
+
+
+Corporate Governance
+
+2.5   Corporate governance is the system by which companies
+      are directed and controlled. Boards of directors are
+      responsible for the governance of their companies. The
+      shareholders’ role in governance is to appoint the directors
+      and the auditors and to satisfy themselves that an
+      appropriate governance structure is in place. The
+      responsibilities of the board include setting the company’s
+      strategic aims, providing the leadership to put them into
+      effect, supervising the management of the business and
+      reporting to shareholders on their stewardship. The board’s
+      actions are s u b j e c t t o l a w s , r e g u l a t i o n s a n d t h e
+      shareholders in general meeting.
+
+2.6    Within that overall framework, the specifically financial
+       aspects of corporat: g o v e r n a n c e (ihe Committee’s remit)
+       are the way in which boards set financial policy and
+       oversee its implementation, including the use of financial
+       c o n t r o l s , a n d t h e proces: w h e r e b y t h e y r e p o r t o n t h e
+       activities and progress of the company to the shareholders.
+
+2.7    The role of the auditors is to provide the shareholders with
+       an external and objective check on the directors’ financial
+       statements which form the basis of that reporting system.
+       Although the reports of the directors are addressed to the
+       shareholders, they are important to a wider audience, not
+       least to employees whose interests boards have a statutory
+       duty to take into account.
+
+2.8    The Committee’s objective is to help to raise the standards
+       of corporate governance and the level of confidence in
+       financial reporting and auditing by setting out clearly what
+       it sees as the respective responsibilities of those involved
+       and what it believes is expected of them.
+
+ Report Content
+
+2.9    The report begins by reviewing the structure and
+       r e s p o n s i b i l i t i e s o f b o a r d s o f d i r e c t o r s ; here we have
+       summarised our recommendations in a Code of Best
+       Practice. Next, we consider the role of auditors and address
+       a number of recommendations to the accountancy
+       profession.                   W e t h e n d e a l with the r i g h t s and
+       responsibilities of shareholders. The report concludes with
+       several appendices, including at A p p e n d i x 2 notes on the
+       roles of some of the bodies referred to in the report.
+Companies to whom directed
+
+3.1   The Code of Best Practice (on pages 58 to 60) is directed
+      to the boards of directors of all listed companies registered
+      in the UK, but we would encourage as many other
+      companies as possible to aim at meeting its requirements.
+
+Code Principles
+
+3.2   The principles on which the Code is based are those of
+      openness, integrity and accountability. They go together.
+      Openness on the part of companies, within the limits set by
+      their competitive position, is the basis for the confidence
+      which needs to exist between business and all those who
+      have a stake in its success. An open approach to the
+      disclosure of information contributes to the efficient
+      working of the market economy, prompis boards to take
+      effective action and allows shareholders and others to
+      scrutinise companies more thoroughly.
+
+3.3   Integrity means both straightforward dealing and
+      compteteness. What is required of financial reporting is
+      t h a t i t s h o u l d b e h o n e s t a n d th~at i t s h o u l d p r e s e n t a
+      balanced picture of the state of the company’s affairs. The
+      integrity of reports depends on the integrity of those who
+      prepare and present them.
+
+3.4   Boards of directors are accountable to their shareholders
+      and both have to play their part in making that
+      accountability effective. Boards of directors need to do so
+      through the quality of the information which they provide
+      to shareholders, and shareholders through the.ir willingness
+      to exercise their responsibilities as owners.
+
+3.5   The arguments for adhering to the Code are twofold. First,
+      a clear understanding of ‘responsibilities and an open
+      approach to the way in which they have been discharged
+      will assist boards of directors in framing and winning
+      support for their strategies. It will also assist the efficient
+      operation of capital markets and increase confidence in
+      boards, auditors and financial reporting and hence the
+      general level of confidence in business.
+
+3.6    Second, if standards of financial reporting and of business
+       conduct more generally are not seen to be raised, a greater
+       reliance on regulation may be inevitable. Any further
+                                  THE CODE OF BEST PRACTICE
+
+
+
+      degree of regulation would, in any event, be more likely to
+      be well directed, if it were to enforce what has already
+      been shown to be workable and effective by those setting
+      the standard.
+
+Statement of Compliance
+
+3.7   We r e c o m m e n d that listed companies reporting in respect
+      o f y e a r s e n d i n g a f t e r 3 0 J u n e 1993 should state in the
+      report and accounts whether they comply with the Code and
+      identify and give reasons for any areas of non-compliance.
+      The London Stock Exchange intends to require such a
+      statement as one of its continuing listing obligations.
+
+3.8   We envisage, however, that many companies will wish to
+      go beyond the strict terms of the London Stock Exchange
+      rule and make a general statement about the corporate
+      governance of their enterprises as some leading companies
+      have already done. We welcome such statements and leave
+      it to boards to decide the terms in which they make their
+      statement of compliance. Boards are not expected to
+      comment separately on each item of the Code witti which
+      they are complying, but areas of non-compliance will have
+      to be dealt with individually.
+
+3.9   The continuing obligations laid down by the London Stock
+      Exchange should require companies’ statements of
+      compliance to have been the subject of review by the
+      auditors before publication. The review should cover only
+      those parts of the compliance statement which relate to
+      provisions of the Code where compliance can be
+      objectively verified (see footnote to the Code). The
+      auditors should not be required to report formally a
+      satisfactory conclusion to their review, but if they identify
+      an area of non-compliance which is not properly disclosed,
+      they should draw attention to it in their report on the
+      financial statements. We r e c o m m e n d that the Auditing
+      Practices Board should consider guidance for auditors
+      accordingly
+THE CODE OF BEST PRACTICE
+
+
+
+3.10    The Code is to be followed by individuals and companies in
+        the light of their own particular circumstances. They arc
+        responsible for ensuring that their actions meet the spirit of
+        the Code and in interpreting it they should give precedence
+        to substance over form.
+
+Keeping the Code up to date
+
+3.11     We have addressed those issues which appeared from the
+         evidence before us to require the most immediate attention.
+         The situation, however, is developing. The Accounting
+         Standards Board has in hand a programme of work on the
+         basis cf financial reporting. Revised accounting standards
+         and improved methods of financial presentation will result.
+         At the same time, views on best boardroom practice will
+         evolve in the light of experience, and European Community
+         directives and regulations may give rise to new issues. It is
+         e s s e n t i a l , t h e r e f o r e , that the Code, in addition to being
+         monitored, is kept up to date.
+
+3.12 We recommend that our sponsors, convened by the
+     Financial Reporting Council, should appoint a new
+     Committee by the end of June 1995 to examine how far
+     compliance with the Code has progressed, how far our
+     other recommendations have been implemented, and
+     whether the Code needs updating in line with emerging
+     issues. Our sponsors should also determine whether the
+     sponsorship of the new Committee should be broadened and
+     whether wider matters of corporate governance should be
+     i n c l u d e d i n i t s b r i e f . In t h e m e a n t i m e , t h e p r e s e n t
+     Committee will remain responsible for reviewing the
+     implementation of its proposals and for identifying further
+     issues which its successor body might usefully consider.
+     T h e s e s t e p s w i l l e s t a b l i s h a c o n t i n u i n g p r o c e s s .of
+     governance review.
+
+Compliance
+
+3.13     Raising standards of corporate governance cannot be
+         achieved by structures and rules alone. They are important
+         because they provide a framework which will encourage
+         and support good governance, but what counts is the way in
+         which they are put to use.
+
+3.14     The responsibility for putting the Code into practice lies
+         directly with the boards of directors of listed companies to
+                                             THE CODE OF BEST PRACTICE
+
+
+
+        whom it is addressed. Compliance itself, however, is a
+        matter for everyone concerned with corporate governance.
+        We look to the financial institutions and the wide range of
+        bodies backing our work to encourage the adoption of our
+        recommendations by companies in which they have an
+        interest. The media also have a part to play in drawing
+        attention to governance issues of public or shareholder
+        concern. It is vital to seize the opportunity presented by a
+        climate of opinion which accepts that changes are needed
+        and which is expecting the Committee to give the necessary
+        lead.
+
+3.15   The Committee recognises that smaller listed companies
+        may initially have difficulty in complying with some
+        aspects o f t h e C o d e a n d w e h a v e g i v e n c a r e f u l
+        consideration to the responses to the draft report which
+        addressed this point. The boards of smatter listed
+        companies who cannot, for the time being, comply with
+        parts of the Code should note that they may instead give
+        t h e i r r e a s o n s ftir n o n - c o m p l i a n c e . W e b e l i e v e , h o w e v e r ,
+        t h a t full c o m p l i a n c e w i l l b r i n g b e n e f i t s t o t h e b o a r d s o f
+        such companies and it should be their objective to ensure
+        that the benefits are achieved. In particular, the
+        appointment of appropriate non-executive directors should
+        make a positive contribution to the development of their
+        businesses. Any practical issues which may arise in respect
+        of smatter listed companies wilt be thoroughly reviewed by
+        the Committee and its successor.
+
+3.16 The Committee notes that companies will not be able to
+      comply with items 4.5 and 4.6 in the Code until the
+      necessary guidance for companies has been developed.
+Board Effectiveness
+
+4.1   Every public company should be headed by an effective
+      board which can both lead and control the business. Within
+      the context of the UK unitary board system, this means a
+      board made up of a combination of executive directors,
+      with their intimate knowledge of the business, and of
+      outside, non-executive directors, who can bring a broader
+      view to the company’s activities, under a chairman who
+      accepts the duties and responsibilities which the post
+      entails.
+
+4.2   Tests of board effectiveness include the way in which the
+      member,s of the board as a whole work together under the
+      c h a i r m a n , w h o s e r o l e i n c o r p o r a t e g o v e r n a n c e is
+      fundamental, and their collective ability to provide both
+      the leadership and the checks and balances which effective
+      governance demands. Shareholders are responsible for
+      electing board members and it is in their interests to see
+      that the boards of their companies are properly constituted
+      and not dominated by any one individual.
+
+4.3   All directors are equally responsible in law for the board’s
+      actions and decisions. Certain directors may have
+      particular responsibilities, as executive or non-executive
+      directors, for which they are accountable to the board.
+      Regardless of specific duties undertaken by individual
+      directors, however, it is for the board collectively to ensure
+      that it is meeting its obligations.
+
+4.4    Whilst it is the board as a whole which is the final
+       authority, executive and non-executive directors are likely
+       to contribute in different ways to its work. Non-executive
+       directors have two particularly important contributions to
+       make to the governance process as a consequence of their
+       independence from executive responsibility. Neither is in
+       conflict with the unitary nature of the board.
+
+4.5    The first is in reviewing the performance of the board and
+       of the executive. Non-executive directors should address
+       this aspect of their responsibilities carefully and should
+       ensure that the chairman is aware of their views. If the
+       chairman is also the chief executive, board members should
+       look to a senior non-executive director, who might be the
+       deputy chairman, as the person to whom they should
+       address any concerns about the combined office of
+       chairman/chief executive and its consequences for the
+      effectiveness of the board. A number of companies have
+      recognised that role and some have done so formally in
+      their Articles.
+
+4.6   The second is in taking the lead where potential conflicts
+      of interest arise. An important aspect of effective corporate
+      governance is the recognition that the specific interests of
+      the executive management and the wider interests of the
+      company may at times diverge, for example over takeovers,
+      boardroom succession, or directors’ pay. Independent non-
+      executive directors, whose interests are less directly
+      affected, are well-placed to help to resolve such situations.
+
+
+The Chairman
+
+4.7   The chairman’s role in securing good corporate governance
+      is crucial. Chairmen are primarily responsible for the
+      working of the board, for its balance of membership subject
+      to board and shareholders’ approval, for ensuring that all
+      relevant issues are on the agenda, and for ensuring that all
+      directors, executive and non-executive alike, are enabled
+      and encouraged to play their full part in its activities.
+      Chairmen should be able to stand sufficiently back from the
+      day-to-day running of the business to ensure that their
+      boards are in full control of the company’s affairs and alert
+      to their obligations to their shareholders.
+
+4.8   It is for chairmen to make certain that their non-executive
+      directors receive timely, relevant information tailored to
+      their needs, that they are properly briefed on the issues
+      arising at board meetings, and that they make an effective
+      contribution as board members in practice. It is equally for
+      chairmen to ensure that executive directors look beyond
+      their executive duties and accept their full share of the
+      responsibilities of governance.
+
+4.9   Given the importance and particular nature of the
+      chairman’s role, it should in principle be separate from that
+      of the chief executive. If the two roles are combined in one
+      person, it represents a considerable concentration of power.
+      We recommend, therefore, that there should be a clearly
+      accepted division of responsibilities at the head of a
+      c o m p a n y , which will ensure a balance of power and
+      authority, such that no one individual has unfettered
+      powers of decision. Where the chairman is also the chief
+THE BOARD
+
+
+
+       executive, it is essential that there should be a strong and
+       independent element on the board.
+
+Non-Executive Directors
+
+4.10 The Committee believes that the calibre of the non-
+       executive members of the board is of special importance in
+       setting and maintaining standards of corporate governance.
+       The emphasis in this report on the control function of non-
+       executive directors is a consequence of our remit and
+       should not in any way detract from the primary and
+       positive contribution which they are expected to make, as
+       equal board members, to the leadership of the company.
+
+4.11   Non-executive directors should bring an independent
+       judgement to bear on issues of strategy, performance,
+       resources, including key appointments, and standards of
+       conduct. We recommend that the calibre and number of
+       non-executive directors on a board should be such that
+       their views will carry significant weight in the board’s
+       decisions. To meet our recommendations on the
+       composition of sub-committees of the board, all boards will
+       require a minimum of three non-executive directors, one of
+        whom may be the chairman of the company provided he or
+       she is not also its executive head. Additionally, two of the
+       three should be independent in the terms set out in the next
+        paragraph.
+
+4.12 An essential quality which non-executive directors should
+      bring to the board’s deliberations is that of independence
+      of judgement. We recommend that the majority of non-
+      e x e c u t i v e s o n a b o a r d s h o u l d b e indepen’dent o f t h e
+      company. This means that apart from their directors’ fees
+      and shareholdings, they should be independent. of
+      management and free from any business or other
+      relationship which could materially interfere with the
+      exercise of their independent judgement. It is for the board
+      to decide in particular cases whether this definition is met.
+      Information about the relevant interests of directors should
+      be disclosed in the Directors’ Report.
+
+4.13 On fees, there is a balance to be struck between
+        recognising the value of the contribution made by non-
+        executive directors and not undermining their
+        independence. The demands which are now being made on
+        conscientious non-executive directors are significant and
+                                                                           THE BOARD
+
+
+
+       their fees should reflect the time which they devote to the
+       company’s affairs. There is, therefore, a case for paying for
+       additional responsibilities taken on, for example, by
+       chairmen of board committees. In order to safeguard their
+       independent position, we regard it as good practice for
+       non-executive directors not to participate in share option
+       schemes and for their service as non-executive directors
+       not to be pensionable by the company.
+
+4.14   Non-executive directors lack the inside knowledge of the
+       company of the executive directors, but have the same right
+       of access to information as they do. Their effectiveness
+       turns to a considerable extent on the quality of the
+       information which they receive and on the use which they
+       make of it. Boards should regularly review the form and the
+       extent of the information which is provided to all directors.
+
+4.15   Given the importance of their distinctive contribution, non-
+       executive directors should be selected with the same
+       impartiality and care as senior executives. We recommend
+       that their appointment should be a matter for the board as a
+       whole and that there should be a formal selection process,
+       which will reinforce the independence of non-executive
+       directors and make it evident that they have been appointed
+       on merit and not through any form of patronage. We regard
+       it as good practice for a nomination committee (dealt with
+       below) to carry out the selection process and to make
+       proposals to the board.
+
+4.16   Companies have to be able to bring about changes in the
+       composition of their boards to maintain their vitality. Non-
+       executive directors may lose something of their
+       independent edge, if they remain on a board too long.
+       F u r t h e r m o r e , the make-up of a board needs to change in
+       line with new challenges. We recommend, therefore, that
+       non-executive directors should be appointed for specified
+       terms. Their Letter of Appointment should set out their
+       duties, term of office, remuneration and its review.
+       Reappointment should not be automatic, but a conscious
+       decision by the board and the director concerned.
+
+4.17   O u r e m p h a s i s o n t h e q u a l i t i e s t o b e l o o k e d fo.r i n n o n -
+       executive directors, combined with the greater demands
+       now being made on them, raises the question of whether the
+       supply of non-executive directors will be adequate to meet
+       the demand. When companies encourage their executive
+       d i r e c t o r s t o a c c e p t a p p o i n t m e n t s o n t h e h o a r d s o f 0th;~
+THE BOARD
+
+
+
+       companies, the companies and the individuals concerned all
+       gain. A policy of promoting this kind of appointment will
+       increase the pool of potential non-executive directors,
+       particularly if the divisional directors of larger companies
+       are considered for non-executive posts, as well as their
+       main board colleagues.
+
+Professional Advice
+
+4.18 Occasions may arise when directors have to seek legal or
+      financial advice in the furtherance of their duties. They
+     should always be able to consult the company’s advisers.
+      If, however, they consider it necessary to take independent
+      professional advice, we r e c o m m e n d that they should be
+     entitled to do so at the company’s expense, through an
+      agreed procedure laid down formally, for example in a
+      B o a r d Resolutiot;, in the Articles, or in the Letter of
+      Appointment.
+
+Directors’ Training
+
+4.19   The weight of responsibility carried by all directors and the
+       increasing commitment which their duties require
+       emphasise the importance of the way in which they prepare
+       themselves for their posts. Given the varying backgrounds,
+       qualifications and experience of directors, it is highly
+       desirable that they should all undertake some form of
+       internal or external training; this is particularly important
+       for directors, whether executive or non-executive, with no
+       previous board experience. Newly-appointed board
+       members are also entitled to expect a prope,r process of
+       i n d u c t i o n i n t o t h e c o m p a n y ’ s a f f a i r s . I t is' then u p t o
+       individual directors to keep abreast of their legislative and
+       broader responsibilities.
+
+4.20   There are already courses for newly-appointed directors run
+       by the Institute of Directors and business schools. With the
+       support of the Bank of England, the Confederation of
+       British Industry, the Institute of Directors, and PRO NED,
+       a new c o u r s e c o v e r i n g t h e f u l l r a n g e o f b o a r d
+       responsibilities will be open to directors shortly. The
+       training and development of directors is of importance to
+       good governance and it is one of the issues which we
+       suggest our successor body should keep under review.
+                                                                    THE BOARD
+
+
+
+
+Board Structures and Procedures
+
+4.21    The effectiveness of a board is buttressed by its structure
+        and procedures. One aspect of structure is the appointment
+        of committees of the board, such as the audit, remuneration
+        and nomination committees, referred to later in the report.
+
+4.22    Another is that boards should recognise the importance of
+        the finance function by making it the designated
+        responsibility of a main board director, who should be a
+        signatory to the accounts on behalf of the board, and
+        should have the right of access to the Audit Committee.
+
+4.23 The basic procedural requirements are that the board
+      should meet regularly, with due notice of the issues to be
+      discussed supported by the necessary paperwork, and
+      should record its conclusions. We recommend that boards
+      should have a formal schedule of matters specifically
+      reserved to them for their collective decision, to ensure
+      that the direction and control of the company remains
+      f i r m l y i n t h e i r h a n d s a n d a s a- s a f e g u a r d a g a i n s t
+      misjudgements and possible illegal practices. A schedule of
+      these matters should be given to directors on appointment
+      and should be kept up to date.
+
+4.24     We envisage that such a schedule would at least include:
+         (a) acquisition and disposal of assets of the company or
+             its subsidiaries that are material to the company;
+         (b) investments, capital projects, authority levels, treasury
+              policies, and risk management policies.
+         Boards should lay down rules to determine material,ity for
+         any transaction, and should establish clearly which
+         transactions require multiple board signatures. Boards
+         should also agree the procedures to be followed when,
+         exceptionally, decisions are required between board
+         meetings.
+
+The Company Secretary
+
+4.25     The company secretary has a key role to play in ensuring
+         that board procedures are both followed and regularly
+         reviewed. The chairman and the board will l o o k t o t h e
+         company     secretary  f o r g u i d a n c e o n what their
+         responsibilities are under the rules and regulations to
+         which they are subject and on how those responsibilities
+THE BOARD
+
+
+        should be discharged. All directors should have access to
+        the advice and services of the company secretary and
+        should recognise that the chairman is entitled to the strong
+        and positive support of the company secretary in ensuring
+        the effective functioning of the board. It should be
+        standard practice for the company secretary to administer,
+        attend and prepare minutes of board proceedings.
+
+4.26    Under the Companies Act the directors have a duty to
+        appoint as secretary someone who is capable of carrying
+        out the duties which the post entails. The responsibility for
+        ensuring that the secretary remains capable, and any
+        question of the secretary’s removal, should be a matter for
+        the board as a whole.
+
+4.27    The Committee expects that the company secretary will be
+        a source of advice to the chairman and to the board on the
+        implementation of the Code of Best Practice.
+
+Directors’ Responsibilities
+
+4 . 2 8 S o t h a t shareholders a r e c l e a r w h e r e t h e b o u n d a r i e s
+        between the duties of directors and auditors lie, we
+        recommend that a brief statement of directors’
+        responsibilities for the accounts should appear in the report
+        and accounts, as a counterpart to a statement by the
+        auditors about their reporting responsibilities. The ground
+        which would need to be covered by the directors’ statement
+        is set out in A p p e n d i x 3. The appropriate position for the
+        d i r e c t o r s ’ statement is immediately before the auditors’
+        report, which in future will include a statement of auditors’
+        responsibilities. The two statements will thus. c o m p l e m e n t
+        each other.
+
+Standards of Conduct
+
+4.29    It i s i m p o r t a n t t h a t a l l e m p l o y e e s s h o u l d k n o w w h a t
+        standards of conduct are expected of them. We regard it as
+        good practice for boards of directors to draw up codes of
+        ethics or statements of business practice and to publish
+        them both internally and externally.
+                                                                            THE BOARD
+
+
+
+Nomination Committees
+
+4.30   One approach to making board appointments. which makes
+       clear how these appointments are made and assists boards
+       in making them, is through the setting up of a nomination
+       committee, with the responsibility of proposing to the
+       board, in the first instance, any new appointments, whether
+       of executive or of non-executive directors. A nomination
+       committee should have a majority of non-executive
+       directors on it and be chaired either by the chairman or a
+       non-executive director.
+
+
+internal Controls
+
+4.31   Directors are responsible under s.221 of the Companies Act
+       1985 for maintaining adequate accounting records. To meet
+       these responsibilities directors need in practice to maintain
+       a system of internal control over the financial management
+       of the company, including procedures designed to minimise
+       the risk of fraud. There is, therefore, already an implicit
+       requirement on directors to ensure that a proper system of
+       internal control is in place.
+
+4.32   Since an effective internal control system is a key aspect of
+       the efficient management of a company, we r e c o m m e n d
+       that the directors should make a statement in the report and
+       accounts on the effectiveness of their system of internal
+       c o n t r o l a n d t h a t t h e a u d i t o r s shoul~d r e p o r t t h e r e o n . T h e
+       criteria for assessing effectiveness and the detailed
+       guidance for auditors will need to be established and our
+       recommendation to this effect is in paragraph 5.16.
+
+
+Audit Committees
+
+4.33    Since 1978, the New York Stock Exchange has required all
+        listed companies to have audit committees composed solely
+        o f i n d e p e n d e n t d i r e c t o r s a n d t h e 1987 r e p o r t o f t h e
+        A m e r i c a n Treadway C o m m i s s i o n c o n c l u d e d t h a t a u d i t
+        committees had a critical role to play in ensuring the
+        integrity of US company financial reports. While
+        experience of audit committees in this country is shorter, it
+        is encouraging, and around two-thirds of the top 250 UK
+        listed companies now have them in place.
+
+4.34    Experience in the United States has shown that, even where
+        audit committees might have been set up mainly to meet
+THE BOARD
+
+
+
+       listing requirements, they have proved their worth and
+       developed into essential committees of the board.
+       S i m i l a r l y , recently published research in the United
+       Kingdom concludes that the majority of companies with
+       audit committees are enthusiastic about their value to their
+       businesses. They offer added assurance to the shareholders
+       that the auditors, who act on their behalf, are in a position
+       to safeguard their interests.
+
+4.35   The Committee therefore recommends that all listed
+        companies should establish an audit committee. Our further
+        recommendations on audit committees are as follows:
+
+       (a) Audit committees should be formally constituted to
+           ensure that they have a clear relationship with the
+           boards to whom they are answerable and to whom they
+           shnuld r e p o r t r e g u l a r l y . T h e y shou_fd b e g i v e n w r i t t e n
+           terms of reference which deal adequately with their
+           membership, authority and duties, and they should
+           normally meet at least twice a year.
+
+       (b) .There s h o u l d b e a m i n i m u m o f t h r e e m e m b e r s .
+             Membership should be confined to the non-executive
+            directors of the company and a majority of the non-
+            executives serving on the committee should be
+             i n d e p e n d e n t , as defined in paragraph 4.12 above.
+             Membership of the committee should be disclosed in
+             the annual report.
+
+        (cl   The external auditor should normally attend audit
+              committee meetings, as should the finance director. As
+              the board as a whole is responsible for the financial
+              statements, other board members should also have the
+              right to attend. The committee should have a
+              discussion with the external auditors, at least once a
+              y e a r , w i t h o u t e x e c u t i v e b o a r d m e m b e r s p r e s e n t , .to
+              ensure that there are no unresolved issues of concern.
+
+        (d) The audit committee should have explicit authority to
+             investigate any matters within its terms of reference,
+             the resources which it needs to do so, and full access
+             to information. The committee should be able to obtain
+             external professional advice and to invite outsiders
+             with relevant experience to attend if necessary.
+
+        (e) The audit committee’s duties should be determined in
+             the light of the company’s needs but should normally
+             include:
+
+              (i)    making recommendations to the board on the
+THE BOARD
+
+
+
+4.37 The Committee therefore regards the appointment of
+      properly constituted audit committees as an important step
+      in raising standards of corporate governance. Their
+      effectiveness depends on their having a strong chairman
+      who has the confidence of the board and of the auditors,
+      and on the quality of the non-executive directors.
+      Membership of an audit committee is a demanding task
+      requiring commitment, training and skill. The directors
+      concerned need to have sufficient understanding of the
+      issues to be dealt with by the committee to take an active
+      part in its proceedings. This is why committees should, if it
+      is appropriate and within their authority, be able to invite
+    outsiders with relevant experience to attend meetings.
+
+4.38 The external auditors should be present at the board
+     meeting when the annual report and accounts are approved
+     and preferably when the half-yearly report is considered as
+     well.
+
+Internal Audit
+
+4.39   The function of the internal auditors is complementary to,
+       but different from, that of the outside auditors. We regard
+       it as good practice for companies to establish internal audit
+       functions to undertake regular monitoring of key controls
+       and procedures. Such regular monitoring is an integral part
+       of a company’s system of internal control and helps to
+       ensure its effectiveness. An internal audit function is well
+       placed to undertake investigations on behalf of the audit
+       committee and to follow up any suspicion of fraud. It is
+       essential that heads of internal audit should have
+       unrestricted access to the chairman of the aud‘it committee
+       in order to ensure the independence of their position.
+                                                       THE BOARD
+
+
+
+Board Remuneration
+
+4.40   The overriding principle in respect of board remuneration
+       is that of openness. Shareholders are entitled to a full and
+       clear statement of directors’ present and future benefits,
+       and of how they have been determined. W e r e c o m m e n d
+       that in disclosing directors’ total emoluments and those of
+       the chairman and highest-paid UK director, separate figures
+       should be given for their salary and performance-related
+       elements and that the criteria on which performance is
+       measured should be explained. Relevant information about
+       stock options, stock appreciation rights, and pension
+       contributions should also be given.
+
+4.41   In addition, we r e c o m m e n d that future service contracts
+       should not exceed three years without shareholders’
+       approval and that the Companies Act should be amended in
+       line with this recommendation. This would strengthen
+       shareholder control over levels of compensation for loss of
+       office.
+
+4.42 We also recommend that boards should appoint
+     remuneration committees, consisting wholly or mainly of
+     non-executive directors and chaired by a non-executive
+     director, to recommend to the board the remuneration of
+     the executive directors in all its forms, drawing on outside
+     advice as necessary. Executive directors should play no
+     part in decisions on their own remuneration. Membership
+     of the remuneration committee should appear in the
+     Directors’ Report. Best practice in this field is set out in
+     PRO NED’s Remuneration Committee guidelines, published
+     in 1992.
+
+4.43 The Committee has received proposals for giving
+     shareholders the opportunity to determine matters such as
+     directors’ pay at general meetings, but does not see how
+     these suggestions could be made workable. A director’s
+     remuneration is not a matter which can be sensibly reduced
+     to a vote for or against; were the vote to go against a
+     particular remuneration package, the board would still have
+     to determine the remuneration of the director concerned. In
+     addition, there are such practical considerations as the need
+     to agree directors’ remuneration on appointment.
+THE BOARD
+
+
+
+4.44 Shareholders require that the remuneration of directors
+      should be both fair and competitive. Striking this balance
+      involves detailed consideration of the kind which a
+      remuneration committee, whose members have no personal
+      interest in the outcome, can give to the matter.
+      Remuneration committees need to have the interests of the
+      company and the shareholders always in mind in coming to
+      their decisions and the chairman of the committee should
+      be available to respond to any concerns of shareholders at
+      the Annual General Meeting.
+
+4.45 The Annual General Meeting provides the opportunity for
+      shareholders to make their views on such matters as
+      directors’ benefits known to their boards. It is the
+      Committee’s view that shareholders can play a more
+      ,oractical g o v e r n a n c e r o l e b y a i m i n g t o i n f l u e n c e b o a r d
+      policies in this way, than by seeking to make the detail of
+      board decisions subject to their vote.
+
+4.46    Further changes to the rules for disclosure, such as
+         lengthening the list of directors whose remuneration is
+         individually identified, and the role which shareholders
+         could play, either in voting on particular aspects of
+         remuneration or in tabling advisory resolutions along lines
+         now developing in the USA, will need to be reviewed in the
+         light of experience. Directors’ contracts and pay are
+         aspects of board accountability which the Committee will
+         continue to monitor in the expectation that they will be on
+         the agenda of our successor body.
+
+
+Financial Reports
+
+4.47     A basic weakness in the current system of financial
+         reporting is the possibility of different accounting
+         t r e a t m e n t s b e i n g a p p l i e d to,essentially the same facts, with
+         the consequence that different results or financial positions
+         could be reported, each apparently complying with the
+         overriding requirement to show a true and fair view.
+         Regardless o f h o w f a r t h e m a r k e t c a n u n d e r s t a n d t h e
+         i m p l i c a t i o n s o f a l t e r n a t i v e accounting treatments or see
+         through presentational techniques designed to show a
+         company’s figures in the most flattering light, there are
+         a d v a n t a g e s t o i n v e s t o r s , analysts, other accounts users and
+         ultimately to the company itself in financial reporting rules
+         which limit the scope for uncertainty and manipulation.
+                                                                  THE BOARD
+
+
+
+4.48    The lifeblood of markets is information and barriers to the
+        flow of relevant information represent imperfections in the
+        market. The need to sift and correct the information put out
+        by companies adds cost and uncertainty to the market’s
+        pricing function. The more the activities of companies are
+        transparent, the more accurately will their securities be
+        valued.
+
+4.49    In addition, the wider the scope for alternative treatments,
+        the less useful financial reports become in terms of
+        comparability - over time and between companies.
+
+4.50    What shareholders (and others) need from the report and
+        accounts is a coherent narrative, supported by the figures,
+        of the company’s performance and prospects. We
+        r e c o m m e n d that boards should pay particular attention to
+        their duty to present a balance,: and understandable
+        assessment of their company’s position. Balance requires
+        that setbacks should be dealt with as well as successes,
+        while the need for the report to be readily understood
+        emphasises that words are as important as figures.
+
+4.5‘1   The cardinal principle of financial reporting is that the
+        view presented should be true and fair. Further principles
+        are that boards should aim for the highest level of
+        d i s c l o s u r e c o n s o n a n t w i t h prese,nti~ng reports which are
+        understandable and with avoiding damage to their
+        competitive position. They should also aim to ensure the
+        integrity and consistency of their reports and they should
+        meet the spirit as well as the letter of reporting standards.
+
+4.52    The Committee wholeheartedly endorses the objectives of
+        the Financial Reporting Council and the Accounting
+        Standards Board in setting reporting standards. It also
+        welcomes the action being taken by the Financial Reporting
+        Review Panel over companies who.se accounts fall below
+        accepted reporting standards.
+
+4.53    The Committee recognises the advantage to users of reports
+        and accounts of some explanation of the factors likely to
+        influence their company’s future progress. The inclusion 01
+        an essentially forward-looking Operating and Financial
+        Review, along the lines developed by the Accounting
+        Standards Board for consultation, would serve this purpose.
+THE BOARD
+
+
+
+Reporting Practice
+
+4.54   Listed companies publish full financial statements annually
+       and half-yearly reports in the interim. In between these
+       major announcements, b o a r d s m a y n e e d t o k e e p
+       shareholders and the market in touch with their company’s
+       progress. The guiding principle once again is openness and
+       boards should aim for any intervening statements to be
+       widely circulated, in fairness to individual shareholders
+       and to minimise the possibility of insider trading.
+
+4.55   If companies reported quarterly, the need for more informal
+       methods of keeping investors informed would be
+       diminished. Quarterly reporting would, however, involve
+       additional costs for companies and ultimately for their
+       shareholders and has not been recommended to us by
+       s h a r e h o l d e r b o d i e s , ‘4.ho a c c e p t t h e p r e s e n t p a t t e r n o f
+       reporting by boards.
+
+4.56   We consider that interim reports should be expanded in
+       order to increase their value to users. We recommend that:
+       (a) balance sheet information should be included with the
+              interim report. There should not be a requirement for a
+              full audit, but the interim report should be reviewed by
+              the auditors, who should discuss their findings with
+              the audit committee;
+       (b) the continuing obligations laid down by the London
+              Stock Exchange on UK companies admitted to listing
+              should be amended to that effect and the Auditing
+              Practices Board should develop appropriate review
+              guidance;                            ‘.
+       (c)    the Accounting Standards Board in conjunction with
+              the London Stock Exchange should clarify. the
+              accounting principles which companies should follow
+              in preparing interim reports;
+       Cd) a requirement for inclusion of cash flow information in
+              interim reports should be considered by our successor
+              body.
+
+4.57   Research has shown that the most widely read part of
+       company reports is the opening statement, normally by the
+       chairman. It is therefore of special importance that it
+       should provide a balanced and readable summary of the
+       company’s performance and prospects and that it should
+       represent the collective view of the board.
+                                                   THE BOARD
+
+
+
+4.58 The demand for an ever-increasing amount of detail in
+      reports and accounts has to be weighed against the need for
+      them to be understandable by the reasonably informed
+      shareholder. Simplified forms of report, including the
+      shortened version of the accounts, allow boards to address
+      shareholders who would prefer such a statement, but make
+      the need for the assessment to be balanced even more
+      exacting.
+
+4.59 Although a company’s published reports and its Annual
+      General Meeting are its primary channels of communication
+      with shareholders, companies and their major shareholders
+      may need to be in touch more frequently. The Institutional
+      Shareholders’ Committee’s Statement on the Respon-
+      sibilities of Institutional Shareholders gives practical
+      guidance on how shareholders can best exercise their
+      responsibilities as owners in this regard. We fully endorse
+      their recommendation that there should be regular contact
+      between companies and their major institutional
+      shareholders at senior level and that such matters as board
+      strategy and structure should be kept under review.
+
+Pensions Governance
+
+4.60 There are governance issues relating to company pension
+      funds, highlighted by the Maxwell affair, but they fall
+      within the remit of the Pension Law Review Committee
+      under the chairmanship of Professor Goode, which is
+      currently reviewing the framework of pension fund
+      legislation and regulation. In the light of this, the
+      Committee decided that it would be inappropriate for it to
+      deal specifically with pension fund governance issues.
+Importance of Audit
+
+5.1   The annual audit is one of the cornerstones of corporate
+      governance. Given the separation of ownership from
+      management, the directors are required to report on their
+      stewardship by means of the annual report and financial
+      statements sent to the shareholders. The audit provides an
+      e x t e r n a l a n d o b j e c t i v e c h e c k on the way in which the
+      financial statements have been prepared and presented, and
+      it is an essential part of the checks and balances required.
+      The question is not whether there should be an audit, but
+      how to ensure its objectivity and effectiveness.
+
+5.2    Audits are a reassurance to all who have a financial
+       interest in companies, quite apart from their value to
+       boards of directors. The most direct method of ensuring
+       that companies are accountable for their actions is through
+       open disclosure by boards and through audits carried out
+       against strict accounting standards.
+
+5.3    The framework in which auditors operate, however, is not
+       well designed in certain respects to provide the objectivity
+       which shareholders and the public expect of auditors in
+       carrying out their function. The main reasons are as
+       follows:
+       (a) Accounting standards and practice sometimes allow
+             boards too much scope for presenting facts and the
+             figures derived from them in a variety of ways.
+             Auditors cannot stand firm against a particular
+             accounting treatment if it is permitted within the
+             standards.                           ‘.
+       (b) A l t h o u g h t h e s h a r e h o l d e r s f o r m a l l y a p p o i n t t h e
+             auditors, and the audit is carried out in their interests,
+             the shareholders have no effective say in the audit
+             negotiation and have no direct link with the auditors.
+             Indeed the Committee can see no practicable way of
+             establishing one. Auditors do, however, have to work
+             closely with those in management who have prepared
+             the financial statements which they are auditing in
+             order to carry out their task, and audit firms, like any
+             other business, will wish to have a constructive
+             relationship with their clients.
+                                                        AUDITING
+
+
+
+      (cl Audit firms are in competition with each other for
+          business. They wish to maximise their business with
+          companies, of which auditing may only be a part. To
+          the extent that they compete on the basis of their
+          professional reputation, this will act as an incentive to
+          maintain high standards. So will the ethical guidance
+          of the profession, and the threat of litigation. To the
+          extent however that audit firms compete on price and
+          on meeting the needs of their clients (the companies
+          they audit), this may be at the expense of meeting the
+          needs of the shareholders.
+      Cd) Companies too are subject to competitive pressures.
+          They will wish to minimise their audit costs and they
+          are likely to have a clear view as to the figures they
+          wish to see published, in order to meet the
+          expectations of th-eir shareholders.
+
+5.4   A further problem is the lack of understanding of the
+      nature and extent of the audi:ors’ role. This is the so-called
+      ‘expectations gap’ - the difference between what audits do
+      a c h i e v e , and what it is thought they achieve, or should
+      achieve. The expectations gap is damaging not only
+      because it reflects unrealistic expectations of audits but
+      also because it has led to disenchantment with their value
+      in the wake of the Capar-o judgment (paragraphs 5.31 to
+      5.35 below).
+
+5.5   Steps have already been taken, within the last three years,
+      to strengthen the audit system through the establishment of
+      a new regulatory framework. The Financial Reporting
+      Council and its associated bodies - the Accounting
+      Standards Board, the Urgent Issues Task Force, and the
+      Financial Reporting Review Panel - have been set up to
+      improve and tighten accounting standards, to deal with
+      problem areas as they emerge, and to examine departures
+      by individual companies from the statutory requirements
+      and accounting standards. The new statutory regime for
+      regulating auditors requires all auditors to satisfy a
+      supervisory body as to their competence, experience and
+      training, and to be subject to regular monitoring. The
+      arrangements for setting auditing standards have also been
+      reformed with the establishment of the Auditing Practices
+      Board.
+AUDITING
+
+
+
+5.6    The new system has only recently been established and its
+       full impact has yet to be felt. In the following paragraphs
+       we endorse the steps that are being taken and recommend
+       additional action to strengthen public confidence in the
+       audit approach.
+
+
+Professional objectivity
+
+5.7    The central issue is to ensure that an appropriate
+       relationship exists between the auditors and the
+       management whose financial statements they are auditing.
+       Shareholders require auditors to work with and not against
+       management, while always remaining professionally
+       o b j e c t i v e - that is to say, applying their professional skills
+       impartially and retaining a critical detachment and a
+       consciousness of their accountability to those who formally
+       appoint them. Maintaining such a professional and
+       objective relationship is the responsibility both of boards
+       of directors and of auditors, as is that of taking appropriate
+       action if the basis for that relationship no longer holds.
+
+5.8    An essential first step must be the development of more
+       effective accounting standards. Accounting standards
+       provide important reference points against which auditors
+       exercise their professional judgement. Their position is
+       strengthened if standards do not allow alternative
+       accounting treatments. The work of the Accounting
+       Standards Board is well in hand and has our full support.
+
+5.9    A second step should be the formation by every listed
+       company of an audit committee which gives, the auditors
+       direct access to the non-executive members of the board.
+       Shareholders look to the audit committee to ensure that the
+       relationship between the auditors and management remains
+       objective and that the auditors are able to put their views
+       in the event of any difference of opinion with management.
+
+
+‘Quarantining’ audit from other services
+
+5.10    Among the propositions made to the Committee to
+       strengthen the objective relationship between auditors and
+       management, one was that audit firms should not provide
+       other types of service to their audit clients. The argument
+       runs that such a prohibition would remove any pressure on
+       the auditors to give way to management on audit matters in
+       order not to jeopardise their other business services; and
+                                                                  AUDITING
+
+
+
+       that it would remove any incentive for auditors to take on
+       audits at rates which could risk corner-cutting in the hope
+       of obtaining more remunerative non-audit work.
+
+5.11   Such a prohibition would limit the freedom of companies to
+       choose their sources of advice and could increase their
+       costs. The Committee was not persuaded that any potential
+       gains in objectivity would outweigh these disadvantages. It
+       does, however, strongly support full disclosure of fees paid
+       to audit firms for non-audit work. The essential principle is
+       that disclosure must enable the relative significance of the
+       company’s audit and non-audit fees to the audit firm to be
+       assessed, both in a UK context and, where appropriate, a
+       w o r l d w i d e c o n t e x t . W e r e c o m m e n d t h a t t h e 1991
+       Regulations under the Companies Act on the disclosure of
+       remuneration for non-audit work should be reviewed and
+       amended as necessary in order to apply this principle. We
+       also regard it as good practice for audit committees to keep
+       under review the non-audit fees paid to the auditor both in
+       relation to their significance to the auditor and in relation
+       to the company’s total expenditure on consultancy.
+
+Rotation of auditors
+
+5.12   Another proposal was that some form of compulsory
+       rotation of audit firms should be introduced, to prevent
+       relationships between management and auditors becoming
+       too comfortable. The Committee felt that any advantages
+       which this could bring would be more than outweighed by
+       the loss of the trust and experience which are built up when
+       the relationships are sound, and by the risk to audit
+       effectiveness at the changeover. The Committee agreed,
+       however, that in the case of listed companies a periodic
+       change of audit partners should be arranged to bring a fresh
+       approach to the audit. We recommended in our draft report
+       that the accountancy profession should draw up appropriate
+       guidelines and we support the steps which it is now taking
+       to do so. We would expect the guidelines to allow a
+       measure of flexibility over timing to take account of the
+       incidence of other changes in senior personnel, both in the
+       audit team and in the client company, which have helped to
+       keep a distinction in relationships between client and
+       auditor.
+AUDITING
+
+
+
+Ways to increase effectiveness and value of the audit
+
+The ‘Expectations Gap’
+
+5.13   An essential first step is to be clear about the respective
+       responsibilities of directors and auditors for preparing and
+       reporting on the financial statements of companies, in order
+       to begin to narrow the ‘expectations gap’.
+
+5.14   The auditors’ role is to report whether the financial
+       statements give a true and fair view, and the audit is
+       designed to provide a reasonable assurance that the
+       financial statements are free of material misstatements. The
+       a u d i t o r s ’ role is not (to cite a few of the misunder-
+       standings) to prepare the financial statements, nor to
+       provide absolute assurance that the figures in the financial
+       statements are correct, nor to provide a guarantee that the
+       company will continue in existence. The Auditing
+       Practices Board is at present developing proposals for an
+       expanded report which would describe the key features of
+       the audit process. The Committee supports this initiative.
+       Auditors’ reports should state clearly the auditors’
+       responsibilities for reporting on the financial statements, as
+       a counterpart to a statement of directors’ responsibilities
+       for preparing the financial statements (see paragraph 4.28
+       above).
+
+5.15   The Committee strongly supports the lead which the
+       Auditing Practices Board is taking on the development of
+       auditing practice generally. We believe that there should be
+       an extension of the audit which will add to its value to all
+       users of accounts and bring it closer into line with public
+       expectations. We discuss below some of the proposals
+       currently under consideration and have set out background
+       infol-mation on the current r,ules at Apper~clis 5. W i d e n i n g
+       the scope of the audit is likely to require boards to widen
+       the scope of their reports, since auditors can normally only
+       audit matters on which the directors have themselves
+       reported.
+                                                                             AUDITING
+
+
+
+Internal Control
+
+5.16    The Committee is convinced that an effective internal
+        control system is an essential part of the efficient
+        management of a company. We have already recommended
+        that directors should report on the effectiveness of their
+        system of internal control, and that the auditors should
+        report on their statement. A great deal of detailed work is
+        now necessary to develop these proposals, and we
+        recommend       t I1 a t the accountancy profession, in
+        conjunction with representatives of preparers of accounts,
+        should take the lead in:
+
+         (a) developing a set of criteria for assessing effectiveness;
+
+         (b) developing guidance for companies on the form in
+             which directors should report; and
+
+         (c) developing guidance for auditors on relevant audit
+             procedures and the form in which auditors should
+             report.
+
+5.17 W e r e c o m m e n d t h a t t h e q u e s t i o n o f l e g i s l a t i o n t o b a c k
+      t h e s e d e v e l o p m e n t s s h o u l d b e d e c ided i n t h e l i g h t o f
+      experience.
+
+
+Going Concern
+
+5.16 U n d e r c o m p a n y l a w , a c c o u n t s a r e p r e p a r e d o n t h e
+         assumption that the company is a going concern. There is,
+         however, no explicit requirement for directors to satisfy
+         themselves that it is reasonable to make this assumption,
+         for example by the preparat-ion of an adequate cash flow
+         forecast. There is also scope for amending auditing
+         guidelines to require the auditor to take a more active role
+         in testing going concern assumptions.
+
+5.19     In view of the understandable pub’lic criticism of the audit
+         process when companies collapse without apparent
+         w a r n i n g , there are strong arguments for amending company
+         law to place an explicit requirement on directors to satisfy
+         themselves that the going concern basis is appropriate, and
+         to report accordingly to shareholders. There is also a
+         strong case for extending the scope of the audit, to test
+         going concern assumptions more specifically, and for
+         requiring the auditors to give an opinion on the directors’
+         report. Many proposals have been made to the Committee
+         along these lines.
+AUDITING
+
+
+
+
+5.20 The Committee    b e l i e v e s t h a t g o i n g c o n c e r n p r o b l e m s are
+       more likely to be addressed successfully if they are
+       identified early. There are, however, two grounds for
+       concern:
+       (a) There must be a risk that any qualification about the
+           company’s financial viability, however it is expressed,
+           will precipitate the company’s collapse. There is a fine
+           balance to be drawn between drawing proper attention
+           to the conditions on which continuation of the business
+           depends, and not thereby bringing the business down.
+       (b) The Committee does not believe that the implications
+           of the legal presumption that the accounts are prepared
+           on a going concern basis are widely understood by
+           directors. In particular the Committee doubts that it is
+           generally appreciated that ‘going concern’ is
+           interpreted in present auditing guidelines as meaning
+           that the company will still be operating six months
+           following the date of the audit report or one year after
+           the date of the balance sheet, whichever is the later.
+           This may be further ahead than many companies can
+           see, for example in a recession.
+
+5.21   The Committee concludes that as a fundamental concept of
+       accounting the going concern principle should be
+       conscientiously applied and that new guidelines should be
+       developed. It emphasises however that new guidelines must
+       strike a careful balance between drawing proper attention
+       to the conditions on which the continuation of the business
+       depends, and not requiring directors to express
+       unnecessarily cautious reservations that could of
+       themselves jeopardise the business. Directors should be
+       required to satisfy themselves that the business is a going
+       concern on the basis that they have a r e a s o n a b l e
+       e x p e c t a t i o n that it will continue in operation for the time
+       period which the guidelines d,efine. Directors should not be
+       expected to give a firm guarantee about their company’s
+       prospects because there can never be complete certainty
+       about future trading. The guidelines should also recognise
+       the position of’ smaller companies.
+                                                                       AUDITING
+
+
+
+
+5.22    The Committee recommends that:
+        (a)   directors should state in the report and accounts that
+              the business is a going concern, with supporting
+              assumptions or qualifications as necessary;
+        (b)   the auditors should report on this statement;
+        (c)   the accountancy profession in conjunction with
+              representatives of preparers of accounts should take
+              the lead in developing guidance for companies and
+              auditors;
+        (d) the question of Legislation should be decided in the
+            light of experience.
+
+Fraud
+
+5.23    The prime responsibility for the prevention and detection
+        of fraud (and other illegal acts) is that of the board, as part
+        of its fiduciary responsibility for protecting the assets of
+        the company. The auditor’s responsibility, as defined in
+        auditing guidance, is ‘properly to plan, perform and
+        e v a l u a t e h i s a u d i t w o r k s o asi;. h a v e a r e a s o n a b l e
+        expectation of detecting material misstatements in the
+        financial statements’.
+
+5.24    One problem for the auditors is that by its very nature
+        fraud, if it involves forgery, collusion or management
+        o v e r r i d e o f c o n t r o l s y s t e m s , is hard to detect. It is no
+        solution, as some have suggested, simply to place a duty on
+        the auditor to detect material fraud because he will never
+        be in a position to guarantee that no such fraud has taken
+        place. A higher level of safeguard against some categories
+        of fraud can be attempted by carrying out a more extensive
+        audit, but at a cost. The question is whether that extra cost
+        is justified.
+
+5.25    Another problem for the auditors is when they suspect that
+        top management itself is implicated in the fraud, without
+        having the necessary evidence to back up their suspicions.
+        They are not in a strong enough position to confront
+        management, nor have they a case to report to the
+        appropriate authorities.
+
+ 5.26   These are not easy problems to resolve, but an effective
+        and independent-minded audit committee is an essential
+        safeguard. It has an important role to play in considering
+B   AUDITING
+
+
+
+           whether any extra work should be undertaken in addition to
+           the normal audit procedures to investigate defences against
+           fraud. and in reviewing reports on the adequacy of internal
+           contol systems. The audit committee also provides a forum
+           in which auditors can discuss at board level any concern
+           they may have about the possibility of fraud by senior
+           management.       It  can   then   commission       whatever
+           investigations are necessary to resolve the matter.
+
+    5.27   One proposal made to the Committee was that auditors
+           should have a duty to report fraud to the appropriate
+           authorities. The auditor’s duty is normally to report fraud
+           t o s e n i o r m a n a g e m e n t ( s e e Appendix 5 ) . W h e r e , h o w e v e r ,
+           he no longer has confidence that senior management will
+           deal adequately with the matter, he is encouraged by
+           professional guidance to report fraud to the proper
+           authorities. Lord Justice Bingham, in his recent report on
+           BCCI, has recommended that in the case of banks it would
+           be better for there to be a statutory duty, and the
+           Government, in accepting the recommendation, has
+           announced that a similar approach will be extended to the
+           r e s t o f t h e regulate;! s e c t o r ( n a m e l y b u i l d i n g societies:~.
+           insurance, and investment business).
+
+    5.28    The Committee does not recommend that a statutory duty to
+            r e p o r t fr,aud s h o u l d b e e x t e n d e d b e y o n d t h e r e g u l a t e d
+            sector to the generality of companies. The Committee does
+            however see scope for extending to the auditors of all
+            companies the statutory provisions applying to auditors in
+            the regulated sector which enable them to report reasonable
+            suspicion of fraud freely to the appropriate investigatory
+            authorities. This would strengthen the positiqn of auditors
+            who report fraud against the risk of a suit brought against
+            them by their client for (for example) breach of duty to
+            maintain a confidential client relationship or defamation.
+            We recommend that the Government should consider
+            introducing legislation accordingly.
+
+
+    Other illegal Acts
+
+    5.29    Companies are now subject to a wide range of legal
+            requirements, many of which fall outside the scope of an
+            audit of the financial statements. Auditing guidance on the
+            respective responsibilities of management and the auditor
+            is in preparation but there are a number of difficult issues
+            on which there is no clear consensus at present.
+                                                              AUDITING
+I
+
+
+
+
+    5.30   The Committee’s view is that it is the responsibility of
+           boards to establish what their legal duties are and to ensure
+           that they monitor compliance with them. It is also our view
+           that this would be enhanced if the auditors’ role were to
+           check that boards had established their legal requirements
+           and that a working system for monitoring compliance was
+           in place. There would be difficulty in ascribing a wider
+           role to auditors, for example requiring them to investigate
+           any identified failures in the system and any suspected
+           illegal acts which are encountered, because they are
+           unlikely to have the appropriate expertise. They will not
+           know the legal requirements in fields which are outside
+           their scope, nor are they likely to have the expertise to
+           investigate the legality of particular acts if their suspicions
+           are aroused. We recommend that this subject should be
+           further considered by the accountancy and legal professions
+           and representatives of preparers of accounts.
+
+    Auditors’ Liability
+
+    5.31   In the Caparo juagment, the House of Lords laid down that
+           auditors owed a legal duty of care to the company and to
+           the shareholders collectively, but not to the shareholders as
+           individuals nor to third parties. It was established in
+           particular that in the absence of special features, no duty of
+           care was owed to subscribers to new shares (whether
+           existing shareholders or not), purchasers or intending
+           purchasers of shares from third parties including those
+           conducting takeover bids, bankers or other lenders, or
+           persons doing business with the company.
+
+    5.32   A discussion of the principles established by the Capar-o
+           case is at Appendix 6. The case has aroused controversy
+           because it exposed two widely held misconceptions:
+            (a) that the audit report is a guarantee as to the accuracy
+                 of the accounts, and perhaps even as to the soundness
+                 of the company;
+            (b) that anyone (including investors and creditors) can
+                rely on the audit, not only in a general sense but also
+                very specifically by being able to sue the auditors if
+                they are negligent.
+            In deciding the case, the House of Lords studied with great
+            care the complex issues involved in balancing the interests
+            of the parties involved and the public interest in having a
+AUDITING
+
+
+
+       fair, viable and affordable system. The size of auditors’
+       potential liabilities, the difficulties in defining wider
+       liability in any fair yet practicable way, and the likely
+       difficulties in establishing whether third party losses were
+       in fact due to reliance on the accounts were among the
+       principal concerns underlying the conclusions reached by
+       the House of Lords. Rearing in mind the wide range of
+       users of accounts, the Committee is unable to see how the
+       House of Lords could have broadened the boundaries of the
+       auditors’ legal duty of care without giving rise (in the
+       w o r d s o f C a r d o z o C J d e c i d i n g a c a s e i n 1931 a n d
+       frequently quoted since) ‘to a liability in an indeterminate
+       amount for an indeterminate time to an indeterminate
+       class’. Nor, in consequence, do we recommend that the
+       legal position with regard to civil liability laid down by
+       Cupar-o should be altered by statute at the present time.
+
+5.33   In coming to thts conclusion, we recognise that the current
+       position is a source of concern to both auditors and
+       investors. There are two main reasons:
+
+       (a)   the scale of existing litigation against auditors or
+             former auditors. Auditors are fully liable in negligence
+             to the companies they audit and their shareholders
+             c o l l e c t i v e l y , a n d Caparo h a s n o t c h a n g e d t h i s . T h e
+             size of settlements has been increasing in Britain and
+             auditors are concerned that this trend may continue;
+
+       (b)   t h e b e l i e f o f s o m e t h a t , n o t w i t h s t a n d i n g Capa~o,
+             auditors should in principle be liable to those (such as
+             individual investors and creditors) who rely on audited
+             accounts.
+
+       Auditors are naturally concerned about the increased
+       litigation that would result if their liability were extended
+       to other accounts users. They are also concerned about
+       increased litigation that could arise from adapting the audit
+       to meet changing needs and.expectations - a process which
+       the Committee’s report itself is intended to encourage.
+
+5.34   Proponents of change argue that a better balance between
+       the interests of the parties involved would be achieved if
+       a u d i t o r s ’ duty of care were to be extended on a defined
+       basis, but at the same time the present system under which
+       auditors can be liable for the full loss caused were to be
+       replaced by one of proportionate liability, and/or a ceiling
+       were placed on auditors’ liability. There would, however,
+       be major problems over such changes, some of which are
+                                                          AUDITING
+
+
+
+       outlined in A p p e n d i x 6 . Changes could not be undertaken
+       without a detailed review and wide consultation and might
+       well require major legal reform.
+
+5.35   At present there is no consensus on a satisfactory way of
+       reconciling the conflicting interests of all those involved.
+       As the debate on the nature and extent of auditors’ liability
+       continues, however, the Committee will keep watch on
+       developments.
+
+Audit Confidence
+
+5.36 The accounting profession has done much recently to
+      improve its standards and procedures. It is essential that
+      this effort should continue. We welcome the initiatives
+      which are being taken on professional conduct issues -
+      particularly the profession’s ethical rules and disciplin&ry
+      arrangements. We also support the work which is being
+      done by the profession’s Joint Ethics Committee to tackle
+      problem areas such as opinion shopping and partner
+      rotation. A lead on these and other matters such as audit
+      tendering will strengthen the standing and independence of
+      auditors.
+
+5.37   We have indicated our strong support for tighter accounting
+       standards, effective audit committees, rigorous and
+       objective auditing and action by the accountancy profession
+       to improve and enforce auditing standards. This
+       combination of actions uncompromisingly pursued will
+       enhance the perceived value of the audit system.
+Accountability of Boards to Shareholders
+
+6.1   The formal relationship between the shareholders and the
+      board of directors is that the shareholders elect the
+      directors, the directors report on their stewardship to the
+      shareholders and the shareholders appoint the auditors to
+      provide an external check on the directors’ financial
+      statements. Thus the shareholders as owners of the
+      company elect the directors to run the business on their
+      behalf and hold them accountable for its progress. The
+      issue for corporate governance is how to strengthen the
+      accountability of boards of directors to shareholders.
+
+6.2   A number of proposals addressing this issue were put
+      forward by individual shareholders and shareholder
+      organisations. One was that shareholders should be more
+      closely involve-d in the appointment of directors and
+      auditors through the formation of shareholders’
+      committees. Other proposals were directed at making it
+      easier for shareholders. individually or collectively, to put
+      forward resolutions at general meetings.
+
+6.3   On the first proposal, we have not seen evidence explaining
+      how it would be possible to form shareholder committees in
+      such a way that they would be both truly representative of
+      all the company’s shareholders and able to keep in regular
+      touch with their changing constituencies. Unless these tests
+      of legitimacy are met, the Committee is unable to see how
+      shareholder committees can become the accepted link
+      between a board and its shareholders.
+
+6.4    The second set of proposals raises such questi.ons as what
+       legislation would be needed to alter the present thresholds
+       for tabling shareholder resolutions, and where the costs
+       involved in circulating shareholder communications should
+       fall. How far these suggestions are followed up should
+       depend, in the Committee’s view, on the degree of support
+       which they command from the shareholder body as a whole.
+       This may be a matter which our successor body will wish to
+       review,
+
+6.5    In the meantime, shareholders can make their views known
+       to the boards of the companies in which they have invested
+       by communicating with them direct and through their
+       attendance at general meetings. Shareholder organisations
+       set up to represent shareholder interests generally may
+       provide individual shareholders with the choice of acting
+                                         THESHAREHOLDERS
+
+
+
+      collectively in the case of particular companies if they
+      prefer.
+
+6.6   Shareholders have delegated many of their responsibilities
+      as owners to the directors who act as their stewards. It is
+      for the shareholders to call the directors to book if they
+      appear to be failing in their stewardship and they should
+      use this power. While they cannot be involved in the
+      direction and management of their company, they can insist
+      on a high standard of corporate governance and good
+      governance is an essential test of the directors’
+      stewardship. The accountability of boards to shareholders
+      will, therefore, be strengthened if shareholders require
+      their companies to comply with the Code.
+
+6.7   Reports and accounts are presented to shareholders at the
+      Annual General Meeting, when they have the opportunity to
+      comment on them and to put their questions. In particular,
+      the Annual General Meeting gives all shareholders,
+      whatever the size of their shareholding, direct and public
+      access to their boards. If too many Annual General
+      Meetings are at present an opportunity missed, this is
+      because shareholders do not make the most of them and, in
+      some cases, boards do not encourage them to do so.
+
+6.8   In the Committee’s view, both shareholders and boards of
+      directors should consider how the effectiveness of general
+      meetings could be increased and as a result the
+      accountability of boards to all their shareholders
+      strengthened. Possible ways forward include providing
+      forms in annual reports on which shareholders could send
+      in written questions in advance of the meeting, in addition
+      to their opportunity to ask questions at the meeting itself,
+      and the circulation of a brief summary of points raised at
+      the Annual General Meeting to all shareholders after the
+      event. Consideration might also be given to ways of boards
+      keeping in touch with their shareholders, outside the annual
+      and half-yearly reports. The Committee encourages boards
+      to experiment with ways of improving their links with
+      shareholders along the above lines and shareholders to put
+      proposals to their boards to the same end.
+THESHAREHOLDERS
+
+
+
+Institutional Shareholders
+
+6.9   The proportion of shares held by individuals and by
+      institutions has broadly reversed over the last thirty years,
+      so that institutional shareholders now own the majority of
+      shares of quoted companies. They are, however, largely
+      holding their shares on behalf of individuals, as members
+      of pension funds, holders of insurance policies and the
+      like. As a result, there is an important degree of common
+      interest between individual and institutional shareholders.
+      In particular, both have the same stake in the standards of
+      financial reporting and of governance in the companies in
+      which they have invested.
+
+6 . 1 0 Given the weight of their votes, the way in which
+        institutional shareholders use their power to influence the
+        standards of corporate governance is of fundamental
+        importance. Their readiness to do this turns on the degree
+        to which they see it as their responsibility as owners, and
+        in the ir:terest of those whose money they are investing, to
+        bring about changes in companies when necessary, rather
+        than selling their shares.
+
+6.11 The Committee, therefore, warmly welcomes the statement
+      recently published by the Institutional Shareholders’
+      Committee on the Responsibilities of Institutional
+      Shareholders in the UK and we draw attention to three key
+      conclusions which are basic to the development of a
+      constructive relationship between companies and their
+      owners.
+            Institutional investors should encourage regular,
+            s y s t e m a t i c c o n t a c t a t s e n i o r executiv’e l e v e l t o
+            exchange views and information on strategy,
+            performance, board membership and quality of
+            management.
+            institutional investors should make positive use of
+            their voting rights, unless they have good reason for
+            doing otherwise. They should register their votes
+            wherever possible on a regular basis.
+            Institutional investors should take a positive interest
+            in the composition of boards of directors, with
+            p a r t i c u l a r r e f e r e n c e t o c o n c e n t r a t i o n s o f decision-
+            making power not formally constrained by appropriate
+                                                           THESHAREHOLDERS
+
+
+
+         checks and balances, and to the appointment of a core of
+         non-executive directors of the necessary calibre,
+         experience and independence.
+
+6.12 The Institutional Shareholders’ Committee’s advice to its
+      members to use their voting rights positively is important
+      in the context of corporate governance. Voting rights can
+      be regarded as an asset, and the use or otherwise of those
+      rights by institutional shareholders is a subject of
+      legitimate interest to those on whose behalf they invest.
+      We recommend that institutional investors should disclose
+      their policies on the use of voting rights.
+
+Shareholder Communications
+
+6.13     These conclusions on the role of institutional shareholders
+         raise issues over the lines of communication between
+         boards and their shareholders. The first issue is one of
+         parity between shareholders. The institutions are in a
+         position to keep in touch with the boards of the companies
+         in which they have invested, in a way which is not feasible
+         for the. individual shareholder. It is not possible in this
+         respect to put both classes of shareholder on the same
+         footing. What boards must do, however, is to ensure that
+         any significant statements concerning their companies are
+         made publicly and so are equally available to all
+         shareholders.
+
+6.14     A second issue which arises over communications between
+         institutional investors and companies is the danger of
+         imparting inside information. If price-sensitive information
+         is to be given (and it is the company’s responsibility to
+         decide what might be price-sensitive), it must only be with
+         the prior consent of the shareholder, who will then be
+         unable to deal in the company’s shares until that
+         information has been made public. It is for shareholders to
+         decide whether their longer-term interests are impaired by
+         becoming insiders, because of the short-term constraints t 31
+         share dealing which that position imposes.
+
+6 . 1 5 I f l o n g - t e r m r e l a t i o n s h i p s a r e t o b e d e v e l o p e d , i t i,
+          important that companies should communicate the i
+          strategies to their major shareholders and that the i
+          shareholders should understand them. It is equally
+          important that shareholders should play their part in the
+         communication process by informing companies if there are
+THESHAREHOLDERS
+
+
+
+      aspects of the business which give them cause for concern.
+      Both shareholders and directors have to contribute to the
+      building of a sound working relationship between them.
+
+Shareholder Influence
+
+6 . 1 6 Because of the importance of their collective stake, we
+      look to the institutions in particular, with the backing of
+      the Institutional Shareholders’ Committee, to use their
+      influence as owners to ensure that the companies in which
+      they have invested comply with the Code. The widespread
+      adoption of our recommendations will turn in large measure
+      on the support which all shareholders give to them. The
+      obligation on companies to state how far they comply with
+      the Code provides institutional and individual shareholders
+      with a ready-made agenda for their representations to
+      boards. It is up to them to put it to good use. The
+      Committee is primarily looking to such market-based
+      regulation to turn its proposals into action.
+7.1   The Committee’s proposals are mutually supportive and
+      should be taken as a whole. The Code reflects existing best
+      practice and few of our recommendations require
+      legislation. We believe that they will reinforce good
+      corporate governance without stifling entrepreneurial
+      initiative.
+
+7.2   No system of corporate governance can be totally proof
+      against fraud or incompetence. The test is how far such
+      aberrations can be discouraged and how quickly they can
+      be brought to light. The risks can be reduced by making the
+      participants in the governance process as effectively
+      accountable as possible. The key safeguards are properly
+      constituted boards, separation of the functions of chairman
+      and of chief executive, audit committees, vigilant
+      shareholders and financial reporting and auditing systems
+      which provide full and timely disclosure.
+
+7.3   Although the great majority of companies are both
+      competently run and audited under the present system of
+      corporate governance, it is widely accepted that standards
+      within the corporate sector have to be raised.
+
+7.4   The way forward is through clear definitions of
+      responsibility and an acceptance by all involved that the
+      highest standards of efficiency and integrity are expected
+      of them. Expectations of corporate behaviour are
+      continually rising and a corresponding response is looked
+      for from shareholders, directors and auditors. The
+      machinery is in place. What is needed is the will to
+      improve its effectiveness.
+
+7.5   This will involve a sharper sense of accountability and
+      responsibility all round - accountability by boards to their
+      shareholders, responsibility on the part of all shareholders
+      to the companies they own. and, accountability by
+      professional officers and advisers to those who rely on
+      their judgement. All three groups have a common interest
+      i n c o m b i n i n g t o i m p r o v e the w o r k i n g o f t h e c o r p o r a t e
+      system.
+Compliance with the Code of Best Practice
+
+1     The boards of all listed companies registered in the UK
+      should comply with the Code of Best Practice set out on
+      pages 58 to 60. As many other companies as possible
+      should aim at meeting its requirements (paragraph 3.1).
+
+2     Listed companies reporting in respect of years ending after
+      30 June 1993 should make a statement about their
+      compliance with the Code in the report and accounts and
+      give reasons for any areas of non-compliance (paragraph
+      3.7).
+
+3     C o m p a n i e s ’ statements of compliance should be reviewed
+      by the auditors before publication. The review should cover
+      only those parts of the compliance statement which relate
+      to provisions of the Code where compliance can be
+      objectively verified. The Auditing Practices Board should
+      consider guidance for auditors accordingly (paragraph 3.9).
+
+4      All parties concerned with corporate governance should use
+       their influence to encourage compliance with the Code
+       (paragraph 3.14). Institutional shareholders in particular,
+       with the backing of the Institutional Shareholders’
+       Committee, should use their influence as owners to ensure
+       that the companies in which they have invested comply
+       with the Code (paragraph 6.16).
+
+
+Keeping the Code up to date
+
+5      The Committee’s sponsors, convened by the Financial
+       Reporting Council, should appoint a new Committee by the
+       end of June 1995 to examine how far compliance with the
+       Code has progressed, how far our other recommendations
+       have been implemented, and whether the Code needs
+       updating. Our sponsors should also determine whether the
+       sponsorship of the new Committee should be broadened and
+       whether wider matters of corporate governance should be
+       included in its brief. In the meantime the present
+       Committee will remain responsible for reviewing the
+       implementation of its proposals (paragraph 3.12).
+                           SUMMARY OF RECOMMENDATIONS
+
+
+
+Directors’ service contracts
+
+6      The Companies Act should be amended to come into line
+       with the requirement of the Code that directors’ service
+       contracts should not exceed three years without
+       shareholders’ approval (paragraph 4.41).
+
+Interim reporting
+
+7      Companies should expand their interim reports to include
+       balance sheet information. The London Stock Exchange
+       should consider amending the continuing obligations
+       accordingly. There should not be a requirement for a full
+       audit, but interim reports should be reviewed by the
+       auditors and the Auditing Practices Board should develop
+       appropriate guidance. The Accounting Standards Board in
+       conjunction with the London Stock Exchange should clarify
+       the accounting rules which companies should follow in
+       preparing interim reports. The inclusion of cash flow
+       information should be considered by the Committee’s
+       successor body (paragraph 4.56).
+
+Enhancing the perceived objectivity of the audit
+
+8      Fees paid to audit firms for non-audit work should be fully
+       disclosed. The essential principle is that disclosure should
+       enable the relative significance of the company’s audit and
+       non-audit fees to the audit firm to be assessed, both in a
+       UK context and, where appropriate, a worldwide context.
+       The 1991 Regulations under the Companies Act should be
+       reviewed and amended as necessary (paragraph 5.1 I).
+
+9      The accountancy profession should draw up guidelines on
+       the rotation of audit partners (paragraph 5.12).
+
+Enhancing the effectiveness of the audit
+
+10     Directors should report on the effectiveness of their system
+       of internal control, and the auditors should report on their
+       statement. The accountancy profession together with
+       representatives of preparers of accounts should draw up
+       criteria for assessing effective systems of internal control
+       and guidance for companies and auditors (paragraphs 4.32
+       and 5.16).
+SUMMARY OF RECOMMENDATIONS
+
+
+
+11    Directors should state in the report and accounts that the
+      business is a going concern, with supporting assumptions
+      or qualifications as necessary, and the auditors should
+      report on this statement. The accountancy profession
+      together with representatives of preparers of accounts
+      should develop guidance for companies and auditors
+      (paragraph 5.22).
+
+12    The question of legislation to back the recommendations on
+      additional reports on internal control systems and going
+      concern should be decided in the light of experience
+      (paragraphs 5. I7 and 5.22).
+
+13    The Government should consider introducing legislation to
+      extend to the auditors of all companies the statutory
+      protection already available to auditors in the regulated
+      sector (banks, building societies, insurance, and investment
+      business) so that they can report reasonable suspicicn of
+      fraud freely to the appropriate investigatory authorities
+      (paragraph 5.28).
+
+14     The accountancy profession together with the legal
+       p r o f e s s i o n a n d r~epresentatives of prepareis’of a c c o u n t s
+       should consider further the question of illegal acts other
+       than fraud (paragraph 5.30).
+
+15     The accounting profession should continue its efforts to
+       improve its standards and procedures so as to strengthen
+       the standing and independence of auditors (paragraph
+       5.36).
+
+Voting by institutional investors                                  ‘_
+
+16     Institutional investors
+                            should disclose their policies on the
+       use of their voting rights (paragraph 6.12).
+                         SUMMARY OF RECOMMENDATIONS
+
+
+
+Endorsement of work by others
+
+17    The Committee gives its full support to the objectives of
+      the Financial Reporting Council and the Accounting
+      Standards Board. It welcomes the action by the Financial
+      Reporting Review Panel over companies whose accounts
+      fall below accepted reporting standards (paragraphs 4.52
+      and 5.8).
+
+18    The Committee supports the initiative of the Auditing
+      Practices Board on the development of an expanded audit
+      report. It also gives its full support to the lead which it is
+      taking on the development of auditing practice generally
+      (paragraphs 5.14 and 5.15).
+
+
+19    The Committee welcomes the statement by the Institutional
+      Shareholders’ Committee on the Responsibilities of
+      Institutional Shareholders in the UK (paragraph 6.1 I).
+
+
+Issues for the Committee’s successor body
+
+20     Issues which the Committee has identified that its
+       successor body may wish to review or consider in greater
+       depth include: the application of the Code to smaller listed
+       companies (paragraph 3. IS); directors’ training (paragraph
+       4.20); the rules for disclosure of directors’ remuneration,
+       and the role which shareholders could play (paragraph
+       4.46); a requirement for inclusion of cash flow information
+       in interim reports (paragraph 4.56); and the procedures for
+       putting forward resolutions at general meetings (paragraph
+       6.4). The Committee and its successor will also keep watch
+       on developments regarding the nature and extent of
+       auditors’ liability (paragraph 5.35).
+1     The Board of Directors
+
+1.1   The board should meet regularly, retain full and effective
+      control over the company and monitor the executive
+      management.
+
+1.2   There should be a clearly accepted division of
+      responsibilities at the head of a company, which will
+      ensure a balance of power and authority, such that no one
+      individual has unfettered powers of decision. Where the
+      chairman is also the chief executive, it is essential that
+      there should be a strong and independent element on the
+      board, with a recognised senior member.
+
+1.3   The board should include non-executive directors of
+      sufficient calibre and number for their views to carry
+      significant weight in the board’s decisions.
+
+1.4   The board should have a formal schedule of matters
+      specifically reserved to it for decision to ensure that the
+      direction and control of the company is firmly in its hands.
+
+1.5   There should be an agreed procedure for directors in the
+      furtherance of their duties to take independent professional
+      advice if necessary, at the company’s expense.
+
+1.6   All directors should have access to the advice and services
+      of the company secretary, who is responsible to the board
+      for ensuring that board procedures are followed and that
+      applicable rules and regulations are complied with. Any
+      question of the removal of the company secretary should be
+      a matter for the board as a whole.             ‘_
+
+2      Non-Executive Directors
+
+2.1   Non-executive directors should bring an independent
+      j u d g e m e n t 10 b e a r o n i s s u e s o f s t r a t e g y , p e r f o r m a n c e ,
+      resources, including key appointments, and standards of
+      conduct.
+
+2.2   The majority should be independent of management and
+      free from any business or other relationship which could
+      materially interfere with the exercise of their independent
+      judgement. apart from their fees and shareholding. Their
+      fees should reflect the time which they commit to the
+      company.
+                                    THE CODE OF BEST PRACTICE
+
+
+
+2.3   Non-executive directors should be appointed for specified
+      terms and reappointment should not be automatic.
+
+2.4   Non-executive directors should be selected through a
+      formal process and both this process and their appointment
+      should be a matter for the board as a whole.
+
+3     Executive Directors
+
+3.1   Directors’ service contracts should not exceed three years
+      without shareholders’ approval.
+
+3.2   There should be full and clear disclosure of directors’ total
+      emoluments and those of the chairman and highest-paid UK
+      director, including pension contributions and stock options.
+      Separate figures should be given for salary and
+      performance-related elements and the basis on which
+      performance is measured should be explained.
+
+3.3   Executive directors’ pay should be subject to the
+      recommendations of a remuneration committee made up
+      wholly or mainly of non-executive directors.
+
+4     Reporting and Controls
+
+4.1   It i s t h e b o a r d ’ s d u t y t o p r e s e n t a b a l a n c e d a n d
+      understandable assessment of the company’s position.
+
+4.2   The board should ensure that an objective and professional
+      relationship is maintained with the auditors.
+
+4.3   The board should establish an audit committee of at least
+      three non-executive directors with written terms of
+      reference which deal clearly with its authority and duties.
+
+4.4   The directors should explain their responsibility for
+      preparing the accounts next to a statement by the auditors
+      about their reporting responsibilities.
+
+4.5   The directors should report on the effectiveness of the
+      company’s system of internal control.
+
+4.6   The directors should report that the business is a going
+      concern, with supporting assumptions or qualifications as
+      necessary.
+THE CODE OF BEST PRACTICE
+
+
+
+Footnote
+       The company’s statement of compliance should be reviewed
+       by the auditors in so far as it relates to paragraphs 1.4, 1.5,
+       2.3, 2.4, 3.1 to 3.3, and 4.3 to 4.6 of the Code.
+                                   APPENDIX 1
+
+Terms of Reference
+
+       The Committee was set up in May 1991 by the Financial
+       Reporting Council, the London Stock Exchange, and the
+       accountancy profession. It adopted as its terms of
+       reference:
+             To consider the following issues in relation to
+             financial reporting and accountability and to make
+             recommendations on good practice:
+             (a) t h e r e s p o n s i b i l i t i e s o f e x e c u t i v e a n d n o n -
+                   executive directors for reviewing and reporting on
+                   performance to shareholders and other financially
+                   interested parties; and the frequency, clarity and
+                   form in which information should be provided;
+             (b) t h e c a s e f o r a u d i t c o m m i t t e e s o f t h e b o a r d ,
+                   including their composition and role;
+             Cc) the principal responsibilities of auditors and the
+                   extent and value of the audit;
+             Cd) t h e l i n k s b e t w e e n s h a r e h o l d e r s , b o a r d s , a n d
+                   auditors;
+             (e) any other relevant matters.
+
+Membership
+
+The Committee’s members were as follows:
+
+Sir Adrian Cadbury (Chairman)
+Ian Butler
+    Coutlcil M e m b e r . C B I and      former     Chairman, CBI Companies
+    Commitfee
+Jim Butler
+    S e n i o r Partner, K P M G P e a t Marwick
+Jonathan Charkham
+    Adviser- to the Gover~lor. Bunk o f E n g l a n d
+Hugh Collum
+    Chairman. Hundred Group of Finance Directors
+Sir Ron Dearing
+    Chairman,     Financial      Reporting      Council
+THE’COMMITTEE’S MEMBERSHIP AND TERMS OF
+REFERENCE
+
+
+Andrew Likierman
+   Professor of A c c o u n t i n g a n d F i n a n c i a l C o n t r o l , L o n d o n
+   Business School
+Nigel Macdonald
+   Vice President, Institute of Chartered Accountants of Scotland
+Mike Sandland
+   Chairman, Institutional Shareholder-s’ Committee
+Mark Sheldon
+    President, Law Society
+Sir Andrew Hugh Smith
+    Chairman, London Stack Exchange
+Sir Dermot de Trafford, Bt
+    Chairman, Institute of Directors
+O b s e r v e r s : M r s S a r a h B r o w n ( u n t i l O c t o b e r 1991), M r A r t h u r
+Russell (from November 1991). Head of Companies Division, DTf
+
+Secretary: Nigel Peace (on secondment from DTI)
+
+Sir Christopher Hogg (Chair-man, Reuters Holdings PLC,
+Courtaulds plc, and Courtaulds Textiles plc) acted as an adviser
+to the Committee.
+                                         APPENDIX 2
+
+    Auditing Practices Board
+
+    1     The Auditing Practices Board is responsible for the
+                                                            standa5ds.
+          from the Auditing Practices Committee in 1991.
+          has outside representation and the ability to issue auditing
+
+
+
+
+    Financial Reporting Review Panel
+
+    2     The Financial Reporting Council was set up in 1990 to
+          establish and support the two bodies under its aegis, the
+          A c c o u n t i n g S t a n d a r d s B o a r d a n d t h e F i n a n c i a l Reporting
+          Review Panel, and to promote good financial reporting
+          generally. The three bodies draw their funding broadly
+          equally from the accountancy profession, the City, and the
+          Government.
+
+3          The role of the Accounting Standards Board is to make,
+           amend, and withdraw accounting standards. It took over
+           from the former Accounting Standards Committee on 1
+           A u g u s t 1 9 9 0 . T h e B o a r d i s a u t o n o m o u s - although it
+           consults widely on its proposals, it does not need outside
+           approval for its actions.
+
+    4      The Secretary of State has authorised the Financial
+           Reporting Review Panel to examine departures from the
+           a c c o u n t i n g r e q u i r e m e n t s o f t h e C o m p a n i e s A c t 1985 and if
+           necessary to seek an order from the court to remedy them.
+           T h e P a n e l ’ s ambit i s p u b l i c a n d l a r g e p r i v a t e c o m p a n i e s ,
+           the Department of Trade and Industry dealing with all other
+           cases. The Panel’s main focus is on material departures
+           from accounting standards where this results in the
+           accounts in question not giving a true and fair view as
+           required by law. Where a company’s accounts are defective
+           the Panel will. wherever possible. endeavour to secure
+           revision by voluntary means; but if this approach fails it
+           will make an application to the court for an order
+           compelling the revision. Where accounts are revised at the
+           insistence of the Panel, but the company’s auditors have
+           not qualified their audit report on the defective accounts,
+THE ROLE OF BODIES REFERRED TO IN THE REPORT
+
+
+
+      the panel will draw this fact to the attention of the
+      auditors’ professional body.
+
+Institutional Shareholders’ Committee
+
+5     The Institutional Shareholders’ Committee (ISC) has five
+      members: the Association of British Insurers, the National
+      Association of Pension Funds, the Association of
+      Investment Trust Companies, the British Merchant Banking
+      and Securities Houses Association, and the Unit Trust
+      Association. Together they represent the overwhelming
+      majority of institutional shareholders in the UK. The ISC
+      provides a channel of communication and forum for
+      discussion between institutional shareholders, corporate
+      management and others on wider issues. It also seeks to
+      identify areas of common ground amongst its members and
+      thereafter to promulgate those jointly held views. It does
+      not normally become involved in matters concerned with
+      particular investments or companies.
+
+London Stock Exchange
+
+6      The London Stock Exchange is empowered through its
+       Competent Authority status to grant listings of securities
+       under the Financial Services Act 1986 and it has
+       responsibility for the Unlisted Securities Market.
+
+7      The Exchange through its rules contained in the Admission
+       of Securities to Listing (often known as the ‘Yellow Book’)
+       requires issuers of securities not only to meet certain
+       disclosure requirements at the time of listing but also to
+       comply with a number of continuing obligations. The
+       p u r p o s e o f t h i s i s t o e n s u r e t h a t all p o t e n t i a l l y price-
+       sensitive information, or information about the company
+       which might have an effect on its share price or trading in
+       its shares, is released to the market promptly. These
+       requirements impose specific content a n d I i m i n g
+       requirements in relation to the issuer’s interim and final
+       accounts and impose guidelines governing dealings by
+       directors of listed companies in their own companies’
+       securities.
+    THE ROLE OF BODIES REFERRED TO IN THE REPORT
+
+
+
+The Hundred Group of Finance Directors
+
+8     The Hundred Group of Finance Directors has approximately
+      one hundred and forty members, including more than 90%
+      of the finance directors of those companies included in the
+      FT-SE 100 and also those with the highest market
+      capitalisation.
+
+9     The main purpose of The Hundred Group is to provide a
+      forum for discussion and to make contributions and
+      representations on issues of importance for financial
+      management. Members are actively involved to ensure that
+      the views of users and preparers of accounts are fully
+      understood. Submissions are made to Government and other
+      organisations highlighting the practical implications of
+      existing financial procedures, related legislation and
+      proposed changes.
+                                       APPENDIX 3
+
+1       In paragraph 4.28 of the report, and in the Code of Best
+        Practice, the Committee recommends that a brief statement
+        of directors’ responsibility for preparing the accounts
+        should appear in the report and accounts. The purpose of
+        such a statement is to make clear that responsibility for
+        preparing the accounts rests with the board of directors,
+        and to remove any misconception that the auditors are
+        responsible for the accounts. The directors’ statement
+        should be placed immediately before the auditors’ report
+        which in future will include a separate statement (currently
+        being developed by the Auditing Practices Board) on the
+        responsibility of the auditors for expressing an opinion on
+        the accounts. Positioning the two statements alongside each
+        other in this way will achieve maximum clarity about
+        respective responsibilities.
+
+2       The explanation of directors’ responsibilities will require a
+        relatively formal statement, which should cover the
+        following points:
+        (a)    the legal requirement for directors to prepare financial
+               statements for each financial year which give a true
+               and fair view of the state of affairs of the company (or
+               group) as at the end of the financial year and of the
+               profit and loss for that period;
+        (b) t h e r e s p o n s i b i l i t y o f t h e d i r e c t o r s f o r m a i n t a i n i n g
+               adequate accounting records, for safeguarding the
+               assets of the company (or group), and for preventing
+               and detecting fraud and other irregularities;
+        (c) c o n f i r m a t i o n t h a t s u i t a b l e a c c o u n t i n g ‘ p o l i c i e s ,
+               consistently applied and supported by reasonable and
+               prudent judgements and estimates, have been used .in
+               the preparation of the financial statements;
+        Cd ) confirmation that applicable accounting standards have
+               been followed, subject to any material departures
+               disclosed and explained in the notes to the accounts.
+
+    3   Boards may also wish to use the above statement as a
+        vehicle for reporting that they have maintained an
+        effective system of internal control, and that the business
+        is a going concern, with supporting assumptions or
+        qualifications as necessary, once the necessary guidance on
+        these subjects has been developed (see paragraphs 5.16 and
+        5.22 of the main report).
+             DIRECTOR’S RESPONSIBILITY STATEMENT
+
+
+
+4
+    statement in the notes to the accounts disclosing whether
+    the accounts have been prepared in accordance with
+    applicable accounting standards.
+I
+
+
+
+
+                                                              ,
+                             APPENDIX 4
+
+    1   In the main body of the report the Committee recommends
+        that all listed companies which have not already done so
+        should establish an audit committee, and places great
+        emphasis on the importance of properly constituted audit
+        committees in raising standards of corporate governance.
+
+    2   Many UK companies already have an audit committee, and
+        a recent research study (‘Audit Committees in the United
+        K i n g d o m ’ , published by the ICAEW, April 1992) has found
+        a steady growth in their number. Audit Committees are now
+        established in 53% of the top 250 industrial firms in the
+        Times 1000, and the figure rises to 66% if unlisted
+        companies and foreign subsidiaries are excluded from the
+        calculation. Most major UK listed financial institutions
+        have also formed an audit committee.
+
+    3   Audit Committees are well established in the United States,
+        where they have been a listing requirement of the New
+        York Stock Exchange since 1978. A 1989 study revealed
+        that 97% of major corporations had them. In Canada, they
+        are a legal requirement.
+
+    4   If they operate effectively, audit committees can bring
+        significant benefits. In particular, they have the potential
+        to:
+
+        (a)   improve the quality of financial reporting, by
+              reviewing the financial statements on behalf of the
+              Board;
+
+        (b)   create a climate of discipline and control which will
+              reduce the opportunity for fraud;
+I       Cc)   enable the non-executive directors to contribute an
+              independent judgement and play a positive role;
+
+i       Cd)   help the finance director., by providing a forum in
+              which he can raise issues of concern, and which he can
+              use to get things done which might otherwise be
+              difficult;
+
+        (e)   strengthen the position of the external auditor, by
+              providing a channel of communication and forum for
+              issues of concern;
+
+        (0    provide a framework within which the external auditor
+              can assert his independence in the event of a dispute
+              with management;
+                                        AUDIT COMMITTEES
+
+
+
+0   Chapter 3 of the Report by the Institute of Chartered
+    Accountants           of Scotland ‘entitled ‘Corporate
+    G o v e r n a n c e - Directors’ Responsibilities for Financial
+    Statements’, February 1992
+
+0   Guidance booklets produced by individual firms of
+    accountants
+
+0   Chapter 2, section IV of the Report of the National
+    Commission on Fraudulent Financial Reporting (the
+    Treadway Commission), USA, October 1987
+
+l   ‘Audit Committees in the United Kingdom’ by
+    P. Collier, published by the Institute of Chartered
+    Accountants of England and Wales, April 1992.
+    AUDIT COMMITTEES
+
+
+
+                                  ANNEX
+
+    Specimen Terms of Reference for an Audit Committee
+    FOR GUIDANCE ONLY
+
+
+    Constitution
+
+
+    1      The Board hereby resolves to establish a Committee of the
+           Board to be known as the Audit Committee.
+
+    Membership
+
+    2      The Committee shall be appointed by the Board from
+           amongst the Non-Executive Directors of the Company and
+           shall consist of not less than three members. A quorum
+           shall be two members.
+
+    3       The Chairman of the Committee shall be appointed by the
+            Board.
+
+    Attendance at meetings
+
+    4       The Finance Director, the Head of Internal Audit, and a
+            representative of the external auditors shall normally
+            attend meetings. Other Board members shall also have the
+            right of attendance. However, at least once a year the
+            Committee shall meet with the external auditors without
+            executive Board members present.
+
+    5       The Company Secretary shall be the Secretary, of the
+            Committee.
+
+    Frequency of meetings
+
+    6       Meetings shall be held not less than twice a year. The
+            external auditors may request a meeting if they consider
+            that one is necessary.
+
+    Authority
+
+    7       The Committee is authorised by the Board to i,nvestigate
+            any activity within its terms of reference. It is authorised
+            to seek any information it requires from any employee and
+            all employees are directed to co-operate with any request
+I           made by the Committee.
+                                               AUDIT COMMITTEES
+
+
+
+8        The Committee is authorised by the Board to obtain outside
+         legal or other independent professional advice and to
+         secure the attendance of outsiders with relevant experience
+         and expertise if it considers this necessary.
+
+Duties
+
+9        The duties of the Committee shall be:
+         (a) to consider the appoi,ntment of the external auditor, the
+               audit fee, and any questions of resignation or
+               dismissal;
+               to discuss with the external auditor before the audit
+               commences the nature and scope of the audit, and
+               ensure co-ordination where more than one audit firm is
+               involved;
+         (cl to review the half-year and annual financial statements
+               before submission to the Board, focusing particularly
+               on:
+               (i)   any changes in accounting policies and practices
+               ‘(ii) major judgemental areas
+               (iii) significant adjustments resulting from the audit
+               (iv) the going concern assumption
+               (v) compliance with accounting standards
+               (vi) compliance with stock exchange and legal
+                   requirements.
+         Cd) to discuss problems and reservations arising from the
+               interim and final audits, and any matters the auditor
+               may wish to discuss (in the absence of management
+               where necessary);
+         (e)   to review the external auditor’s management letter and
+               management’s response;
+         (0    to review the Company’s statement on internal control
+               systems prior to endorsement by the Board;
+         (8) (where an internal audit function exists) to review the
+               internal audit programme, ensure co-ordination
+               between the internal and external auditors, and ensure
+               that the internal audit function is adequately resourced
+               and has appropriate standing within the Company;
+AUDIT COMMITTEES
+
+
+
+      (h)   to  consider the m a j o r f i n d i n g s o f   internal
+            investigations and management’s response;
+      (i)   to consider other topics, as defined by the board.
+
+Reporting procedures
+
+10    The Secretary shall circulate the minutes of meetings of the
+      Committee to all members of the Board.
+                                    APPENDIX 5
+
+1       This    appendix      summarises     the   main    statutory
+        responsibilities of directors and auditors relating to the
+        accounts and audit, as background to the recommendation
+        in the Code of Best Practice that directors should explain
+        their responsibility for preparing the accounts alongside a
+        statement by the auditors about their reporting
+        responsibilities. It also summarises current requirements on
+        internal control, going concern, and fraud, as background
+        to the recommendations on these issues in the report.
+
+The statutory responsibilities of directors and auditors
+
+2       The statutory responsibilities of directors and auditors
+        relating to accounts and audit are laid down in Part VII
+        (sections 221 to 262) of the Companies Act 1985. Among
+        the main provisions are the following:
+
+(i) directors
+
+        221.-(l) E v e r y c o m p a n y s h a l l k e e p a c c o u n t i n g r e c o r d s
+        which are sufficient to show and explain the company’s
+        transactions and are such as to -
+        (a) disclose with reasonable accuracy, at *any time, the
+            financial position of the company at that time, and
+        (b) enable the directors to ensure that any balance sheet
+            and profit and loss account prepared under this Part
+            complies with the requirements of this Act.
+
+        226.-(l) The directors of every company shall prepare for
+        each financial year of the company -
+        (a) a balance sheet as at the last day of the year, and
+        (b) a profit and loss account
+        (2) The balance sheet shall give a true and fair view of the
+        state of affairs of the company as at the end of the
+        financial year; and the profit and loss account shall give a
+        true and fair view of the profit or loss of the company for
+        the financial year.
+
+        227.-(l) If at the end of a financial year a company is a
+        parent company the directors shall. as well as preparing
+        individual accounts for the year, prepare group accounts.
+CURRENT STATUTORY AND OTHER REQUIREMENTS
+
+
+
+        234.-(I) The directors of a company shall for each
+        financial year prepare a report -
+        (a) containing a fair review of the development of the
+            b u s i n e s s o f t h e c o m p a n y a n d its s u b s i d i a r y
+            undertakings during the financial year and of their
+            position at the end of it, . . .
+        (3) The report shall also comply with Schedule 7 as
+        regards the disclosure of matters mentioned there.
+
+(ii) auditors
+
+        235.-(l) A company’s auditors shall make a report to the
+        company’s members on all annual accounts of the
+        company...
+        (2) The auditors’ report shall state whether in the
+        auditors’ opinion the annual accounts have been properly
+        prepared in accordance with this Act, and in particular
+        whether a true and fair view is given -
+        (a)     in the case of an individual balance sheet, of the state
+                of affairs of the company as at the end of the financial
+                year
+        (b) in the case of an individual profit and loss account, of
+             the profit or loss of the company for the financial year
+        (c)     in the case of group accounts, of the state of affairs as
+                at the end of the financial year, and the profit or loss
+                for the financial year, of the undertakings included in
+                the consolidation as a whole, so far as concerns
+                members of the company.
+         (3) The auditors shall consider whether the information
+         given in the directors’ report for the financial year for
+         which the annual accounts are prepared is consistent with.
+         those accounts; and if they are of the opinion that it is not
+         they shall state that fact in their report.
+
+         237.-(l) A company’s auditors shall, in preparing their
+         report, carry out such investigations as will enable them to
+         form an opinion as to -
+         (a) whether proper accounting records have been kept by
+             the company and proper returns adequate for their
+             audit have been received from branches not visited by
+             them, and
+               CURRENT STATUTORY AND OTHER REQUIREMENTS
+
+
+
+                (b) whether the company’s individual accounts are in
+                    agreement with the accounting records and returns.
+                (3) If the auditors fail to obtain all the information and
+                explanations which, to the best of their knowledge and
+                belief, are necessary for the purposes of the audit, they
+                shall state that fact in their report.
+
+      Current requirements on Internal Control
+
+      3         Under s.221 of the Companies Act directors are required to
+                maintain adequate accounting records to enable them to
+                disclose with reasonable accuracy, at any time, the
+                financial position of the company and in order to meet this
+                responsibility they must in practice maintain some form of
+                control system over the company’s process of financial
+                management. However, there is no explicit requirement in
+                company law for them to maintain an effective system of
+                internal control.
+
+          4     Auditors in turn, as part of their usual audit procedures,
+.~   ,,         will consider how ~f-2 t h e y c a n r e l y o n t h e c o m p a n y ’ s
+                internal control systems in carrying out their audit of the
+                financial statements. As a normal part of their audit
+                procedures the auditors thus evaluate the internal control
+                systems and, if they plan to rely on them in reaching their
+                audit opinion, they will test the operation of those systems.
+                As a by-product of this auditors will usually comment to
+                management on their findings in what is commonly known
+                as the management letter. However, there is at present
+                no Companies Act requirement for auditors to report on the
+                adequacy of internal control systems.
+
+          Current requirements on Going Concern
+
+          5     Schedule 4 of the Companies Act 1985 requires accounts to
+                be prepared on the presumption that the company is a going
+                concern. The going concern concept is defined in
+                accounting standards (SSAP 2) as the assumption that ‘the
+                enterprise will continue in operation for the foreseeable
+                future. This means in particular that the profit and loss
+                account and the balance sheet assume no intention or
+                necessity to liquidate or curtail significantly the scale of
+                operation.’ The SSAP does not define ‘foreseeable future’
+                but auditing guidance states ‘while the foreseeable future
+                must be judged in relation to specific circumstances, it
+                should normally extend to a minimum of six months
+CURRENT STATUTORY AND OTHER REQUIREMENTS
+
+
+
+      following the date of the audit report or one year after the
+      balance sheet date whichever period ends on the later date.’
+
+6     Whilst the requirement for directors to prepare financial
+      statements giving a true and fair view creates a
+      presumption that they will satisfy themselves that the
+      company is not in financial difficulties and that the going
+      concern basis is appropriate, there is no explicit obligation
+      in company law that they should do so. There is similarly
+      no requirement in law for the directors to report to
+      shareholders that they have satisfied themselves about the
+      going concern basis or the adequacy of financial resources.
+
+7     Auditors in turn, whilst obliged by auditing guidance ‘to be
+      satisfied that the going concern basis is appropriate’, are
+      not obliged to perform any procedures specifically
+      designed to identify any indications that the going concern
+      basis may be no longer valid.
+
+Current requirements on Fraud
+
+8     Auditing~‘guidance makes clear that the prime responsibility
+      for preventing and detecting fraud rests with management,
+      as part of its fiduciary responsibility for protecting the
+      assets of the company. It goes on to state that the auditor’s
+      responsibility is ‘properly to plan, perform and evaluate his
+      audit work so as to have a reasonable expectation of
+      detecting material misstatements in the financial
+      statements’. It points out, however, that even a properly
+      designed and executed audit may not detect material fraud
+      involving forgery or collusion, and that the auditor’s
+      report, based as it is on the concept of reasonable
+      assurance, does not constitute a guarantee that the financial
+      statements are free of misstatement.
+
+9     So far as reporting fraud is concerned, the present legal
+      position is that confidentiality is an implied term of an
+      auditor’s contract, and there is a public interest in
+      maintaining confidential client relationships. Normally,
+      therefore, it is the auditor’s duty to report fraud to senior
+      management. However, there is also a public interest in
+      fraud being dealt with expeditiously and this may entail
+      disclosing matters to a proper authority. An auditor who
+      discloses in such circumstances without malice is protected
+      from the risk of breach of confidence or defamation. In
+      recent years the legislation applying to the special,
+CURRENT STATUTORY AND OTHER REQUIREMENTS
+
+
+
+regulated sectors (banks, building societies, insurance and
+investment business) has been amended so as to remove any
+obstacles there might be to an auditor reporting directly to
+the relevant regulator reasonable suspicion of fraud, or
+other matters relevant to the regulator’s functions. The
+legislation also gives the Government powers to specify
+circumstances in which information is to be communicated
+to the regulators, as an alternative to rules or guidance by
+the professional bodies. In fact the accountancy profession
+has developed auditing guidelines for each of the special
+sectors and the Government has not exercised its powers up
+to now. However, in his report on the BCCI affair, Lord
+Justice Bingham recommended that auditors of banks
+should be placed under a statutory duty to report relevant
+matters to the Bank of England. The Government has
+announced that it accepts the recommendation and intends
+to impose a similar duty on auditors to inform the
+regulators in the other regulated sectors. For the generality
+of companies, the profession has also developed guidance
+which encourages the auditor to report fraud to the proper
+authorities where he no longer has confidence that
+management itself will deal adequately with the matter.     ~’
+                                  APPENDIX 6
+
+    Outline of the case
+
+    1      Caparo Industries plc owned shares in a public company,
+           Fidelity plc, whose accounts for the year ended 31 M a r c h
+           1984 showed profits far short of the predicted figure which
+           resulted in a dramatic drop in the quoted share price. After
+           receipt of the audited accounts for the year ended 31 March
+           1984 Caparo purchased more shares in Fidelity and later
+           that year made a successful takeover bid for the company.
+           Following the takeover, Caparo brought an action against
+           the auditors of the company, alleging that Fidelity’s
+           accounts were inaccurate and misleading in that they
+           showed a pre-tax profit of fl.2m when in fact there had
+           been a loss of over &0.4m, t h a t t h e a u d i t o r s h a d b e e n
+           negligent in auditing the accounts, that Caparo had
+           purchased further shares and made their takeover bid in
+           reliance on the audited accounts, that they had thereby
+           suffered loss, and that the auditors owed them a duty of
+           care to prevent that loss either as potential bidders for
+           Fidelity because they ought to have foreseen that the 1984
+           results made Fidelity vulnerable to a takeover bid from one
+           quarter or another, or as an existing shareholder of Fidelity
+           interested in buying more shares.
+
+    2      The case went to the House of Lords which held that the
+           auditors did not owe Caparo a duty of care to prevent the
+           loss suffered in consequence of purchasing additional
+           shares, either as potential investors or as existing
+           shareholders (Caparo I n d u s t r i e s plc v. Dickman and others
+           [I9901 I All ER 568).
+
+    Basis for the decision
+
+I   3      In broad terms, the House of Lords considered the issues on
+           the following basis:
+           (a)    If A makes a negligent statement, he may
+                 (independently of any’ contractual or fiduciary
+                 relationship) be liable to B if B relies on that
+                 statement and thereby suffers loss, provided A is under
+                 duty of care to B to avoid or prevent that loss.
+                                            THE CAPARO CASE
+
+
+
+    (b) Such a duty of care will exist where a three-pronged
+        test of foreseeability, proximity, and fairness is
+        satisfied:
+        (i) f o r e s e e a b i l i t y : when making the statement, A
+              should reasonably have foreseen that B might
+              suffer that loss if the statement proved to be
+              wrong;
+        (ii) p r o x i m i t y : there must, in relation to the
+             statement, be a sufficient relationship between A
+             and B. Such a relationship will exist if, at the
+             time he made the statement, A knew:
+             l    that the statement would be communicated to
+                  B, either as an individual or as a member of
+                  an identifiable class;
+             0    that the statement would be so communicated
+                  specifically in connection with a particular
+                  transaction, or transactions of a particular
+                  kind; and
+             0    that B would be very likely to rely on it in
+                  deciding whether or not to enter into that
+                  transaction or a transaction of that kind;
+        (iii) f airness: the Court must consider it to be fair,
+              just and reasonable that the law should impose the
+              specified duty of care on A for the benefit of B.
+    (c) In suggesting this three-pronged test, the House of
+        Lords nevertheless recognised that there would often
+        be an overlap between the three elements, that the
+        elements themselves were ‘labels’ rather than
+        precisely applicable definitions, and that there was a
+        necessary element of pragmatism in applying the test
+        to any given set of circumstances.
+    (d) So far as concerns audited accounts, whilst it cannot
+        fairly be said that the purpose of the statutory
+        provisions as to publication is solely to assist members
+        and debenture holders to an informed supervision and
+        appraisal of the stewardship of the company’s
+        directors, that is nevertheless the original, central and
+        primary purpose of these provisions.
+
+4   Caparo’s case foundered as a matter of law because in the
+    view of the House of Lords the necessary proximity did not
+    exist. A relationship of proximity could not be deduced
+    between an auditor and a member of the public who relied
+    THECAPAROCASE
+
+
+
+           on the accounts to buy shares in the company when to do so
+           would give rise to an unlimited liability on the part of the
+           auditor. Nor could a relationship of proximity be deduced
+           between an auditor and an individual shareholder in the
+           company in relation to further purchases of shares in the
+           company by that shareholder, since an individual
+           shareholder stood in no different position from any other
+           investing member of the public to whom the auditor owed
+           no duty, and the auditors’ statutory duty to prepare
+           accounts was owed to the body of shareholders as whole, to
+           enable them as a body to exercise informed control of the
+           company and not to enable individual shareholders to buy
+           shares with a view to profit.
+
+    Principles established
+
+    5      The case has established that in t h e absence o f s p e c i a l
+           features, auditors are not regarded as owing a duty of care
+           to prevent loss to anyone relying on their report except (a)
+           the company, and (b) the shareholders as a body. In the
+           absence of special features, no duty of care is owed in
+           partictilar to-individual shareholders, subscribers to new
+           shares, purchasers or intended purchasers of shares from
+           third parties including those conducting takeover bids,
+           bankers or other lenders to the company, or persons doing
+           business with the company.
+
+    Arguments for and against extending auditors’ duty of care
+
+    6      Some of the arguments that have been expressed for and
+           against extending auditors’ duty of care to individual
+           shareholders, purchasers of shares, and possibly b‘ther third
+           parties are as follows.
+
+I   Arguments for extension
+           (a) Third parties, to the knowledge of all, in fact rely to a
+                considerable extent on the integrity of the audited
+                accounts - if legal liability is not imposed there is an
+                allegedly justified expectation gap.
+           (b) Professional men are paid - they should therefore be
+                accountable in a wide sense.
+           Cc) The auditors’ liability to the company may provide an
+                effective remedy where the auditors have negligently
+                failed to discover fraud or theft from the company -
+                                                       THE CAPARO CASE
+
+
+
+            but in general not where, for example, the directors
+            have been overvaluing assets or otherwise inflating
+            profits. In any case, the company’s loss may be less
+            than that suffered in aggregate by the shareholders.
+       (d) The case is bad publicity for the accounting profession
+           and has prompted the perception that, for example:
+            (i)   auditors are answerable to no-one;
+            (ii) the requirement for the auditors to exercise due
+                 care and skill has been lessened;
+            (iii) having accounts audited is of little or no benefit.
+
+Arguments against extension
+       (a) To hold the auditors liable to all and sundry for any
+            purpose for which they may choose to rely on the
+            auditors’ statement would result, in the classic words
+            of Cardozo CJ, in ‘liability in an indeterminate amount
+            for an indeterminate time to an indeterminate class’.
+       (b) Quite apart from the difficulty of defining the extent
+            o f l i a b i l i t y , t h e r e w o u l d b e endlessproblems in
+            determining where liability was due to reliance on
+            audited accounts and where not.
+       (cl The principal purpose of the statutory provisions for
+            audit and the publication of the accounts is to assist
+            shareholders and debenture holders collectively in
+            monitoring the stewardship of the directors - there is
+            no basis for assuming that the legislature had a
+            secondary purpose to provide protection for the public
+            at large and investors in particular.
+       Cd) The potential magnitude of the liability is out of all
+            proportion to the size of the audit fee.
+       (e) The primary responsibility for producing true and fair
+            a c c o u n t s l i e s w i t h t h e d i r e c t o r s - and it would be
+            unfair if, in practice, the auditors (and their insurers)
+            had to foot the bill on their own, or substantially on
+            their own.
+       (0   It is, in practice, difficult for auditors to obtain
+            adequate insurance cover.
+       (s) The third parties have themselves paid nothing to the
+            auditors - why should they be able to call the auditors
+            to account?
+THE CAPARO CASE
+
+
+
+      (h) The scope and cost of audit work might rapidly
+          become uneconomic if wide-scope liability to all users
+          of accounts were accepted.
+
+The Committee’s view
+
+7     The Committee recognises that the House of Lords
+      judgment involved a careful and complex balancing of
+      interests - not just those of users of accounts and auditors,
+      but more generally the interests of professional people and
+      those who suffer loss as a result of professional
+      negligence, and the public interest in having a viable and
+      fair system. The principal practical concerns which lay
+      behind the conclusions reached by the House of Lords
+      included the size of auditors’ potential liabilities, the
+      difficulties in defining wider liability in any fair yet
+      realistic way, and the likely difficulties in establishing
+      whether third party losses were due to reliance on the
+      accounts. Bearing in mind the wide range of users of
+      accounts, the Committee is unable to see a practical and
+      equitable way in which the House of Lords could have
+      broadened the boundaries of auditors’ legal duty of care
+      without giving rise to a liability that was indeterminate in
+      scope, time and amount, nor does it consider that the
+      decision should be altered by statutory intervention at the
+      present time.
+
+Possible ways of extending duty of care without creating open-ended
+liability
+8
+      If, notwithstanding the Committee’s recommendation, it
+      w e r e d e c i d e d t o c h a n g e t h e p r i n c i p l e s laid‘down b y
+      Caparo, it would be necessary to amend the law by statute
+      to impose a liability on auditors to compensate accounts
+      users in general, or specified classes of user such as
+      investors, who suffer loss by relying on negligently audited
+      accounts. Those proposing such a change have suggested as
+      a quid pro quo that auditors’ liability should be
+      proportionate only, or that it should be limited. There are,
+      however, serious objections in both cases:
+      (a) Proportionate liability o n l y : it is proposed that the
+          law should be changed so that those who together
+          cause damage should not, as at present, each be liable
+          for the whole of the loss, but should each only assume
+          a reasonable proportion of the loss. However, there are
+          considerable technical difficulties in this proposition,
+                                              THECAPAROCASE
+
+
+
+     not least because not all the potential defendants may
+     be before the court. The proposition would also need
+     to be considered in relation to the law as a whole, and
+     there is no particular reason for singling out the
+     auditors for special treatment. It should in any event
+     be recognised that even with liability limited to a
+     proportion of the claimant’s loss, the amount payable
+     by the auditors could still put them out of business.
+( b ) L i m i t e d l i a b i l i t y : it is proposed that the law should
+      be changed to permit auditors to limit their liabilities
+      by contract with the relevant company. Apart from any
+      practical problems in reaching agreement with the
+      company, there is a fundamental legal problem in
+      establishing a basis on which an auditor might found a
+      limitation of his liability to those with whom he has no
+      contractual tie. Another possibility would be to impose
+      a statutory ‘cap’ on an auditor’s liability, either fixed
+      for all auditors or related to variables such as the size
+      of audit fee or the size of audit firm. However this
+      suggestion would be an unsatisfactory compromise.
+      When the cap operated it would prevent plaintiffs from
+      recovering the full loss suffered, whilst if the auditors
+      faced more claims in relation to one year than their
+      insurance provided cover for, they might still be put
+      out of business and not all the successful plaintiffs
+      would be able to recover the amount of the cap.
+                                   APPENDIX 7
+
+The Committee is nrateful to the following for submitting comments on
+its draft report: -
+
+Mr R J Alexander                         British Petroleum Company plc
+Mr Gary Allen                            British Rail Pension Trustee
+   Managing Director and Group                Company Ltd
+   Chief Executi\le. IMI plc
+                                         Mr Robin Broadley
+Alliance & Leicester Building Society       Deputy Chairman, Baring Brothers
+                                            & co L&i
+Alliance of Independent Retailers and
+    Businesses                           Mr C R E Brooke
+                                            Chairman, Candover Investments
+Mr Michael Arnold                           plc
+Arthur Andersen & Co                     Mr Derek Broome
+Association of Authorised Public         Mr A C Bryant
+    Accountants                             Chairman, Bryant Group plc
+Association of British Chambers of       Mr Donald Brydon
+    Commerce
+                                         Building Societies Association
+Association of British Insurers
+                                         Building Societies Commission
+.Association of Investment Trust
+    Companies                            Mr Gavin Burnett
+Auditing Practices Board                 Burson-Marsteller
+Mr H S Axton
+   Chairman, Brixton Estate plc
+                                         Centre for Business and Public Sector
+                                             Ethics
+BDO Binder Hamlyn                        Chartered Association of Certified
+                                             Accountants
+Mr Neville Bain
+   Group Chief Executive, Coats          Chartered Institute of Management
+   Viyella plc                               Accountants
+Barratt Developments plc                 Chartered Institute of Marketing
+Mr Nicholas Beale                         Mr Jonathan Chaytor
+   Scifeh
+                                          City Capital Markets Committee
+ Mr V W Benjamin
+                                          Mr J R Clark
+ Mr A G Biggart                               English & Overseas Properties plc
+ Mr D A V Boyle                           Clark Whitehill & Co
+    University of Excler
+                                          Dr K Cleaver
+ Mr E A Bradman                               University of Liverpool
+ Mr C B Brayshaw                          Cleveland County Council
+ British Bankers Association              Mr Paul Collier
+                                             University of Exeter
+ British Merchant Banking and
+      Securities Houses Association       Confederation of British Industry
+                            CONTRIBUTORS TO THE COMMITTEE
+
+
+
+Mr P D Cooper                           Mr Mark Gifford-Gifford
+                                           University of Exeter
+Coopers & Lybrand
+                                        Sir Paul Girolami
+Sir Colin Corness                           Chairman, Glaxo Holdings plc
+    Chairman, Redland plc
+                                        Mr Dermot Glynn
+Courtaulds plc                             National Economic Research
+Sir Michael Craig-Cooper                   Associates
+Mr David Craine                         Catherine Gowthorpe
+                                            Lancashire Business School
+                                        Mr Nigel Graham Maw
+Mr Paul Dare
+                                        Grand Metropolitan plc
+Mr P A Davis
+   Deputy Chairman, Sturge Holdings     Grant Thornton
+   plc
+                                        Mr Donald Green
+Mr Nicholas Dimsdale
+   The Queen’s College Oxford           Sir Owen Green
+                                            Chairman, BTR plc
+Dr J P Dobrowolski
+    Chief of Internal Auditing, Argos   Sir Richard Greenbury
+                                            Chairman, Marks and Spencer plc
+    Ptc
+Mr Eric Dodson                          Mr T J Grove
+Mr Stewart Douglas-Mann
+   Guinness Mahon & Co Ltd              Mr Anthony Habgood
+Mr J C Dwek                                Chief Executive, Bunzl plc
+    Chairman, Bodycote                  Mr Charles Hambro
+    International plc                      Chairman, Hambros plc
+                                        Mr R W D Hanson
+Dr Christopher Eaglen                      Chairman and Managing Director,
+                                           Hardys and Hansons plc
+English China Clays plc
+                                         Hay Management Consultants Ltd
+ Ernst & Young
+                                         Mr R M Heard
+                                            Company Secretary, BPB
+ Mr Noel Falconer                           Industries plc
+ Federation of Small Businesses          Mr A L Hempstead
+ Mr David Fifield                        Professor Brian Houlden
+                                             Warwick Business School
+ Foreign Banks and Securities Houses
+     Association                         Gerard Howe
+                                             Howe Associates
+ Mr John Franks
+                                         Mr D J Hughes
+ Mr Gavin Fryer
+                                         Humberside County Council
+                                         The Hundred Group of Finance
+ GKN plc                                     Directors
+ Mr Matthew Gaved                        Mr A Hyslop
+    The Social Market Foundation            Group Chief Internal Auditor,
+ The General Electric Company plc           Crown Agents
+CONTRIBUTORS TO THE COMMITTEE
+
+
+
+IBM United Kingdom Ltd                  Mr Christopher King
+Institute of Business Ethics               Director, BP Europe
+
+Institute of Chartered Accountants in   Mr G W King
+     England and Wales                  Mr Tim Knowles
+Institute of Chartered Accountants in   Mr Adam Kounine
+     Ireland
+Institute of Chartered Accountants of
+     Scotland                           Lord Lane of Horse11
+Institute of Chartered Secretaries &    Mr John Lavery
+     Administrators                        Newcastle Business School
+Institute of Directors                  Law Society (Company Law
+                                           Committee)
+Institute of Internal Auditors
+                                        Law Society of Scotland
+Institute of Investment Management
+     and Research                       Legal and General Group plc
+Institute of Personnel Management       Mr J L Leonard
+                                            Chairman, Eurotherm plc
+Institutional Fund Managers
+     Association                        The Liberal Democrats
+Investor Relations Society              Mr L E Linaker
+                                           Deputy Chairman & Managing
+                                           Director, M&G Group plc    ~.       ‘.
+Mr Michael Jackaman                     Mr Norman Lindsay
+   Chairman, Allied-Lyons plc
+                                        Mr Martin Lipton
+Mr Edmond Jackson
+                                        Sir Richard Lloyd
+Mr J B H Jackson                            Chairman, Vickers plc
+Mr J N C James                          Lloyds Bank plc
+    Executive Deputy Chairman,
+    Grosvenor Estate Holdings           London Stock Exchange
+Mr David Jefferies                      London Stock Exchange Listed
+   Chairman, The National Grid             Companies Advisory Committee
+   Company plc                          Sir Desmond Lorimer
+Mr J Jeffreys
+Mr David Jinks                          Dr A D McCann
+   Group Finance Director, Cadbury         McCann Research
+   Schweppes plc
+                                        McKenna & Co
+                                        Mr Colin McLean
+KPMC Peat Marwick                          Managing Director, Scottish Value
+Mr Stanley Kalms                           Management Ltd
+   Chairman. Dixons Group plc           Mr D S McMullen
+MrJCKay                                    Managing Director, McMullen &
+                                           Sons Ltd
+Mr Noel Kelleway
+                                        Mr Ewan Macpherson
+Kidsons Impey                              Chief Executive, 3i Group plc
+                                        Mr D F Macquaker
+                              CONTRIBUTORS TO THE COMMITTEE
+
+
+
+Mr Donald Main                           Mr B T O’Driscoll
+                                            Group Chief Internal Auditor, ICI
+Mr Geoffrey Maitland Smith,                 plc
+   Chairman, Sears plc
+                                         Mr J F O’Mahoney
+Christine Mallin                             Vice Chairman, Ladhroke Group
+    University of Nottingham                 Plc
+Management Consultancies                 Mr P Ormrod
+   Association Ltd                           University of Lil*erpool
+Mr W H Melly                             Mr G J Osborn
+                                            General Auditor. Europe. Eli Lilly
+Mr Paul Meredith                            & Company Ltd
+   Chief Executive, Phillips & Drew
+   Fund Management Ltd
+Mr Tony Merrett                          Mr Simon Pallett
+                                            Newcastle Business School
+Mr Ian Michell
+                                         Pannell Kerr Forster
+Mr D E Midgley
+                                         Mr Bruce Pattullo
+The Midlands Industry Group of              Cover-nor & Group Chief
+    Finance Directors                       Executive, Bank of Scotland
+Rowena Mills                             Pensions Investment Research
+   Rowena Mills Associates Ltd               Consultants Ltd
+Sir Nigel Mobbs                          Professor J P Percy
+    Chairman and Chief Executive,        Mr D E Philpot
+    Slough Estates plc
+                                         Sir David Plastow
+Morgan Grenfell Group plc                    Chairman, Inchcape plc
+Mr James Morton                          Portsmouth and Sunderland
+Mr Roger Morton                              Newspapers plc
+Mr Tony Morton                           Price Waterhouse
+
+Mr Geoffrey Mulcahy                      ProShare
+   Chair-man and Group Chief             Public Interest Research Centre Ltd
+   Executive, Kingfisher plc
+                                         Dr Derek Purdy
+ Mr Michael Mumford                          University of Reading
+    Lancaster- Univer%ty
+ Mr Paul Myners                           Sir Alick Rankin
+    Chairman Audit Committee,                 Chairman, Scottish &
+    PowerGen plc                              Newcastle plc
+                                          Reads & Co
+ National Association of Pension Funds    Professor William Rees
+ Nationalised Industries Finance Panel        City of London Polytechnic
+                                          Mr D E Reid
+ Neville Russell
+                                             Director-, Tesco plc
+ New Bridge Street Consultants
+                                          Mr Andrew Robb
+                                             Director, Pilkington plc
+CONTRIBUTORS TO THE COMMITTEE
+
+
+
+Sir Lewis Robertson                        TSB Group plc
+Sir George Russell                         Thames Valley Commercial Group
+    Chairman, Marley plc
+                                           Mr A R Threadgold
+                                              Chief Executive, Pastel Investment
+                                              Management Ltd
+Mr David Sainsbury
+   Deputy Chairman, .I Sainsbury plc       Lord Tombs of Brailes
+                                               Chairman, Rolls-Royce plc
+Mr Saleem Sheikh
+   City of London Polytechnic:             Mr R C Tomkinson
+Mr John Salter                             Top Pay Research Group
+   Demon Hall Burgin & Warren,             Mr P G Totty
+Mr John Sclater                            Touche Ross.& Co
+   Chairman, Foreign and Colonial
+   Investment Trust plc                    Mr J D Traynor
+                                               Chairman, CRH plc
+Mr John Scott-Oldfield
+   The Corporate Consutting Group
+Securities and Investments Board           Unilever plc
+Serious Fraud Office                       Union of Independent Companies
+Shareholder Monitor Ltd                    Unit Trust Association
+Sir Patrick Sheehy                         United Kingdom Shareholders
+    Chairman, BAT Industries plc               Association
+Mr J J L G Sheffield
+   Chairman, Norcros plc                   Professor Gerald Vinten
+Mr Peter Small                                 Luton University College of Higher
+   Crescent Management Selection               Education
+Society of Labour Lawyers
+South Western Electricity plc              Lord Watkinson
+Stoy Hayward                               Lord Weir
+                                               Chairman, The Weir Group plc
+Mr C M Stuart
+                                           Mr F Williams
+Swiss Bank Corporation
+                                           The Hon Geoffrey Wilson
+Mr Allen Sykes                                 Chairman, Delta plc
+                                           Mr N S Wilson
+                                           Mr Ralph Windle
+
+The Committee is also grateful to all those who provided assistance at earlier
+stages of its work. A full list of names was published in the Committee’s draft
+report.
+                             RELEVANT PUBLISHED STATEMENTS
+
+
+
+Relevant published statements
+The following published documents were among those drawn to the Committee’s
+    attention:
+Chartered Institute of Management Accountants: ‘Corporate Reporting -The
+   Management Interface’ (1990); ‘Non-Executive Directors -Their Value to
+   Management’ (1992); ‘A Framework for Internal Control’ (1992)
+Financial Reporting Council: ‘The State of Financial Reporting -a Review’
+    (November 199 I)
+Institute of Business Ethics: ‘Business Ethics and Company Codes -Current Best
+     Practice in the United Kingdom’ (1992)
+Institute of Chartered Accountants in England and Wales: ‘The Changing Role of
+     the Non-Executive Director’ (May 1991); ‘Audit Committees’ (April 1992)
+Institute of Chartered Accountants in England and Wales and Institute of
+     Chartered Accountants of Scotland: ‘The Future Shape of Company Reports’
+     (1991)
+Institute of Chartered Accountants in Ireland: Report of the Financial Reporting
+     Commission (January 1992)
+Institute of Chartered Accountants of Scotland: ‘Corporate Governance -
+     Directors’ Responsibilities for Financial Statements’ (February 1992)
+Institute of Chartered Secretaries & Administrators: ‘Duties of the Company
+     Secretary’ (1992)
+Institute of Directors: ‘Guidelines for Directors’ (1990)
+Institutional Shareholders Committee: ‘The Role and Duties of Directors - A
+     Statement of Best Practice’ (April 1991); ‘The Role and Responsibilities of
+     Institutional Shareholders in the UK’ (December 1991)
+PRO NED: ‘Code of Recommended Practice on Non-Executive Directors’ (April
+   1987); ‘Remuneration Committees’ (January 1992); ‘Research into the Role
+   of the Non-Executive Director’ (sponsored jointly with the London Stock
+   Exchange, published July 1992); ‘ 10th Annual Review’ (September 1992).
+

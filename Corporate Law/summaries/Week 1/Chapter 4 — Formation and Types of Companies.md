@@ -1,6 +1,14 @@
-
-
-> [!TIP]
+---
+tags:
+  - 'company_law'
+  - 'corporate_structures'
+  - 'proprietary_vs_public'
+  - 'liability_structures'
+  - 'subsidiaries_and_groups'
+  - 'registration_and_compliance'
+  - 'shareholders_and_directors'
+---
+> [!IMPORTANT]
 > This chapter is foundational. Exam questions frequently test: the **registration process**, the **proprietary vs public distinction**, the **four liability structures**, and the **entity model vs enterprise model** in corporate groups.
 
 ---

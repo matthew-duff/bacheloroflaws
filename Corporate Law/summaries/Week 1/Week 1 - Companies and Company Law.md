@@ -1,5 +1,14 @@
-
-
+---
+tags:
+  - 'corporate-law'
+  - 'company-structures'
+  - 'limited-liability'
+  - 'joint-stock-principle'
+  - 'public-vs-private-companies'
+  - 'proprietary-companies'
+  - 'no-liability-companies'
+  - 'corporate-governance'
+---
 > [!important] Topics
 > What is a company · Registration · Pre-registration activities · Business structures compared · Classifying companies · Nature & history of company law
 
@@ -261,6 +270,9 @@ The textbook identifies **four fundamental tensions** that have shaped the devel
 - **State benefit:** trade encouraged and controlled; revenue raised via taxes and duties.
 - Chartered companies were central to **Britain's colonial expansion**.
 
+> [!info] Origins of the Joint-Stock Company (Schmitthoff)
+> According to **[[Schmitthoff, ‘The Origin of the Joint-Stock Company’ (1939) Summary]]**, the English joint-stock company is an indigenous "evolutionist" development from medieval commercial structures (like the Regulated Company and guilds), rather than a "reception" of Italian debt-based state creditor models (such as the *Casa di San Giorgio*). The English model was active and trade-based, driven by the need for concentrated capital during the age of discovery, with limited liability evolving "insensibly" through practice.
+
 ### 9.2 Partnerships & the Alternative to Incorporation
 
 - Before joint stock companies, the primary alternative was the **partnership** (*societas* in Roman law).
@@ -453,17 +465,22 @@ The CA contains an enforcement framework sitting **between civil and criminal pr
 > [!warning] Royal Commission Criticism
 > The Royal Commission into Banking Misconduct observed that "too often serious breaches of law by large entities have yielded nothing more than a few infringement notices, an enforceable undertaking … not to offend again." The pyramidal model was being applied in a way that under-utilized the higher enforcement tiers.
 
+### 11.1 Criminal Responsibility (Criminal Code Act 1899 (Qld))
+
+> [!info] Criminal Responsibility under the Code
+> See **[[Criminal Code Act 1899 (Qld) Summary]]**. The *Criminal Code Act 1899* (Qld) clarifies that corporate membership does not shield individuals from criminal liability for offences against corporate property (s 34). Corporate officers can face severe penalties (e.g., up to 7 years imprisonment) for participating in unauthorized corrupt dealings like receiving secret commissions (ss 442G, 442I), and industry "custom" is explicitly no defence (s 442M).
+
 ---
 
 ## 12. The Royal Commission into Banking Misconduct (2019) (Hayne Report)
 
-The Final Report of the Royal Commission identified widespread misconduct across the financial services industry, driven by the pursuit of profit over providing a service to customers, and highlighted significant failures in corporate culture, governance, and regulatory enforcement.
+The Final Report of the Royal Commission identified widespread misconduct across the financial services industry, driven by the pursuit of profit over providing a service to customers, and highlighted significant failures in corporate culture, governance, and regulatory enforcement. For a summary of the core findings, see **[[Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry Summary]]**.
 
-### Four Key Observations
-1. **Connection between conduct and reward:** Incentive and commission schemes rewarded sales and profit, ignoring compliance with the law and proper standards.
-2. **Asymmetry of power and information:** Consumers had little power to negotiate terms or make well-informed choices, leading to a marked imbalance.
-3. **Conflicts between duty and interest:** Intermediaries "managing" conflicts proved ineffective; self-interest almost always trumped duty.
-4. **Entities not held to account:** Misconduct was often unpunished or met with inadequate penalties (e.g., compensation without accountability). Wrongdoing must be deterred by detection, denunciation, and just punishment.
+### Four Key Observations (Root Causes)
+1. **Connection between conduct and reward:** Incentive and commission schemes measured sales and profit, ignoring compliance with the law. Rewarding misconduct drove illegal or unethical behavior.
+2. **Asymmetry of power and information:** Marked imbalance between entities (who set terms) and consumers (who lacked knowledge and negotiating power).
+3. **Conflicts between duty and interest:** Intermediaries "managing" conflicts proved ineffective; self-interest almost always trump duty.
+4. **Entities not held to account:** Misconduct was often unpunished or met with inadequate penalties. Wrongdoing must be deterred by detection, denunciation, and just punishment.
 
 ### Six Fundamental Norms of Conduct
 The Report articulated six basic norms that underpin financial services law and should guide corporate behaviour:
@@ -475,9 +492,10 @@ The Report articulated six basic norms that underpin financial services law and 
 6. When acting for another, act in the best interests of that other.
 
 ### Regulatory and Policy Reforms
-- **Enforcement:** The principle that "the law must be applied and its application enforced." Regulators (like ASIC) must genuinely hold wrongdoers to account.
-- **Simplification of Law:** Piling exception upon exception creates complex regulation. The law should explicitly connect specific rules to fundamental norms of conduct to prevent "gaming" the system.
-- **Culture and Governance:** Primary responsibility for misconduct lies with corporate entities, their boards, and senior management. Remuneration practices must focus on *non-financial risk* (regulatory, compliance, conduct) as much as financial risk.
+- **Enforcement:** The principle that "the law must be applied and its application enforced." Regulators (like ASIC) must genuinely hold wrongdoers to account. Shift from "managing" risks to ensuring compliance.
+- **Simplification of Law:** Piling exception upon exception creates complex regulation. Legislation should explicitly connect specific rules to fundamental norms of conduct to prevent "gaming" the system.
+- **Culture and Governance:** Primary responsibility for misconduct lies with corporate entities, their boards, and senior management. Remuneration practices must focus on *non-financial risk* as much as financial risk.
+- **Intermediaries & Remuneration:** Elimination of exceptions like **grandfathered commissions**, and a ban on **"hawking"** (unsolicited offering of financial products). Intermediaries must act only in the interests of the person who pays them.
 
 ---
 
@@ -509,6 +527,15 @@ The Report articulated six basic norms that underpin financial services law and 
 | **Socio-legal**            | Law is a *social process* — what matters is law as *practised*, not just law on the books            | Company law = organisational law; shaped by actors & structures    |
 | **Critical**               | Law is shaped by *power relations*; actors have different degrees of agency                          | Asks: who wins and who loses? Highlights exploitation, colonialism |
 
+### 14.1 The Stakeholder vs. Shareholder Primacy Debate
+- **Shareholder Primacy (Berle):** Corporate powers are held in trust for the benefit of shareholders. Managers owe duties strictly to capital owners.
+- **Stakeholder Theory (Dodd / Clarkson):** The corporation is a social institution. Managers are fiduciaries for the institution itself (a "nexus of risks") and must balance stakes of all participants (voluntary and involuntary). A manager should prioritize stakeholders based on **power, legitimacy, and urgency** (**[[Clarkson (ed), The Corporation and Its Stakeholders (1998) Summary]]**).
+- **The "Myth" of Shareholder Ownership (Ireland):** The idea that shareholders own the company is a legal and economic myth. Shareholders are passive rentiers, and modern corporate law's failure to recognize the true separate personality of a corporation leads to an anachronistic focus on "shareholder value." This critical view reframes corporate assets as "common property" rather than private property (**[[Ireland, ‘Company Law and the Myth of Shareholder Ownership’ (1999) Summary]]**).
+
+### 14.2 Socio-Legal Perspectives
+- **Law as a Social Phenomenon (Cotterrell):** To understand law, one must look beyond formal jurisprudence. Law is a precision instrument of power that formalizes control and provides ideological authority to dispute processing, often "cloaking" power and class relations (**[[Cotterrell, ‘The Sociological Concept of Law’ (1983) Summary]]**).
+- **How Businesses Shape Law (Shaffer):** Law and business share a dynamic, reciprocal relationship. Businesses shape public law through lobbying, regulatory "capture," and acting as "Repeat Players" in litigation. They also create private legal systems (e.g., *lex mercatoria*, internal compliance) which interact dynamically with public law. This recursivity means transnational lawmaking and domestic implementations constantly inform each other (**[[Shaffer, ‘How Businesses Shape Law- A Socio-Legal Framework’ (2009) Summary]]**).
+
 ### The Convergence Thesis (Textbook)
 
 - Some scholars argue that corporate law systems around the world are **converging** on the Anglo-US shareholder-centred model, giving priority to shareholders over other stakeholders.
@@ -523,15 +550,15 @@ The Report articulated six basic norms that underpin financial services law and 
 
 ## 15. Key Cases (Week 1)
 
-| Case | Principle |
+| Case | Principle & Summary Link |
 |---|---|
-| ***Salomon v A Salomon & Co Ltd* [1897] AC 22** | Separate legal personality — company is distinct from its members even if controlled by one person |
-| ***Lee v Lee's Air Farming Ltd* [1961] AC 12** | A person can contract with a company they control (consequence of SEP) |
-| ***Huddart, Parker & Co Ltd v Moorehead* (1909)** | s 51(xx) confined to *existing* corporations — Commonwealth cannot incorporate companies |
-| ***NSW v Commonwealth* (1990)** | Confirmed *Huddart Parker* on incorporation; struck down Corporations Act 1989 |
-| ***Re Wakim; Ex parte McNally* (1999)** | Cross-vesting of state jurisdiction to Federal Court held invalid |
-| ***R v Hughes* (2000)** | Commonwealth officers cannot exercise state-law powers unless supported by a head of Commonwealth power |
-| ***Strickland v Rocla Concrete Pipes Ltd* (1971)** | Overruled *Huddart Parker* on reserved powers doctrine; reopened door for Commonwealth action on corporations |
+| ***Salomon v A Salomon & Co Ltd* [1897] AC 22** | **Separate legal personality:** A validly incorporated company is an independent legal entity from its members, even if perfectly controlled by one ("one-man company"). Incorporating to limit personal liability is a legitimate use, not fraud. (**[[Salomon v Salomon & Co Ltd [1897] AC 22 Summary]]**) |
+| ***Lee v Lee's Air Farming Ltd* [1961] AC 12** | **Dual Capacity:** Validates the ability of a person to be both the controlling director (acting as the company's agent) and an employee/worker of the same company under a contract of service. (**[[Lee v Lee’s Air Farming Ltd [1961] AC 12 Summary]]**, and see also **[[Wilson, ‘Salomon’s Case deters Attempts to lift the Veil’ (1961) Summary]]**) |
+| ***Huddart, Parker & Co Ltd v Moorehead* (1909)** | s 51(xx) confined to *existing* formed corporations — Commonwealth cannot incorporate companies. (**[[Huddard, Parker & Co Ltd v Moorehead (1909) 8 CLR 330 Summary]]**) |
+| ***NSW v Commonwealth* (1990) ("The Incorporation Case")** | Confirmed *Huddart Parker* on incorporation; struck down the *Corporations Act 1989*. The word "formed" in s 51(xx) implies the corporation must already exist. (**[[NSW v Commonwealth (1990) 169 CLR 482 Summary]]**) |
+| ***Re Wakim; Ex parte McNally* (1999)** | **Cross-vesting invalid:** State Parliaments cannot vest State judicial power in federal courts. Chapter III of the Constitution exhaustively defines federal court jurisdiction. (**[[Re Wakim; Ex Parte McNally (1999) 198 CLR 511 Summary]]**) |
+| ***R v Hughes* (2000)** | **Limits on Cooperative Schemes:** Commonwealth officers (like the DPP) cannot be imposed with a *duty* to exercise State powers without a nexus to a Commonwealth head of power. (**[[R v Hughes (2000) 202 CLR 535 Summary]]**) |
+| ***Strickland v Rocla Concrete Pipes Ltd* (1971)** | Overruled *Huddart Parker* on the reserved powers doctrine, reopening the door for robust Commonwealth regulation of existing corporations via s 51(xx). |
 
 ---
 
