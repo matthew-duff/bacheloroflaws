@@ -1,8 +1,13 @@
 ---
-tags: [admin-law, summary]
 type: article
----
 
+tags:
+  - 'constitutional-concept'
+  - 'judicial-review'
+  - 'jurisdictional-error'
+  - 'federal-superiority'
+  - 'separation-of-powers'
+---
 [[Gageler's article on const context for admin law]]
 
 **Reference:** Hon Stephen Gageler, 'The Constitutional Dimension' in Matthew Groves (ed), *Modern Administrative Law in Australia: Concepts and Context* (Cambridge University Press, 2014) 165.
@@ -32,3 +37,13 @@ This chapter explores the historical development and modern emergence of a "cons
 
 ## Significance
 The "constitutional dimension" provides a unified conceptual justification for judicial review in Australia: the rule of law. It ensures a constitutionally guaranteed minimum level of judicial oversight at both Federal and State levels that cannot be legislated away. This paradigm shifts the focus from the technical grounds of common law writs to the source and content of the law that defines an administrator's authority, ensuring that all exercises of public power are subject to the superintendence of the High Court as the "Federal Supreme Court."
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 3/Church of Scientology v Woodward]] - Shares the topic of judicial review and examines the limits of executive power under statutory and constitutional frameworks.
+- [[Admin Law/summaries/Week 3/A-G (NSW) v Quin]] - Discusses judicial review, executive discretion, and procedural fairness, which are core themes in the current note.
+- [[Admin Law/summaries/Week 3/Lecture 3 Legality Review Summary]] - Provides a summary of legal grounds for review, complementing the current note's focus on constitutional context and judicial oversight.
+- [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Explores how administrative law principles are challenged by automated decision-making, relating to the current note's discussion of legality and procedural fairness.
+<!-- agent:see-also:end -->

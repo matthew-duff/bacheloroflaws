@@ -1,9 +1,13 @@
 ---
-tags:
-  - admin-law
-  - summary
 type: textbook
 citation: "[[Groves & Boughey on Admin Law In Aust]]"
+
+tags:
+  - 'executive-accountability'
+  - 'judicial-review'
+  - 'constitutional-entrenchment'
+  - 'merits-review'
+  - 'jurisdictional-error'
 ---
 # Overview
 This chapter provides a comprehensive introduction to the Australian administrative law landscape, emphasizing its "exceptional" nature compared to other common law jurisdictions due to the influence of the written Constitution and the unique "new administrative law" reforms of the 1970s.
@@ -22,3 +26,12 @@ This chapter provides a comprehensive introduction to the Australian administrat
 
 # Significance
 This source is foundational for understanding the structural and constitutional framework of Australian administrative law. It explains why Australia has a bifurcated system of review (merits vs. legality) and how constitutional principles both protect and limit the scope of judicial intervention in executive decision-making.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 2/French - Administrative Justice Summary]] - Both notes address administrative justice, with French focusing on criteria like rationality and fairness, and the current note on executive accountability and judicial review.
+- [[Admin Law/summaries/Week 2/Creyke - Integrity in Government Summary]] - Both discuss integrity and accountability in government, with Creyke’s framework complementing the current note’s focus on executive accountability and institutional oversight.
+- [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Addresses procedural fairness and legality in administrative law, aligning with the current note’s focus on judicial review and statutory interpretation.
+<!-- agent:see-also:end -->

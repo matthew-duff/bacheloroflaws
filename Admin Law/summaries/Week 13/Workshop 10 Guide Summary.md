@@ -1,9 +1,17 @@
 ---
-tags: [admin-law, summary]
 type: workshop-guide
----
 
-[[Workshop 10 Learning Guide and Workshop Questions]]
+tags:
+  - 'judicial-review'
+  - 'statutory-remedies'
+  - 'prerogative-writs'
+  - 'equitable-remedies'
+  - 'constitutional-law'
+  - 'standing-requirements'
+  - 'record-limitation'
+  - 's75v'
+---
+[[Workshop 10 Learning Guide and Workshop Questions-Workshop 10 Learning Guide and Workshop Questions]]
 
 # Workshop 10: Remedies
 
@@ -40,3 +48,12 @@ Remedies are the "lynch pins" of civil rights, ensuring government accountabilit
 
 ---
 Model used: gemini-3-flash-preview
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 13/Week 13 Overview Summary]] - This note provides a synthesis of statutory and equitable remedies, closely related to Workshop 10's focus on remedies.
+- [[Admin Law/summaries/Week 6-Workshop 5 Study Guide Summary]] - This note discusses judicial review grounds, complementing Workshop 10's exploration of remedies and review mechanisms.
+- [[Admin Law/summaries/Week 12/Lecture 9 Remedies Revision Summary]] - Both cover detailed doctrines on remedies, with a focus on statutory and equitable remedies and special standing.
+<!-- agent:see-also:end -->

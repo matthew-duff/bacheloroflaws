@@ -1,8 +1,12 @@
 ---
-tags: [admin-law, summary]
 type: study-guide
----
 
+tags:
+  - 'public-powers'
+  - 'accountability'
+  - 'judicial-review'
+  - 'merits-review'
+---
 [[Workshop 1 Learning Guide and Workshop Questions To Prepare]]
 
 # Reference
@@ -30,3 +34,14 @@ This study guide introduces the foundational concepts of administrative law, foc
 
 # Significance
 This guide provides the pedagogical framework for the course, defining the key terms and institutions that students will encounter. It establishes the theoretical justification for administrative law (the rule of law and separation of powers) and introduces the practical application of these principles through workshop scenarios.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 2/French - Administrative Justice Summary]] - Both notes address administrative justice and share the case Salomon v A Salomon & Co Ltd [1897] AC 22, with overlapping topics like procedural fairness and constitutional values.
+- [[Admin Law/summaries/Week 2/Creyke - Integrity in Government Summary]] - This note shares the case Salomon v A Salomon & Co Ltd [1897] AC 22 and discusses integrity and accountability in government, aligning with the themes of accountability and institutional oversight.
+- [[Admin Law/summaries/Week 2/Walker - Statutory Interpretation Summary]] - Both deal with judicial review and statutory interpretation, with overlapping statutes such as the Corporations Act and common law principles shaping review doctrines.
+- [[Admin Law/summaries/Week 12/Workshop 9 Guide Summary]] - This note expands on judicial review, procedural fairness, and statutory rights to reasons, complementing the themes of accountability and reasonableness in administrative law.
+- [[Admin Law/summaries/Week 13/Workshop 10 Guide Summary]] - It focuses on remedies in judicial review, complementing the earlier notes’ discussion of review grounds and accountability mechanisms.
+<!-- agent:see-also:end -->

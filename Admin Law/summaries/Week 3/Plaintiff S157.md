@@ -1,8 +1,13 @@
 ---
-tags: [admin-law, summary, case]
 type: case
----
 
+tags:
+  - 'jurisdictional-error'
+  - 'privative-clause'
+  - 'constitutional-review'
+  - 'procedural-fairness'
+  - 'migration-act'
+---
 [[Plaintiff S157/2002 v Commonwealth (2003) 211 CLR 476]]
 
 **Citation:** *Plaintiff S157/2002 v Commonwealth* (2003) 211 CLR 476
@@ -31,3 +36,12 @@ The plaintiff, a Bangladeshi citizen, was refused a protection visa by a delegat
 *   **Jurisdictional Error as the Key:** The case established jurisdictional error as the primary vehicle for bypassing privative clauses. If an error is "jurisdictional," the decision is a nullity and the privative clause has no application.
 *   **Narrowing Privative Clauses:** It effectively rendered broad privative clauses inoperative against serious legal errors, particularly denials of procedural fairness.
 *   **Constitutional Interpretation:** It demonstrated the Court's preference for reading down legislation to preserve constitutional validity rather than striking it down entirely.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 3/Gageler - Constitutional Context Summary]] - Both discuss constitutional bases for judicial review, separation of powers, and the evolution of writs—directly relevant to S157’s jurisdictional error and constitutional review themes.
+- [[Admin Law/summaries/Week 3/Lecture 3 Legality Review Summary]] - Covers procedural fairness and statutory review, overlapping with S157’s procedural fairness and constitutional review topics.
+- [[Admin Law/summaries/Week 3/Church of Scientology v Woodward]] - Discusses judicial review and statutory limits on executive power, relevant to S157’s constitutional review and separation of powers.
+<!-- agent:see-also:end -->

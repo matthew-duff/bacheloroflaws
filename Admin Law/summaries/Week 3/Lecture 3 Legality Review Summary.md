@@ -1,8 +1,16 @@
 ---
-tags: [admin-law, summary]
 type: lecture-slides
----
 
+tags:
+  - 'procedural-fairness'
+  - 'natural-justice'
+  - 'hearing-rule'
+  - 'bias-rule'
+  - 'subordinate-legislation'
+  - 'project-blue-sky'
+  - 'unauthorized-purpose'
+  - 'human-rights-act-2019'
+---
 [[2026 - Lecture 3 - slides - Legality review - part 1 - Grounds of review]]
 
 # Lecture 3: Legality Review Part 1 – Grounds of Review
@@ -43,3 +51,14 @@ This lecture provides the first part of a detailed examination of the grounds fo
 
 ## Significance
 This lecture establishes the foundational legal framework for challenging the **legality** of administrative decisions. It emphasizes the shift from rigid categories (like "mandatory vs directory") to a focus on **statutory interpretation** and the **presumption of procedural fairness**. Understanding these grounds is critical for identifying when an executive action has exceeded its legal boundaries, particularly in the context of individual rights and the evolving impact of human rights legislation on administrative law.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 4/Lecture 4 - Legality Review Part 2 - Summary]] - Continuation of the same topic, covering further grounds of review and human rights.
+- [[Admin Law/summaries/Week 5-Workshop 4 Study Guide Summary]] - Focuses on natural justice and procedural fairness, closely related topics in legality review.
+- [[Admin Law/summaries/Week 6-Workshop 5 Study Guide Summary]] - Explores procedural ultra vires and simple ultra vires, related to the scope of administrative law review.
+- [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Discusses legality and procedural fairness in the context of automated decision-making and AI, extending the concept of natural justice.
+- [[Admin Law/summaries/Week 3/A-G (NSW) v Quin]] - Examines procedural fairness and legitimate expectations in administrative appointments, relevant to grounds of review.
+<!-- agent:see-also:end -->

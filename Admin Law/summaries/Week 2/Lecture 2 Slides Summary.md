@@ -1,9 +1,14 @@
 ---
-tags:
-  - admin-law
-  - summary
 type: lecture-slides
 citation: "[[2026 - Lecture 2 - slides - Introduction to merits review and legality review]]"
+
+tags:
+  - 'merits-review'
+  - 'legality-review'
+  - 'executive-power'
+  - 'prerogative'
+  - 'tribunals'
+  - 'judicial-review'
 ---
 This lecture explores the two primary mechanisms for challenging administrative decisions in Australia: **Merits Review** (Executive branch/Tribunals) and **Legality Review** (Judicial branch/Courts).
 
@@ -51,3 +56,14 @@ Legality review (Judicial Review) ensures the government acts within the boundar
 - **Prerogative Powers:** Unique Crown powers (e.g., treaties, war).
 - **Executive Capacities:** Powers shared with legal persons (e.g., contracting).
 - **Reviewability:** No blanket exclusion for prerogative powers (*CCSU*; *Miller*), though high-level "polycentric" decisions may be non-justiciable (*Peko-Wallsend*).
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 4/Chapter by Professor Creyke on Merits Review - Summary]] - Shares key topics such as 'merits review', 'executive power', and 'tribunals', and provides a detailed academic analysis of the topic.
+- [[Admin Law/summaries/Week 4/Article by Professor Allars on Merits Review - Summary]] - Directly addresses the theme of 'merits review' and offers a scholarly perspective on its implementation and significance.
+- [[Admin Law/summaries/Week 4/The Value of Adjudicative Independence - Summary]] - Explores adjudicative independence, a crucial aspect of tribunal fairness and legitimacy in the context of merits review.
+- [[Admin Law/summaries/Week 2/Creyke - Integrity in Government Summary]] - Connects to integrity and accountability in administrative law, which underpins the legitimacy and effectiveness of tribunals.
+- [[Admin Law/summaries/Week 2/French - Administrative Justice Summary]] - Discusses the foundational criteria for administrative justice, closely related to the principles governing merits review and tribunals.
+<!-- agent:see-also:end -->

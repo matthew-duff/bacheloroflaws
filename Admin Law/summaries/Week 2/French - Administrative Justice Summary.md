@@ -1,8 +1,13 @@
 ---
-tags: [admin-law, summary]
 type: article
----
 
+tags:
+  - 'administrative-justice'
+  - 'legal-standards'
+  - 'procedural-fairness'
+  - 'merits-review'
+  - 'constitutional-values'
+---
 [[French on Administrative Justice]]
 
 # Reference
@@ -23,3 +28,14 @@ Chief Justice French explores the origins and utility of the term "administrativ
 
 # Significance
 This speech provides a high-level conceptual framework for understanding the goal of the administrative law system. It bridges the gap between technical legal rules (like jurisdictional error) and the broader societal expectation of "justice" in government decision-making, emphasizing that these standards are anchored in the Constitution and the rule of law.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 2/Creyke - Integrity in Government Summary]] - Shares the same case Salomon v A Salomon & Co Ltd [1897] AC 22 and discusses administrative justice and integrity in government, aligning with the current note's statutory references.
+- [[Admin Law/summaries/Week 12/Automated Decision-making and AI Study Summary]] - References the same case Salomon v A Salomon & Co Ltd [1897] AC 22 and discusses discretionary powers and competence standards relevant to administrative law.
+- [[Admin Law/summaries/Week 4/Chapter by Professor Creyke on Merits Review - Summary]] - Directly related by topic (merits review) and author, providing complementary insight into administrative tribunals and procedural fairness.
+- [[Admin Law/summaries/Week 4/Article by Professor Allars on Merits Review - Summary]] - Addresses the same subject matter (merits review) and complements the analysis of administrative justice and procedural fairness.
+- [[Admin Law/summaries/Week 2/Lecture 2 Slides Summary]] - Covers merits review (Tribunals) and procedural fairness, closely related to the current note's focus on administrative justice.
+<!-- agent:see-also:end -->

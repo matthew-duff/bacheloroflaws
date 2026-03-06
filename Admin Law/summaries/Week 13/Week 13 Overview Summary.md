@@ -1,8 +1,12 @@
 ---
-tags: [admin-law, summary]
 type: overview
----
 
+tags:
+  - 'remedies'
+  - 'statutory-remedies'
+  - 'common-law-writs'
+  - 'equitable-relief'
+---
 [[ultraDocumentBody]]
 
 # Week 13 Overview Summary
@@ -27,3 +31,14 @@ This overview covers the final topics of administrative law remedies, focusing o
 
 ## Significance
 Understanding remedies is crucial because the availability of a remedy often dictates the strategy of a judicial review application. While statutory remedies are the primary path, the inherent jurisdiction of superior courts to grant declarations and the specific requirements for prerogative relief (like the "record" for certiorari) remain vital for cases falling outside statutory schemes or requiring flexible declaratory relief.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Shares topics such as automated decision-making, legality review, and references Robodebt and statutory discretion.
+- [[Admin Law/summaries/Week 12/Lecture 9 Remedies Revision Summary]] - Connects to remedies in administrative law, including statutory remedies and special standing, which relate to the broader context of administrative review.
+- [[Admin Law/summaries/Week 12/Automated Decision-making and AI Study Summary]] - Discusses AI in legal contexts, including discretionary powers and statutory compliance, relevant to automated decision-making and its legal challenges.
+- [[Admin Law/summaries/Week 12/LPDT v Minister]] - Focuses on jurisdictional error and statutory compliance, which are key concepts in administrative law review and complement the themes in this note.
+- [[Admin Law/summaries/Week 12/Workshop 9 Guide Summary]] - Covers statutory rights to reasons and procedural fairness, which are closely related to the principles of administrative justice and remedies.
+<!-- agent:see-also:end -->

@@ -1,8 +1,13 @@
 ---
-tags: [admin-law, summary]
 type: article
----
 
+tags:
+  - 'administrative-justice'
+  - 'integrity-in-government'
+  - 'nisa-framework'
+  - 'institutional-accountability'
+  - 'compliance-culture'
+---
 [[Creyke's article on integrity in government]]
 
 # Reference
@@ -22,3 +27,13 @@ Professor Creyke examines the elusive concept of "administrative justice" and pr
 
 # Significance
 This article provides a systemic view of administrative law, moving beyond individual cases to look at how the entire "integrity system" functions. It offers a way to measure the "health" of administrative justice through institutional strengths, weaknesses, and coherence, rather than just legal doctrine.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Shares topics like automated decision-making, administrative justice, and statutory discretion, and references cases and statutes relevant to integrity in government and compliance culture.
+- [[Admin Law/summaries/Week 12/LPDT v Minister]] - Discusses jurisdictional error and the distinction from merits review, which aligns with the integrity and accountability themes and provides statutory context.
+- [[Admin Law/summaries/Week 4/Chapter by Professor Creyke on Merits Review - Summary]] - Directly relates to the topic of integrity in government and institutional accountability through its focus on merits review in administrative tribunals.
+- [[Admin Law/summaries/Week 1-Lecture 1 Summary]] - Introduces foundational concepts of administrative law, including accountability and rule of law, which underpin integrity in government.
+<!-- agent:see-also:end -->

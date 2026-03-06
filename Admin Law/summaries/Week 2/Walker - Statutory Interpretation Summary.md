@@ -1,8 +1,13 @@
 ---
-tags: [admin-law, summary]
 type: article
----
 
+tags:
+  - 'statutory-interpretation'
+  - 'judicial-review'
+  - 'common-law'
+  - 'reasonableness'
+  - 'procedural-fairness'
+---
 [[Walker, The role of statutory interpretation in administrative law (2023) 109 AIAL Forum 33]]
 
 # Reference
@@ -22,3 +27,13 @@ This article explores the convergence of administrative law and statutory interp
 
 # Significance
 The article highlights that the "statutory turn" in Australian administrative law reinforces the democratic legitimacy of judicial review by framing it as the enforcement of the will of a democratically elected Parliament. It provides a contemporary judicial perspective on how core administrative law doctrines (like reasonableness and procedural fairness) are integrated into the framework of statutory construction.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 1-Lecture 1 Summary]] - Shares foundational topics such as public power, accountability, and the rule of law, which are core to understanding administrative law principles.
+- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Directly relates to the challenges of administrative justice, natural justice, and statutory discretion in automated decision-making, complementing the Robodebt case discussion.
+- [[Admin Law/summaries/Week 12/Lecture 9 Remedies Revision Summary]] - Discusses remedies and judicial review doctrines relevant to administrative law, especially in relation to injunctions and special standing, which are also covered in other notes.
+- [[Admin Law/summaries/Week 12/LPDT v Minister]] - Focuses on jurisdictional error and materiality tests, which are critical concepts in administrative law and relate to the distinction between merits and legal review.
+<!-- agent:see-also:end -->

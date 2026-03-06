@@ -1,8 +1,13 @@
 ---
-tags: [admin-law, summary, case]
 type: case
----
 
+tags:
+  - 'maritime-enforcement'
+  - 'executive-powers'
+  - 'statutory-authorization'
+  - 'procedural-fairness'
+  - 'non-refoulement'
+---
 [[CPCF v Minister for Immigration and Border Protection]]
 
 **Citation**: *CPCF v Minister for Immigration and Border Protection* [2015] HCA 1; (2015) 255 CLR 514
@@ -30,3 +35,13 @@ An Indian-flagged vessel carrying 157 passengers (including the plaintiff, a Sri
 *   **Maritime Enforcement**: Confirms the broad reach of the *Maritime Powers Act* in "turn-back" operations, establishing that the Executive can commence the process of removal to a third country before securing formal diplomatic consent.
 *   **Non-Refoulement**: Highlights the tension between international obligations (like non-refoulement) and domestic statutory powers, suggesting that while s 74 provides a safety check, it does not automatically incorporate all international refugee law protections into the MPA.
 *   **Executive vs. Statute**: Reinforces the principle that coercive executive actions (like detention) generally require clear statutory authorization, though the majority's broad reading of the MPA reduced the need to rely on s 61.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 12/LPDT v Minister]] - Shares statutory framework (Migration Act) and discusses jurisdictional error, which is relevant to procedural fairness and statutory authorization.
+- [[Admin Law/summaries/Week 3/A-G (NSW) v Quin]] - Discusses procedural fairness and legitimate expectations, which overlap with the principles in the current note.
+- [[Admin Law/summaries/Week 3/Church of Scientology v Woodward]] - Though summary is empty, the case is likely relevant due to its high-profile nature and possible intersection with administrative law principles.
+- [[Admin Law/summaries/Week 3/Lecture 3 Legality Review Summary]] - Provides foundational context on legal review, complementing the discussion of procedural fairness and statutory authorization.
+<!-- agent:see-also:end -->

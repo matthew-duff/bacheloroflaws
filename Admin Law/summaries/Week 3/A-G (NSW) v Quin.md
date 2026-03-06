@@ -1,8 +1,15 @@
 ---
-tags: [admin-law, summary, case]
 type: case
----
 
+tags:
+  - 'natural-justice'
+  - 'legitimate-expectation'
+  - 'judicial-review'
+  - 'executive-discretion'
+  - 'merits-review'
+  - 'procedural-fairness'
+  - 'appointment-policy'
+---
 [[A-G (NSW) v Quin]]
 
 **Citation**: *Attorney-General (NSW) v Quin* (1990) 170 CLR 1
@@ -29,3 +36,12 @@ The High Court (Mason CJ, Brennan, and Dawson JJ; Deane and Toohey JJ dissenting
 *   **Leading Authority on Legitimate Expectation**: Confirms that the doctrine of legitimate expectation in Australian law is procedural rather than substantive. It cannot be used to fetter the exercise of a statutory discretion or prevent a change in government policy.
 *   **Judicial Review Limits**: Reinforces the strict distinction between the "legality" of a decision and its "merits," emphasizing that courts must not usurp the discretionary powers of the Executive.
 *   **Judicial Appointments**: Highlights the exclusive province of the Executive in appointing judicial officers, subject only to the requirements of the relevant statute.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 3/Church of Scientology v Woodward]] - Relevant due to its connection with executive discretion and procedural fairness, both of which are core topics in this note.
+- [[Admin Law/summaries/Week 3/Gageler - Constitutional Context Summary]] - Provides constitutional context relevant to natural justice and procedural fairness, which are central themes.
+- [[Admin Law/summaries/Week 3/Waldron - Rule of Law Summary]] - Offers a theoretical grounding on the rule of law, complementing the discussion of judicial review and legitimacy.
+<!-- agent:see-also:end -->

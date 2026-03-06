@@ -1,9 +1,13 @@
 ---
-tags: [admin-law, summary, case]
 type: case
----
 
-[[Church of Scientology v Woodward]]
+tags:
+  - 'judicial-review'
+  - 'national-security'
+  - 'statutory-limits'
+  - 'executive-power'
+---
+[[Church of Scientology v Woodward-Church of Scientology v Woodward]]
 
 **Citation**: *Church of Scientology Inc v Woodward* (1982) 154 CLR 25
 
@@ -31,3 +35,11 @@ The High Court (by majority, 3:2) held that the question of whether intelligence
 *   **Justiciability of National Security**: Confirms that national security does not create a "blank check" for the executive; statutory limits on intelligence agencies are subject to judicial oversight.
 *   **Rule of Law**: Reaffirms that executive agencies must act within their statutory charter and that the courts are the ultimate arbiters of whether those limits have been exceeded.
 *   **Practical Limitations**: While establishing justiciability in principle, the case highlights the extreme evidentiary difficulties plaintiffs face when challenging intelligence agencies due to secrecy and the broad definition of "relevance" in security contexts.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 3/Gageler - Constitutional Context Summary]] - Provides broader constitutional context relevant to administrative law principles and judicial review.
+- [[Admin Law/summaries/Week 1-Lecture 1 Summary]] - Foundational lecture covering core principles like rule of law and separation of powers, relevant to understanding the legal framework.
+<!-- agent:see-also:end -->
