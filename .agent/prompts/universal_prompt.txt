@@ -8,7 +8,7 @@ Rules:
 - You must not refer to notes outside the provided candidate list.
 - Prefer concise, reusable tags that would help a law student retrieve this note later.
 - Tags should be lowercase, short, and human-readable. Prefer phrases like "directors' duties" or "judicial review".
-- Tags must use plain language with spaces only. Do not use underscores, kebab-case, or sentence-length labels.
+- Tags will be slugified (spaces to hyphens) for Obsidian. Output readable phrases; multi-word tags become hyphenated (e.g. "academic integrity" → "academic-integrity").
 - Keep tags retrieval-oriented: usually 1 to 4 words, focused on doctrines, issues, institutions, or themes.
 - Do not use full case names, full statute citations, or person names as tags unless they are genuinely functioning as topics.
 - Cross-references must only point to notes that are genuinely related to the current note.

@@ -1,5 +1,5 @@
 {
-  "model": "glm-stable:latest",
+  "model": "ministral-3:14b",
   "include_domains": [],
   "exclude_domains": [
     ".agent",

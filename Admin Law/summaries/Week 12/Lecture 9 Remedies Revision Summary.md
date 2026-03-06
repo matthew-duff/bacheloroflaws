@@ -1,8 +1,18 @@
 ---
-tags: [admin-law, summary]
 type: lecture-slides
----
 
+tags:
+  - 'judicial-review-costs'
+  - 'interlocutory-relief'
+  - 'stays-injunctions'
+  - 'prima-facie-case'
+  - 'balance-of-convenience'
+  - 'injunctions-criminal-law'
+  - 'standing-public-law'
+  - 'special-interest-test'
+  - 'statutory-common-law-equitable-remedies'
+  - 'adjr-act-jr-act'
+---
 [[2026 - Lecture 9 - slides Remedies revision]]
 
 # Lecture 9: Remedies Revision Summary
@@ -39,3 +49,13 @@ This lecture provides a comprehensive revision of remedies in administrative law
 
 ## Significance
 This revision highlights the procedural nuances of administrative law in Queensland, particularly the unique costs provisions of the *JR Act* and the high threshold for interlocutory relief in public law matters. It emphasizes the "special interest" requirement for standing and the cautious approach courts take when civil remedies are sought to enforce criminal statutes, ensuring that the separation of powers and criminal procedural protections are maintained.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Shares **ADJR Act** (statute) and explores **legality review grounds**, which intersect with **injunctions/criminal law** and **statutory vs. common law equitable remedies** in remedies analysis. Also references **natural justice**, a foundational principle for interlocutory relief and standing in public law.
+- [[Admin Law/summaries/Week 12/LPDT v Minister]] - Overlaps with **jurisdictional error** and **statutory compliance** themes, relevant to **prima facie case** and **balance of convenience** in remedies (e.g., when errors justify interlocutory relief). The **materiality test** (realistic possibility) contrasts with speculative merits review, mirroring debates in **stays/injunctions** for criminal law contexts.
+- [[Admin Law/summaries/Week 13/Workshop 10 Guide Summary]] - Directly focuses on **remedies** (e.g., injunctions, stays), providing complementary **practical applications** of the theoretical frameworks in this note (e.g., **special standing** for interlocutory relief, **criminal law injunctions**). Likely covers **worked examples** of **balance of convenience** and **irreparable harm** tests.
+- [[Admin Law/summaries/Week 1-Lecture 1 Summary]] - Foundational **legality review vs. merits review** distinction underpins **standing** and **remedies** (e.g., **special standing** for interlocutory relief). Shares **ADJR Act** and explores **justiciability**, critical for assessing when courts intervene in **criminal law** or **statutory breaches** via injunctions.
+<!-- agent:see-also:end -->

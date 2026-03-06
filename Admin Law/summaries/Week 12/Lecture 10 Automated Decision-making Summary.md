@@ -1,8 +1,17 @@
 ---
-tags: [admin-law, summary]
 type: lecture-slides
----
 
+tags:
+  - 'automated-decision-making'
+  - 'legality-review-grounds'
+  - 'administrative-justice'
+  - 'natural-justice'
+  - 'statutory-discretion'
+  - 'algorithm-transparency'
+  - 'delegation-limits'
+  - 'robo-debt'
+  - 'decision-definition'
+---
 [[2026 - Lecture 10 - Automated decision-making]]
 
 # 2026 - Lecture 10 - Automated decision-making
@@ -23,3 +32,13 @@ This lecture explores the intersection of automated decision-making (ADM) and ad
 
 ## Significance
 Automated decision-making represents a fundamental shift in how public power is exercised. The lecture emphasizes that while technology can enhance efficiency, it must operate within the framework of administrative law to ensure legality, fairness, and accountability. The failure of the Robo-debt program serves as a critical case study in the dangers of unauthorized and poorly overseen automation, leading to a Royal Commission and significant legal reform discussions. The evolving nature of generative AI further complicates these issues, requiring ongoing judicial and legislative adaptation.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 12/Automated Decision-making and AI Study Summary]] - Shares **automated decision-making** and **discretionary powers** as core topics, with a focus on AI-assisted legal processes and **merits review**, which intersects with the **legality review grounds** discussed in the current note. Explores normative debates on **algorithm transparency** and **competence standards**, complementing the **statutory discretion** and **delegation limits** themes.
+- [[Admin Law/summaries/Week 1-Lecture 1 Summary]] - Foundational note on **legality review vs. merits review**, **judicial review**, and **statutory discretion** (via the **ADJR Act**), directly addressing the **decision definition** and **administrative justice** frameworks that underpin the current lecture. Includes overlapping **cases** (e.g., *Communist Party Case* on public power) and **statutes** (ADJR Act).
+- [[Admin Law/summaries/Week 12/LPDT v Minister]] - Connects to **jurisdictional error** and **statutory compliance** (via *Migration Act* provisions), which are critical for assessing **legality review grounds** in automated systems. The **materiality test** and **realistic possibility** standard may inform debates on **algorithm transparency** and **delegation limits** in decision-making. Shares **ADJR Act** relevance through broader administrative law principles.
+- [[Admin Law/summaries/Introduction-Law School AI Policy Summary]] - Explores **transparency requirements**, **ethical use of technology**, and **professional accountability**—key themes for **automated decision-making** and **algorithm transparency**. Addresses **legal reasoning standards** and **independent verification**, which align with **natural justice** and **due diligence** concerns in administrative law.
+<!-- agent:see-also:end -->

@@ -365,17 +365,39 @@ def call_ollama(model: str, prompt: str) -> str:
 
 def parse_llm_json(raw_output: str) -> dict[str, Any]:
     cleaned = raw_output.strip()
-    if cleaned.startswith("```"):
-        cleaned = cleaned.strip("`")
-        cleaned = cleaned.replace("json", "", 1).strip()
+    
+    # Try finding the first { and last } in the raw output first, 
+    # as LLMs often include "Thinking..." or other text.
+    match = JSON_BLOCK_RE.search(raw_output)
+    if match:
+        try:
+            return json.loads(match.group(0))
+        except json.JSONDecodeError:
+            # If the regex match itself isn't valid JSON, 
+            # we'll fall through to the more aggressive cleaning.
+            pass
+
+    # Aggressive cleaning for markdown code blocks
+    if "```" in cleaned:
+        # Find the first { and last } to extract the JSON object
+        start = cleaned.find("{")
+        end = cleaned.rfind("}")
+        if start != -1 and end != -1:
+            cleaned = cleaned[start : end + 1]
+        else:
+            # Fallback for when it's just ```json ... ``` without braces (unlikely but possible)
+            cleaned = cleaned.strip("`")
+            if cleaned.startswith("json"):
+                cleaned = cleaned[4:].strip()
 
     try:
         return json.loads(cleaned)
     except json.JSONDecodeError:
-        match = JSON_BLOCK_RE.search(raw_output)
-        if not match:
-            raise
-        return json.loads(match.group(0))
+        print(f"DEBUG: Failed to parse JSON. Raw output length: {len(raw_output)}")
+        # Print a bit more of the output to see what's going on
+        print(f"DEBUG: Raw output start: {raw_output[:200]}")
+        print(f"DEBUG: Raw output end: {raw_output[-200:]}")
+        raise
 
 
 def normalize_tag_text(value: str) -> str:
@@ -676,6 +698,14 @@ def extract_metadata_pass(
     }
 
 
+def slugify_tag(value: str) -> str:
+    """Convert a tag string to Obsidian-compatible form (no spaces)."""
+    s = " ".join(value.split()).strip().lower()
+    s = re.sub(r"[^\w\s-]", "", s)  # drop punctuation except hyphens
+    s = re.sub(r"\s+", "-", s).strip("-")
+    return s
+
+
 def normalize_topics_to_tags(
     *,
     topics: list[str],
@@ -689,8 +719,8 @@ def normalize_topics_to_tags(
     for topic in topics:
         if not topic:
             continue
-        tag = topic.strip().lower()
-        if tag in seen:
+        tag = slugify_tag(topic)
+        if not tag or tag in seen:
             continue
         seen.add(tag)
         tags.append(tag)
@@ -700,7 +730,7 @@ def normalize_topics_to_tags(
     if len(tags) < int(config["min_tags"]):
         extra = fallback_tags(fallback_path, fallback_title, config)
         for tag in extra:
-            slug = tag.strip().lower().replace(" ", "-")
+            slug = slugify_tag(tag)
             if slug in seen:
                 continue
             seen.add(slug)

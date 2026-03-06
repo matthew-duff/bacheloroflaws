@@ -1,8 +1,16 @@
 ---
-tags: [admin-law, summary, case]
 type: case
----
 
+tags:
+  - 'jurisdictional-error'
+  - 'materiality-test'
+  - 'realistic-possibility'
+  - 'review'
+  - 'ministerial-directions'
+  - 'evaluative-assessment'
+  - 'merits-review-distinction'
+  - 'statutory-compliance'
+---
 [[LPDT v Minister for Immigration, Citizenship, Migrant Services and Multicultural Affairs (2024) 280 CLR 321]]
 
 **Citation**: *LPDT v Minister for Immigration, Citizenship, Migrant Services and Multicultural Affairs* (2024) 280 CLR 321; [2024] HCA 12
@@ -31,3 +39,13 @@ The High Court unanimously allowed the appeal, finding the AAT's decision was af
 
 ### Significance
 *LPDT* is a landmark case for administrative law as it provides authoritative guidance on the **threshold of materiality** for jurisdictional error. It confirms that the "realistic possibility" test is the standard and emphasizes that courts must avoid "merits review" when conducting the counterfactual inquiry into materiality. It also clarifies that multiple failures to follow a Ministerial Direction should be viewed as a single jurisdictional error of failing to comply with the statutory mandate to follow such directions.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 12/Automated Decision-making and AI Study Summary]] - Shares the **merits review** topic and explores **discretionary powers** in administrative decision-making, which intersects with the *LPDT* case’s evaluation of Ministerial Directions and jurisdictional error under the *Migration Act 1958*. Relevant for contrasting human vs. AI-assisted evaluative assessments in statutory compliance.
+- [[Admin Law/summaries/Week 4/Drake no.1 - Summary]] - Key precedent on **jurisdictional error** and **statutory compliance** under the *Migration Act 1958*, directly relevant to *LPDT*’s analysis of Ministerial Directions (No. 90) and the **materiality test** for reviewability. *Drake* established foundational principles for evaluating administrative discretion in migration law.
+- [[Admin Law/summaries/Week 4/Drake no.2 - Summary]] - Continues the *Drake* line on **jurisdictional error** and **realistic possibility** of compliance, offering a complementary case study for how courts assess Ministerial Directions’ validity. Useful for comparing *LPDT*’s application of the **materiality test** to earlier High Court reasoning.
+- [[Admin Law/summaries/Week 3/CPCF v Minister]] - Another *Migration Act* case involving **Ministerial Directions** (s. 501CA) and **evaluative assessment**, providing a direct comparison for *LPDT*’s analysis of s. 501(3A) and the **merits review distinction**. Focuses on similar statutory provisions and jurisdictional boundaries.
+<!-- agent:see-also:end -->

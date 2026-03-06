@@ -8,7 +8,7 @@ Rules:
 - Think like a law student preparing for exams and an interactive oral assessment.
 - `topics` will become frontmatter tags, so they must read like good Obsidian tags.
 - Prefer doctrinal concepts, legal issues, historical developments, institutional structures, and exam-retrieval concepts.
-- Use plain-language tag phrases with spaces only. Do not use underscores. Do not use kebab-case. Do not use hashtags.
+- Topics will be slugified to Obsidian tags (spaces become hyphens). Output readable phrases; multi-word topics like "academic integrity" become "academic-integrity".
 - Preserve conventional capitalization where it matters, especially for acronyms and named institutions such as `ASIC`.
 - Each topic should usually be 1 to 4 words. Only exceed 4 words if a shorter legal phrase would lose meaning.
 - Avoid sentence-like tags, clause-length tags, or timeline descriptions.
