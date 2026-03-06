@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.path.startsWith("Admin Law")
+        - file.name.contains(" v")
+    order:
+      - tags
