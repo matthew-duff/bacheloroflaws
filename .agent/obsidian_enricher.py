@@ -28,7 +28,7 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_CONFIG_PATH = REPO_ROOT / ".agent" / "config.json"
 
 HEADING_RE = re.compile(r"^\s{0,3}#{1,6}\s+(.+?)\s*$", re.MULTILINE)
-JSON_BLOCK_RE = re.compile(r"\{.*\}", re.DOTALL)
+FENCED_JSON_RE = re.compile(r"```(?:json)?\s*(.*?)\s*```", re.DOTALL | re.IGNORECASE)
 WORD_RE = re.compile(r"[a-z0-9][a-z0-9'\-]{1,}", re.IGNORECASE)
 SKIP_TOKENS = {
     "summary",
@@ -364,40 +364,39 @@ def call_ollama(model: str, prompt: str) -> str:
 
 
 def parse_llm_json(raw_output: str) -> dict[str, Any]:
+    decoder = json.JSONDecoder()
     cleaned = raw_output.strip()
-    
-    # Try finding the first { and last } in the raw output first, 
-    # as LLMs often include "Thinking..." or other text.
-    match = JSON_BLOCK_RE.search(raw_output)
-    if match:
+    candidates = [match.group(1).strip() for match in FENCED_JSON_RE.finditer(raw_output)]
+    if cleaned:
+        candidates.append(cleaned)
+
+    last_error: json.JSONDecodeError | None = None
+    for candidate in candidates:
+        if not candidate:
+            continue
+
         try:
-            return json.loads(match.group(0))
-        except json.JSONDecodeError:
-            # If the regex match itself isn't valid JSON, 
-            # we'll fall through to the more aggressive cleaning.
-            pass
+            parsed = json.loads(candidate)
+            if isinstance(parsed, dict):
+                return parsed
+        except json.JSONDecodeError as exc:
+            last_error = exc
 
-    # Aggressive cleaning for markdown code blocks
-    if "```" in cleaned:
-        # Find the first { and last } to extract the JSON object
-        start = cleaned.find("{")
-        end = cleaned.rfind("}")
-        if start != -1 and end != -1:
-            cleaned = cleaned[start : end + 1]
-        else:
-            # Fallback for when it's just ```json ... ``` without braces (unlikely but possible)
-            cleaned = cleaned.strip("`")
-            if cleaned.startswith("json"):
-                cleaned = cleaned[4:].strip()
+        for start_match in re.finditer(r"[\{\[]", candidate):
+            try:
+                parsed, _ = decoder.raw_decode(candidate, idx=start_match.start())
+            except json.JSONDecodeError as exc:
+                last_error = exc
+                continue
+            if isinstance(parsed, dict):
+                return parsed
 
-    try:
-        return json.loads(cleaned)
-    except json.JSONDecodeError:
-        print(f"DEBUG: Failed to parse JSON. Raw output length: {len(raw_output)}")
-        # Print a bit more of the output to see what's going on
-        print(f"DEBUG: Raw output start: {raw_output[:200]}")
-        print(f"DEBUG: Raw output end: {raw_output[-200:]}")
-        raise
+    print(f"DEBUG: Failed to parse JSON. Raw output length: {len(raw_output)}")
+    print(f"DEBUG: Raw output start: {raw_output[:200]}")
+    print(f"DEBUG: Raw output end: {raw_output[-200:]}")
+    if last_error is not None:
+        raise last_error
+    raise json.JSONDecodeError("No JSON object found in LLM output", raw_output, 0)
 
 
 def normalize_tag_text(value: str) -> str:
