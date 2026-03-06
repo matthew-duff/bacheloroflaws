@@ -6,12 +6,11 @@ tags:
   - 'public-power'
   - 'accountability'
   - 'rule-of-law'
+  - 'separation-of-powers'
   - 'merits-review'
   - 'legality-review'
   - 'judicial-review'
   - 'justiciability'
-  - 'separation-of-powers'
-  - 'responsible-government'
   - 'administrative-values'
 ---
 This lecture provides an introduction to the scope, values, and constitutional context of administrative law in Australia, specifically focusing on the accountability of bodies wielding public power.
@@ -35,9 +34,9 @@ This lecture establishes the foundational framework for the course, highlighting
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 2/Creyke - Integrity in Government Summary]] - Shares **accountability** and **administrative values** themes, likely exploring government integrity frameworks that complement the **rule of law** and **separation of powers** principles in Week 1.
-- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Connects to **judicial review** and **legality review** via modern challenges to **public power** and **accountability** in AI-driven administrative decisions, contrasting traditional merits review with automated systems.
-- [[Admin Law/summaries/Week 2/French - Administrative Justice Summary]] - Overlaps with **justiciability** and **administrative values**, likely addressing fairness and procedural rigor in administrative decision-making—key for contextualizing **merits review** vs. **legality review** tensions.
-- [[Admin Law/summaries/Week 12/Workshop 9 Guide Summary]] - Directly relates to **right to reasons** (a core **accountability** mechanism) and **time limits**, which intersect with **judicial review** standards (e.g., *Peko-Wallsend* transparency expectations).
-- [[Admin Law/summaries/Introduction-Law School AI Policy Summary]] - While not a direct case/statute link, its focus on **professional accountability**, **transparency requirements**, and **independent verification** mirrors **rule of law** and **separation of powers** concerns in administrative law—useful for contrasting ethical frameworks.
+- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Shares the topic of automated decision-making, which is relevant to judicial review and legality review in admin law.
+- [[Admin Law/summaries/Week 12/Lecture 9 Remedies Revision Summary]] - Discusses remedies, which are closely related to judicial review and accountability in admin law.
+- [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Provides an overview of admin law topics, including separation of powers and rule of law, which are foundational concepts in this note.
+- [[Admin Law/summaries/Week 13/Week 13 Overview Summary]] - Covers key admin law topics such as accountability and judicial review, complementing the current note's focus.
+- [[Admin Law/summaries/Week 2/French - Administrative Justice Summary]] - Discusses administrative justice, which relates to the rule of law and accountability, both present in this note.
 <!-- agent:see-also:end -->

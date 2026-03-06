@@ -1,8 +1,16 @@
 ---
-tags: [admin-law, summary]
 type: workshop-guide
----
 
+tags:
+  - 'judicial-review'
+  - 'right-to-reasons'
+  - 'jurisdictional-error'
+  - 'privative-clauses'
+  - 'time-limits'
+  - 'exclusion-principles'
+  - 'cost-orders'
+  - 'procedural-fairness'
+---
 [[Workshop 9 Learning Guide and Workshop Questions]]
 
 # Workshop 9: Right to Reasons, Time Limits, and Exclusions
@@ -33,3 +41,14 @@ This guide covers the statutory right to reasons under the *Administrative Decis
 
 ## Significance
 This topic is critical because the right to reasons is the "third pillar" of administrative law reform, enabling transparency and allowing applicants to determine if a decision is worth challenging. The interplay between jurisdictional error and privative clauses represents the fundamental constitutional tension between legislative intent to limit review and the judiciary's role in maintaining the rule of law.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Both discuss how automated decision-making challenges traditional admin law principles like natural justice and legality, with overlapping statutory references (ADJR Act).
+- [[Admin Law/summaries/Week 12/LPDT v Minister]] - Shares topics on jurisdictional error and statutory compliance, relevant to understanding limits on administrative power and procedural fairness.
+- [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Directly addresses the same themes—ADM, AI, procedural fairness—providing a broader context for the workshop.
+- [[Admin Law/summaries/Week 6-Workshop 5 Study Guide Summary]] - Covers judicial review grounds, including procedural ultra vires, which relate to time limits and exclusions in administrative law.
+- [[Admin Law/summaries/Week 9-Workshop 6 Study Guide Summary]] - Focuses on JR grounds such as illegality and unreasonableness, complementing the discussion of reasonableness and exclusion principles.
+<!-- agent:see-also:end -->

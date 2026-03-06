@@ -1,8 +1,13 @@
 ---
-tags: [admin-law, summary]
 type: overview
----
 
+tags:
+  - 'automated-decision-making'
+  - 'artificial-intelligence'
+  - 'procedural-fairness'
+  - 'legality'
+  - 'robodebt'
+---
 [[ultraDocumentBody]]
 
 # Week 12 Overview Summary
@@ -20,3 +25,12 @@ This week focuses on the intersection of administrative law with modern technolo
 
 ## Significance
 As government agencies increasingly adopt AI and ADM, understanding the legal constraints on these technologies is critical for administrative law practitioners. The shift from human to algorithmic decision-making requires a re-evaluation of how accountability is maintained. The Robodebt Royal Commission (2023) underscores that technological efficiency cannot override the fundamental requirement that public power be exercised lawfully, fairly, and rationally.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Both discuss automated decision-making and its legal implications, including Robodebt and statutory transparency.
+- [[Admin Law/summaries/Week 12/LPDT v Minister]] - Focuses on jurisdictional error and materiality, closely related to discretionary powers and procedural fairness in administrative law.
+- [[Admin Law/summaries/Week 12/Lecture 9 Remedies Revision Summary]] - Connects to administrative law doctrines on remedies, complementing the procedural fairness and discretionary powers discussed elsewhere.
+<!-- agent:see-also:end -->

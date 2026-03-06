@@ -54,8 +54,8 @@ This revision highlights the procedural nuances of administrative law in Queensl
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Shares **ADJR Act** (statute) and explores **legality review grounds**, which intersect with **injunctions/criminal law** and **statutory vs. common law equitable remedies** in remedies analysis. Also references **natural justice**, a foundational principle for interlocutory relief and standing in public law.
-- [[Admin Law/summaries/Week 12/LPDT v Minister]] - Overlaps with **jurisdictional error** and **statutory compliance** themes, relevant to **prima facie case** and **balance of convenience** in remedies (e.g., when errors justify interlocutory relief). The **materiality test** (realistic possibility) contrasts with speculative merits review, mirroring debates in **stays/injunctions** for criminal law contexts.
-- [[Admin Law/summaries/Week 13/Workshop 10 Guide Summary]] - Directly focuses on **remedies** (e.g., injunctions, stays), providing complementary **practical applications** of the theoretical frameworks in this note (e.g., **special standing** for interlocutory relief, **criminal law injunctions**). Likely covers **worked examples** of **balance of convenience** and **irreparable harm** tests.
-- [[Admin Law/summaries/Week 1-Lecture 1 Summary]] - Foundational **legality review vs. merits review** distinction underpins **standing** and **remedies** (e.g., **special standing** for interlocutory relief). Shares **ADJR Act** and explores **justiciability**, critical for assessing when courts intervene in **criminal law** or **statutory breaches** via injunctions.
+- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Both discuss how automated decision-making challenges traditional admin law principles like legality and natural justice, with overlapping statutory references (ADJR Act).
+- [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Provides an overview of the week's topics, including remedies, which aligns with the focus of this note.
+- [[Admin Law/summaries/Week 13/Workshop 10 Guide Summary]] - Covers remedies in more depth, complementing this revision summary with practical application and workshop insights.
+- [[Admin Law/summaries/Week 12/LPDT v Minister]] - Discusses jurisdictional error and merits review distinction, closely related to remedies and judicial review principles covered here.
 <!-- agent:see-also:end -->

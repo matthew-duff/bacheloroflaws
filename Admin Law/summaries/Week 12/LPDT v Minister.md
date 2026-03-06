@@ -5,8 +5,6 @@ tags:
   - 'jurisdictional-error'
   - 'materiality-test'
   - 'realistic-possibility'
-  - 'review'
-  - 'ministerial-directions'
   - 'evaluative-assessment'
   - 'merits-review-distinction'
   - 'statutory-compliance'
@@ -44,8 +42,9 @@ The High Court unanimously allowed the appeal, finding the AAT's decision was af
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 12/Automated Decision-making and AI Study Summary]] - Shares the **merits review** topic and explores **discretionary powers** in administrative decision-making, which intersects with the *LPDT* case’s evaluation of Ministerial Directions and jurisdictional error under the *Migration Act 1958*. Relevant for contrasting human vs. AI-assisted evaluative assessments in statutory compliance.
-- [[Admin Law/summaries/Week 4/Drake no.1 - Summary]] - Key precedent on **jurisdictional error** and **statutory compliance** under the *Migration Act 1958*, directly relevant to *LPDT*’s analysis of Ministerial Directions (No. 90) and the **materiality test** for reviewability. *Drake* established foundational principles for evaluating administrative discretion in migration law.
-- [[Admin Law/summaries/Week 4/Drake no.2 - Summary]] - Continues the *Drake* line on **jurisdictional error** and **realistic possibility** of compliance, offering a complementary case study for how courts assess Ministerial Directions’ validity. Useful for comparing *LPDT*’s application of the **materiality test** to earlier High Court reasoning.
-- [[Admin Law/summaries/Week 3/CPCF v Minister]] - Another *Migration Act* case involving **Ministerial Directions** (s. 501CA) and **evaluative assessment**, providing a direct comparison for *LPDT*’s analysis of s. 501(3A) and the **merits review distinction**. Focuses on similar statutory provisions and jurisdictional boundaries.
+- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Both discuss administrative law topics related to decision-making processes and statutory interpretation.
+- [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Provides an overview of Week 12 topics, including potential overlaps in statutory compliance and jurisdictional error.
+- [[Admin Law/summaries/Week 12/Lecture 9 Remedies Revision Summary]] - Addresses remedies and procedural aspects relevant to administrative law cases and statutory compliance.
+- [[Admin Law/summaries/Week 3/A-G (NSW) v Quin]] - Shares statutory context and jurisdictional issues relevant to administrative law principles.
+- [[Admin Law/summaries/Week 4/Drake no.1 - Summary]] - Discusses administrative discretion and statutory interpretation, relating to the current note's focus on materiality and jurisdictional error.
 <!-- agent:see-also:end -->

@@ -39,8 +39,6 @@ This policy is significant for Administrative Law and legal education as it alig
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Directly addresses **automated decision-making and AI** in administrative law, covering **transparency requirements**, **legal reasoning standards**, and **professional accountability**—core themes in the AI policy context.
-- [[Admin Law/summaries/Week 12/Automated Decision-making and AI Study Summary]] - Provides a **reference-focused** analysis of AI in administrative law, likely touching on **ethical use of technology**, **independent verification**, and **substantive analysis requirements**, which align with the policy’s emphasis on rigorous oversight.
-- [[Admin Law/summaries/Week 12/LPDT v Minister]] - A **case study** on administrative decision-making (likely involving AI or algorithmic processes), which may illustrate **professional accountability** and **transparency requirements** in practice—useful for grounding policy discussions in precedent.
-- [[Admin Law/summaries/Week 1-Lecture 1 Summary]] - Covers **key concepts** in administrative law (e.g., **legal reasoning standards**, **academic integrity parallels**), providing foundational context for how **substantive analysis** and **ethical use of technology** fit into broader administrative frameworks.
+- [[Admin Law/summaries/Week 12/Automated Decision-making and AI Study Summary]] - Shares key topic 'AI in legal education' and relates to AI policy implications.
+- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Directly addresses automated decision-making, relevant to AI policy and legal reasoning.
 <!-- agent:see-also:end -->

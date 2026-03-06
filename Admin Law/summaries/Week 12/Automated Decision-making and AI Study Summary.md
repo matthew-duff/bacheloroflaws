@@ -44,9 +44,8 @@ While focused on "lawyering" generally, the study's findings on **automated deci
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Same week topic: Core lecture material on automated decision-making, likely covering foundational concepts, case law, and statutory frameworks directly relevant to the study summary.
-- [[Admin Law/summaries/Week 12/Workshop 9 Guide Summary]] - Shared topic: Focuses on procedural aspects like 'right to reasons' and 'time limits,' which intersect with **due diligence** and **merits review** in automated decision-making contexts (e.g., transparency, accountability).
-- [[Admin Law/summaries/Week 12/LPDT v Minister]] - Potential case link: If this note covers a case involving **automated decision-making** or **AI-assisted administrative actions**, it may provide a concrete example of **discretionary powers** or **competence standards** under scrutiny.
-- [[Admin Law/summaries/Week 9-Workshop 6 Study Guide Summary]] - Related topic: Discusses **unreasonableness** and **human rights** in judicial review, which may contrast or complement debates on **AI fairness** and **legal productivity** in automated systems.
-- [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Contextual link: Provides a high-level synthesis of Week 12’s themes, including **automated decision-making**, to situate the study summary within broader course objectives (e.g., **access to justice** implications).
+- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Shares the same topic of 'automated decision-making' and likely covers related legal frameworks and implications.
+- [[Admin Law/summaries/Week 6-Workshop 5 Study Guide Summary]] - Shares the topic of 'discretionary powers' and procedural ultra vires, which are relevant to understanding administrative law limits.
+- [[Admin Law/summaries/Week 9-Workshop 6 Study Guide Summary]] - Connects to 'discretionary powers' and 'merits review' as these are key themes in judicial review and administrative decision-making.
+- [[Admin Law/summaries/Week 12/Workshop 9 Guide Summary]] - Relates to 'legal productivity' and 'access to justice', which are broader themes that complement the study of automated decision-making and AI in admin law.
 <!-- agent:see-also:end -->
