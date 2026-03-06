@@ -47,3 +47,16 @@ __pycache__/
 *.iso
 *.png
 *.jpg
+*.jpeg
+*.gif
+*.webp
+*.heic
+
+# Backup files
+*.bak
+
+# OCR raw text output
+*_ocr.txt
+
+# Generated indices
+index.json
