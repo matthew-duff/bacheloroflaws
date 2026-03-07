@@ -71,10 +71,10 @@ case_outcome: 'won'
 ---
 
 ## Quick Revision Checklist
-- [ ] **Entity:** Company ≠ Shareholders.
-- [ ] **Control:** 99% ownership does not create an agency relationship.
-- [ ] **Debentures:** Founders can be secured creditors of their own companies.
-- [ ] **Motive:** Incorporating to limit personal liability is a legitimate use of the Act, not a "scheme" or "fraud."
+- [x] **Entity:** Company ≠ Shareholders.
+- [x] **Control:** 99% ownership does not create an agency relationship.
+- [x] **Debentures:** Founders can be secured creditors of their own companies.
+- [x] **Motive:** Incorporating to limit personal liability is a legitimate use of the Act, not a "scheme" or "fraud."
 
 ---
 

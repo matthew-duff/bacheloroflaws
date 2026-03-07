@@ -1,24 +1,24 @@
 ---
-title: 'Case Summary: R v Hughes (2000) 202 CLR 535'
+title: "Case Summary: R v Hughes (2000) 202 CLR 535"
 tags:
-  - 'corporate-regulation'
-  - 'federalism'
-  - 'constitutional-law'
-  - 'duty-to-prosecute'
-  - 'cross-vesting'
-  - 'case-won'
-  - 'ratio-the-high-court-held-that-a-state-may-confer-powers-on-a-commonwealth-officer-and'
-summary: 'The case clarified the limits of Commonwealth power to prosecute State offences under cooperative federalism, emphasizing the need for a constitutional nexus when imposing duties on officers to exercise State powers.'
+  - corporate-regulation
+  - federalism
+  - constitutional-law
+  - duty-to-prosecute
+  - cross-vesting
+  - case-won
+  - ratio-the-high-court-held-that-a-state-may-confer-powers-on-a-commonwealth-officer-and
+summary: The case clarified the limits of Commonwealth power to prosecute State offences under cooperative federalism, emphasizing the need for a constitutional nexus when imposing duties on officers to exercise State powers.
 cases:
-  - 'Hughes v Australia [2000] HCA 22'
+  - Hughes v Australia [2000] HCA 22
 statutes:
-  - 'Corporations Act 2001 (Cth)'
-  - 'Corporations Act 1989 (Cth)'
-  - 'WA Corporations Act 1990'
-jurisdiction: 'Australia'
-assessment_relevance: 'Highlights key tensions between cooperative federalism and constitutional limits, useful for exam essays on corporate prosecution and duty imposition.'
-ratio: 'The High Court held that a State may confer powers on a Commonwealth officer, and the Commonwealth may permit its officers to accept those powers, but it cannot impose a duty on them to exercise State functions without a constitutional nexus. The prosecution was valid under the Trade and Commerce or External Affairs powers.'
-case_outcome: 'won'
+  - Corporations Act 2001 (Cth)
+  - Corporations Act 1989 (Cth)
+  - WA Corporations Act 1990
+jurisdiction: Australia
+assessment_relevance: Highlights key tensions between cooperative federalism and constitutional limits, useful for exam essays on corporate prosecution and duty imposition.
+ratio: The High Court held that a State may confer powers on a Commonwealth officer, and the Commonwealth may permit its officers to accept those powers, but it cannot impose a duty on them to exercise State functions without a constitutional nexus
+case_outcome: won
 ---
 # Case Summary: R v Hughes (2000) 202 CLR 535
 

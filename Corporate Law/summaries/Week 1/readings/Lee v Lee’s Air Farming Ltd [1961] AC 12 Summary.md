@@ -1,27 +1,27 @@
 ---
-title: 'Case Summary: Lee v Lee’s Air Farming Ltd [1961] AC 12'
+title: "Case Summary: Lee v Lee’s Air Farming Ltd [1961] AC 12"
 tags:
-  - 'legal-personality'
-  - 'separate-legal-entity'
-  - 'controlling-director'
-  - 'one-man-company'
-  - 'contractual-capacity'
-  - 'agency-principle'
-  - 'employment-law'
-  - 'corporate-veil'
-  - 'case-won'
-  - 'ratio-the-privy-council-affirmed-that-a-company-is-a-separate-legal-entity-allowing-a-'
-summary: 'Lee v Lee’s Air Farming Ltd establishes that a controlling director can simultaneously be the company’s master and employee under a contract of service, extending Salomon v Salomon’s separate legal personality to dual-capacity roles. This principle is pivotal for understanding corporate agency and employment law in one-man companies.'
+  - legal-personality
+  - separate-legal-entity
+  - controlling-director
+  - one-man-company
+  - contractual-capacity
+  - agency-principle
+  - employment-law
+  - corporate-veil
+  - case-won
+  - ratio-the-privy-council-affirmed-that-a-company-is-a-separate-legal-entity-allowing-a-
+summary: Lee v Lee’s Air Farming Ltd establishes that a controlling director can simultaneously be the company’s master and employee under a contract of service, extending Salomon v Salomon’s separate legal personality to dual-capacity roles. This principle is pivotal for understanding corporate agency and employment law in one-man companies.
 cases:
-  - 'Lee v Lee’s Air Farming Ltd [1961] AC 12'
-  - 'Salomon v Salomon & Co Ltd [1897] AC 22'
+  - Lee v Lee’s Air Farming Ltd [1961] AC 12
+  - Salomon v Salomon & Co Ltd [1897] AC 22
 statutes:
-  - 'Companies Act 2001 (Cth)'
-  - 'Corporations Act s 181'
-jurisdiction: 'England and New Zealand'
-assessment_relevance: 'This note clarifies the separation between corporate and personal capacity, a frequent exam theme in agency and company law. It also illustrates how courts reject sham arrangements, useful for oral assessments on corporate capacity and employee status.'
-ratio: 'The Privy Council affirmed that a company is a separate legal entity, allowing a single individual to simultaneously act as its controlling director and employee. A valid contract of service can exist between a company and its sole director, with the company retaining the ''right of control'' as the legal master.'
-case_outcome: 'won'
+  - Companies Act 2001 (Cth)
+  - Corporations Act s 181
+jurisdiction: England and New Zealand
+assessment_relevance: This note clarifies the separation between corporate and personal capacity, a frequent exam theme in agency and company law. It also illustrates how courts reject sham arrangements, useful for oral assessments on corporate capacity and employee status.
+ratio: A single individual to simultaneously act as its controlling director and employee.
+case_outcome: won
 ---
 # Case Summary: Lee v Lee’s Air Farming Ltd [1961] AC 12
 
