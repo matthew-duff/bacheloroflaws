@@ -1,3 +1,31 @@
+---
+title: 'International developments IP and AI'
+tags:
+  - 'ai-training'
+  - 'authorship'
+  - 'fair-use'
+  - 'tdm-exceptions'
+  - 'jurisdictional-variation'
+  - 'human-authorship'
+summary: 'The note compares how major jurisdictions treat AI-related IP issues—authorship, training, and infringement—highlighting key cases and statutes that shape current law and exam-relevant debates.'
+figures:
+  - 'Professor John V Swinson'
+  - 'Thaler v Perlmutter'
+  - 'Andersen v Stability AI'
+  - 'Getty Images v Stability AI'
+cases:
+  - 'Thaler v Perlmutter (D.C. Cir. 2025)'
+  - 'Andersen v Stability AI (2023)'
+  - 'Getty Images v Stability AI (2025)'
+statutes:
+  - 'CDPA 1988 s 178'
+  - 'UK Copyright, Designs and Patents Act 1988'
+  - 'EU AI Act 2024'
+  - 'US Copyright Office AI Report 2023'
+period: '2023-2026'
+jurisdiction: 'Australia, United States, United Kingdom, European Union, China, New Zealand'
+assessment_relevance: 'This note helps students compare AI-related IP doctrines across jurisdictions, preparing for essay questions on authorship, fair use, and statutory interpretation.'
+---
 [[International developments in IP laws and AI]]
 
 **Citation/Reference:** LexisNexis, *International developments in IP laws and AI* (maintained guidance note, authored and updated by Professor John V Swinson, The University of Queensland, 2026).
@@ -18,3 +46,14 @@
 - **US litigation** (fair use, regurgitation, discovery) and **US Copyright Office** guidance inform debates on training, transformative use and human contribution in Australia.
 - **UK/EU** approaches (computer-generated works, TDM, licensing) show alternatives to a US-style fair use model and relevance of **licensing and remuneration** for training.
 - **Territoriality** is emphasised: same conduct (e.g. training) may be infringing in one country and permitted in another, affecting where AI is trained and how Australian rights are enforced.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/articles/IP and AI-Generated Works]] - Shares topics such as human authorship, originality requirement, and copyright ownership, directly relating to AI-generated works and authorship.
+- [[Copyright Law/05-summaries/articles/AI Tools and Licensing - TermsFeed]] - Covers AI authorship, human input, and jurisdictional variance, aligning with the current note's focus on authorship and licensing in AI contexts.
+- [[Copyright Law/05-summaries/articles/Copyright Infringement and AI]] - Discusses AI training, reproduction rights, and communication rights, which are central to understanding infringement risks and defenses in AI.
+- [[Copyright Law/05-summaries/articles/Kadrey v Meta - Fair Use and AI Training]] - Addresses fair use and AI training, relevant to the legal analysis of reproduction and communication rights in AI.
+- [[Copyright Law/05-summaries/articles/Overview AI and IP]] - Provides a broad overview of AI and IP, useful for contextualizing the specific topics and legal developments discussed.
+<!-- agent:see-also:end -->

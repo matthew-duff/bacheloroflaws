@@ -1,3 +1,28 @@
+---
+title: 'Case Summary: Lee v Lee’s Air Farming Ltd [1961] AC 12'
+tags:
+  - 'legal-personality'
+  - 'separate-legal-entity'
+  - 'controlling-director'
+  - 'one-man-company'
+  - 'contractual-capacity'
+  - 'agency-principle'
+  - 'employment-law'
+  - 'corporate-veil'
+  - 'case-won'
+  - 'ratio-the-privy-council-affirmed-that-a-company-is-a-separate-legal-entity-allowing-a-'
+summary: 'Lee v Lee’s Air Farming Ltd establishes that a controlling director can simultaneously be the company’s master and employee under a contract of service, extending Salomon v Salomon’s separate legal personality to dual-capacity roles. This principle is pivotal for understanding corporate agency and employment law in one-man companies.'
+cases:
+  - 'Lee v Lee’s Air Farming Ltd [1961] AC 12'
+  - 'Salomon v Salomon & Co Ltd [1897] AC 22'
+statutes:
+  - 'Companies Act 2001 (Cth)'
+  - 'Corporations Act s 181'
+jurisdiction: 'England and New Zealand'
+assessment_relevance: 'This note clarifies the separation between corporate and personal capacity, a frequent exam theme in agency and company law. It also illustrates how courts reject sham arrangements, useful for oral assessments on corporate capacity and employee status.'
+ratio: 'The Privy Council affirmed that a company is a separate legal entity, allowing a single individual to simultaneously act as its controlling director and employee. A valid contract of service can exist between a company and its sole director, with the company retaining the ''right of control'' as the legal master.'
+case_outcome: 'won'
+---
 # Case Summary: Lee v Lee’s Air Farming Ltd [1961] AC 12
 
 ## **Overview**
@@ -36,3 +61,12 @@ The Privy Council held that **a company is a separate legal entity distinct from
 *   **The Rule:** A controlling director can be an employee of their own company.
 *   **The Logic:** Company = Person A; Director = Person B. Person A can hire Person B.
 *   **The Result:** Mrs. Lee was entitled to compensation because Mr. Lee was a "worker" at the time of death.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Corporate Law/summaries/Week 1/readings/Wilson, ‘Salomon’s Case deters Attempts to lift the Veil’ (1961) Summary]] - This note explores the implications of the Salomon case, particularly regarding the 'veil' of corporate personality and when courts may lift it, directly relating to the principles affirmed in Lee v Lee.
+- [[Corporate Law/summaries/Week 1/readings/NSW v Commonwealth (1990) 169 CLR 482 Summary]] - This case examines corporate capacity and legal personality in relation to state and federal law, relevant to the discussion of corporate legal personality in Lee v Lee.
+- [[Corporate Law/summaries/Week 3/readings/Briggs v James Hardie & Co Pty Ltd (1989) Summary]] - This case discusses the legal personality and capacity of companies, particularly in relation to employment and agency, which overlaps with topics in Lee v Lee.
+<!-- agent:see-also:end -->

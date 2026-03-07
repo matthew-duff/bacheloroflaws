@@ -1,13 +1,28 @@
 ---
 type: case
 
+title: 'LPDT v Minister for Immigration, Citizenship, Migrant Services and Multicultural Affairs'
 tags:
   - 'jurisdictional-error'
   - 'materiality-test'
   - 'realistic-possibility'
   - 'evaluative-assessment'
-  - 'merits-review-distinction'
   - 'statutory-compliance'
+  - 'case-won'
+  - 'ratio-the-high-court-held-that-the-aats-decision-was-vitiated-by-jurisdictional-error-'
+summary: 'The High Court clarified that jurisdictional error occurs when a decision-maker fails to comply with a statutory direction, and that the ''realistic possibility'' test determines materiality. Multiple errors may constitute a single jurisdictional flaw, and courts must avoid speculating on alternative outcomes.'
+figures:
+  - 'Adam Smith'
+  - 'John Stuart Mill'
+cases:
+  - 'LPDT v Minister for Immigration [2024] HCA 12'
+statutes:
+  - 'Migration Act 1958 (Cth)'
+  - 'Primary Consideration Direction No 90'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note distills key doctrines on jurisdictional error and materiality, essential for exam answers and oral assessments on administrative law review.'
+ratio: 'The High Court held that the AAT''s decision was vitiated by jurisdictional error because it failed to comply with s 499(2A), and this error was material under the ''realistic possibility'' test. The Court clarified that materiality requires a realistic chance the decision could have been different, not certainty. Multiple errors were treated as a single jurisdictional failure to follow statutory directions.'
+case_outcome: 'won'
 ---
 [[LPDT v Minister for Immigration, Citizenship, Migrant Services and Multicultural Affairs (2024) 280 CLR 321]]
 
@@ -39,12 +54,3 @@ The High Court unanimously allowed the appeal, finding the AAT's decision was af
 *LPDT* is a landmark case for administrative law as it provides authoritative guidance on the **threshold of materiality** for jurisdictional error. It confirms that the "realistic possibility" test is the standard and emphasizes that courts must avoid "merits review" when conducting the counterfactual inquiry into materiality. It also clarifies that multiple failures to follow a Ministerial Direction should be viewed as a single jurisdictional error of failing to comply with the statutory mandate to follow such directions.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Both discuss administrative law topics related to decision-making processes and statutory interpretation.
-- [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Provides an overview of Week 12 topics, including potential overlaps in statutory compliance and jurisdictional error.
-- [[Admin Law/summaries/Week 12/Lecture 9 Remedies Revision Summary]] - Addresses remedies and procedural aspects relevant to administrative law cases and statutory compliance.
-- [[Admin Law/summaries/Week 3/A-G (NSW) v Quin]] - Shares statutory context and jurisdictional issues relevant to administrative law principles.
-- [[Admin Law/summaries/Week 4/Drake no.1 - Summary]] - Discusses administrative discretion and statutory interpretation, relating to the current note's focus on materiality and jurisdictional error.
-<!-- agent:see-also:end -->

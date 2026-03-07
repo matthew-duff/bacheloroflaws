@@ -1,3 +1,27 @@
+---
+title: 'Case Summary: Salomon v Salomon & Co Ltd [1897] AC 22'
+tags:
+  - 'corporate-personality'
+  - 'limited-liability'
+  - 'separate-entity'
+  - 'shareholder-liability'
+  - 'case-won'
+  - 'ratio-the-house-of-lords-held-that-a-company-once-validly-incorporated-is-a-separate-l'
+summary: 'The case established that a company is a separate legal person from its shareholders, protecting them from personal liability even if they control the business entirely.'
+figures:
+  - 'Adam-Salomon'
+  - 'John-McGill'
+cases:
+  - 'Salomon v Salomon & Co Ltd [1897] AC 22'
+statutes:
+  - 'Companies Act 1862'
+  - 'Companies Act 2001'
+period: 'Late 19th century'
+jurisdiction: 'England and Wales'
+assessment_relevance: 'Key for exams on corporate personality and limited liability; useful for oral assessments on veil-piercing and director duties.'
+ratio: 'The House of Lords held that a company, once validly incorporated, is a separate legal entity distinct from its shareholders. Shareholders are not liable for the company''s debts beyond their shareholding, regardless of control or ownership concentration. The company''s separate existence shields members from personal liability.'
+case_outcome: 'won'
+---
 # Case Summary: Salomon v Salomon & Co Ltd [1897] AC 22
 
 ## Case Details
@@ -51,3 +75,10 @@
 - [ ] **Control:** 99% ownership does not create an agency relationship.
 - [ ] **Debentures:** Founders can be secured creditors of their own companies.
 - [ ] **Motive:** Incorporating to limit personal liability is a legitimate use of the Act, not a "scheme" or "fraud."
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Corporate Law/summaries/Week 1/readings/Lee v Lee’s Air Farming Ltd [1961] AC 12 Summary]] - Extends the principle of separate legal personality to one-man companies and discusses controlling directors, making it directly relevant to Salomon’s case.
+<!-- agent:see-also:end -->

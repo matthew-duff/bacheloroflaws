@@ -1,3 +1,23 @@
+---
+title: 'Facts:'
+tags:
+  - 'copyright-craftsmanship'
+  - 'design-constraints'
+  - 'anti-overlap'
+  - 'functional-art'
+  - 'aesthetic-intent'
+summary: 'The case clarifies that a work must have substantial unconstrained artistic effort to qualify as a ''work of artistic craftsmanship'' under s 10(c). Functional requirements dominate when a design is dictated by utility, defeating copyright protection.'
+figures:
+  - 'John Swarbrick'
+cases:
+  - 'Burge v Swarbrick [2007] HCA 17'
+statutes:
+  - 'Copyright Act 1968 (Cth)'
+  - 'Designs Act 1906 (Cth)'
+period: '21st century'
+jurisdiction: 'Australia'
+assessment_relevance: 'Key test for copyright protection in design cases; highlights the tension between artistic expression and functional design.'
+---
 [[Copyright Law/03-sources/cases/Burge v Swarbrick (2007) 232 CLR 336]]
 
 _Burge v Swarbrick_ [2007] HCA 17; (2007) 232 CLR 336
@@ -59,3 +79,14 @@ The High Court’s logic focused on the objective intersection of art and utilit
 - **Statutory Policy (The Overlap):** Sections 74–77 of the _Copyright Act_ aim to prevent "dual protection." Generally, industrial designs must be registered under the _Designs Act_ (offering shorter protection). The exception for "artistic craftsmanship" exists to protect "true" artist-craftsmen (like potters or silversmiths) whose work is not primary dictated by utility.
     
 - **Application:** The Court found the Plug’s form was a result of naval architecture (engineering) rather than "artistic" expression. Because the functional constraints were substantial, the work fell into the category of industrial design rather than artistic craftsmanship.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/cases/Feist v Rural Telephone]] - Both cases deal with copyrightability and originality, relevant to 'functional art' and 'aesthetic intent'.
+- [[Copyright Law/05-summaries/cases/Galaxy v Sega]] - Concerns copyright in software and design, relating to 'design constraints' and 'copyright craftsmanship'.
+- [[Copyright Law/05-summaries/cases/CBS v Telmak]] - Involves copyright in broadcast content, relevant to 'anti overlap' and 'design constraints'.
+- [[Copyright Law/05-summaries/cases/FCT v Seven Network]] - Relates to copyright in broadcasting and media, intersecting with 'copyright craftsmanship' and 'aesthetic intent'.
+- [[Copyright Law/05-summaries/cases/IceTV v Nine Network]] - Concerns copyright in television programming, relating to 'functional art' and 'aesthetic intent'.
+<!-- agent:see-also:end -->

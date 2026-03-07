@@ -1,12 +1,21 @@
 ---
 type: case
 
+title: 'Plaintiff S157'
 tags:
   - 'jurisdictional-error'
   - 'privative-clause'
   - 'constitutional-review'
   - 'procedural-fairness'
   - 'migration-act'
+summary: 'The case clarifies the limits of Commonwealth privative clauses by holding that jurisdictional error is not subject to such clauses, reinforcing the High Court''s power to review decisions under s 75(v) and protecting procedural fairness.'
+cases:
+  - 'Plaintiff S157/2002 v Commonwealth (2003) 211 CLR 476'
+statutes:
+  - 'Migration Act 1958 (Cth)'
+  - 'Constitution s 75(v)'
+jurisdiction: 'Australia'
+assessment_relevance: 'Key for exams on constitutional review, privative clauses, and jurisdictional error; useful for oral assessments on statutory interpretation and separation of powers.'
 ---
 [[Plaintiff S157/2002 v Commonwealth (2003) 211 CLR 476]]
 
@@ -41,7 +50,6 @@ The plaintiff, a Bangladeshi citizen, was refused a protection visa by a delegat
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 3/Gageler - Constitutional Context Summary]] - Both discuss constitutional bases for judicial review, separation of powers, and the evolution of writs—directly relevant to S157’s jurisdictional error and constitutional review themes.
-- [[Admin Law/summaries/Week 3/Lecture 3 Legality Review Summary]] - Covers procedural fairness and statutory review, overlapping with S157’s procedural fairness and constitutional review topics.
-- [[Admin Law/summaries/Week 3/Church of Scientology v Woodward]] - Discusses judicial review and statutory limits on executive power, relevant to S157’s constitutional review and separation of powers.
+- [[Admin Law/summaries/Week 3/Gageler - Constitutional Context Summary]] - Addresses jurisdictional error and constitutional review, which are core topics in the current note.
+- [[Admin Law/summaries/Week 3/Study Progress]] - Though currently unstarted, it likely tracks the same topics and cases, making it a useful cross-reference for the subject area.
 <!-- agent:see-also:end -->

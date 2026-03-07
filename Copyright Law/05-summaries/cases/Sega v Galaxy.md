@@ -1,3 +1,23 @@
+---
+title: 'Sega v Galaxy'
+tags:
+  - 'copyright-infringement'
+  - 'cinematograph-film'
+  - 'computer-generated-works'
+  - 'digital-motion'
+  - 'legal-definition'
+  - 'liability'
+  - 'case-law'
+  - 'statutory-interpretation'
+summary: 'The case confirms that video games generated in real-time from stored data can qualify as cinematograph films under the Copyright Act 1968, expanding protection to digital creations and emphasizing a technology-neutral approach.'
+cases:
+  - 'Sega Enterprises Ltd v Galaxy Electronics Pty Ltd [1996] 69 FCR 268'
+statutes:
+  - 'Copyright Act 1968 (Cth)'
+  - 'Circuit Layouts Act 1989 (Cth)'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note is crucial for understanding how courts interpret ''cinematograph film'' in the digital age, linking statutory text to evolving technology and key precedents for exam essays on copyright scope.'
+---
 [[Copyright Law/03-sources/cases/Sega Enterprises Ltd v Galaxy Electronics Pty Ltd (1996) 69 FCR 268]]
 
 **Citation**: (1996) 69 FCR 268
@@ -22,3 +42,10 @@ Yes. The games were cinematograph films within the definition. The Circuit Layou
 
 ### Significance
 Establishes that **computer-generated video games** (where images are generated in real-time from stored data in response to player input, rather than pre-stored as a "digital movie") can qualify as **cinematograph films** under the *Copyright Act 1968*. Critical for the copyright protection of video games. Adopts a technology-neutral, liberal approach focussing on the visual result (moving picture) rather than the storage or production technology used.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/cases/Galaxy v Sega]] - Directly related case discussing cinematograph film and digital works, closely linked to Sega v Galaxy.
+<!-- agent:see-also:end -->

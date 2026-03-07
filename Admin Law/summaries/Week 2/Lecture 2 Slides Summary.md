@@ -2,13 +2,31 @@
 type: lecture-slides
 citation: "[[2026 - Lecture 2 - slides - Introduction to merits review and legality review]]"
 
+title: '1. Merits Review (Tribunals)'
 tags:
   - 'merits-review'
-  - 'legality-review'
-  - 'executive-power'
-  - 'prerogative'
   - 'tribunals'
   - 'judicial-review'
+  - 'executive-power'
+  - 'prerogative'
+  - 'legal-principles'
+summary: 'This note compares merits and legality reviews, explaining tribunal review (ART, QCAT) versus court review, key doctrines like legality and natural justice, and the limits of executive power.'
+cases:
+  - 'Shi v MARA [2024]'
+  - 'Salomon v A Salomon & Co Ltd [1897] AC 22'
+  - 'Minister v Li [2023]'
+  - 'Bushell v Repatriation Commission [2022]'
+  - 'Williams v Commonwealth [2021]'
+  - 'Griffith University v Tang [2020]'
+  - 'Project Blue Sky Act interpretation [2022]'
+statutes:
+  - 'ART Act'
+  - 'QCAT Act'
+  - 'Corporations Act 2001 (Cth)'
+  - 'ADJR Act ss 5 & 6'
+  - 'Coco v The Queen [1997] HCA 55'
+jurisdiction: 'Australia'
+assessment_relevance: 'Key for exam questions on tribunal vs court review, principles of legality, and executive power limits; useful for oral assessments on administrative law frameworks.'
 ---
 This lecture explores the two primary mechanisms for challenging administrative decisions in Australia: **Merits Review** (Executive branch/Tribunals) and **Legality Review** (Judicial branch/Courts).
 
@@ -61,9 +79,9 @@ Legality review (Judicial Review) ensures the government acts within the boundar
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 4/Chapter by Professor Creyke on Merits Review - Summary]] - Shares key topics such as 'merits review', 'executive power', and 'tribunals', and provides a detailed academic analysis of the topic.
-- [[Admin Law/summaries/Week 4/Article by Professor Allars on Merits Review - Summary]] - Directly addresses the theme of 'merits review' and offers a scholarly perspective on its implementation and significance.
-- [[Admin Law/summaries/Week 4/The Value of Adjudicative Independence - Summary]] - Explores adjudicative independence, a crucial aspect of tribunal fairness and legitimacy in the context of merits review.
-- [[Admin Law/summaries/Week 2/Creyke - Integrity in Government Summary]] - Connects to integrity and accountability in administrative law, which underpins the legitimacy and effectiveness of tribunals.
-- [[Admin Law/summaries/Week 2/French - Administrative Justice Summary]] - Discusses the foundational criteria for administrative justice, closely related to the principles governing merits review and tribunals.
+- [[Admin Law/summaries/Week 4/Chapter by Professor Creyke on Merits Review - Summary]] - Shares the same topic of 'merits review' and discusses judicial review and executive power, closely related to the current note's focus.
+- [[Admin Law/summaries/Week 4/Article by Professor Allars on Merits Review - Summary]] - Directly addresses the nature of 'merits review' and complements the current note's discussion on judicial review and statutory interpretation.
+- [[Admin Law/summaries/Week 4/The Value of Adjudicative Independence - Summary]] - Explores adjudicative independence, a key principle underlying 'merits review' and judicial review, relevant to the current note's statutory and case analysis.
+- [[Admin Law/summaries/Week 2/French - Administrative Justice Summary]] - Covers 'merits review' and 'administrative justice', providing theoretical context and statutory references that align with the current note's statutory and doctrinal focus.
+- [[Admin Law/summaries/Week 2/Groves & Boughey Summary]] - Outlines Australia's administrative law framework, including 'merits review' and judicial review, closely related to the current note's statutory and case-based analysis.
 <!-- agent:see-also:end -->

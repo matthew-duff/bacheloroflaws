@@ -1,3 +1,28 @@
+---
+title: 'Case Summary: Briggs v James Hardie & Co Pty Ltd (1989) 16 NSWLR 549'
+tags:
+  - 'piercing-the-corporate-veil'
+  - 'tort-vs-contract'
+  - 'corporate-dominion'
+  - 'agency-requirements'
+  - 'limitation-period-extension'
+  - 'case-won'
+  - 'ratio-the-plaintiff-need-only-show-evidence-that-a-cause-of-action-might-exist-to-obta'
+summary: 'This case clarifies that courts are hesitant to pierce the corporate veil in tort cases where victims had no choice in selecting the tortfeasor, emphasizing policy differences between tort and contract. It also addresses the insufficiency of mere control to justify veil-piercing and confirms that evidence of independent operation by a subsidiary can defeat agency claims.'
+cases:
+  - 'Briggs v James Hardie & Co Pty Ltd [1989] 16 NSWLR 549'
+  - 'Salomon v A Salomon & Co Ltd [1897] AC 22'
+  - 'Industrial Equity v Blackburn [1929] 2 Ch 134'
+  - 'Walker v Wimborne [1929] 2 Ch 134'
+statutes:
+  - 'Limitation Act 1969 (NSW)'
+  - 'Corporations Act 2001 (Cth) s 181'
+period: 'Late 20th century'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note is crucial for exams on corporate veil piercing, especially distinguishing tort vs. contract approaches, and for oral assessments on the uncertainty in Australian corporate law. It also provides a practical example of how control alone is not enough to pierce the veil.'
+ratio: 'The court held that the plaintiff need only show evidence that a cause of action might exist to obtain an extension of the limitation period, not proof of liability. It also noted uncertainty in veil-piercing law but allowed discovery to proceed.'
+case_outcome: 'won'
+---
 # Case Summary: Briggs v James Hardie & Co Pty Ltd (1989) 16 NSWLR 549
 
 ## 1. Overview
@@ -35,3 +60,12 @@ The most significant contribution of this case (specifically the judgment of **R
 
 ---
 **Model Used:** gemini-3-flash-preview (via Cursor Agent)
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Corporate Law/summaries/Week 3/readings/Adams v Cape Industries plc [1991] Summary]] - Shares the topic of 'separate legal personality' and discusses the 'facade exception' to veil-piercing, which relates to the uncertainty and evolving doctrine in corporate law.
+- [[Corporate Law/summaries/Week 3/readings/Industrial Equity Ltd v Blackburn (1977) Summary]] - Deals with corporate dominion and agency requirements, topics also present in the current note, offering comparative context on corporate control and liability.
+- [[Corporate Law/summaries/Week 3/readings/Lennard’s Carrying Co Ltd [1915] Summary]] - An early authority on corporate personality and veil-piercing, providing historical context to the doctrines discussed in the current summary.
+<!-- agent:see-also:end -->

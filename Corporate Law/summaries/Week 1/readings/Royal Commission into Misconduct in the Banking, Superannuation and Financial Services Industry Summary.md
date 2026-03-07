@@ -1,3 +1,18 @@
+---
+title: 'Exam Summary: Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry (Hayne Royal Commission)'
+tags:
+  - 'misconduct'
+  - 'conflicted-remuneration'
+  - 'hawking'
+  - 'duty-of-care'
+  - 'regulatory-culture'
+summary: 'The note outlines the Hayne Royal Commission''s findings on widespread misconduct in financial services, driven by profit motives, power imbalances, and weak accountability. It emphasizes six core norms of conduct and calls for cultural and legislative reforms to prioritize consumer protection.'
+statutes:
+  - 'Corporations Act 2001 (Cth)'
+  - 'Financial Services and Markets Act 2023 (Cth)'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note is crucial for understanding the Commission''s recommendations on conduct norms, regulatory reforms, and the link between governance and misconduct—key themes in exam questions on financial services law and ethics.'
+---
 # Exam Summary: Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry (Hayne Royal Commission)
 
 ## 1. Core Mandate & Findings
@@ -38,3 +53,13 @@ These are the "pillars" for all financial services behavior:
 *   **Grandfathered Commissions:** Commissions on old products that were exempt from the original FOFA (Future of Financial Advice) reforms; the Commission recommended their total abolition.
 *   **Hawking:** Unsolicited selling of financial products.
 *   **Efficiently, Honestly, and Fairly:** The overarching statutory obligation for AFSL and ACL holders (s 912A Corporations Act; s 47 NCCP Act).
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Corporate Law/summaries/Week 1/readings/Huddard, Parker & Co Ltd v Moorehead (1909) 8 CLR 330 Summary]] - Discusses the limits of the Commonwealth's corporations power and the doctrine of reserved state powers, relevant to regulatory authority and corporate structure discussed in the Royal Commission.
+- [[Corporate Law/summaries/Week 1/readings/Clarkson (ed), The Corporation and Its Stakeholders (1998) Summary]] - Introduces stakeholder theory and governance concepts that underpin much of the Royal Commission’s findings on corporate misconduct and duty of care.
+- [[Corporate Law/summaries/Week 1/readings/Ireland, ‘Company Law and the Myth of Shareholder Ownership’ (1999) Summary]] - Critiques shareholder primacy and explores legal personality, relevant to debates on corporate governance and accountability in the Royal Commission.
+- [[Corporate Law/summaries/Week 1/readings/Wilson, ‘Salomon’s Case deters Attempts to lift the Veil’ (1961) Summary]] - Addresses corporate veil and liability, a key legal issue in cases of misconduct and regulatory enforcement.
+<!-- agent:see-also:end -->

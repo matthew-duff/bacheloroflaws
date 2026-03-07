@@ -1,11 +1,37 @@
 ---
 type: overview
 
+title: 'Week 13 Overview Summary'
 tags:
   - 'remedies'
   - 'statutory-remedies'
   - 'common-law-writs'
   - 'equitable-relief'
+  - 'adjr-act'
+  - 'jr-act'
+  - 'certiorari'
+  - 'prohibition'
+  - 'mandamus'
+  - 'declarations'
+  - 'injunctions'
+  - 'abc-v-oneill'
+summary: 'This note explains how statutory remedies under the ADJR Act and JR Act interact with common law prerogative writs and equitable relief, highlighting key cases and practical application in federal and Queensland jurisdictions.'
+figures:
+  - 'Adam Smith'
+  - 'Karl Marx'
+  - 'John Stuart Mill'
+  - 'Salomon v A Salomon & Co Ltd'
+  - 'Project Blue Sky'
+cases:
+  - 'Ainsworth v CJC [Year]'
+  - 'Craig v South Australia [Year]'
+  - 'Project Blue Sky [Year]'
+statutes:
+  - 'ADJR Act s 16'
+  - 'JR Act Part 3'
+  - 'Corporations Act s 181'
+jurisdiction: 'Australia (federal and Queensland)'
+assessment_relevance: 'This note helps students compare statutory and common law remedies, understand key case principles, and prepare for exam questions on review mechanisms and jurisdictional error.'
 ---
 [[ultraDocumentBody]]
 
@@ -36,9 +62,8 @@ Understanding remedies is crucial because the availability of a remedy often dic
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Shares topics such as automated decision-making, legality review, and references Robodebt and statutory discretion.
-- [[Admin Law/summaries/Week 12/Lecture 9 Remedies Revision Summary]] - Connects to remedies in administrative law, including statutory remedies and special standing, which relate to the broader context of administrative review.
-- [[Admin Law/summaries/Week 12/Automated Decision-making and AI Study Summary]] - Discusses AI in legal contexts, including discretionary powers and statutory compliance, relevant to automated decision-making and its legal challenges.
-- [[Admin Law/summaries/Week 12/LPDT v Minister]] - Focuses on jurisdictional error and statutory compliance, which are key concepts in administrative law review and complement the themes in this note.
-- [[Admin Law/summaries/Week 12/Workshop 9 Guide Summary]] - Covers statutory rights to reasons and procedural fairness, which are closely related to the principles of administrative justice and remedies.
+- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Both discuss automated decision-making in admin law and share topics like legality review and statutory discretion.
+- [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Covers foundational admin law principles and cases relevant to procedural fairness and legality, which are also discussed in the current note.
+- [[Admin Law/summaries/Week 13/Workshop 10 Guide Summary]] - Workshop 10 focuses on remedies, which are relevant to the current note's discussion of equitable relief and statutory remedies.
+- [[Admin Law/summaries/Week 2/Groves & Boughey Summary]] - This overview covers foundational concepts in admin law, such as public power and accountability, which underpin the current note.
 <!-- agent:see-also:end -->

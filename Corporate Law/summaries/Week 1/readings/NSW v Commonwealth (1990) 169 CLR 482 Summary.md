@@ -1,3 +1,29 @@
+---
+title: 'Case Summary: New South Wales v Commonwealth (1990) 169 CLR 482'
+tags:
+  - 'corporate-personality'
+  - 'limited-liability'
+  - 'state-sovereignty'
+  - 's51xx'
+  - 'constitutional-limits'
+  - 'federal-power'
+  - 'corporations-act'
+  - 'regulatory-cooperation'
+  - 'case-lost'
+  - 'ratio-the-high-court-held-that-s-51xx-of-the-constitution-does-not-grant-the-commonwea'
+summary: 'The High Court held that s 51(xx) of the Constitution does not empower the Commonwealth to legislate for the incorporation of trading and financial corporations, interpreting ''formed'' as a past participle limiting the power to corporations already in existence. This decision reinforced state authority over incorporation and shaped Australia''s cooperative scheme for company law.'
+cases:
+  - 'Huddart Parker & Co Pty Ltd v Moorehead [1909] AC 350'
+  - 'Salomon v A Salomon & Co Ltd [1897] AC 22'
+statutes:
+  - 'Corporations Act 1989 (Cth)'
+  - 'Corporations Act 2001 (Cth)'
+period: 'Early 1990s'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note clarifies the scope of s 51(xx), a frequent exam theme, and explains the constitutional limits on Commonwealth power, crucial for essay and problem questions on federalism and corporate law.'
+ratio: 'The High Court held that s 51(xx) of the Constitution does not grant the Commonwealth power to incorporate trading and financial corporations. The word ''formed'' limits the power to corporations already existing, excluding the act of incorporation itself.'
+case_outcome: 'lost'
+---
 # Case Summary: New South Wales v Commonwealth (1990) 169 CLR 482
 *(The Incorporation Case)*
 

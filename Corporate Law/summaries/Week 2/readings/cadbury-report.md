@@ -1,3 +1,18 @@
+---
+title: 'Summary: Report of the Committee on the Financial Aspects of Corporate Governance (The Cadbury Report, 1992)'
+tags:
+  - 'financial-reporting'
+  - 'accountability'
+  - 'board-structure'
+  - 'non-executive-directors'
+  - 'corporate-governance'
+  - 'market-confidence'
+  - 'disclosure-requirements'
+summary: 'The Cadbury Report sets out voluntary governance standards emphasizing openness, integrity, and accountability, recommending board independence and separation of roles to protect shareholder interests.'
+period: 'Early 1990s'
+jurisdiction: 'United Kingdom'
+assessment_relevance: 'This note clarifies core governance principles and the voluntary code approach, crucial for exam questions on board duties and regulatory frameworks.'
+---
 # Summary: Report of the Committee on the Financial Aspects of Corporate Governance (The Cadbury Report, 1992)
 
 **Author:** Sir Adrian Cadbury (Committee Chairman)
@@ -22,3 +37,13 @@ The Cadbury Report is a highly influential UK report that established foundation
     - Boards should have a minimum of three NEDs, with at least two being completely independent of management.
 - **Voluntary Compliance vs. Legislation:**
     - The Committee believes a voluntary code, coupled with strict public disclosure, is more effective and flexible than statutory legislation, which might encourage companies to merely comply with the letter of the law rather than its spirit.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Corporate Law/summaries/Week 2/readings/A. A. Berle-CorporateManagersTrustees-1932]] - Shares topics like fiduciary duties, shareholder primacy, and corporate accountability, and references key cases and statutes related to corporate trusteeship.
+- [[Corporate Law/summaries/Week 2/readings/Berle, ‘Corporate Powers as Powers in Trust’ (1931)]] - Directly discusses corporate powers as trust powers, linking to fiduciary duties and governance, complementing the discussion of corporate trusteeship in the previous note.
+- [[Corporate Law/summaries/Week 1/readings/Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry Summary]] - Addresses corporate misconduct, duty of care, and regulatory culture, which are relevant to governance and accountability themes in the main note.
+- [[Corporate Law/summaries/Week 2/readings/A. A. Berle-CorporatePowersPowers-1931]] - Explores corporate powers and equitable limitations, closely related to the discussion of corporate powers and fiduciary roles in the main note.
+<!-- agent:see-also:end -->

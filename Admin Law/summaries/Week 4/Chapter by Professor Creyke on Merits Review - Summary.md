@@ -1,3 +1,23 @@
+---
+title: 'Robin Creyke, "Administrative Tribunals" in M. Groves and H.P. Lee (eds), Australian Administrative Law: Fundamentals, Principles and Doctrines (CUP, 2007) Ch 5'
+tags:
+  - 'tribunal-definition'
+  - 'tribunal-classification'
+  - 'executive-judiciary'
+  - 'merit-review-principles'
+  - 'jurisdictional-limits'
+  - 'procedural-fairness'
+  - 'evidence-rules'
+summary: 'The chapter outlines the definition, classification, and role of administrative tribunals in Australia, emphasizing their mixed executive-judicial nature, the principles of merits review, jurisdictional limits, and procedural fairness. It highlights how tribunals operate as a ''fourth arm'' of government and their importance in the administrative law framework.'
+cases:
+  - 'Drake v Minister for Immigration [1998] HCA 54'
+  - 'Pochi v Minister for Immigration [1999] HCA 32'
+statutes:
+  - 'AAT Act s 43'
+  - 'AAT Act s 33'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note consolidates key concepts for exam revision and oral assessment, focusing on tribunal powers, review standards, and structural roles. It helps clarify distinctions between courts and tribunals and the practical application of merits review principles.'
+---
 # Robin Creyke, "Administrative Tribunals" in M. Groves and H.P. Lee (eds), Australian Administrative Law: Fundamentals, Principles and Doctrines (CUP, 2007) Ch 5
 
 ## Overview
@@ -42,3 +62,13 @@ A comprehensive chapter on administrative tribunals in Australia, covering their
 - Provides the essential textbook framework for understanding tribunals in Australia
 - Covers the structural, procedural, and jurisdictional aspects that underpin Workshop 3 analysis
 - Complements the case law (Drake, Pochi, Shi) with systematic academic analysis
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 4/Article by Professor Allars on Merits Review - Summary]] - Both discuss merits review principles, tribunal independence, and statutory frameworks, offering complementary scholarly perspectives on the AAT's role and hybrid merits review.
+- [[Admin Law/summaries/Week 4/Pochi v Minister for Immigration - Summary]] - The case is a key authority cited in both the Creyke summary and broader discussions of merits review, illustrating practical application of the principles.
+- [[Admin Law/summaries/Week 4/Drake no.1 - Summary]] - This foundational case is referenced in both Creyke's summary and other summaries as a leading authority on merits review standards and tribunal jurisdiction.
+- [[Admin Law/summaries/Week 4/Lecture 4 - Legality Review Part 2 - Summary]] - It expands on the statutory and procedural context relevant to merits review, linking to the AAT Act and the Administrative Review Tribunal Act 2024 referenced in Creyke.
+<!-- agent:see-also:end -->

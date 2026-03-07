@@ -1,13 +1,30 @@
 ---
+title: '1. Core Concept: Stakeholder Theory'
 tags:
-  - 'stakeholder_theory'
-  - 'shareholder_primacy_vs_stakeholder_theory'
-  - 'managerial_duties_and_fiduciary_obligations'
-  - 'corporate_social_responsibility'
-  - 'nexus_of_risks'
-  - 'stakeholder_salience_and_prioritization'
-  - 'berle_dodd_debate'
-  - 'corporate_governance_theory'
+  - 'stakeholder-theory'
+  - 'shareholder-primacy'
+  - 'managerial-duties'
+  - 'corporate-social-responsibility'
+  - 'stakeholder-salience'
+  - 'berle-dodd-debate'
+  - 'governance-theory'
+  - 'risk-management'
+  - 'ethical-obligations'
+  - 'value-creation'
+summary: 'This note explores stakeholder theory as an alternative to shareholder primacy, outlining its historical roots in the Berle-Dodd debate, its threefold justification (descriptive, instrumental, normative), and the salience model for identifying key stakeholders. It emphasizes the shift toward broader corporate purpose and the moral duties of managers.'
+figures:
+  - 'Adam Smith'
+  - 'John Stuart Mill'
+  - 'Ronald Coase'
+cases:
+  - 'Salomon v A Salomon & Co Ltd [1897] AC 22'
+  - 'Dodd v Dodd [1932] 1 KB 809'
+statutes:
+  - 'Corporations Act 2001 (Cth)'
+  - 'Corporations Act s 181'
+period: 'Early to mid-20th century corporate theory developments'
+jurisdiction: 'Australia and common law jurisdictions'
+assessment_relevance: 'This note clarifies the theoretical foundations of stakeholder theory and its practical implications for director duties and corporate governance, crucial for essay questions and oral exams on corporate purpose and fiduciary obligations.'
 ---
 **Editor:** Max B.E. Clarkson
 
@@ -52,9 +69,8 @@ Managers prioritize stakeholders based on three attributes:
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Corporate Law/summaries/Week 1/Chapter 4 — Formation and Types of Companies]] - Explores the legal structures of corporations (e.g., limited liability, proprietary vs. public companies) that underpin stakeholder relationships, particularly in defining who qualifies as a stakeholder (e.g., shareholders, creditors, employees).
-- [[Corporate Law/summaries/Week 1/Chapter 1 — History and Regulatory Structure]] - Traces the historical evolution of corporate law, including the shift from shareholder primacy to broader regulatory frameworks (e.g., Corporations Act 2001), which contextualizes the rise of stakeholder theory as a response to corporate governance failures.
-- [[Corporate Law/summaries/Week 2/readings/Berle and Means, The Modern Corporation and Private Property (1932)]] - Directly engages with Berle’s foundational argument for shareholder primacy, providing a counterpoint to Clarkson’s stakeholder theory and framing the Berle-Dodd debate in its original economic and legal context.
-- [[Corporate Law/summaries/Week 2/readings/A Friedman doctrine‐- The Social Responsibility of Business Is to Increase Its Profits - The New York Times]] - Contrasts Friedman’s shareholder primacy doctrine with stakeholder theory, offering a sharp ideological counterpoint to Clarkson’s arguments on corporate purpose and managerial duties.
-- [[Corporate Law/summaries/Week 2/readings/Chapter 2 - Corporate Law Theory and Debates]] - Connects stakeholder theory to broader corporate law debates, including theoretical critiques of shareholder primacy and alternative models of corporate governance, likely addressing Donaldson & Preston’s normative framework.
+- [[Corporate Law/summaries/Week 1/readings/Ireland, ‘Company Law and the Myth of Shareholder Ownership’ (1999) Summary]] - Both notes address stakeholder theory and shareholder primacy, providing contrasting perspectives on corporate ownership and governance.
+- [[Corporate Law/summaries/Week 1/readings/Wilson, ‘Salomon’s Case deters Attempts to lift the Veil’ (1961) Summary]] - The case is foundational to corporate personality, a key issue in stakeholder theory and corporate governance debates.
+- [[Corporate Law/summaries/Week 1/Chapter 4 — Formation and Types of Companies]] - This chapter discusses legal personality and company structures, which are central to stakeholder theory and corporate law fundamentals.
+- [[Corporate Law/summaries/Week 2/readings/Whittington, Review of Berle and Means (1970)]] - This review provides context for modern corporate theory and governance, complementing stakeholder theory discussions.
 <!-- agent:see-also:end -->

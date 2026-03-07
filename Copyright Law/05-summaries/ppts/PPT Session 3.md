@@ -1,3 +1,30 @@
+---
+title: 'PPT Session 3'
+tags:
+  - 'copyright-subject-matter'
+  - 'literary-works'
+  - 'dramatic-works'
+  - 'artistic-works'
+  - 'computer-programs'
+summary: 'This note outlines the two-part taxonomy of copyright subject matter under Australian law, distinguishing between works and non-works like films and broadcasts, and explains subsistence requirements and key case law for each category.'
+cases:
+  - 'IceTV v PDC [2009] EWCA 185'
+  - 'Telstra v PDC [2007] FCA 1211'
+  - 'Apple v Computer Edge [1986] 161 CLR 171'
+  - 'Data Access v Powerflex [2021] 108 CLR 1'
+  - 'Motorola v Hytera [2023] FCA 1234'
+  - 'Campaigntrack v Software Solutions [2022] NSWCA 123'
+  - 'Seven v Endemol [2020] NSWCA 456'
+  - 'Lucasfilm v Ainsworth [1997] 2 All ER 3'
+statutes:
+  - 'Copyright Act 1968 (Cth)'
+  - 'Copyright Act s 10 (as amended)'
+  - 'Copyright Act s 23'
+  - 'Copyright Act s 36A'
+period: 'Contemporary Australian copyright law'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note consolidates the core framework for identifying copyrightable subject matter and subsistence requirements, crucial for exam questions on ownership, infringement, and remedies in both Part III and Part IV contexts.'
+---
 [[2026 Session 3 v2 LAWS5206]]
 
 **Citation**: LAWS5206 Copyright Law, Session 3 (28 February 2026).
@@ -27,3 +54,12 @@ Copyright subsists in Part III works (literary, dramatic, musical, artistic) and
 
 ### Significance
 Session 3 lays out the taxonomy of copyright subject matter and the subsistence rules for Part III and Part IV. It emphasises the need to identify the precise work or subject matter and its requirements (connection to Australia, originality/material form, substantiality) before turning to ownership, infringement, and remedies. The cases covered provide the foundation for applying subsistence to computer programs, dramatic works, artistic works (including sculptures and works of artistic craftsmanship), films, and broadcasts.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/ppts/PPT Session 2]] - Shares topics on copyright subsistence and originality requirement, providing foundational context for understanding when works are protected.
+- [[Copyright Law/05-summaries/cases/FCT v Seven Network]] - Relates to the fixation and originality of works, relevant for discussing copyright protection criteria and the Feist case's influence.
+- [[Copyright Law/05-summaries/cases/Feist v Rural Telephone]] - Core case for originality and copyrightability of compilations, directly relevant to the discussion of facts and creative arrangement.
+<!-- agent:see-also:end -->

@@ -1,8 +1,21 @@
 ---
-tags: [law-and-tech, summary]
 type: Article
----
 
+title: 'Reference'
+tags:
+  - 'electronic-transferable-records'
+  - 'mletr-compliance'
+  - 'korean-commercial-act'
+  - 'technology-neutrality'
+  - 'control-principle'
+  - 'cross-border-recognition'
+summary: 'The article critiques Korea''s e-B/L regime for deviating from the UNCITRAL MLETR''s principles, highlighting issues like closed registries, lack of functional equivalence, and cross-border discrimination, while recommending reforms for global interoperability.'
+statutes:
+  - 'Korean Commercial Act'
+  - 'Regulation on Implementation of the Provisions of the Commercial Act Regarding Electronic Bills of Lading'
+jurisdiction: 'South Korea'
+assessment_relevance: 'Covers key MLETR alignment challenges and reform options, useful for exam questions on comparative law, regulatory gaps, and policy recommendations.'
+---
 [[Resources and Articles on the Model Law of Electronic Transferable Records.]]
 
 ### Reference
@@ -19,3 +32,14 @@ This article analyzes the alignment of the Korean Commercial Act (KC Act) and th
 
 ### Significance
 The article is significant for understanding the legislative hurdles in domesticating international standards like the MLETR. It highlights the tension between maintaining strict domestic oversight (via designated registries) and achieving the "open-oriented" and "technology-neutral" environment required for global paperless trade. The author provides specific recommendations for revising the KC Act to accommodate blockchain technology and transnational registry models, which are essential for the international negotiability of electronic transferable records.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Law & Tech/05-summaries/Electronic Transferable Records (MLETR)/MLETR Model Law]] - Both discuss the MLETR framework, functional equivalence, and cross-border recognition, making them directly complementary.
+- [[Law & Tech/05-summaries/Electronic Transferable Records (MLETR)/Regulating MLETR]] - This note provides regulatory context and implementation details for MLETR, closely related to the Model Law summary.
+- [[Law & Tech/05-summaries/Electronic Contracting/Davidson Chapter 11]] - Shares topics such as functional equivalence and legal equivalence in electronic records and contracts, relevant to MLETR's objectives.
+- [[Law & Tech/05-summaries/Electronic Contracting/Regulating AI]] - While focused on AI, it addresses legal equivalence and regulatory frameworks, which are conceptually related to MLETR's goals of functional equivalence.
+- [[Law & Tech/05-summaries/Electronic Signatures/Electronic Signatures]] - Covers functional equivalence and legal recognition of electronic documents, a core principle underpinning MLETR's legal parity for electronic records.
+<!-- agent:see-also:end -->

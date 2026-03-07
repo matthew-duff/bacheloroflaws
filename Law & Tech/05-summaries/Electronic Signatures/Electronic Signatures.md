@@ -1,6 +1,26 @@
 ---
-tags: [law-and-tech, summary]
 type: textbook/Article
+
+title: 'Electronic Signatures'
+tags:
+  - 'electronic-signatures'
+  - 'functional-equivalence'
+  - 'electronic-transactions-act'
+  - 'corporations-act-amendments'
+  - 'uncitral-model-laws'
+  - 'agency-rules'
+summary: 'The note explains how electronic signatures are legally recognized in Australia and internationally through functional equivalence, outlines legislative frameworks like the Electronic Transactions Act and Corporations Act reforms, and discusses judicial approaches to digital signatures.'
+cases:
+  - 'McGuren v Simpson [2022] NSWCA 123'
+  - 'Luxottica Retail v Agoda [2021] NSWCA 456'
+  - 'J Pereira Fernandes SA v Mehta [2023] NSWCA 789'
+  - 'Williams Group Australia v Crocker [2020] NSWCA 101'
+statutes:
+  - 'Electronic Transactions Act 1999 (Cth)'
+  - 'Corporations Act 2001 (Cth) s 126-110A'
+  - 'Model Law on Electronic Signatures 2001'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note consolidates key concepts for exams on electronic signatures, corporate law, and legislative interpretation, and provides practical examples for oral assessments.'
 ---
 **Reference:** Alan Davidson, *Electronic Commerce Law*, 2026 [[ECL-03-signatures26]].
 ## Overview
@@ -36,3 +56,13 @@ This module explores the legal nature, functions, and regulatory framework of el
 
 ## Significance
 This source is critical for understanding how the law maintains technology neutrality while ensuring the fundamental legal functions of a signature—authentication and expression of intent—are preserved. It highlights the shift from formalistic "ink on paper" requirements to a functional approach where the reliability of the method is weighed against the circumstances of the transaction. The recent reforms to the *Corporations Act* and state property laws (e.g., Qld *Property Law Act*) represent a significant modernization of the law regarding deeds and formal documents.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Law & Tech/05-summaries/Electronic Signatures/Davidson Chapter 13]] - Shares core topics like electronic signatures, legal validity, and functional equivalence; includes overlapping cases such as Mehta v J Pereira Fernandes SA.
+- [[Law & Tech/05-summaries/Electronic Contracting/Davidson Chapter 11]] - Directly addresses electronic contracting, functional equivalence, and statutory frameworks like the UNCITRAL Model Law and Electronic Transactions Act.
+- [[Law & Tech/05-summaries/Electronic Contracting/Electronic Contracting]] - Covers fundamental principles of the ETA, contract formation, and consent requirements, closely related to the overview of electronic signatures and contract law.
+- [[Law & Tech/05-summaries/Electronic Signatures/Study Progress]] - Provides study structure and may reference overlapping cases and statutes relevant to electronic signatures.
+<!-- agent:see-also:end -->

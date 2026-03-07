@@ -30,6 +30,7 @@ DEFAULT_CONFIG_PATH = REPO_ROOT / ".agent" / "config.json"
 HEADING_RE = re.compile(r"^\s{0,3}#{1,6}\s+(.+?)\s*$", re.MULTILINE)
 FENCED_JSON_RE = re.compile(r"```(?:json)?\s*(.*?)\s*```", re.DOTALL | re.IGNORECASE)
 WORD_RE = re.compile(r"[a-z0-9][a-z0-9'\-]{1,}", re.IGNORECASE)
+CITATION_RE = re.compile(r"\*\*Citation\*\*:\s*\*(.+?)\*", re.IGNORECASE)
 SKIP_TOKENS = {
     "summary",
     "week",
@@ -46,6 +47,20 @@ SKIP_TOKENS = {
     "lecture",
     "tutorial",
     "course",
+}
+GENERIC_SECTION_HEADINGS = {
+    "overview",
+    "facts",
+    "issue",
+    "issues",
+    "held",
+    "holding",
+    "holdings",
+    "reasoning",
+    "significance",
+    "key points",
+    "key issues",
+    "key holdings",
 }
 
 
@@ -143,7 +158,15 @@ def extract_title(path: Path, text: str) -> str:
 
     match = HEADING_RE.search(body)
     if match:
-        return match.group(1).strip()
+        heading_title = match.group(1).strip()
+        if heading_title.casefold() not in GENERIC_SECTION_HEADINGS:
+            return heading_title
+
+    citation_match = CITATION_RE.search(body)
+    if citation_match:
+        citation_title = " ".join(citation_match.group(1).split()).strip()
+        if citation_title:
+            return citation_title
 
     return path.stem
 
@@ -401,8 +424,12 @@ def parse_llm_json(raw_output: str) -> dict[str, Any]:
     raise json.JSONDecodeError("No JSON object found in LLM output", raw_output, 0)
 
 
-def is_case_note_title(title: str) -> bool:
-    return " v " in title.casefold()
+def is_case_note_title(title: str, text: str = "") -> bool:
+    if " v " in title.casefold():
+        return True
+    if "### Facts" in text and ("### Held" in text or "### Reasoning" in text):
+        return True
+    return False
 
 
 def normalize_tag_text(value: str) -> str:
@@ -575,12 +602,28 @@ def yaml_quote(value: str) -> str:
     return "'" + value.replace("'", "''") + "'"
 
 
-def upsert_frontmatter_tags(text: str, tags: list[str]) -> str:
+def render_frontmatter_field(key: str, value: Any) -> list[str]:
+    if isinstance(value, list):
+        cleaned = [str(item).strip() for item in value if str(item).strip()]
+        if not cleaned:
+            return []
+        return [f"{key}:"] + [f"  - {yaml_quote(item)}" for item in cleaned]
+
+    rendered = " ".join(str(value).split()).strip()
+    if not rendered:
+        return []
+    return [f"{key}: {yaml_quote(rendered)}"]
+
+
+def upsert_frontmatter_fields(text: str, fields: dict[str, Any]) -> str:
     frontmatter, body = extract_frontmatter(text)
-    tag_block = ["tags:"] + [f"  - {yaml_quote(tag)}" for tag in tags]
+    field_blocks: list[str] = []
+    managed_keys = set(fields.keys())
+    for key, value in fields.items():
+        field_blocks.extend(render_frontmatter_field(key, value))
 
     if frontmatter is None:
-        rendered = ["---", *tag_block, "---", ""]
+        rendered = ["---", *field_blocks, "---", ""]
         rendered_text = "\n".join(rendered)
         return rendered_text + body.lstrip("\n")
 
@@ -590,11 +633,12 @@ def upsert_frontmatter_tags(text: str, tags: list[str]) -> str:
 
     while index < len(lines):
         line = lines[index]
-        if re.match(r"^tags\s*:", line):
+        key_match = re.match(r"^([A-Za-z0-9_]+)\s*:", line)
+        if key_match and key_match.group(1) in managed_keys:
             index += 1
             while index < len(lines):
                 next_line = lines[index]
-                if re.match(r"^\s*-\s+", next_line) or re.match(r"^\s{2,}\S", next_line):
+                if next_line.startswith(" ") or next_line.startswith("\t"):
                     index += 1
                     continue
                 break
@@ -604,7 +648,7 @@ def upsert_frontmatter_tags(text: str, tags: list[str]) -> str:
 
     if output and output[-1].strip():
         output.append("")
-    output.extend(tag_block)
+    output.extend(field_blocks)
 
     rendered_frontmatter = "\n".join(output).rstrip() + "\n"
     return f"---\n{rendered_frontmatter}---\n{body.lstrip(chr(10))}"
@@ -619,8 +663,9 @@ def build_see_also_block(
 ) -> str:
     lines = [heading, f"<!-- {marker}:start -->"]
     for link in links:
-        candidate = note_index[link["path"]]
-        line = f"- [[{candidate['wikilink']}]]"
+        candidate = note_index.get(link["path"])
+        wikilink = candidate["wikilink"] if candidate is not None else note_wikilink_target(link["path"])
+        line = f"- [[{wikilink}]]"
         if link["reason"]:
             line += f" - {link['reason']}"
         lines.append(line)
@@ -932,13 +977,13 @@ def update_memory_record(
 def project_note_updates(
     *,
     path: Path,
-    tags: list[str],
+    frontmatter_fields: dict[str, Any],
     see_also: list[dict[str, str]],
     note_index: dict[str, dict[str, Any]],
     config: dict[str, Any],
 ) -> None:
     text = read_text(path)
-    updated_text = upsert_frontmatter_tags(text, tags)
+    updated_text = upsert_frontmatter_fields(text, frontmatter_fields)
     updated_text = upsert_see_also_block(
         updated_text,
         see_also,
@@ -961,67 +1006,128 @@ def process_note(
     model: str,
     dry_run: bool,
     memory_only: bool,
+    force: bool = False,
+    reproject: bool = False,
 ) -> NoteRecord:
     text = read_text(path)
     relative_path = relative_to_repo(path)
     current_title = extract_title(path, text)
+    content_hash = compute_hash(text)
 
-    # Pass 1: general extraction
-    extracted = extract_metadata_pass(
-        path=path,
-        domain=domain,
-        config=config,
-        extract_prompt_template=extract_prompt_template,
-        model=model,
-    )
-
-    # Pass 2: case-only extraction
-    if is_case_note_title(current_title):
-        extracted.update(
-            extract_case_metadata_pass(
-                path=path,
-                domain=domain,
-                config=config,
-                case_prompt_template=case_prompt_template,
-                model=model,
+    existing = memory["files"].get(relative_path)
+    use_memory = (
+        existing is not None
+        and (
+            reproject
+            or (
+                not force
+                and existing.get("last_hash") == content_hash
             )
         )
-    else:
-        extracted["ratio"] = ""
-        extracted["case_outcome"] = ""
+    )
 
-    # Pass 3: topics -> tags
+    if use_memory:
+        extracted = {
+            "topics": existing.get("topics", []),
+            "summary": existing.get("summary", ""),
+            "figures": existing.get("figures", []),
+            "cases": existing.get("cases", []),
+            "statutes": existing.get("statutes", []),
+            "period": existing.get("period", ""),
+            "jurisdiction": existing.get("jurisdiction", ""),
+            "assessment_relevance": existing.get("assessment_relevance", ""),
+            "ratio": existing.get("ratio", ""),
+            "case_outcome": existing.get("case_outcome", ""),
+        }
+        see_also = existing.get("see_also", [])
+    else:
+        extracted = extract_metadata_pass(
+            path=path,
+            domain=domain,
+            config=config,
+            extract_prompt_template=extract_prompt_template,
+            model=model,
+        )
+
+        if is_case_note_title(current_title, text):
+            extracted.update(
+                extract_case_metadata_pass(
+                    path=path,
+                    domain=domain,
+                    config=config,
+                    case_prompt_template=case_prompt_template,
+                    model=model,
+                )
+            )
+        else:
+            extracted["ratio"] = ""
+            extracted["case_outcome"] = ""
+
+        current_metadata = {
+            "path": relative_path,
+            "title": current_title,
+            "topics": extracted.get("topics", []),
+            "figures": extracted.get("figures", []),
+            "cases": extracted.get("cases", []),
+            "statutes": extracted.get("statutes", []),
+            "ratio": extracted.get("ratio", ""),
+            "case_outcome": extracted.get("case_outcome", ""),
+        }
+        see_also = select_related_notes_pass(
+            path=path,
+            domain=domain,
+            current_metadata=current_metadata,
+            note_index=note_index,
+            config=config,
+            related_prompt_template=related_prompt_template,
+            model=model,
+        )
+
     tags = normalize_topics_to_tags(
         topics=extracted.get("topics", []),
         fallback_path=relative_path,
         fallback_title=current_title,
         config=config,
     )
-    tags = ensure_tag(tags, case_outcome_tag(extracted.get("case_outcome", "")), config)
+    outcome_tag = case_outcome_tag(extracted.get("case_outcome", ""))
+    if outcome_tag:
+        tags = ensure_tag(tags, outcome_tag, config)
 
-    # Pass 4: related notes
-    # Build a shallow metadata view for the linking prompt
-    current_metadata = {
-        "path": relative_path,
+    if extracted.get("ratio"):
+        ratio_text = extracted["ratio"].strip()
+        ratio_text = re.sub(
+            r"^(the court held that|the ratio is that|held that|it was held that)\s+",
+            "",
+            ratio_text,
+            flags=re.IGNORECASE,
+        )
+        ratio_tag = f"ratio-{slugify_tag(ratio_text)[:80]}"
+        tags = ensure_tag(tags, ratio_tag, config)
+
+    frontmatter_fields: dict[str, Any] = {
         "title": current_title,
-        "topics": extracted.get("topics", []),
+        "tags": tags,
+        "summary": extracted.get("summary", ""),
         "figures": extracted.get("figures", []),
         "cases": extracted.get("cases", []),
         "statutes": extracted.get("statutes", []),
-        "ratio": extracted.get("ratio", ""),
-        "case_outcome": extracted.get("case_outcome", ""),
+        "period": extracted.get("period", ""),
+        "jurisdiction": extracted.get("jurisdiction", ""),
+        "assessment_relevance": extracted.get("assessment_relevance", ""),
     }
-    see_also = select_related_notes_pass(
-        path=path,
-        domain=domain,
-        current_metadata=current_metadata,
-        note_index=note_index,
-        config=config,
-        related_prompt_template=related_prompt_template,
-        model=model,
-    )
+    if is_case_note_title(current_title, text):
+        frontmatter_fields["ratio"] = extracted.get("ratio", "")
+        frontmatter_fields["case_outcome"] = extracted.get("case_outcome", "")
 
-    # Persist to memory and index (single source of truth)
+    if not dry_run and not memory_only:
+        project_note_updates(
+            path=path,
+            frontmatter_fields=frontmatter_fields,
+            see_also=see_also,
+            note_index=note_index,
+            config=config,
+        )
+
     record = update_memory_record(
         path=path,
         domain=domain,
@@ -1032,16 +1138,6 @@ def process_note(
         memory=memory,
         note_index=note_index,
     )
-
-    # Pass 5: projection into the note
-    if not dry_run and not memory_only:
-        project_note_updates(
-            path=path,
-            tags=tags,
-            see_also=see_also,
-            note_index=note_index,
-            config=config,
-        )
 
     return record
 
@@ -1100,6 +1196,11 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Reprocess notes even if the file hash matches memory.",
     )
+    parser.add_argument(
+        "--reproject",
+        action="store_true",
+        help="Rewrite notes from existing memory only, without calling Ollama.",
+    )
     return parser.parse_args()
 
 
@@ -1146,9 +1247,15 @@ def main() -> None:
             if args.limit and processed_count >= args.limit:
                 break
 
-            if not should_process_note(path, memory=memory, force=args.force):
-                print(f"  [cached] {relative_to_repo(path)}")
-                continue
+            relative_path = relative_to_repo(path)
+            if args.reproject:
+                if relative_path not in memory.get("files", {}):
+                    print(f"  [missing-memory] {relative_path}")
+                    continue
+            elif not should_process_note(path, memory=memory, force=args.force):
+                if relative_path not in memory.get("files", {}):
+                    print(f"  [cached] {relative_path}")
+                    continue
 
             record = process_note(
                 path,
@@ -1162,6 +1269,8 @@ def main() -> None:
                 model=model,
                 dry_run=args.dry_run,
                 memory_only=args.memory_only,
+                force=args.force,
+                reproject=args.reproject,
             )
             processed_count += 1
             print(

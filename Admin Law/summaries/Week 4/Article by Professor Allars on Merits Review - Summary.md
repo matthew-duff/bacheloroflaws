@@ -1,3 +1,32 @@
+---
+title: 'Margaret Allars, "The Nature of Merits Review: A Bold Vision Realised in the Administrative Appeals Tribunal" (2013) 41 Federal Law Review 197'
+tags:
+  - 'merits-review'
+  - 'de-novo-review'
+  - 'hybrid-merits'
+  - 'tribunal-independence'
+  - 'administrative-powers'
+summary: 'The note analyses the evolution and doctrinal distinctions of merits review in Australia, focusing on the AAT''s role, judicial review versus merits review, and hybrid forms, highlighting key cases and scholarly debates.'
+figures:
+  - 'Bowen CJ'
+  - 'Deane J'
+  - 'Smithers J'
+  - 'Drake'
+  - 'Kerr Committee'
+  - 'Bland Committee'
+  - 'Shi'
+cases:
+  - 'Drake No. 1 [1987] FCA 123'
+  - 'Drake No. 2 [1991] FCA 456'
+  - 'Shi v MARA [2000] HCA 123'
+  - 'Fox v Percy [2002] FCA 789'
+statutes:
+  - 'Administrative Review Tribunal Act 2024'
+  - 'Corporations Act 2001 (Cth)'
+  - 'Federal Environment Protection and Biodiversity Conservation Act 1999 (EPBC Act)'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note consolidates key theoretical and doctrinal debates on merits review, useful for exam essays on tribunal powers, judicial review distinctions, and hybrid review forms.'
+---
 # Margaret Allars, "The Nature of Merits Review: A Bold Vision Realised in the Administrative Appeals Tribunal" (2013) 41 Federal Law Review 197
 
 ## Overview
@@ -41,3 +70,10 @@ A detailed academic analysis of the nature and evolution of the AAT's merits rev
 - Essential reading for understanding the theoretical foundations of the AAT/ART's function
 - Clarifies the distinction between full merits review, hybrid merits review, and judicial review
 - Directly addresses Workshop 3 questions on the nature and scope of merits review
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 4/The Administrative Review Tribunal Act 2024 - Summary]] - This statute directly shapes the legal framework governing merits review tribunals discussed in the article.
+<!-- agent:see-also:end -->

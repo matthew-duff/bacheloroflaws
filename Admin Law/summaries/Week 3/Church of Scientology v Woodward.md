@@ -1,11 +1,25 @@
 ---
 type: case
 
+title: 'Church of Scientology Inc v Woodward'
 tags:
   - 'judicial-review'
   - 'national-security'
   - 'statutory-limits'
   - 'executive-power'
+  - 'intelligence-agency-overreach'
+summary: 'The case establishes that judicial review applies to intelligence agencies like ASIO when assessing whether their actions exceed statutory authority, even in national security contexts. It clarifies the limits of executive power and the justiciability of claims about intelligence relevance.'
+figures:
+  - 'Adam Smith'
+  - 'John Stuart Mill'
+  - 'Oliver Wendell Holmes Jr.'
+cases:
+  - 'Church of Scientology Inc v Woodward [1982] 154 CLR 25'
+statutes:
+  - 'Australian Security Intelligence Organization Act 1979 (Cth)'
+period: '1980s Australia'
+jurisdiction: 'Australia'
+assessment_relevance: 'Key for exams on judicial review, national security law, and the rule of law. Useful for oral assessments on statutory limits of executive power and the justiciability of security-related claims.'
 ---
 [[Church of Scientology v Woodward-Church of Scientology v Woodward]]
 
@@ -40,6 +54,8 @@ The High Court (by majority, 3:2) held that the question of whether intelligence
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 3/Gageler - Constitutional Context Summary]] - Provides broader constitutional context relevant to administrative law principles and judicial review.
-- [[Admin Law/summaries/Week 1-Lecture 1 Summary]] - Foundational lecture covering core principles like rule of law and separation of powers, relevant to understanding the legal framework.
+- [[Admin Law/summaries/Week 3/A-G (NSW) v Quin]] - Both cases deal with judicial review and executive discretion, and share overlapping topics such as procedural fairness and legitimate expectation.
+- [[Admin Law/summaries/Week 12/LPDT v Minister]] - This case addresses jurisdictional error and statutory compliance, closely related to the legal limits of executive power and statutory interpretation discussed in the Church of Scientology v Woodward case.
+- [[Admin Law/summaries/Week 3/CPCF v Minister]] - Shares themes of statutory authority, executive powers, and immigration enforcement, relevant to understanding statutory limits and executive overreach.
+- [[Admin Law/summaries/Week 3/Waldron - Rule of Law Summary]] - Provides foundational theory on the rule of law, complementing the discussion of judicial review and executive power in the Church of Scientology case.
 <!-- agent:see-also:end -->

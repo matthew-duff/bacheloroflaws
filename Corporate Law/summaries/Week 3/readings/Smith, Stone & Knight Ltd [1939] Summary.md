@@ -1,3 +1,29 @@
+---
+title: 'Case Summary: Smith, Stone & Knight Ltd v Birmingham Corporation [1939] 4 All ER 116'
+tags:
+  - 'piercing-veil'
+  - 'agency-exception'
+  - 'corporate-form'
+  - 'subsidiary-control'
+  - 'business-ownership'
+  - 'separate-entity-doctrine'
+  - 'executive-liability'
+  - 'case-won'
+  - 'ratio-when-a-subsidiary-acts-as-an-agent-for-the-parent-the-parent-can-be-held-respons'
+summary: 'This case establishes the ''agency'' exception to the separate legal entity doctrine, allowing courts to pierce the corporate veil where a subsidiary acts as the parent''s agent. It outlines the six-factor test and highlights the high threshold for modern courts.'
+figures:
+  - 'Atkinson J'
+cases:
+  - 'Smith, Stone & Knight Ltd v Birmingham Corporation [1939] 4 All ER 116'
+statutes:
+  - 'Companies Act 2001 (Cth)'
+  - 'Corporations Act s 181'
+period: 'Early 20th century'
+jurisdiction: 'England and Wales'
+assessment_relevance: 'Key for exam essays on veil-piercing and agency, and for oral assessments on distinguishing Salomon from agency exceptions.'
+ratio: 'The court held that when a subsidiary acts as an agent for the parent, the parent can be held responsible for the subsidiary’s business losses, effectively piercing the corporate veil.'
+case_outcome: 'won'
+---
 # Case Summary: Smith, Stone & Knight Ltd v Birmingham Corporation [1939] 4 All ER 116
 
 **Court:** King’s Bench Division  

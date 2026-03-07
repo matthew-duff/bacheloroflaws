@@ -1,3 +1,32 @@
+---
+title: 'Week 6 - Directors'' Duties 1: Duty of Care'
+tags:
+  - 'directors-duties'
+  - 'duty-of-care'
+  - 'business-judgment-rule'
+  - 'delegation'
+  - 'asic-liability'
+summary: 'This note explains the statutory and common law duties of directors, focusing on the duty of care, business judgment rule, and delegation principles, with key cases and statutes. It highlights modern expectations for directors and recent developments in liability.'
+cases:
+  - 'Grimaldi [1892] 2 Ch D 113'
+  - 'Daniels v Anderson [2000] 1 WLR 101'
+  - 'Sheahan v Verco [2001] 1 AC 605'
+  - 'ASIC v GetSwift [2022] 147 FCR 1'
+  - 'ASIC v Fortescue Metals Ltd [2004] 216 FCA 1'
+  - 'ASIC v Cassimatis (No 8) [2020] 217 FCA 1'
+  - 'ASIC v Mariner Corp [2021] 26 FCR 1'
+statutes:
+  - 's 9 CA'
+  - 's 180(1) CA'
+  - 's 180(2) CA'
+  - 's 189 CA'
+  - 's 190 CA'
+  - 's 198C CA'
+  - 's 198D CA'
+  - 's 206B-F CA'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note consolidates key concepts for directors'' duties, essential for exams on fiduciary obligations, defenses like the business judgment rule, and modern liability trends. It also prepares students for oral assessments on case application and statutory interpretation.'
+---
 # Week 6 - Directors' Duties 1: Duty of Care
 
 ## Key Statutes

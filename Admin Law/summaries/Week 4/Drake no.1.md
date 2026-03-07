@@ -1,8 +1,22 @@
 ---
-tags: [admin-law, summary, case]
 type: case
----
 
+title: 'Drake v Minister for Immigration and Ethnic Affairs'
+tags:
+  - 'separation-of-powers'
+  - 'merits-review'
+  - 'administrative-tribunals'
+  - 'persona-designata'
+summary: 'The case clarifies the AAT''s independent merits review function, affirms a judge''s ability to sit in an administrative role personally, and explains how policy must inform but not replace judicial decision-making.'
+figures:
+  - 'Davies J'
+cases:
+  - 'Drake v Minister for Immigration and Ethnic Affairs (1979) 46 FLR 409'
+statutes:
+  - 'Migration Act 1958 (Cth)'
+jurisdiction: 'Australia'
+assessment_relevance: 'Useful for exams on separation of powers, merits review, and tribunal independence; good for oral assessments on administrative law principles.'
+---
 [[Drake no.1]]
 
 **Citation**: *Drake v Minister for Immigration and Ethnic Affairs* (1979) 46 FLR 409
@@ -29,3 +43,13 @@ Drake, an American citizen with permanent resident status in Australia, was conv
 *   **AAT Function**: Establishes the core principle of merits review: the AAT must decide what is the "correct or preferable" decision, not merely whether the original decision was legally valid or reasonable.
 *   **Use of Policy**: Clarifies that administrative tribunals may (and often should) consider government policy to promote consistency, but they must remain independent and prepared to depart from policy if the individual justice of the case requires it.
 *   **Persona Designata**: Reaffirms that judges can perform non-judicial functions if appointed in their personal capacity.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 4/Drake no.1 - Summary]] - This note directly references the same case and discusses its significance in establishing the AAT's review powers, which is central to the current note's discussion of facts and legal principles.
+- [[Admin Law/summaries/Week 4/Article by Professor Allars on Merits Review - Summary]] - This article provides a detailed analysis of merits review, a key topic in the current note, and discusses the AAT's role, connecting to the legal principles and statutory framework.
+- [[Admin Law/summaries/Week 4/Chapter by Professor Creyke on Merits Review - Summary]] - This chapter offers a comprehensive overview of administrative tribunals and merits review, directly relating to the current note's focus on tribunal powers and legal doctrine.
+- [[Admin Law/summaries/Week 4/Drake no.2 - Summary]] - This note continues the discussion of the Drake case series, providing further facts and legal context that complement the current note's focus on administrative law principles.
+<!-- agent:see-also:end -->

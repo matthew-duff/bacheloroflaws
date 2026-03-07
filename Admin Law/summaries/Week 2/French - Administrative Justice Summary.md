@@ -1,12 +1,23 @@
 ---
 type: article
 
+title: 'Reference'
 tags:
   - 'administrative-justice'
   - 'legal-standards'
   - 'procedural-fairness'
   - 'merits-review'
   - 'constitutional-values'
+summary: 'French defines administrative justice through four criteria—lawfulness, rationality, fairness, and intelligibility—and links it to broader values like efficiency and accessibility. Merits review is highlighted as a key element, reinforcing constitutional expectations of decision-making.'
+figures:
+  - 'Robert French'
+cases:
+  - 'Salomon v A Salomon & Co Ltd [1897] AC 22'
+statutes:
+  - 'Corporations Act 2001 (Cth)'
+  - 'Corporations Act s 181'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note distills core doctrinal tests and institutional roles for exam essays on administrative law, especially around procedural fairness and merits review. It bridges theory and practice for oral assessments.'
 ---
 [[French on Administrative Justice]]
 
@@ -33,9 +44,8 @@ This speech provides a high-level conceptual framework for understanding the goa
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 2/Creyke - Integrity in Government Summary]] - Shares the same case Salomon v A Salomon & Co Ltd [1897] AC 22 and discusses administrative justice and integrity in government, aligning with the current note's statutory references.
-- [[Admin Law/summaries/Week 12/Automated Decision-making and AI Study Summary]] - References the same case Salomon v A Salomon & Co Ltd [1897] AC 22 and discusses discretionary powers and competence standards relevant to administrative law.
-- [[Admin Law/summaries/Week 4/Chapter by Professor Creyke on Merits Review - Summary]] - Directly related by topic (merits review) and author, providing complementary insight into administrative tribunals and procedural fairness.
-- [[Admin Law/summaries/Week 4/Article by Professor Allars on Merits Review - Summary]] - Addresses the same subject matter (merits review) and complements the analysis of administrative justice and procedural fairness.
-- [[Admin Law/summaries/Week 2/Lecture 2 Slides Summary]] - Covers merits review (Tribunals) and procedural fairness, closely related to the current note's focus on administrative justice.
+- [[Admin Law/summaries/Week 2/Creyke - Integrity in Government Summary]] - Both notes address administrative justice and share thematic overlap with integrity in government and institutional accountability.
+- [[Admin Law/summaries/Week 4/Chapter by Professor Creyke on Merits Review - Summary]] - This note directly references the same author and topic (merits review), making it highly relevant for cross-referencing legal standards and procedural fairness.
+- [[Admin Law/summaries/Week 4/The Administrative Review Tribunal Act 2024 - Summary]] - The note is relevant as it discusses statutory frameworks for administrative review, complementing the discussion of procedural fairness and judicial review.
+- [[Admin Law/summaries/Week 2/Groves & Boughey Summary]] - This summary provides an overview of administrative law principles that align with the topics of administrative justice and constitutional values.
 <!-- agent:see-also:end -->

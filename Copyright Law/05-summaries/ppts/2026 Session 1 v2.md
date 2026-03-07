@@ -1,3 +1,23 @@
+---
+title: '2026 Session 1 v2'
+tags:
+  - 'copyright-act-1968'
+  - 'intellectual-property'
+  - 'statutory-framework'
+  - 'exclusive-rights'
+  - 'substantial-part-test'
+  - 'fair-dealing'
+  - 'moral-rights'
+summary: 'This note outlines the statutory basis of Australian copyright law under the Copyright Act 1968, distinguishing Part III and Part IV subject matter, defining infringement via the substantial part test, and summarising the six-step analysis framework for exams.'
+cases:
+  - 'Salomon v A Salomon & Co Ltd [1897] AC 22'
+  - 'Foster v Phillips [1906] 2 Ch 507'
+statutes:
+  - 'Copyright Act 1968 (Cth)'
+  - 'Copyright Act 1968 (Cth) s 115'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note consolidates core concepts—statutory basis, subject matter division, infringement test, and the six-step framework—essential for essay questions and oral assessments on copyright analysis.'
+---
 [[2026 Session 1 v2 - LAWS5206 Copyright Law ]]
 
 **Citation**: LAWS5206: Copyright Law, Session One (28 February 2026), University of Queensland.
@@ -26,3 +46,14 @@ The slides establish the "6 Easy Steps" framework for copyright analysis:
 5. Identify defences/exceptions.
 6. Consider remedies.
 This provides the foundational methodology used throughout the course.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/articles/Copyright Infringement and AI]] - Shares topics like reproduction rights, communication rights, and AI training issues, and references similar cases and statutes.
+- [[Copyright Law/05-summaries/articles/IP and AI-Generated Works]] - Directly addresses AI-generated works and copyright ownership, closely related topics and overlapping statutory references.
+- [[Copyright Law/05-summaries/cases/FCT v Seven Network]] - Discusses fixation and digital signals, linking to statutory interpretation and copyright scope relevant to this note.
+- [[Copyright Law/05-summaries/articles/AI Tools and Licensing - TermsFeed]] - Covers AI authorship and licensing, complementing the discussion on AI and copyright protection.
+- [[Copyright Law/05-summaries/ppts/PPT Session 1]] - Provides foundational background and context for the session, connecting to the main topics and statutory framework.
+<!-- agent:see-also:end -->

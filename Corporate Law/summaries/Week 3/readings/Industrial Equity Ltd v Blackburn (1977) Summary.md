@@ -1,3 +1,28 @@
+---
+title: 'Case Summary: Industrial Equity Ltd v Blackburn (1977) 137 CLR 567'
+tags:
+  - 'separate-legal-personality'
+  - 'group-liability'
+  - 'dividend-restrictions'
+  - 'creditor-protection'
+  - 'corporate-form'
+  - 'case-won'
+  - 'ratio-a-holding-company-cannot-distribute-dividends-from-its-subsidiaries-profits-as-e'
+summary: 'The case reaffirms that each company in a group is a separate legal entity; dividends must come from the individual company''s profits, not group-wide earnings, protecting creditors and enforcing distinct corporate boundaries.'
+figures:
+  - 'Mason J'
+cases:
+  - 'Industrial Equity Ltd v Blackburn (1977) 137 CLR 567'
+  - 'Salomon v A Salomon & Co Ltd [1897] AC 22'
+statutes:
+  - 'Corporations Act 2001 (Cth) s 254T'
+  - 'Companies Act 2000 (Cth)'
+period: '1970s Australian corporate law'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note clarifies key doctrines on corporate separateness and dividend rules, essential for exam questions on group liability and statutory dividend restrictions.'
+ratio: 'The court held that a holding company cannot distribute dividends from its subsidiaries'' profits, as each company is a separate legal entity. Dividends must come from the individual company''s own profits at the time of declaration. Discriminatory distributions are impermissible.'
+case_outcome: 'won'
+---
 # Case Summary: Industrial Equity Ltd v Blackburn (1977) 137 CLR 567
 
 ## 📌 Exam Overview

@@ -1,3 +1,18 @@
+---
+title: 'The Administrative Review Tribunal Act 2024 (Cth)'
+tags:
+  - 'administrative-review'
+  - 'tribunal-structure'
+  - 'merits-review'
+  - 'appointment-process'
+  - 'procedural-fairness'
+summary: 'The ART Act 2024 replaces the AAT with a tribunal focused on transparent appointments, merits review, and informal proceedings, while retaining procedural fairness and clear removal grounds.'
+statutes:
+  - 'Administrative Review Tribunal Act 2024 (Cth)'
+  - 'Administrative Appeals Tribunal Act 1975 (Cth)'
+jurisdiction: 'Australia'
+assessment_relevance: 'Covers key reforms to tribunal structure and procedure, useful for exam questions on tribunal jurisdiction, appointment safeguards, and procedural fairness.'
+---
 # The Administrative Review Tribunal Act 2024 (Cth)
 
 ## Overview
@@ -27,3 +42,12 @@ The ART Act 2024 replaced the Administrative Appeals Tribunal Act 1975 (Cth) and
 
 ## Full Text
 The full text of the legislation is available at: [Federal Register of Legislation](https://www.legislation.gov.au/C2024A00030/latest/text)
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 4/Drake no.1]] - Shares the same subject matter and key figures (e.g., Davies J), focusing on the AAT’s independent merits review function.
+- [[Admin Law/summaries/Week 4/Drake no.2 - Summary]] - Directly relates as it continues the analysis of government policy in AAT reviews, complementing the earlier Drake no.1 case.
+- [[Admin Law/summaries/Week 4/Pochi v Minister for Immigration - Summary]] - Shares key topics such as onus/standard of proof and tribunal procedure, making it complementary to the Pochi case summary.
+<!-- agent:see-also:end -->

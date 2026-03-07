@@ -1,3 +1,19 @@
+---
+title: 'Shaffer, ‘How Businesses Shape Law: A Socio-Legal Framework’ (2009) Summary'
+tags:
+  - 'business-influence'
+  - 'public-law'
+  - 'private-legal-systems'
+  - 'regulatory-capture'
+  - 'repeat-player'
+  - 'managerialization'
+  - 'transnational-law'
+  - 'legal-autonomy'
+  - 'recursivity'
+summary: 'Shaffer’s framework shows how business shapes law through public institutions and private systems, highlighting dynamic interplay and strategic behavior.'
+jurisdiction: 'Australia/global'
+assessment_relevance: 'This note clarifies key tensions for exams: Repeat Players vs One-Shotters, managerialization, and recursivity—useful for problem-question and essay answers.'
+---
 # Shaffer, ‘How Businesses Shape Law: A Socio-Legal Framework’ (2009) Summary
 
 ## Overview

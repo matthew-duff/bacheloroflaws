@@ -1,3 +1,28 @@
+---
+title: 'Getty v Stability AI'
+tags:
+  - 'secondary-infringement'
+  - 'copy-concept'
+  - 'ai-training'
+  - 'trade-mark-licensing'
+  - 'copyright-subsistence'
+  - 'case-mixed'
+  - 'ratio-stable-diffusions-model-weights-do-not-constitute-an-infringing-copy-under-the-c'
+summary: 'The case clarifies that a generative AI model is not an ''infringing copy'' under the CDPA if it doesn''t store or reproduce copyrighted works, shaping how secondary infringement is assessed for AI outputs. It also limits trade mark liability to narrow, version-specific scenarios and confirms title disputes over sample works.'
+figures:
+  - 'Getty Images'
+  - 'Stability AI'
+cases:
+  - 'Getty Images (US) Inc v Stability AI Ltd [2025] EWHC 2863 (Ch)'
+statutes:
+  - 'Copyright Designs and Patents Act 1988 (UK)'
+  - 'Copyright, Designs and Patents Act 1988 (UK) s 17, 18, 27'
+period: '2020s English law'
+jurisdiction: 'England and Wales'
+assessment_relevance: 'Key for exams on AI and copyright, illustrating secondary infringement limits and trade mark thresholds; useful for oral assessments on doctrinal limits of liability and the ''copy'' concept.'
+ratio: 'The court held that Stable Diffusion’s model weights do not constitute an ''infringing copy'' under the CDPA because they are intangible and do not store or reproduce the copyrighted works; thus, secondary infringement failed. Trade mark liability was limited to narrow, version-specific cases where synthetic watermarks matched Getty/iStock marks, and Getty succeeded only partially.'
+case_outcome: 'mixed'
+---
 [[Getty-Images-v-Stability-AI]]
 
 **Citation:** *Getty Images (US) Inc & Ors v Stability AI Ltd* [2025] EWHC 2863 (Ch) (Mrs Justice Joanna Smith DBE, 4 November 2025).
@@ -11,3 +36,13 @@
 **Reasoning:** On secondary infringement, the court held that “infringing copy” takes its meaning from the Act’s concept of “copy” in s 17 (reproduction in a material form, including storage by electronic means). *Sony v Ball* showed that an article is an infringing copy only when it *contains* a copy (even transiently); once it no longer contains the copy, it ceases to be an infringing copy. Here the model never contained or stored the works—only learned parameters derived from training—so it was not a “copy” and could not be an “infringing copy.” On trade marks, the court found a “threshold issue” of incidence of synthetically generated watermarks was satisfied only for v1.x (and for Getty watermarks on v2.x) in the ways described; for later models (SD XL, v1.6) the evidence was contrived or unrepresentative. Liability under s 10(1) and 10(2) was then assessed by reference to identity/similarity of sign and mark, average consumer, and context; s 10(3) failed on the facts (e.g. no sufficient detriment or unfair advantage). Stability was not directly liable for release of v1.x via third-party GitHub/Hugging Face pages.
 
 **Significance:** The case is a leading English authority on AI and copyright: it holds that a trained generative AI model whose weights do not store or reproduce copyright works is **not** an “infringing copy” under the CDPA, so secondary infringement (importation, possession, distribution, etc.) does not apply even if training used infringing copies elsewhere. It confirms that “article” can be intangible but that “copy” remains central. It also illustrates the limits of trade mark claims where AI outputs occasionally resemble a claimant’s marks (watermarks): liability was found only in narrow, version-specific circumstances and did not extend to later model versions or to all types of watermark. The judgment leaves open the possibility of primary infringement claims in the jurisdiction where training actually occurred.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/cases/Dais Studio v Bullet Creative]] - Both address copyrightability of computer programs and the threshold for infringement, with Dais Studio focusing on substantial parts and confidentiality.
+- [[Copyright Law/05-summaries/cases/Campaigntrack v Real Estate Tool Box]] - Both deal with substantial part infringement and authorisation principles under s 36(1A), relevant to secondary liability in Getty v Stability AI.
+- [[Copyright Law/05-summaries/cases/CBS v Telmak]] - Both involve section 85(a) of the Copyright Act regarding original sound recordings and infringement thresholds.
+- [[Copyright Law/05-summaries/cases/F100149]] - Both address automated compilation and originality requirements, relevant to the threshold for copyright protection.
+<!-- agent:see-also:end -->

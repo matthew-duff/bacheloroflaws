@@ -1,3 +1,21 @@
+---
+title: 'Chapter 9 - Compulsory Licensing and the Copyright Tribunal'
+tags:
+  - 'compulsory-licensing'
+  - 'copyright-tribunal'
+  - 'royalty-structure'
+  - 'public-interest-balance'
+summary: 'The chapter explains compulsory licensing in Australian copyright law, the Tribunal''s role, and tensions between private rights and public access.'
+cases:
+  - 'Phonographic Performance Company of Australia v Foxtel (2019)'
+  - 'PPCA v Commercial Radio Australia'
+statutes:
+  - 'Copyright Act 1968 (Cth)'
+  - 'Copyright Act 1968 (Cth) s 152'
+  - 'Copyright Act 1968 (Cth) s 183'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note clarifies key licensing regimes and Tribunal powers, essential for exam essays on compulsory licensing and public interest exceptions.'
+---
 [[ch09-raw]]
 
 Reference: [Author/Textbook Title], Chapter 9: Compulsory Licensing and the Copyright Tribunal.
@@ -23,3 +41,11 @@ Chapter 9 examines the Australian copyright law's reliance on **compulsory (stat
 
 ## Significance
 This chapter is critical for understanding the **balance between private property rights and public interest** in Australian copyright law. It highlights how the law manages market failures and monopoly power through the Copyright Tribunal. The discussion of price caps (s 152) and the distinction between broadcasting and internet streaming (*PPCA v Commercial Radio Australia*) illustrates the ongoing tension between legacy legislative frameworks and modern digital exploitation. It also clarifies the unique "eminent domain" status of the Crown, which operates outside standard infringement frameworks.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/articles/Copyright Infringement and AI]] - Shares topics like copyright infringement, AI training, and reproduction rights, and references similar cases and statutes.
+- [[Copyright Law/05-summaries/articles/AI Tools and Licensing - TermsFeed]] - Addresses licensing and authorship in the context of AI, which is relevant for understanding modern challenges to copyright principles.
+<!-- agent:see-also:end -->

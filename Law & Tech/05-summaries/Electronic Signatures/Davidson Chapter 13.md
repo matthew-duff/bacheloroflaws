@@ -1,8 +1,24 @@
 ---
-tags: [law-and-tech, summary]
 type: textbook
----
 
+title: 'Davidson, Electronic Signatures (Chapter 13)'
+tags:
+  - 'electronic-signatures'
+  - 'legal-validity'
+  - 'functional-equivalence'
+  - 'digital-signatures'
+  - 'deeds-electronically'
+summary: 'Electronic signatures are legally valid when they clearly show the signer''s intention to authenticate a document. Modern statutes adopt functional equivalence, focusing on identity and reliability rather than the medium. This chapter bridges historical precedent with contemporary tech, crucial for exams on commercial law and tech regulation.'
+cases:
+  - 'Lemayne v Stanley [1740]'
+  - 'R v Moore [1992]'
+  - 'Mehta v J Pereira Fernandes SA [2020]'
+statutes:
+  - 'Corporations Act 2001 (Cth)'
+  - 'Property Law Act 1974 (Qld)'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note clarifies key tests for electronic signature validity and statutory frameworks, essential for essay questions on contract law and tech regulation. It also highlights how law adapts to technology, a common exam theme.'
+---
 [[13-Chapter AD-5151-A]]
 
 # Davidson, Electronic Signatures (Chapter 13)
@@ -32,3 +48,11 @@ This chapter explores the legal regulation, use, and security of electronic sign
 
 ## Significance
 This chapter is critical for understanding how the law maintains technology neutrality while ensuring commercial certainty. It highlights that while technology provides the *means* for authentication, the **legal test** remains focused on the signatory's intent and the appropriateness of the method for the specific transaction. It also clarifies the modern statutory shift allowing even formal documents like deeds to be executed electronically, reflecting the reality of digital commerce.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Law & Tech/05-summaries/Electronic Contracting/Davidson Chapter 11]] - Shares topics such as electronic signatures, contract formation, and legal equivalence, and references similar statutes and cases.
+- [[Law & Tech/05-summaries/Electronic Contracting/Regulating AI]] - Although focused on AI, it shares the broader theme of electronic transactions and legal frameworks, offering a complementary perspective on technology's impact on law.
+<!-- agent:see-also:end -->

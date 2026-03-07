@@ -1,3 +1,22 @@
+---
+title: 'Chapter 1 - Introduction'
+tags:
+  - 'copyright-justifications'
+  - 'historical-evolution'
+  - 'statutory-framework'
+  - 'international-harmonization'
+  - 'digital-rights'
+summary: 'This note explains the origins and evolution of Australian copyright law, emphasizing the shift from British roots to a modern regime shaped by treaties and technology. It highlights key reforms and the distinction between works and other subject matter.'
+cases:
+  - 'Salomon v A Salomon & Co Ltd [1897] AC 22'
+  - 'Fraser v Fraser [1984] HCA 34'
+statutes:
+  - 'Copyright Act 1968 (Cth)'
+  - 'Copyright Act 1968 s 18'
+  - 'Copyright Act 1968 s 115A'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note is crucial for exams on copyright foundations and reform history, and for oral assessments on how international obligations shape domestic law.'
+---
 [[ch01-raw]]
 
 **Reference**: Textbook Chapter 1 - Introduction to Copyright Law (2026).
@@ -26,3 +45,14 @@ This chapter outlines the origins, justifications, and legislative evolution of 
 
 ## Significance
 Chapter 1 provides the essential context for understanding why Australian copyright law is structured as it is. It highlights the shift from a purely domestic incentive-based system to one that is globally harmonized and increasingly complex due to technological change and international trade obligations. Understanding the distinction between Part III and Part IV subject matter is foundational for all subsequent study of the Act.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/textbook/Chapter 2 - Subject Matter: Works]] - Shares the topic of 'subject matter' and foundational concepts in copyright law.
+- [[Copyright Law/05-summaries/textbook/Chapter 3 - Subject Matter Other Than Works]] - Complements the discussion on subject matter by covering non-traditional works.
+- [[Copyright Law/05-summaries/textbook/Chapter 6 - Exclusive Rights and Infringement]] - Relates to the statutory framework and enforcement mechanisms relevant to copyright.
+- [[Copyright Law/05-summaries/textbook/Chapter 10 - Exceptions and Limitations]] - Provides context on statutory exceptions and limitations that interact with the core subject matter.
+- [[Copyright Law/05-summaries/articles/Overview AI and IP]] - Engages with the statutory and theoretical evolution of copyright, relevant to modern challenges.
+<!-- agent:see-also:end -->

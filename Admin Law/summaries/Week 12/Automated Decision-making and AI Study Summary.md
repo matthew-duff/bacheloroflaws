@@ -1,16 +1,17 @@
 ---
 type: study-material
 
+title: 'Reference'
 tags:
   - 'automated-decision-making'
   - 'ai-assistance'
   - 'legal-productivity'
-  - 'merits-review'
   - 'discretionary-powers'
   - 'competence-standard'
-  - 'due-diligence'
-  - 'legal-education'
   - 'access-to-justice'
+summary: 'The study shows AI boosts legal efficiency and equalizes outcomes, raising normative questions for admin law and practice.'
+jurisdiction: 'Australia'
+assessment_relevance: 'Key for exams on tech in admin law, normative debates, and practical admin law skills.'
 ---
 [[2025 Self-directed learning - automated decision-making and AI]]
 
@@ -44,8 +45,9 @@ While focused on "lawyering" generally, the study's findings on **automated deci
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Shares the same topic of 'automated decision-making' and likely covers related legal frameworks and implications.
-- [[Admin Law/summaries/Week 6-Workshop 5 Study Guide Summary]] - Shares the topic of 'discretionary powers' and procedural ultra vires, which are relevant to understanding administrative law limits.
-- [[Admin Law/summaries/Week 9-Workshop 6 Study Guide Summary]] - Connects to 'discretionary powers' and 'merits review' as these are key themes in judicial review and administrative decision-making.
-- [[Admin Law/summaries/Week 12/Workshop 9 Guide Summary]] - Relates to 'legal productivity' and 'access to justice', which are broader themes that complement the study of automated decision-making and AI in admin law.
+- [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Shares topics such as procedural fairness and legality, and references the Robodebt case, which is also discussed in the Week 12 overview.
+- [[Admin Law/summaries/Week 2/Creyke - Integrity in Government Summary]] - Shares the topic of administrative justice and integrity in government, linking to broader themes of accountability and institutional design relevant to administrative law.
+- [[Admin Law/summaries/Week 2/French - Administrative Justice Summary]] - Discusses administrative justice criteria and constitutional values, which are foundational concepts also relevant to understanding administrative law principles.
+- [[Admin Law/summaries/Week 13/Study Progress]] - Covers foundational corporate law concepts such as legal personality and ASIC regulation, which are closely related to administrative law topics like corporate form and regulatory compliance.
+- [[Admin Law/summaries/Week 2/Effective Letter Writing Summary]] - Although more procedural, it touches on legal writing and professional standards, which are relevant for drafting administrative decisions and notices.
 <!-- agent:see-also:end -->

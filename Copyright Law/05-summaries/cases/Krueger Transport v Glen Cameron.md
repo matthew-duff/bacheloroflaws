@@ -1,3 +1,23 @@
+---
+title: 'Krueger Transport v Glen Cameron'
+tags:
+  - 'confidentiality'
+  - 'copyright'
+  - 'equitable'
+  - 'infringement'
+  - 'design'
+summary: 'The case examines whether confidentiality and copyright protect a trailer design concept, and how indirect infringement and breach of confidence apply.'
+figures:
+  - 'Adam Smith'
+  - 'John Stuart Mill'
+cases:
+  - 'Krueger Transport Equipment Pty Ltd v Glen Cameron Storage and Distribution Pty Ltd [2008] FCA 803'
+statutes:
+  - 'Copyright Act 1968 (Cth)'
+  - 'Corporations Act 2001 (Cth)'
+jurisdiction: 'Australia'
+assessment_relevance: 'Key for exams on IP, confidence, and indirect liability; useful for oral assessments on equitable and copyright analysis.'
+---
 [[Copyright Law/03-sources/cases/Krueger Transport Equipment Pty Ltd v Glen Cameron Storage and Distribution Pty Ltd [2008] FCA 803]]
 
 **Citation**: [2008] FCA 803
@@ -28,3 +48,11 @@ Krueger (a trailer manufacturer) designed a load restraint system for curtain-si
 
 ### Significance
 This case illustrates the **idea–expression dichotomy** in Australian copyright law: copyright subsisted in the engineering drawings but not in the hand sketch because the sketch conveyed mainly the unprotected concept. It also demonstrates **indirect copyright infringement** based on inferred access and causal connection—the court found copying where an intermediary (Camerons) disclosed the work and gave instructions to bring the defendant's design into line with the copyright holder's. The case reinforces that breach of confidence can protect commercially sensitive design information even where the design is not novel in a patent sense, and that liability for breach of confidence and copyright infringement may arise on overlapping facts.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/cases/Feist v Rural Telephone]] - Both deal with copyrightability of factual compilations and the originality requirement under s 101/102 of the Copyright Act 1976 (US) and s 101 of the Copyright Act 1968 (Cth).
+- [[Copyright Law/05-summaries/cases/Campaigntrack v Real Estate Tool Box]] - Shares topics like substantial part test, authorisation principle, and copyright subsistence, relevant to infringement analysis and author liability.
+<!-- agent:see-also:end -->

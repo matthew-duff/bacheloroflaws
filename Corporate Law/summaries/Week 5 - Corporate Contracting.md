@@ -1,3 +1,31 @@
+---
+title: 'Week 5 - Corporate Contracting'
+tags:
+  - 'legal-capacity'
+  - 'contracting-power'
+  - 'agency'
+  - 'authority'
+  - 'seal'
+  - 'statutory-assumptions'
+summary: 'This note explains how companies contract through direct and indirect means, covering statutory requirements for execution, authority attribution, and defenses like apparent authority and the indoor management rule. It ties key cases and statutes to practical problems.'
+cases:
+  - 'Meridian Global Funds v. Skowron [2016] 3 NZLR 1'
+  - 'Entwells v. Barker [1954] 1 KB 497'
+  - 'Hely Hutchinson v. Bindley [1951] 1 WLR 800'
+  - 'Freeman & Lockyer v. Buckhurst Park Holdings [1964] 2 AC 480'
+  - 'Crabtree-Vickers Ltd v. Crabtree [1972] 1 WLR 102'
+  - 'Entwells v. Barker [1954] 1 KB 497'
+  - 'Brick & Pipe v Occidental Life Insurance Co [1951] 1 KB 555'
+statutes:
+  - 'Companies Act 2001 (Cth) s 124'
+  - 'Companies Act 2001 (Cth) s 126'
+  - 'Companies Act 2001 (Cth) s 127'
+  - 'Companies Act 2001 (Cth) s 128'
+  - 'Companies Act 2001 (Cth) s 129'
+period: 'Late 19th–early 20th century corporate law development'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note consolidates core contracting doctrines—authority, formalities, and defenses—that frequently appear in exams and oral assessments, especially in problem questions about apparent authority and statutory assumptions.'
+---
 # Week 5 - Corporate Contracting
 
 ## Key Statutes

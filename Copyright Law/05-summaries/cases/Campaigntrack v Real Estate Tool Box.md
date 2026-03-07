@@ -1,3 +1,22 @@
+---
+title: 'Campaigntrack v Real Estate Tool Box'
+tags:
+  - 'copyright-infringement'
+  - 'substantial-part-test'
+  - 'authorisation-principle'
+  - 'spoliation-consequences'
+  - 'confidentiality-breach'
+summary: 'The case examines whether a developer infringed copyright by copying source code and database structures, and whether clients who commissioned the new system authorised that infringement. It clarifies the thresholds for substantial part infringement and the narrow scope of authorisation under s 36(1A).'
+figures:
+  - 'David Semmens'
+cases:
+  - 'Campaigntrack Pty Ltd v Real Estate Tool Box Pty Ltd [2021] FCA 809'
+statutes:
+  - 'Copyright Act 1968 (Cth)'
+  - 'Copyright Act s 36(1A)'
+jurisdiction: 'Australia'
+assessment_relevance: 'Useful for exams on copyright infringement, authorisation, and evidentiary spoliation; helps distinguish primary liability from secondary liability and understand the ''substantial part'' test.'
+---
 [[Copyright Law/03-sources/cases/Campaigntrack Pty Ltd v Real Estate Tool Box Pty Ltd [2021] FCA 809]]
 
 **Citation**: [2021] FCA 809
@@ -42,3 +61,12 @@ Under the _Copyright Act 1968_ (Cth), a computer program or compilation (such 
 **Primary Infringement and Spoliation of Evidence:** The Court relied on expert evidence showing identical code and database structures between DreamDesk and early versions of Toolbox. Because Mr. Semmens deliberately destroyed and altered digital evidence, the Court applied the _omnia praesumuntur contra spoliatorem_ maxim (all things are presumed against a despoiler). This allowed the Court to draw strong negative inferences that the destroyed evidence would have proven the source code was directly copied and subsequently modified to hide the theft.
 
 **Authorisation of Infringement:** Relying on _Roadshow Films Pty Ltd v iiNet Ltd_, the Court determined that authorisation means to "sanction, approve, countenance." Biggin & Scott and its directors explicitly instructed Mr. Semmens _not_ to infringe on Campaigntrack's IP. They lacked the technical expertise to audit the code and trusted Semmens to build it legally. Because they neither knew nor had reason to suspect the infringement, they lacked the mental element required for authorisation. Similarly, DDPL and its director were unaware of Mr. Semmens' rogue actions and were not vicariously liable for his independent breaches.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/cases/Burge v Swarbrick]] - Both discuss substantial creative effort and the threshold for copyright protection, relevant to the 'substantial part test' and 'authorisation principle' topics.
+- [[Copyright Law/05-summaries/cases/CBS v Telmak]] - Shares the topic of copyright infringement and statutory interpretation under the Copyright Act, relevant to understanding the boundaries of protected rights.
+- [[Copyright Law/05-summaries/cases/Feist v Rural Telephone]] - A landmark case on originality and substantial part test, closely related to the 'substantial part test' and 'authorisation principle' topics.
+<!-- agent:see-also:end -->

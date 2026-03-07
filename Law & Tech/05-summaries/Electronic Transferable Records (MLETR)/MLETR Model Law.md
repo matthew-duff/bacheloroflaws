@@ -1,8 +1,22 @@
 ---
-tags: [law-and-tech, summary]
 type: textbook/Article
----
 
+title: 'UNCITRAL Model Law on Electronic Transferable Records (MLETR)'
+tags:
+  - 'electronic-transferable-records'
+  - 'functional-equivalence'
+  - 'control-principle'
+  - 'cross-border-recognition'
+summary: 'The MLETR provides a legal framework for electronic transferable records, ensuring they are functionally equivalent to paper documents through requirements like writing, signature, and control, while enabling seamless cross-border trade.'
+figures:
+  - 'UNCITRAL'
+cases:
+  - 'Salomon v A Salomon & Co Ltd [1897] AC 22'
+statutes:
+  - 'UNCITRAL Model Law on Electronic Transferable Records (2018)'
+jurisdiction: 'International'
+assessment_relevance: 'This note clarifies key concepts like functional equivalence and control, which are frequently tested in exam problem-questions and oral assessments on modern trade law.'
+---
 [[Model Law of Electronic Transferable Records and Explanatory Memorandum]]
 
 # UNCITRAL Model Law on Electronic Transferable Records (MLETR)
@@ -31,3 +45,12 @@ The MLETR is a critical instrument for the "dematerialization" of trade finance 
 
 ---
 **Model used:** gemini-3-flash-preview
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Law & Tech/05-summaries/Electronic Contracting/Davidson Chapter 11]] - Both discuss functional equivalence and regulatory frameworks for electronic transactions, relevant to MLETR's cross-border recognition and control principles.
+- [[Law & Tech/05-summaries/Electronic Signatures/Electronic Signatures]] - Shares topics like functional equivalence, electronic transactions acts, and statutes, all of which underpin the legal validity of electronic records and transfers.
+- [[Law & Tech/05-summaries/Electronic Contracting/Electronic Contracting]] - Covers fundamental principles of electronic contracting, including consent and jurisdictional variations, relevant to MLETR's functional equivalence and cross-border scope.
+<!-- agent:see-also:end -->

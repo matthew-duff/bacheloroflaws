@@ -1,0 +1,212 @@
+H
+
+Ch.D.] Re F. G. (FILMS), LTD. 615
+
+Re F. G. (FILMS), LTD.
+(CHaNnceRy DIvISION (Vaisey, J.), February 12, 18, 1953.]
+Cinematograph—Film—British film—Making by British company—Company
+incorporated in England—Nominee of foreign company—Cinematograph
+Films Act, 1938 (c. 17), 8. 25 (1), 8. 44 (1).
+For a cinematograph film to be made by a British company, within
+s. 25 (1) of the Cinematograph Films Act, 1938, and so to be deemed to
+be a British film under that sub-section the company must establish
+themselves as the sole makers of the film. To do this they must show
+that they have actually and substantially ‘‘ undertaken” the arrange-
+ments necessary for the making of the film, and have not acted merely as
+nominees or agents of a foreign company. Where, therefore, a company
+had a capital of £100, no premises except their registered office, and no
+staff,
+HELD: they could not be regarded as the ‘‘ makers ’’ of a film which
+a foreign company had financed to the extent of £80,000, and, therefore,
+the film was not to be deemed to be a British film.
+
+For THE CINEMATOGRAPH Fiums Act, 1938, s. 23, s. 24, s. 25 (1), see
+HALSBURY'S STATUTES, Second Edn., Vol. 25, pp. 91-93; and For THE
+CINEMATOGRAPH Fiims Act, 1948, see ibid., p. 111 et seq.
+
+ADJOURNED Summons for a declaration that (i) the applicants, F. G. (Films),
+Ltd., were the makers of the film called “‘ Monsoon” within the meaning of
+the Cinematograph Films Acts, 1938 and 1948; (ii) the applicants throughout
+the time that the said film was being made were a British company within the
+meaning of the said Acts; (iii) the makers of the said film were throughout the
+time during which the said film was being made a British company within the
+meaning of the said Acts.
+
+Cyril Salmon, Q.C., and C. H. Duveen for the applicants.
+The Solicitor-General (Sir Reginald Manningham-Buller, Q.C.) and Denys B.
+Buckley for the Board of Trade.
+Cur. adv. vult.
+
+Feb. 18. WAISEY, J., read the following judgment. Section 22 of the
+Cinematograph Films Act, 1938, prohibits the distribution or exhibition of
+unregistered cinematograph films, and by s. 23 of the Act the Board of Trade
+is charged with the duty of registering such films. The register is to be so kept
+as to record in relation to each film a number of specified particulars, including
+the fact that it is, as the case may be, either a British film or a foreign film.
+In s. 25 (1) of the Act we find that a film is to be deemed to be a British film
+if, and only if (omitting immaterial words)
+
+‘‘ (a) the maker of the film was, throughout the time during which
+the film was being made, either a British subject or a British company,
+and (b) the studio, if any, used in making the film was within [Her]
+Majesty’s dominions, and (c) not less than the requisite amount of labour
+costs represents payments paid or payable in respect of the labour or
+services of British subjects or persons domiciled in some part of [Her]
+Majesty’s dominions.”
+
+This application relates to a film entitled ‘ Monsoon ’’, and the applicants,
+F. G. (Films), Ltd., are seeking declarations (a) that they, the applicants, were
+the makers of the said film within the meaning of the said Act and of an
+amending Act of 1948, to which no further reference need be made in this
+judgment; (b) that throughout the time that the said film was being made
+they were a British company within the meaning of the said Act; and (c) that
+the maker of the said film was throughout the time during which it was being
+made a British company, meaning, that is to say, the applicants. The
+616 [Marcu 5, 1953] ALL ENGLAND LAW REPORTS [| Vol. 1
+
+respondents to the summons, the Board of Trade, admits that the applicants
+are a British company as defined in the Act, being a company incorporated
+in England and having the majority of its directors British subjects. The
+facts are that the applicants were incorporated on May 29, 1951, under the
+Companies Act, 1948, and have three directors, namely, a Mr. Forrest Judd,
+who is an American citizen, and a Mr. Edwin Arthur Davis and a Miss
+Marjorie Sutherland, who are both British subjects. It is further admitted
+that the studio used in making the film was within Her Majesty’s dominions,
+that is to say, in India. - There is also no question but that the statutory require-
+ment concerning labour costs has been fulfilled.
+
+The sole question, therefore, which I have: to decide is whether the applicants
+were the makers of the film. This is what they claim to be, but the respondent
+has decided that they were not, and has, on that ground, refused to register
+the film ‘“‘ Monsoon ”’ as a British film. The applicants, being aggrieved by that
+decision, are, in accordance with s. 31 of the Act, making the present applica-
+tion to the court. In substance, I am asked to reverse the respondent’s decision
+and to say that ‘‘ Monsoon ”’ is a British film under the Act.
+
+In s. 44 of the Act the expression “ maker ”’ is defined as meaning. in relation
+to the film,
+
+“the person by whom the arrangements necessary for the making of
+the film are undertaken.”
+
+This is, perhaps, a strange collocation of words which might in other circum.
+stances give rise to some difficulty of interpretation. ‘‘ Undertake ’’ means,
+I think, “‘ be responsible for’’, especially in the financial sense, but also
+generally. So far as the present case is concerned, I think that it plainly suggests
+the following problem: Was it the applicants alone who undertook the arrange-
+ments necessary for the making of the film, or did they do so in co-operation
+with some other person, firm or company, reading as including the plural number
+(in accordance with the Interpretation Act, 1889) the words ** maker ’’, “* British
+subject ’? and ‘“ British company ”’ in s. 25 and the words ‘“ maker” and
+‘“‘person”’ in the definition ? Here the applicants can only succeed if they
+establish themselves as the sole statutory makers of the film for, if they were
+(as may well be the case) one of several makers, the other ‘‘ maker ” or ‘‘ makers ”
+certainly cannot, in the circumstances of this case, be brought within the
+description of “‘ British subject” or ‘‘ British company ”’. Their claim is to
+be, or to have been, the sole exclusive maker of the film.
+
+The applicants have a capital of £100, divided into one hundred shares of
+£1 each, ninety of which were held by the said Mr. Forrest Judd and the
+remaining ten by the said Mr. Davis. The third director has no shareholding.
+I now understand that they have no place of business apart from their registered
+office, and they did not employ any staff. It seems to me to be contrary, not
+only to all sense and reason, but to the proved and admitted facts of the case,
+to say or to believe that this insignificant company undertook in any real
+sense of that word the arrangements for the making of this film. I think that
+its participation in any such undertaking was so small as to be practically
+negligible, and that it acted, in so far as it acted at all in the matter, merely
+as the nominee of and agent for an American company called Film Group
+Incorporated, which seems (among other things) to have financed the making
+of the film to the extent of at least £80,000 under the auspices and direction
+of the same Mr. Judd, who happened to be its president. The suggestion
+that this American company and Mr. Judd were merely agents for the applicants
+is, to my mind, inconsistent with and contradicted by the evidence, and a mere
+travesty of the facts, as I understand and hold them to be. The applicants’
+intervention in the matter was purely colourable. They were brought into
+existence for the sole purpose of being put forward as having undertaken the
+very elaborate arrangements necessary for the making of this film and of
+
+F
+B
+
+F
+
+G
+
+Ch.D.] Re F. G. (FILMS), LTD. (Vaisry, J.) 617
+
+enabling it thereby to qualify as a British film. The attempt has failed, and
+
+the respondent’s decision not to register “ Monsoon ” ” as a British film was,
+in my judgment, plainly right.
+
+Declaration accordingly.
+
+Solicitors: Edwin A. Davis (for the applicants); Solicitor, Board of Trade.
+
+[Reported by Miss Puiirpa Price, Barrister-at-Law.]
+
+KING v. PHILLIPS.
+
+[Court or APppEa.: (Singleton, Denning and Hodson, L.JJ.), January 23,
+February 16, 1953.]
+
+Damages— Mental shock—Accident to child—Mother hearing scream and seeing
+something of accident while seventy to eighty yards away.
+
+A taxi-driver backed his taxicab negligently and without looking where
+he was going, and ran into a child who was on a tricycle immediately
+behind him, slightly injuring him. The child’s mother, who was in her
+house seventy or eighty yards away, heard him scream, and, looking out
+of a window, saw the cab back into the tricycle, but she could not see
+the child. In an action by her for damages for the shock thus suffered
+by her,
+
+Heutp (per SINGLETON and Hopson, L.JJ. ): the test of negligence
+vis-&-vis the mother was whether the taxi-driver could reasonably have
+foreseen the risk of damage to her; in the circumstances the taxi-driver could
+not reasonably have contemplated that, if he backed his taxicab without
+looking where he was going, he might cause to the mother the injury
+complained of; and, therefore, he owed her no duty of care and her
+claim should be dismissed.
+
+Hay (or Bourhill) v. Young ([1942] 2 All E.R. 396), applied.
+
+Hambrook v. Stokes Brothers ({1925] 1 K.B. 141), distinguished.
+
+Per Denninec, L.J.: there was a duty of care owed by the taxi-driver,
+not only to the boy, but also to the mother; the driver was in breach
+of that duty, but in the circumstances the shock suffered by the mother
+could not reasonably have been foreseen by the driver; it was, therefore,
+too remote as a head of damage and the claim should be dismissed.
+
+Decision of McNair, J. ({1952] 2 All E.R: 453), affirmed.
+
+As TO THE Duty TO TAKE CaRE, see HALSBURY, Hailsham Edn,, Vol. 23,
+pp. 568-587, paras. 823-840; and ror Casss, see DIGEST, Vol. 36, pp. 12-21,
+Nos. 33-101, and Digest Supps.
+
+As To REMOTENESS OF DAMAGE, see HALSBURY, Hailsham Edn., Vol. 10,
+pp. 103-109, paras. 130-136; and ror Casss, see DIGEST, Vol. 17, pp. 117-
+120, Nos. 267-289. |
+
+Cases referred to:
+
+(1) Hay (or Bourhill) v. Young, [1942] 2 All E.R. 396; [1943] A.C. 92; 111
+L.J.P.C. 97; 167 L.T. 261; 2nd Digest Supp.
+
+(2) Owens v. Liverpool Corpn., [1938] 4 All E.R. 727; [1939] 1 K.B. 394;
+108 L.J.K.B. 155; 160 L.T. 8; Digest Supp.
+
+(3) Hambrook v. Stokes Brothere, [1925] 1 K.B. 141; 94 L.J.K.B. 436;
+132 L.T. 707; 36 Digest 123, 819.
+
+(4) Re Polemis & Furness, Withy & Co., [1921] 3 K.B. 560; sub nom. Polemis
+& Furness, Withy & Co., 90 L.J.K.B. 1353; 126 L.T. 154; 36 Digest
+29, 151.
+
+(5) Chester v. Waverley Municipal Council, (1939), 62 C.L.R. 1; 39S.R.N.S.W.
+173; 56 N.S.W.W.N. 94; Digest Supp.
+
+(6) Smith v. Johnson & Co., (1897), cited in, [1897] 2 Q.B. p. 61; 66 L.J.Q.B.
+p. 496; 76 L.T. p. 494; 36 Digest 124, 820.

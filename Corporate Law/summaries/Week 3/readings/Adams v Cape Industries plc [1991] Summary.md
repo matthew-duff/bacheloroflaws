@@ -1,3 +1,26 @@
+---
+title: 'Case Summary: Adams v Cape Industries plc [1991] 1 All ER 929'
+tags:
+  - 'separate-legal-personality'
+  - 'facade-exception'
+  - 'corporate-groups'
+  - 'agency-relationship'
+  - 'jurisdictional-reach'
+  - 'case-won'
+  - 'ratio-the-court-upheld-the-separate-legal-personality-of-each-company-in-the-group-rej'
+summary: 'Adams v Cape Industries clarified that corporate groups retain separate legal personality unless a subsidiary is a mere facade or used to evade existing obligations. The case limits veil-piercing to narrow, well-founded scenarios.'
+cases:
+  - 'Adams v Cape Industries plc [1991] 1 All ER 929'
+  - 'Prest v Petrodel Resources Ltd [2013] EWHC 678 (Ch)'
+statutes:
+  - 'Companies Act 2001 (UK)'
+  - 'Corporations Act 2001 (Cth)'
+period: 'Late 20th century'
+jurisdiction: 'United Kingdom and Australia'
+assessment_relevance: 'Highlights key veil-piercing tests and limits, essential for essay questions on corporate liability and jurisdictional reach.'
+ratio: 'The court upheld the separate legal personality of each company in the group, rejecting attempts to pierce the veil based on economic unity or agency. The ''facade'' exception was narrowly applied, requiring proof of dishonest intent to evade existing obligations.'
+case_outcome: 'won'
+---
 # Case Summary: Adams v Cape Industries plc [1991] 1 All ER 929
 
 | **Court** | UK Court of Appeal |
@@ -54,3 +77,14 @@ The Court of Appeal identified three main arguments for piercing the corporate v
 ---
 > [!note] Note on Subsequent Law
 > While *Adams* remains the leading case on the "single economic unit," the "facade" exception was further refined in **Prest v Petrodel Resources Ltd [2013]**, which distinguished between the "evasion principle" (piercing the veil) and the "concealment principle" (looking behind the veil).
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Corporate Law/summaries/Week 3/readings/Smith, Stone & Knight Ltd [1939] Summary]] - Both cases deal with the issue of corporate personality and agency relationships within companies, particularly regarding the capacity of directors and the legal status of companies.
+- [[Corporate Law/summaries/Week 3/readings/Prest v Petrodel Resources Ltd [2013] Summary]] - This case addresses the modern application of corporate personality and the 'facade' exception, which is directly relevant to the ratio and legal principles discussed in Adams v Cape Industries plc.
+- [[Corporate Law/summaries/Week 3/readings/Industrial Equity Ltd v Blackburn (1977) Summary]] - This case is relevant due to its discussion of corporate groups and the limits of liability, which ties into the broader theme of separate legal personality and its exceptions.
+- [[Corporate Law/summaries/Week 3/readings/Tesco Supermarkets Ltd v Nattrass [1972] Summary]] - It explores the issue of agency and the extent to which a company can be bound by the acts of its officers, which is closely related to the 'agency relationship' topic in Adams v Cape Industries plc.
+- [[Corporate Law/summaries/Week 1/readings/Lee v Lee’s Air Farming Ltd [1961] AC 12 Summary]] - This case is foundational for the concept of separate legal personality and its practical implications, which are central to the discussion in Adams v Cape Industries plc.
+<!-- agent:see-also:end -->

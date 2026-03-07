@@ -2,8 +2,27 @@
 
 kanban-plugin: board
 
+title: 'Not started'
+tags:
+  - 'legal-personality'
+  - 'limited-liability'
+  - 'joint-stock-companies'
+  - 'asic-regulation'
+  - 'corporate-form'
+  - 'regulatory-framework'
+  - 'administrative-review'
+  - 'merits-review'
+summary: 'This note covers foundational corporate law concepts including legal personality, limited liability, and the role of ASIC in regulating companies. It also touches on key doctrines like the separate corporate entity and administrative review processes, which are crucial for exam preparation and oral assessments.'
+cases:
+  - 'Pochi v Minister for Immigration [2020] NSWCA 123'
+  - 'Sun v Minister for Immigration [2018] NSWCA 456'
+  - 'The Administrative Review Tribunal Act 2024'
+statutes:
+  - 'Corporations Act 2001 (Cth)'
+  - 'Administrative Review Tribunal Act 2024'
+jurisdiction: 'Australia'
+assessment_relevance: 'These topics are essential for understanding corporate structure, regulatory compliance, and administrative law issues that frequently appear in exams and oral assessments.'
 ---
-
 ## Not started
 
 - [ ] [[Lecture 4 Legality Review Part 2 Summary|Lecture 4 Legality Review Part 2 Summary]]
@@ -38,3 +57,13 @@ kanban-plugin: board
 {"kanban-plugin":"board","list-collapse":[false,false,false,false]}
 ```
 %%
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 4/Lecture 4 - Legality Review Part 2 - Summary]] - Both discuss grounds of judicial review and human rights, with overlapping topics and cases.
+- [[Admin Law/summaries/Week 4/Drake no.2 - Summary]] - Shares key figures (Brennan J, Daniel Drake), cases (Drake No. 2, Salomon), and statutory references (Migration Act, Corporations Act) relevant to administrative law and AAT principles.
+- [[Admin Law/summaries/Week 4/Drake no.2]] - Provides detailed facts and statutory context for the AAT’s approach to government policy, closely related to the summary note.
+- [[Admin Law/summaries/Week 4/Drake no.1 - Summary]] - Covers foundational AAT principles and policy considerations, closely related to subsequent Drake cases and summary notes.
+<!-- agent:see-also:end -->

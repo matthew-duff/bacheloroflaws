@@ -1,3 +1,23 @@
+---
+title: 'Summary: Criminal Code Act 1899 (Qld) - Corporate Law Context'
+tags:
+  - 'criminal-responsibility'
+  - 'secret-commissions'
+  - 'identification-doctrine'
+  - 'vicarious-liability'
+  - 'fraud-provisions'
+  - 'record-falsification'
+  - 'penalty-regime'
+  - 'corporate-penalties'
+  - 'identification-principle'
+  - 'officer-liability'
+summary: 'This note explains how the Criminal Code Act 1899 (Qld) imposes criminal liability on members, officers, and directors for acts involving corporate property, secret commissions, and fraudulent conduct, highlighting that separate legal personality does not shield individuals from prosecution.'
+statutes:
+  - 'Criminal Code Act 1899 (Qld)'
+  - 'Corporations Act 2001 (Cth)'
+jurisdiction: 'Queensland, Australia'
+assessment_relevance: 'This note is crucial for understanding the identification doctrine, officer liability, and the penalty regime under the Code, which are frequent exam topics and often appear in oral assessments on corporate criminal responsibility.'
+---
 # Summary: Criminal Code Act 1899 (Qld) - Corporate Law Context
 
 **File:** `Corporate Law/sources/Week 1-Materials to L1/readings/Criminal Code Act 1899 (Qld).md`
@@ -39,3 +59,13 @@ While applicable to all persons, these sections form the basis of the "identific
 **Revision Note:** In the context of "Week 1: Companies and Company Law", these sections illustrate that the "separate legal personality" of a corporation does not immunize the individuals behind it from criminal law, and that the Code specifically contemplates the corporation as a subject of criminal penalties (e.g., s 442I).
 
 *Model used: gemini-3-flash-preview*
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Corporate Law/summaries/Week 1/readings/Clarkson (ed), The Corporation and Its Stakeholders (1998) Summary]] - Both discuss corporate liability and fiduciary duties, with overlapping themes on stakeholder obligations and corporate governance.
+- [[Corporate Law/summaries/Week 1/readings/Ireland, ‘Company Law and the Myth of Shareholder Ownership’ (1999) Summary]] - This note examines corporate structure and shareholder roles, complementing the Criminal Code Act’s provisions on corporate responsibility and liability.
+- [[Corporate Law/summaries/Week 1/readings/NSW v Commonwealth (1990) 169 CLR 482 Summary]] - This High Court case addresses constitutional and statutory interpretation of corporate powers, relevant to statutory interpretation in the Criminal Code Act.
+- [[Corporate Law/summaries/Week 1/readings/Re Wakim; Ex Parte McNally (1999) 198 CLR 511 Summary]] - Discusses corporate criminal liability and the limits of corporate criminal responsibility under Australian law, closely related to the Act’s provisions.
+<!-- agent:see-also:end -->

@@ -1,3 +1,18 @@
+---
+title: 'Future Impacts of AI on IP Laws'
+tags:
+  - 'ai-policy'
+  - 'copyright-challenges'
+  - 'fair-use'
+  - 'licensing-first'
+  - 'human-ai-partnership'
+summary: 'AI will reshape copyright through policy, licensing, and uncertainty about authorship, ownership, and liability. Australia''s CAIRG and legislative plans signal a shift toward balanced regulation.'
+statutes:
+  - 'Copyright Act 1968 (Cth)'
+  - 'Corporations Act 2001 (Cth)'
+jurisdiction: 'Australia'
+assessment_relevance: 'Covers key policy bodies, licensing debates, and partnership models—useful for exams on IP adaptation to AI and institutional responses.'
+---
 [[Copyright Law/05-summaries/articles/Future Impacts of AI on IP Laws]]
 
 **Citation/Reference:** Swinson, John V, *Future impacts of AI on IP laws*, LexisNexis Guidance Note (maintained), The University of Queensland.
@@ -12,3 +27,13 @@
 **Significance for Copyright Law**
 
 Sets out the policy and institutional context (CAIRG, Senate inquiry, National AI Plan, transparency and licensing-first stance) that will shape how Australian copyright treats AI training, AI-generated works and enforcement. Highlights doctrinal and policy uncertainties (authorship, liability, incentives) and predicts evolution toward human–AI partnership and licensing. Important for understanding likely legislative and policy direction and for preparing arguments on subsistence, ownership and infringement in an AI context.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/articles/AI Tools and Licensing - TermsFeed]] - Shares topics like human input, jurisdictional variance, and licensing, and references key cases and statutes relevant to AI and copyright.
+- [[Copyright Law/05-summaries/articles/IP and AI-Generated Works]] - Focuses on AI-generated works, a core issue in the future impacts of AI on copyright law.
+- [[Copyright Law/05-summaries/articles/International developments IP and AI]] - Covers global perspectives on AI and IP, complementing the analysis of local statutes and cases.
+- [[Copyright Law/05-summaries/articles/Breyer - Uneasy Case for Copyright Keynote]] - Provides an economic and policy lens on copyright, useful for contextualizing future legal adaptations to AI.
+<!-- agent:see-also:end -->

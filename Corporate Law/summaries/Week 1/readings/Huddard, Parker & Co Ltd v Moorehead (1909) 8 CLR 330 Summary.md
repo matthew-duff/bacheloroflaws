@@ -1,3 +1,28 @@
+---
+title: 'Exam Summary: Huddart, Parker & Co Ltd v Moorehead (1909) 8 CLR 330'
+tags:
+  - 'corporations-power'
+  - 'reserved-state-powers'
+  - 'ultra-vires'
+  - 'investigative-powers'
+  - 'case-lost'
+  - 'ratio-the-high-court-held-that-s-51xx-does-not-empower-the-commonwealth-to-create-corp'
+summary: 'The case defines the limits of the Commonwealth''s corporations power under s 51(xx) and the reserved state powers doctrine, establishing that the Commonwealth cannot create corporations but may regulate their conduct in trade; it also confirms the validity of s 15B for administrative inquiries.'
+figures:
+  - 'Adam Smith'
+  - 'John Stuart Mill'
+cases:
+  - 'Huddart, Parker & Co Ltd v Moorehead (1909) 8 CLR 330'
+statutes:
+  - 'Australian Industries Preservation Act 1906 (Cth)'
+  - 'Constitution s 51(xx)'
+  - 'Constitution s 51(i)'
+period: 'Early 20th century'
+jurisdiction: 'Australia'
+assessment_relevance: 'Useful for exams on constitutional powers, corporate regulation, and the evolution of the corporations power; helps illustrate the shift from ''reserved state powers'' to modern ''activities-based'' interpretation.'
+ratio: 'The High Court held that s 51(xx) does not empower the Commonwealth to create corporations but only regulates already-formed entities. It affirmed that the power to regulate intra-state trade is reserved to the States, invalidating Commonwealth provisions that attempted to restrict internal trade activities. The Court also upheld the validity of s 15B''s investigative powers.'
+case_outcome: 'lost'
+---
 # Exam Summary: Huddart, Parker & Co Ltd v Moorehead (1909) 8 CLR 330
 
 ## Case Overview
@@ -35,3 +60,13 @@
 
 ---
 *Model used: gemini-3-flash-preview*
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Corporate Law/summaries/Week 1/readings/Salomon v Salomon & Co Ltd [1897] AC 22 Summary]] - Both cases deal with the legal status and capacity of corporations, particularly regarding the doctrine of separate legal personality.
+- [[Corporate Law/summaries/Week 1/readings/Re Wakim; Ex Parte McNally (1999) 198 CLR 511 Summary]] - This case addresses the limits of corporate powers and the application of ultra vires principles in modern corporate law.
+- [[Corporate Law/summaries/Week 1/readings/Cotterrell, ‘The Sociological Concept of Law’ (1983) Summary]] - Provides theoretical context on the nature of law, including legal power and regulation, which complements the legal analysis in Huddart, Parker & Co Ltd v Moorehead.
+- [[Corporate Law/summaries/Week 1/readings/Ireland, ‘Company Law and the Myth of Shareholder Ownership’ (1999) Summary]] - Offers a critical perspective on corporate governance and shareholder rights, relevant to the discussion of corporate powers and state regulation.
+<!-- agent:see-also:end -->

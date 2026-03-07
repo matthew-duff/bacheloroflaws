@@ -1,12 +1,22 @@
 ---
 type: overview
 
+title: 'Week 12 Overview Summary'
 tags:
   - 'automated-decision-making'
   - 'artificial-intelligence'
   - 'procedural-fairness'
   - 'legality'
   - 'robodebt'
+summary: 'This note examines how administrative law principles apply to automated decision-making and AI, focusing on legality, procedural fairness, and the Robodebt case as a cautionary example.'
+cases:
+  - 'Robodebt Royal Commission [2023]'
+  - 'Pintarich v Federal Commissioner of Taxation (2018)'
+statutes:
+  - 'Social Security Act 1983 (Cth)'
+  - 'Corporations Act 2001 (Cth)'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note is essential for understanding the legal challenges of AI in administration, useful for exams on administrative law and for oral assessments on accountability and procedural fairness.'
 ---
 [[ultraDocumentBody]]
 
@@ -30,7 +40,7 @@ As government agencies increasingly adopt AI and ADM, understanding the legal co
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Both discuss automated decision-making and its legal implications, including Robodebt and statutory transparency.
-- [[Admin Law/summaries/Week 12/LPDT v Minister]] - Focuses on jurisdictional error and materiality, closely related to discretionary powers and procedural fairness in administrative law.
-- [[Admin Law/summaries/Week 12/Lecture 9 Remedies Revision Summary]] - Connects to administrative law doctrines on remedies, complementing the procedural fairness and discretionary powers discussed elsewhere.
+- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Shares key topics like automated decision-making, legality review, and robodebt, and discusses similar cases.
+- [[Admin Law/summaries/Week 12/Workshop 9 Guide Summary]] - Workshop 9 covers rights to reasons and procedural fairness, closely related to administrative law remedies and principles.
+- [[Admin Law/summaries/Week 12/Study Progress]] - Covers foundational corporate law topics, relevant for understanding legal personality and statutory frameworks in admin law.
 <!-- agent:see-also:end -->

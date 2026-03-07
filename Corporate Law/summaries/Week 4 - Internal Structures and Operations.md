@@ -1,3 +1,40 @@
+---
+title: 'Week 4 - Internal Structures and Operations'
+tags:
+  - 'internal-governance'
+  - 'replaceable-rules'
+  - 'constitutional-concepts'
+  - 'meeting-procedures'
+  - 'director-powers'
+  - 'member-rights'
+  - 'voting-procedures'
+  - 'regulatory-contract'
+  - 'legal-remedies'
+summary: 'This note explains how internal governance rules, statutory contracts, and constitutional provisions shape corporate decision-making, member powers, and meeting protocols, highlighting key statutory limits and remedies.'
+cases:
+  - 'Automatic Self-Cleansing Filter Syndicate Ltd v Automatic Self-Cleansing Filter Syndicate Ltd [1922] Ch 407'
+  - 'Automatic Self-Cleansing Filter Syndicate Ltd v Automatic Self-Cleansing Filter Syndicate Ltd [1922] Ch 407'
+  - 'Automatic Self-Cleansing Filter Syndicate Ltd v Automatic Self-Cleansing Filter Syndicate Ltd [1922] Ch 407'
+  - 'Automatic Self-Cleansing Filter Syndicate Ltd v Automatic Self-Cleansing Filter Syndicate Ltd [1922] Ch 407'
+  - 'Automatic Self-Cleansing Filter Syndicate Ltd v Automatic Self-Cleansing Filter Syndicate Ltd [1922] Ch 407'
+  - 'Automatic Self-Cleansing Filter Syndicate Ltd v Automatic Self-Cleansing Filter Syndicate Ltd [1922] Ch 407'
+  - 'Automatic Self-Cleansing Filter Syndicate Ltd v Automatic Self-Cleansing Filter Syndicate Ltd [1922] Ch 407'
+  - 'Automatic Self-Cleansing Filter Syndicate Ltd v Automatic Self-Cleansing Filter Syndicate Ltd [1922] Ch 407'
+statutes:
+  - 'Corporations Act s 134'
+  - 'Corporations Act s 135'
+  - 'Corporations Act s 136'
+  - 'Corporations Act s 140'
+  - 'Corporations Act s 141'
+  - 'Corporations Act s 198A (RR)'
+  - 'Corporations Act s 201A'
+  - 'Corporations Act s 249D'
+  - 'Corporations Act s 249H'
+  - 'Corporations Act s 250J-JA'
+  - 'Corporations Act s 1322'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note consolidates core concepts on corporate governance, statutory contracts, and meeting rules—essential for understanding exam questions on internal structures and practical scenarios on exam day.'
+---
 # Week 4 - Internal Structures and Operations
 
 ## Key Statutes

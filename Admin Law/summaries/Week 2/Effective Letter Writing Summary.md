@@ -1,12 +1,16 @@
 ---
 type: textbook
 
+title: 'Reference'
 tags:
-  - 'legal-integrity'
   - 'substance-over-form'
-  - 'clear-communication'
   - 'professional-standards'
   - 'decision-notices'
+  - 'legal-integrity'
+  - 'clear-communication'
+summary: 'Effective legal letter writing hinges on substance, clarity, and proper structure, ensuring professional standards and avoiding negligence. It covers planning, logical sequencing, plain English, and layout considerations.'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note distills key principles for exam preparation and oral assessments, focusing on drafting standards, decision-making rationale, and communication best practices.'
 ---
 [[Effective letter writing]]
 
@@ -38,9 +42,9 @@ Effective communication is a core skill for administrative lawyers, particularly
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 2/Creyke - Integrity in Government Summary]] - Both notes address administrative justice and integrity in government, with overlapping themes of institutional accountability and statutory frameworks.
-- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - This note discusses administrative justice in the context of automated decision-making, complementing the Week 2 summary on effective letter writing by extending to procedural fairness in modern contexts.
-- [[Admin Law/summaries/Week 12/LPDT v Minister]] - Shares topics like jurisdictional error and statutory compliance, and discusses statutory interpretation and discretion—key concepts for understanding administrative law processes.
-- [[Admin Law/summaries/Week 12/Lecture 9 Remedies Revision Summary]] - Focuses on remedies and judicial review, closely related to the Week 2 lecture on legal communication and clarity in administrative actions.
-- [[Admin Law/summaries/Week 1-Lecture 1 Summary]] - Provides foundational concepts on public power, legality, and administrative values, which underpin the principles discussed in the Week 2 summary on effective letter writing.
+- [[Admin Law/summaries/Week 2/Creyke - Integrity in Government Summary]] - Both notes address integrity in government and institutional accountability, with Creyke's framework complementing the discussion of administrative justice and compliance culture.
+- [[Admin Law/summaries/Week 1-Lecture 1 Summary]] - This foundational note covers core principles like rule of law and separation of powers, which underpin the concepts of administrative integrity and accountability discussed in the reference.
+- [[Admin Law/summaries/Week 12/LPDT v Minister]] - The case is pivotal for understanding jurisdictional error and the materiality test, directly relating to administrative decision-making standards and procedural compliance.
+- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - This note examines challenges to natural justice and delegation in automated decision-making, a contemporary extension of administrative justice principles.
+- [[Admin Law/summaries/Week 2/French - Administrative Justice Summary]] - Although summary is empty, its focus on administrative justice aligns with the reference’s emphasis on professional standards and clear communication in official writing.
 <!-- agent:see-also:end -->

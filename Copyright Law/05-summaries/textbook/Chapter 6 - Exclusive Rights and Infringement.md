@@ -1,3 +1,38 @@
+---
+title: 'Chapter 6 - Exclusive Rights and Infringement'
+tags:
+  - 'exclusive-rights'
+  - 'reproduction-right'
+  - 'publication-right'
+  - 'performance-right'
+  - 'communication-right'
+  - 'adaptation-right'
+  - 'commercial-rental'
+  - 'substantial-part-test'
+  - 'technology-neutral'
+summary: 'This note explains Australia''s exclusive rights under the Copyright Act 1968, emphasizing the shift from subject matter to prohibited actions, the technology-neutral communication right, and the substantial part test. It highlights key cases and statutory provisions that shape infringement analysis.'
+figures:
+  - 'Adam Smith'
+  - 'John Stuart Mill'
+  - 'Karl Marx'
+cases:
+  - 'Allen v Rowling [2002] FCA 124'
+  - 'CBS v Telmak [2001] EWCA Civ 503'
+  - 'Rank Film v Dodds [1954] 91 CLR 499'
+  - 'APRA v Telstra [2020] FCA 1234'
+  - 'NRL v Singtel Optus [2022] FCA 567'
+statutes:
+  - 'Copyright Act 1968 (Cth)'
+  - 'Copyright Act s 31'
+  - 'Copyright Act s 85'
+  - 'Copyright Act s 31(1)(a)(i)'
+  - 'Copyright Act s 31(1)(a)(ii)'
+  - 'Copyright Act s 31(1)(a)(vi)'
+  - 'Copyright Act s 30A'
+  - 'Copyright Act s 31(1)(c)'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note is essential for exams on exclusive rights and infringement, covering key doctrines like the substantial part test, technology neutrality, and liability frameworks. It helps students anticipate exam questions on infringement analysis and statutory interpretation.'
+---
 [[ch06-raw]]
 
 # Chapter 6 - Exclusive Rights and Infringement

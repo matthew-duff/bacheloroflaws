@@ -1,3 +1,20 @@
+---
+title: 'PPCA v FACTS'
+tags:
+  - 'broadcast-rights'
+  - 'sound-recording-copyright'
+  - 'film-soundtrack'
+  - 'statutory-licence'
+  - 'copyright-licensing'
+summary: 'The case confirms that broadcasting a film containing pre-existing sound recordings constitutes broadcasting those recordings, obligating broadcasters to secure licences or pay royalties under s 85(1)(c).'
+cases:
+  - 'Phonographic Performance Co of Australia Ltd v Federation of Australian Commercial Television Stations (1998) 195 CLR 158'
+statutes:
+  - 'Copyright Act 1968 (Cth)'
+  - 'Copyright Act s 85(1)(c)'
+jurisdiction: 'Australia'
+assessment_relevance: 'Key for exams on broadcast licensing and sound recording rights; useful for oral assessments on statutory interpretation and the scope of exclusive rights.'
+---
 [[Copyright Law/03-sources/cases/Phonographic Performance Co of Australia Ltd v Federation of Australian Commercial Television Stations (1998) 195 CLR 158]]
 
 **Citation**: (1998) 195 CLR 158
@@ -20,3 +37,13 @@ Yes (3:2—Gaudron, Gummow and Hayne JJ; McHugh and Kirby JJ dissenting). Broadc
 
 ### Significance
 Establishes that **sound recording copyright owners retain broadcast rights** when their recordings are incorporated into film sound-tracks. Television broadcasters (and, by analogy, others who broadcast films) must obtain licences or pay statutory royalties in respect of sound recordings embodied in films, not merely in respect of the film copyright. The case clarifies the limited scope of s 23(1): it prevents dual copyright in sound-tracks but does **not** extinguish the original sound recording copyright owner's exclusive right to broadcast under s 85(1)(c).
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/cases/Feist v Rural Telephone]] - Both discuss originality and copyrightability of factual compilations, with Feist being a key US precedent relevant to PPCA.
+- [[Copyright Law/05-summaries/cases/CBS v Telmak]] - Related to sound recording copyright and original sound recording rights under s 85(1)(c), relevant to broadcast and recording rights.
+- [[Copyright Law/05-summaries/cases/Campaigntrack v Real Estate Tool Box]] - Deals with substantial part test and infringement in copyright compilations, similar to PPCA.
+- [[Copyright Law/05-summaries/cases/Fairfax v Reed]] - Addresses copyright protection for article compilations and fair dealing, sharing statutory and thematic overlap.
+<!-- agent:see-also:end -->

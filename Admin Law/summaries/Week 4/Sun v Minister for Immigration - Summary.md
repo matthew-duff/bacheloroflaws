@@ -1,3 +1,23 @@
+---
+title: 'Sun v Minister for Immigration and Border Protection (2016) 243 FCR 220'
+tags:
+  - 'onus-of-proof'
+  - 'burden-of-proof'
+  - 'aat-merits-review'
+  - 'pic-4020'
+  - 'credibility-assessment'
+  - 'case-won'
+  - 'ratio-the-aat-is-not-bound-by-the-formal-onus-or-burden-of-proof-rules-of-civil-litiga'
+summary: 'The case clarifies that administrative tribunals like the AAT do not apply formal litigation burdens of proof; instead, they use a practical evidential standard to decide visa cancellations based on credibility and documentary evidence.'
+cases:
+  - 'Sun v Minister for Immigration and Border Protection (2016) 243 FCR 220'
+statutes:
+  - 'Migration Regulations 1958 (Cth) s 4020'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note is crucial for understanding tribunal standards versus court burdens, a frequent exam theme and oral assessment focus on administrative law principles.'
+ratio: 'The Court held that the AAT is not bound by the formal onus or burden of proof rules of civil litigation in merits review. Instead, the AAT must reach a decision based on what it considers to be the correct or preferable outcome, guided by the relevant statutory provisions. The AAT''s role is to form its own view on the evidence, not to require one party to prove its case.'
+case_outcome: 'won'
+---
 # Sun v Minister for Immigration and Border Protection (2016) 243 FCR 220
 
 ## Overview

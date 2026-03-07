@@ -1,3 +1,23 @@
+---
+title: 'Exam Summary: Meridian Global Funds Management Asia Ltd v Securities Commission [1995] 3 All ER 918'
+tags:
+  - 'attribution'
+  - 'agency'
+  - 'statutory-interpretation'
+  - 'disclosure-requirements'
+  - 'directors-duties'
+  - 'case-won'
+  - 'ratio-the-company-is-liable-for-an-employees-knowledge-or-act-if-that-person-had-the-a'
+summary: 'The Meridian case clarifies when an employee''s knowledge is attributed to a company for statutory disclosure purposes, emphasizing policy-driven interpretation over rigid doctrines.'
+cases:
+  - 'Meridian Global Funds Management Asia Ltd v Securities Commission [1995] 3 All ER 918'
+statutes:
+  - 'Securities Amendment Act 1988 (NZ)'
+jurisdiction: 'New Zealand'
+assessment_relevance: 'Highlights key attribution tests and policy considerations crucial for exam essays on statutory interpretation and director liability.'
+ratio: 'The company is liable for an employee''s knowledge or act if that person had the authority to act for the company and the statute''s purpose would be defeated if that knowledge were not attributed to the company.'
+case_outcome: 'won'
+---
 # Exam Summary: Meridian Global Funds Management Asia Ltd v Securities Commission [1995] 3 All ER 918
 
 ## Case Overview

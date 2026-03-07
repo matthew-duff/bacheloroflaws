@@ -1,3 +1,19 @@
+---
+title: 'Fairfax v Reed'
+tags:
+  - 'copyright-substantial-part'
+  - 'headline-protection'
+  - 'article-compilation'
+  - 'fair-dealing-reporting'
+summary: 'Fairfax v Reed establishes that newspaper headlines lack copyright protection as insubstantial titles, clarifies joint authorship and substantial-part tests, and confirms employer obligations under s 129(2) for anonymity.'
+cases:
+  - 'Fairfax Media Publications Pty Ltd v Reed International Books Australia Pty Ltd [2010] 189 FCR 109'
+statutes:
+  - 'Copyright Act 1968 (Cth) s 129'
+  - 'Copyright Act 1968 (Cth) s 18'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note distills key copyright principles on headlines, compilations, and fair dealing—frequently tested in exams and oral assessments on copyright scope and defenses.'
+---
 [[Copyright Law/03-sources/cases/Fairfax Media Publications Pty Ltd v Reed International Books Australia Pty Ltd (2010) 189 FCR 109]]
 
 **Citation**: (2010) 189 FCR 109; [2010] FCA 984

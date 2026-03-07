@@ -1,3 +1,26 @@
+---
+title: 'Case Summary: Lennard’s Carrying Co Ltd v Asiatic Petroleum Co Ltd [1915] AC 705'
+tags:
+  - 'directing-mind-and-will'
+  - 'corporate-personality'
+  - 'fault-attribution'
+  - 'vicarious-liability'
+  - 'statutory-exemption'
+  - 'case-won'
+  - 'ratio-the-house-of-lords-held-that-a-corporation-cannot-be-held-liable-for-actual-faul'
+summary: 'The case applies the Identification Doctrine, holding that a corporation''s ''actual fault'' is the fault of its directing mind—Mr. Lennard—rather than mere agents, shaping modern corporate liability.'
+figures:
+  - 'John Lennard'
+cases:
+  - 'Lennard’s Carrying Co Ltd v Asiatic Petroleum Co Ltd [1915] AC 705'
+statutes:
+  - 'Merchant Shipping Act 1894 s 502'
+period: 'Early 20th century'
+jurisdiction: 'United Kingdom'
+assessment_relevance: 'Key for exams on corporate liability, identification doctrine, and vicarious liability; useful for oral assessments on attribution and fault.'
+ratio: 'The House of Lords held that a corporation cannot be held liable for ''actual fault'' unless the fault resides in its directing mind and will, identified as the ''active spirit'' of the company. This establishes that corporate liability requires the fault of a high-level individual who directs the company, not merely the fault of an agent.'
+case_outcome: 'won'
+---
 # Case Summary: Lennard’s Carrying Co Ltd v Asiatic Petroleum Co Ltd [1915] AC 705
 
 **Court:** House of Lords (UK)

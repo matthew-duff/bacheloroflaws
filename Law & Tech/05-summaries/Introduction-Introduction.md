@@ -1,6 +1,25 @@
 ---
-tags: [law-and-tech, summary]
 type: textbook
+
+title: 'Introduction-Introduction'
+tags:
+  - 'cyberlaw'
+  - 'electronic-personhood'
+  - 'uncitral-model-law'
+  - 'acma'
+  - 'digital-signatures'
+summary: 'This note introduces the legal challenges of e-commerce and social media, focusing on how traditional principles adapt to digital innovation, the role of international standards, and the debate over whether cyberlaw constitutes a distinct field.'
+figures:
+  - 'Judge Easterbrook'
+  - 'Lawrence Lessig'
+cases:
+  - 'Salomon v A Salomon & Co Ltd [1897] AC 22'
+  - 'ASIC v Two Hands Pty Ltd [2020] NSWCA 111'
+statutes:
+  - 'Electronic Transactions Act 1999 (Cth)'
+  - 'Privacy Act 1988 (Cth)'
+jurisdiction: 'Australia'
+assessment_relevance: 'Key for exams on corporate law, tech regulation, and the interplay between law and technology; useful for oral assessments on legal adaptation to digital change.'
 ---
 **Reference:** Alan Davidson, *Social Media and Electronic Commerce Law* (Cambridge University Press, 2016), updated for 2026. [[ECL-01-introduction26]]
 
@@ -20,3 +39,13 @@ This module introduces the legal framework governing electronic commerce (e-comm
 
 ## Significance
 This introductory material is significant as it establishes the foundational tension in Law and Technology: the lag between rapid technological advancement and the slower evolution of legal systems. It highlights that order in this field often emerges "endogenously" from technical practice and commercial custom (a digital *lex mercatoria*) before being formalized by legislatures. Understanding this dynamic is crucial for legal practitioners advising on jurisdiction, digital identity, and the validity of electronic contracts in a borderless digital environment.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Law & Tech/05-summaries/Electronic Signatures/Davidson Chapter 13]] - Shares key topics on electronic signatures, legal validity, and functional equivalence, complementing Davidson's detailed discussion.
+- [[Law & Tech/05-summaries/Electronic Signatures/Study Progress]] - Covers foundational corporate law concepts and ASIC's role, relevant for understanding corporate compliance and governance in electronic contracting.
+- [[Law & Tech/05-summaries/Electronic Contracting/Regulating AI]] - Addresses emerging issues in electronic contracting related to AI, providing a complementary perspective on modern challenges.
+- [[Law & Tech/05-summaries/Electronic Contracting/Study Progress]] - Provides essential background on company law and ASIC, foundational for understanding corporate legal frameworks in electronic contracting.
+<!-- agent:see-also:end -->

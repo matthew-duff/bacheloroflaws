@@ -1,3 +1,18 @@
+---
+title: 'Summary: ASX Corporate Governance Council Corporate Governance Principles and Recommendations (4th Edition, 2019)'
+tags:
+  - 'board-composition'
+  - 'risk-management'
+  - 'disclosure-requirements'
+  - 'shareholder-rights'
+  - 'remuneration-framework'
+summary: 'The ASX Corporate Governance Principles set out eight core principles aimed at achieving good governance through clear roles, effective boards, ethical culture, reliable reporting, timely disclosure, investor protection, risk management, and fair remuneration.'
+statutes:
+  - 'Corporations Act 2001 (Cth)'
+  - 'ASX Listing Rule 4.10.3'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note consolidates key principles for exam preparation and oral assessments, highlighting the ''if not, why not'' approach, disclosure obligations, and the role of ASIC in governance compliance.'
+---
 # Summary: ASX Corporate Governance Council Corporate Governance Principles and Recommendations (4th Edition, 2019)
 
 **Issuer:** ASX Corporate Governance Council
@@ -20,3 +35,13 @@ The guidelines are structured around eight foundational principles:
 ## Key Mechanisms
 - **"If not, why not" approach:** The recommendations are not mandatory. However, under ASX Listing Rule 4.10.3, if a listed entity chooses not to adopt a recommendation, it must explain why it has not done so and what alternative governance practices it has adopted in lieu.
 - **Corporate Governance Statement:** Listed entities must include a corporate governance statement in their annual report (or on their website) detailing the extent to which they have followed the recommendations during the reporting period.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Corporate Law/summaries/Week 2/readings/A. A. Berle-CorporateManagersTrustees-1932]] - Discusses fiduciary duties and corporate trusteeship, closely related to the note on corporate managers as trustees and fiduciary responsibilities.
+- [[Corporate Law/summaries/Week 2/readings/A. A. Berle-CorporatePowersPowers-1931]] - Addresses corporate powers and equitable limitations, relevant to the note on corporate powers and legal personality.
+- [[Corporate Law/summaries/Week 2/readings/Berle, ‘Corporate Powers as Powers in Trust’ (1931)]] - Explores the trust-based theory of corporate powers, directly related to the note on corporate powers and fiduciary duties.
+- [[Corporate Law/summaries/Week 2/readings/Dodd, ‘For Whom are Corporate Managers Trustees?’ (1932)]] - Critiques profit-maximization and discusses managerial trusteeship, aligning with the note on fiduciary roles and corporate accountability.
+<!-- agent:see-also:end -->

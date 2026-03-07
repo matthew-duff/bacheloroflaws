@@ -1,5 +1,41 @@
-
-
+---
+title: 'Key Statutes'
+tags:
+  - 'legal-personality'
+  - 'limited-liability'
+  - 'separate-corporate-entity'
+  - 'directors-duties'
+  - 'corporate-groups'
+  - 'subsidiaries'
+summary: 'The note explains the doctrine of separate legal personality, its statutory foundations, and the limits of limited liability, while detailing corporate capacity, veil-piercing exceptions, and the structure of corporate groups and related entities.'
+figures:
+  - 'Adam Smith'
+  - 'John Stuart Mill'
+  - 'Salomon v Salomon'
+cases:
+  - 'Salomon v Salomon & Co Ltd [1897]'
+  - 'Lee v Lee’s Air Farming Ltd'
+  - 'Macaura v Northern Assurance Co Ltd'
+  - 'Lennard’s Carrying Co Ltd'
+  - 'Tesco Supermarkets Ltd v Nattrass'
+  - 'Meridian Global Funds'
+  - 'Re Darby'
+  - 'Adams v Cape Industries'
+  - 'Gilford Motor Co v Horne'
+  - 'Jones v Lipman'
+  - 'Prest v Petrodel'
+  - 'Walker v Wimborne'
+  - 'Briggs v James Hardie'
+  - 'Qintex'
+  - 'CSR Ltd v Wren'
+  - 'Okpabi v Royal British Oil'
+  - 'Briggs v James Hardie (tort)'
+statutes:
+  - 'Companies Act 2001 (Cth) s 9, s 46, s 50, s 50AA, s 114, s 119, s 124, s 125, s 187, s 588V-588X'
+  - 'Criminal Code Act 1995 (Cth) Pt 2.5'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note consolidates core corporate law concepts—SEP, liability limits, group structures, and veil-piercing—essential for exams and oral assessments on corporate personality and liability.'
+---
 ## Key Statutes
 * **s 9 CA**: Limited liability concept
 * **s 46 CA**: Tests for a subsidiary
@@ -57,3 +93,13 @@
     *   **Subsidiary (s 46 CA):** Parent controls board composition, OR >50% votes, OR holds >50% issued share capital, OR subsidiary of another subsidiary.
     *   **Related Companies (s 50 CA):** Holding, subsidiary, or subsidiary of same holding company. Important for insolvent trading (**s 588V**), directors' duties (**s 187**), pooling assets (**s 571**).
     *   **Controlled Entities (s 50AA CA):** Capacity to determine outcomes of decisions regarding financial/operating policies.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Corporate Law/summaries/Week 1/Week 1 - Companies and Company Law]] - Shares key topics such as legal personality and limited liability, and covers foundational company law concepts relevant to corporate personality and liability.
+- [[Corporate Law/summaries/Week 3/readings/Adams v Cape Industries plc [1991] Summary]] - Directly discusses corporate personality and liability, complementing the statutory and case law analysis in the current note.
+- [[Corporate Law/summaries/Week 3/readings/Briggs v James Hardie & Co Pty Ltd (1989) Summary]] - Addresses directors' duties and corporate liability, closely related to the themes of directors' responsibilities and corporate governance.
+- [[Corporate Law/summaries/Week 3/readings/Gilford Motor Co Ltd v Horne [1933] Summary]] - A foundational case on separate corporate personality, highly relevant to understanding liability and corporate entity distinctions.
+<!-- agent:see-also:end -->

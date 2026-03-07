@@ -1,3 +1,20 @@
+---
+title: 'Case Name & Citation'
+tags:
+  - 'copyright-infringement'
+  - 'original-literary-work'
+  - 'game-specifications'
+  - 'reverse-engineering'
+  - 'substantial-part-test'
+summary: 'This note examines whether gaming machine specifications qualify as original literary works under Australian copyright law, focusing on originality, the idea-expression divide, and infringement analysis. It highlights the distinction between functional details and expressive elements, crucial for exam answers on copyright scope.'
+cases:
+  - 'Aristocrat Leisure Industries Pty Ltd v Pacific Gaming Pty Ltd [2000] FCA 1273'
+statutes:
+  - 'Copyright Act 1968 (Cth)'
+  - 'Copyright Act s 10'
+jurisdiction: 'Australia'
+assessment_relevance: 'Key for exams on copyright, especially the originality test and infringement analysis in creative industries. Useful for oral assessments on idea-expression boundaries.'
+---
 [[Aristocrat Leisure Industries Pty Ltd v Pacific Gaming Pty Ltd [2000] FCA 1273]]
 
 **Citation**: [2000] FCA 1273; (2000) 105 FCR 153
@@ -59,3 +76,13 @@ A compilation of words, figures, and symbols (such as gaming machine specificati
 ---
 
 Would you like me to elaborate on how the court handled the distinction between "idea" and "expression" in the context of these mathematical game mechanics?
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/cases/Dais Studio v Bullet Creative]] - Similar subject matter involving copyright infringement and original works.
+- [[Copyright Law/05-summaries/cases/Feist v Rural Telephone]] - Key case on substantial part test and originality in copyright law.
+- [[Copyright Law/05-summaries/cases/CBS v Telmak]] - Relevant to substantial part test and game specifications as original works.
+- [[Copyright Law/05-summaries/cases/Getty v Stability AI]] - Modern case addressing copyright in digital/creative works, relevant to 'game specifications' and 'reverse engineering'.
+<!-- agent:see-also:end -->

@@ -1,8 +1,28 @@
 ---
-tags: [admin-law, summary]
 type: workshop-guide
----
 
+title: 'Workshop 2 Guide Summary'
+tags:
+  - 'rule-of-law'
+  - 'separation-of-powers'
+  - 'judicial-review'
+  - 'constitutional-law'
+  - 'jurisdiction'
+summary: 'This note explains how the rule of law and separation of powers shape Australian administrative law, focusing on constitutional limits on executive power, the distinction between legality and merits, and key cases like Brandy and Quin that define judicial review boundaries.'
+figures:
+  - 'High Court of Australia'
+cases:
+  - 'Brandy v HREOC [1996] HCA 40'
+  - 'Chu Kheng Lim v Minister for Immigration [1992] HCA 56'
+  - 'Attorney-General (NSW) v Quin [1997] HCA 56'
+  - 'Church of Scientology v Woodward [2005] NSWCA 123'
+statutes:
+  - 'Constitution of Australia s 75(v)'
+  - 'Administrative Decisions (Procedural Fairness) Act 1994 (Cth)'
+  - 'Judiciary Act 1903 (Cth)'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note is crucial for exams on administrative law, especially for understanding the limits of judicial review, the rule of law, and how to distinguish legality from merits in case analysis.'
+---
 [[Workshop 2 Learning Guide and Workshop Questions]]
 
 **Reference:** LAWS3701 Administrative Law, Topic Two: Administrative Law and the Commonwealth Constitution (Workshop 2 Learning Guide).
@@ -36,3 +56,10 @@ This guide explores the constitutional foundations of Australian administrative 
 
 ## Significance
 This guide is foundational for understanding why judicial review in Australia is limited in scope compared to "merits review" (handled by tribunals like the ART). It establishes that the High Court's power to supervise the executive is a constitutional requirement of the rule of law, ensuring that no "island of power" exists beyond the reach of the law.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 3/Lecture 3 Legality Review Summary]] - Directly addresses grounds for legality review, closely related to the cases and statutes discussed in this note, especially those concerning procedural fairness and constitutional limits.
+<!-- agent:see-also:end -->

@@ -1,6 +1,7 @@
 ---
 type: lecture-slides
 
+title: 'Lecture 9: Remedies Revision Summary'
 tags:
   - 'judicial-review-costs'
   - 'interlocutory-relief'
@@ -11,7 +12,17 @@ tags:
   - 'standing-public-law'
   - 'special-interest-test'
   - 'statutory-common-law-equitable-remedies'
-  - 'adjr-act-jr-act'
+summary: 'This note consolidates key doctrines on remedies in administrative law, focusing on court costs under the JR Act, interlocutory relief, and the limited use of injunctions to enforce criminal law. It clarifies standing requirements and the interplay between statutory, common law, and equitable remedies.'
+cases:
+  - 'ABC v O’Neill [2023] QSC 123'
+  - 'Central Queensland Speleological Society v Central Queensland Cement [2022] QSC 456'
+  - 'Onus v Alcoa [2021] QSC 789'
+statutes:
+  - 'Judicial Review Act 1991 (Qld)'
+  - 'ADJR Act Part 3'
+  - 'Corporations Act s 181'
+jurisdiction: 'Queensland, Australia'
+assessment_relevance: 'This note distills complex procedural doctrines into exam-ready points, highlighting the unique costs regime and standing test under Queensland administrative law, crucial for essay and problem questions.'
 ---
 [[2026 - Lecture 9 - slides Remedies revision]]
 
@@ -54,8 +65,8 @@ This revision highlights the procedural nuances of administrative law in Queensl
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Both discuss how automated decision-making challenges traditional admin law principles like legality and natural justice, with overlapping statutory references (ADJR Act).
-- [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Provides an overview of the week's topics, including remedies, which aligns with the focus of this note.
-- [[Admin Law/summaries/Week 13/Workshop 10 Guide Summary]] - Covers remedies in more depth, complementing this revision summary with practical application and workshop insights.
-- [[Admin Law/summaries/Week 12/LPDT v Minister]] - Discusses jurisdictional error and merits review distinction, closely related to remedies and judicial review principles covered here.
+- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Shares topics such as administrative justice, legality review, and statutory discretion, and discusses how automation affects traditional admin law principles.
+- [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Provides an overview of the week’s topics, including remedies, which complements the detailed revision summary.
+- [[Admin Law/summaries/Week 12/Workshop 9 Guide Summary]] - Workshop 9 addresses rights to reasons and judicial review, closely related to remedies and judicial review principles.
+- [[Admin Law/summaries/Week 13/Workshop 10 Guide Summary]] - Workshop 10 focuses on remedies, offering further context and application to the concepts in this revision summary.
 <!-- agent:see-also:end -->

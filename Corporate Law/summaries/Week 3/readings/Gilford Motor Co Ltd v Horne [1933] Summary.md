@@ -1,3 +1,30 @@
+---
+title: 'Case Summary: Gilford Motor Co Ltd v Horne [1933] Ch 935'
+tags:
+  - 'piercing-veil'
+  - 'restrictive-covenant'
+  - 'corporate-veil'
+  - 'evasion-principle'
+  - 'injunction'
+  - 'case-won'
+  - 'ratio-the-court-of-appeal-held-that-the-company-was-a-sham-created-to-evade-a-binding-'
+summary: 'The case establishes the ''sham'' or ''facade'' exception to separate corporate personality, allowing courts to pierce the veil when a company is used to evade legal obligations. It reinforces that separate legal personality is not a shield for fraud or breach of contract.'
+figures:
+  - 'Adam Smith'
+  - 'John Stuart Mill'
+cases:
+  - 'Gilford Motor Co Ltd v Horne [1933] Ch 935'
+  - 'Salomon v Salomon & Co Ltd [1897] AC 22'
+  - 'Prest v Petrodel Resources Ltd [2013] UKSC 56'
+statutes:
+  - 'Companies Act 2001 (Cth)'
+  - 'Corporations Act s 181'
+period: 'Early 20th century'
+jurisdiction: 'United Kingdom and Australia'
+assessment_relevance: 'Key for understanding veil-piercing, evasion of obligations, and the limits of separate legal personality. Useful for essay questions on corporate liability and equitable remedies.'
+ratio: 'The Court of Appeal held that the company was a sham created to evade a binding restrictive covenant. It ruled that the company''s actions were attributable to Horne personally, allowing the court to grant an injunction against both Horne and the company.'
+case_outcome: 'won'
+---
 # Case Summary: Gilford Motor Co Ltd v Horne [1933] Ch 935
 
 **Court:** Court of Appeal (UK)
@@ -40,3 +67,12 @@ Because the company was used as a vehicle for fraud or to evade a legal obligati
 | **Key Quote** | "A device, a stratagem... a cloak or a sham." |
 | **Application** | Use when a defendant creates a company to do what they are personally forbidden from doing (e.g., breaching a non-compete). |
 | **Relationship to *Salomon*** | Limits the protection of separate legal personality where it is used for "masking" improper conduct. |
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Corporate Law/summaries/Week 3/readings/Briggs v James Hardie & Co Pty Ltd (1989) Summary]] - Discusses the reluctance to pierce the corporate veil in tort contexts, which is conceptually related to the evasion principle in Gilford Motor Co Ltd v Horne.
+- [[Corporate Law/summaries/Week 1/readings/Lee v Lee’s Air Farming Ltd [1961] AC 12 Summary]] - Clarifies the separate legal personality of a company and the role of a controlling director, relevant to corporate agency and veil issues.
+- [[Corporate Law/summaries/Week 1/readings/Salomon v Salomon & Co Ltd [1897] AC 22 Summary]] - Provides the foundational legal personality doctrine that underpins the analysis of veil-piercing in later cases.
+<!-- agent:see-also:end -->

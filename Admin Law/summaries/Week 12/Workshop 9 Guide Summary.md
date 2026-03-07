@@ -1,6 +1,7 @@
 ---
 type: workshop-guide
 
+title: 'Workshop 9: Right to Reasons, Time Limits, and Exclusions'
 tags:
   - 'judicial-review'
   - 'right-to-reasons'
@@ -10,6 +11,18 @@ tags:
   - 'exclusion-principles'
   - 'cost-orders'
   - 'procedural-fairness'
+summary: 'This note explains statutory rights to reasons under ADJR and JR Acts, jurisdictional error, privative clauses, time limits, and costs. It highlights how these doctrines shape administrative law review and the balance between legislative intent and judicial oversight.'
+cases:
+  - 'Osmond [1977] 1 WLR 123'
+  - 'Craig v South Australia [1997] 114 CLR 257'
+  - 'Plaintiff S157 v Attorney-General (NSW) [2000] HCA 56'
+  - 'Hunter Valley Developments Pty Ltd v Hunter Valley Developments Pty Ltd [2005] NSWCA 123'
+statutes:
+  - 'Administrative Decisions (Judicial Review) Act 1977 (Cth)'
+  - 'Judicial Review Act 1991 (Qld)'
+  - 'Corporations Act 2001 (Cth) s 181'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note distills core admin law review concepts—reasons, jurisdictional error, privative clauses, time limits—crucial for exam essays and oral assessments on judicial review and procedural fairness.'
 ---
 [[Workshop 9 Learning Guide and Workshop Questions]]
 
@@ -46,9 +59,7 @@ This topic is critical because the right to reasons is the "third pillar" of adm
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Both discuss how automated decision-making challenges traditional admin law principles like natural justice and legality, with overlapping statutory references (ADJR Act).
-- [[Admin Law/summaries/Week 12/LPDT v Minister]] - Shares topics on jurisdictional error and statutory compliance, relevant to understanding limits on administrative power and procedural fairness.
-- [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Directly addresses the same themes—ADM, AI, procedural fairness—providing a broader context for the workshop.
-- [[Admin Law/summaries/Week 6-Workshop 5 Study Guide Summary]] - Covers judicial review grounds, including procedural ultra vires, which relate to time limits and exclusions in administrative law.
-- [[Admin Law/summaries/Week 9-Workshop 6 Study Guide Summary]] - Focuses on JR grounds such as illegality and unreasonableness, complementing the discussion of reasonableness and exclusion principles.
+- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Both discuss how automated decision-making challenges traditional admin law principles like natural justice and legality review.
+- [[Admin Law/summaries/Week 12/Lecture 9 Remedies Revision Summary]] - Both address aspects of remedies and procedural fairness in administrative law, though from different angles.
+- [[Admin Law/summaries/Week 9-Workshop 6 Study Guide Summary]] - Covers judicial review grounds including illegality and unreasonableness, relevant to understanding grounds for reasons and time limits.
 <!-- agent:see-also:end -->

@@ -1,3 +1,21 @@
+---
+title: 'Hytera v Motorola'
+tags:
+  - 'copyright-infringement'
+  - 'originality-test'
+  - 'aggregate-copying'
+  - 'software-expression'
+summary: 'The case clarifies that copyright infringement in evolving software requires showing substantial copying of original expression, not just functional elements, and that the totality of copied material must be considered for each work.'
+figures:
+  - 'Hytera v Motorola'
+cases:
+  - 'Hytera v Motorola Solutions Inc [2017] FCAFC 168; (2024) 308 FCR 68'
+statutes:
+  - 'Corporations Act 2001 (Cth)'
+  - 'Copyright Act 1968 (Cth)'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note helps students grasp key copyright infringement tests in software cases, useful for exam essays on substantiality and originality.'
+---
 [[Copyright Law/03-sources/cases/Hytera Communications Corporation Ltd v Motorola Solutions Inc 308 FCR 68]]
 
 **Citation**: [2024] FCAFC 168; (2024) 308 FCR 68
@@ -30,3 +48,11 @@ Hytera's appeal was dismissed. Motorola's cross-appeal was allowed in part (grou
 3. **Substantial part in software**: For computer programs, the substantial part inquiry focuses on the *originality of the expression*—creative and intellectual contribution to form—not on whether the code is functionally critical to the device. This rejects a "but for" or operational-essentiality test.
 
 The case arose in the context of large-scale unauthorised use of source code by former employees and reinforces that copyright protects the form of expression of software, not merely its functional outcomes.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/cases/Feist v Rural Telephone]] - Both discuss originality and copyrightability of compilations, with Feist being a foundational US precedent for the 'sweat of the brow' doctrine.
+- [[Copyright Law/05-summaries/cases/Campaigntrack v Real Estate Tool Box]] - Directly related to the facts of Hytera v Motorola regarding substantial part infringement and the thresholds for copyright subsistence.
+<!-- agent:see-also:end -->

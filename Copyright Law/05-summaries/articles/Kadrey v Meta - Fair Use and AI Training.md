@@ -1,3 +1,24 @@
+---
+title: 'Kadrey v Meta - Fair Use and AI Training'
+tags:
+  - 'fair-use'
+  - 'ai-training'
+  - 'transformative-use'
+  - 'market-harm'
+  - 'copyright-infringement'
+  - 'case-won'
+  - 'ratio-metas-use-of-copyrighted-books-for-training-its-llama-llm-was-transformative-and'
+summary: 'The case clarifies that fair use does not automatically apply to AI training on copyrighted works; market harm remains central, especially where no actual substitution occurs.'
+cases:
+  - 'Kadrey et al v Meta Platforms, Inc. [ND Cal 2025]'
+statutes:
+  - 'Copyright Act 1968 (Cth)'
+  - 'Digital Millennium Copyright Act (DMCA)'
+jurisdiction: 'United States and Australia'
+assessment_relevance: 'Highlights key fair use factors and market-harm analysis for exam essays on AI and copyright.'
+ratio: 'The court held that Meta’s use of copyrighted books for training its Llama LLM was transformative and did not constitute fair use because the market harm analysis failed; plaintiffs did not demonstrate actual or likely substitution of their works.'
+case_outcome: 'won'
+---
 [[0]]
 
 **Citation / Reference:** *Kadrey et al v Meta Platforms, Inc.*, Order Denying Plaintiffs' Motion for Partial Summary Judgment and Granting Meta's Cross-Motion for Partial Summary Judgment, No 23-cv-03417-VC (ND Cal, 25 June 2025) (Chhabria J).
@@ -11,3 +32,14 @@
 **Significance for Copyright Law**
 - Important US authority on fair use and AI training: emphasises that transformativeness does not trump market harm and that market dilution from AI-generated competing works is a legitimate fourth-factor concern.
 - Demonstrates that success for defendants can turn on plaintiffs’ failure to plead and prove market effects (especially dilution), rather than on a broad holding that all LLM training is fair use.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/articles/Copyright Infringement and AI]] - Both discuss AI training and reproduction/communication risks, with overlapping topics such as AI training, copyright infringement, and statutory analysis.
+- [[Copyright Law/05-summaries/articles/IP and AI-Generated Works]] - Directly addresses AI-generated works, authorship, and statutory frameworks, closely related to the fair use and transformative use issues in Kadrey v Meta.
+- [[Copyright Law/05-summaries/articles/International developments IP and AI]] - Compares international approaches to AI and IP, including fair use and TDM exceptions, relevant to understanding the broader context of Kadrey v Meta.
+- [[Copyright Law/05-summaries/articles/AI Tools and Licensing - TermsFeed]] - Covers AI authorship, human input, and contractual terms, providing context on licensing and policy tensions relevant to AI training practices.
+- [[Copyright Law/05-summaries/articles/Future Impacts of AI on IP Laws]] - Discusses future policy directions and licensing-first approaches, complementing the current case analysis with forward-looking perspectives.
+<!-- agent:see-also:end -->

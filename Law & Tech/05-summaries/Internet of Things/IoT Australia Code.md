@@ -1,8 +1,23 @@
 ---
-tags: [law-and-tech, summary]
 type: Article
----
 
+title: 'IoT Australia Code'
+tags:
+  - 'iot-security'
+  - 'consumer-protection'
+  - 'voluntary-standards'
+  - 'security-by-design'
+  - 'asic-guidance'
+  - 'privacy-act-1988'
+  - 'data-protection'
+  - 'regulatory-approach'
+  - 'international-harmonization'
+summary: 'The Code of Practice sets out consumer IoT security expectations, emphasizing security-by-design, voluntary compliance, and alignment with global standards to protect consumers and address systemic security gaps.'
+statutes:
+  - 'Privacy Act 1988 (Cth)'
+jurisdiction: 'Australia'
+assessment_relevance: 'Key for exams on regulatory frameworks, consumer law, and soft law instruments; useful for oral assessments on policy design and compliance challenges.'
+---
 [[Law & Tech/sources/Internet of Things/Code of Practice IoT - Australia/Code of Practice IoT - Australia.md]]
 
 **Reference:** Department of Home Affairs (Cth), *Code of Practice: Securing the Internet of Things for Consumers* (2020).
@@ -31,3 +46,14 @@ The Code comprises 13 principles, with the first three identified as the highest
 *   **Regulatory Approach:** Represents Australia's "soft law" approach to IoT security, opting for voluntary industry standards rather than immediate mandatory regulation, though it signals government expectations.
 *   **International Alignment:** Aligns with international standards (notably the UK's Code of Practice) to ensure consistency for global manufacturers operating in the Australian market.
 *   **Consumer Protection:** Addresses the systemic issue of security being an "afterthought" in IoT development, aiming to build consumer confidence and mitigate risks to national security and the economy.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Law & Tech/05-summaries/Internet of Things/Study Progress]] - Shares foundational topics in IoT law, such as security, consumer protection, and regulatory approaches, providing context for IoT governance frameworks.
+- [[Law & Tech/05-summaries/Electronic Signatures/Electronic Signatures]] - Discusses legal recognition and regulation of digital signatures, which are crucial for IoT device authentication and secure transactions.
+- [[Law & Tech/05-summaries/Electronic Contracting/Davidson Chapter 11]] - Explores electronic contracting principles and statutory frameworks relevant to IoT device agreements and digital signatures.
+- [[Law & Tech/05-summaries/Internet of Things/Online Safety Act Notes]] - Covers legislative approaches to IoT safety and compliance, complementing the privacy and security statutes in the overview.
+- [[Law & Tech/05-summaries/Electronic Transferable Records (MLETR)/Regulating MLETR]] - Addresses legal frameworks for digital records and smart contracts, which are increasingly relevant to IoT data management and transactions.
+<!-- agent:see-also:end -->

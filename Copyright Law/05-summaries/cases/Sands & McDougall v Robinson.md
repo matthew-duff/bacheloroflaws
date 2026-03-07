@@ -1,3 +1,22 @@
+---
+title: 'Sands & McDougall v Robinson'
+tags:
+  - 'originality'
+  - 'copyrightability'
+  - 'compilation-rights'
+  - 'derivative-works'
+summary: 'The case defines originality in copyright as originating from the author''s skill and judgment, not inventive novelty, and confirms that Robinson''s map qualifies for protection against infringement.'
+figures:
+  - 'Isaacs J'
+cases:
+  - 'Sands & McDougall Pty Ltd v Robinson (1917) 23 CLR 49'
+statutes:
+  - 'Copyright Act 1911 (UK)'
+  - 'Copyright Act 1968 (Cth) s 1(1)'
+period: 'Early 20th century'
+jurisdiction: 'Australia / United Kingdom'
+assessment_relevance: 'This note clarifies the threshold for copyright protection in compilations, crucial for essay questions on originality and infringement.'
+---
 [[Copyright Law/03-sources/cases/Sands and McDougall Pty Ltd v Robinson (1917) 23 CLR 4 9]]
 
 **Citation**: (1917) 23 CLR 49
@@ -20,3 +39,11 @@ The respondent's map was an original literary work within s 1(1) and entitled to
 
 ### Significance
 This case is a foundational authority on the meaning of **"original" in Australian copyright law**. It establishes that originality does **not** require novelty, invention, or patent-law style distinctiveness. Originality is satisfied when the author originates the work through their own skill, labour, and judgment applied to existing materials. The decision is critical for maps, compilations, directories, and other works based on pre-existing information.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/cases/Feist v Rural Telephone]] - Both cases address originality and copyrightability of factual compilations, with Feist being a foundational US precedent and this note likely discusses similar principles in the Australian context.
+- [[Copyright Law/05-summaries/cases/Fairfax v Reed]] - Both cases involve copyright protection for compilations and journalistic content, with Fairfax v Reed clarifying protection for article form and headline limitations.
+<!-- agent:see-also:end -->

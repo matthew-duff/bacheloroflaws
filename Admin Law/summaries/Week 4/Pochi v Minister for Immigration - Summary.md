@@ -1,3 +1,26 @@
+---
+title: 'Pochi v Minister for Immigration and Ethnic Affairs (1979) 36 FLR 482'
+tags:
+  - 'onus-of-proof'
+  - 'standard-of-proof'
+  - 'tribunal-procedure'
+  - 'public-hearings'
+  - 'ministerial-policy'
+  - 'case-won'
+  - 'ratio-the-aat-must-reach-a-state-of-satisfaction-regarding-statutory-criteria-for-depo'
+summary: 'The case defines the AAT''s role as mirroring the original decision-maker, sets out flexible evidentiary standards, and balances transparency with privacy in deportation hearings.'
+figures:
+  - 'Smithers J'
+cases:
+  - 'Pochi v Minister for Immigration and Ethnic Affairs [1979] 36 FLR 482'
+statutes:
+  - 'AAT Act s 35'
+  - 'Migration Act'
+jurisdiction: 'Australia'
+assessment_relevance: 'Key for exam questions on tribunal powers, evidence, and procedural fairness; useful for oral assessments on administrative law principles.'
+ratio: 'The AAT must reach a state of satisfaction regarding statutory criteria for deportation, applying a standard appropriate to the gravity of the matter. It is not bound by strict evidence rules or onus of proof but must ensure fairness and reliability. The tribunal may hold private hearings only where justified, and the AAT found in the subject''s favour by setting aside the deportation order.'
+case_outcome: 'won'
+---
 # Pochi v Minister for Immigration and Ethnic Affairs (1979) 36 FLR 482
 
 ## Overview

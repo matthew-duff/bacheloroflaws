@@ -1,0 +1,12 @@
+filters:
+  and:
+    - file.inFolder("Corporate Law/summaries/Week 1")
+    - "!case_outcome.isEmpty()"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - case_outcome
+    columnSize:
+      file.name: 495

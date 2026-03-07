@@ -1,3 +1,24 @@
+---
+title: 'Summary: For Whom Are Corporate Managers Trustees? (1932)'
+tags:
+  - 'legal-personality'
+  - 'limited-liability'
+  - 'factual-entity'
+  - 'social-responsibility'
+summary: 'Dodd critiques the profit-maximization doctrine, arguing that corporations have social responsibilities beyond shareholder returns, supported by evolving public expectations and legal recognition of the corporation as an institution.'
+figures:
+  - 'Owen D. Young'
+  - 'Gerard Swope'
+  - 'Dean Donham'
+cases:
+  - 'Salomon v A Salomon & Co Ltd [1897] AC 22'
+statutes:
+  - 'Corporations Act 2001 (Cth)'
+  - 'Companies Act 2000'
+period: 'Early 20th century'
+jurisdiction: 'Australia'
+assessment_relevance: 'Highlights tensions between shareholder primacy and stakeholder theory, crucial for exam discussions on fiduciary duties and corporate purpose.'
+---
 # Summary: For Whom Are Corporate Managers Trustees? (1932)
 
 **Author:** E. Merrick Dodd, Jr.
@@ -20,3 +41,12 @@ Dodd challenges the traditional legal doctrine (defended by A. A. Berle) that a 
     - To legally justify managers acting for the social good without stockholder consent, Dodd relies on the concept of the corporation as a real, distinct entity—a "factual unit" that is more than just an aggregate of its stockholders.
     - If the corporation is a real entity functioning in society, it can be viewed as an "institution" or a "person" that is subject to the evolving ethical and professional standards of the business world.
     - Therefore, when managers use corporate funds for social purposes (like charity or employee welfare), they are not committing a breach of trust; rather, they are appropriately fulfilling the social obligations of the corporate institution they represent. Managers are "trustees for an institution rather than attorneys for the stockholders."
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Corporate Law/summaries/Week 2/readings/Berle, ‘For Whom Corporate Managers Are Trustees’ (1932)]] - Shares the same case (Salomon v Salomon) and discusses fiduciary duties and corporate trusteeship, directly complementing the original note.
+- [[Corporate Law/summaries/Week 2/readings/A. A. Berle-CorporateManagersTrustees-1932]] - Directly authored by the same author, focusing on fiduciary duties and shareholder primacy, closely related in both topic and argument.
+- [[Corporate Law/summaries/Week 2/readings/A. A. Berle-CorporatePowersPowers-1931]] - Explores corporate powers as trusts, linking closely to the trusteeship and fiduciary themes in the original note.
+<!-- agent:see-also:end -->

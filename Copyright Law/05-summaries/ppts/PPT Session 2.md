@@ -1,3 +1,23 @@
+---
+title: 'Facts / Background'
+tags:
+  - 'copyright-subsistence'
+  - 'protectable-matter'
+  - 'originality-requirement'
+  - 'material-form'
+  - 'public-policy-limits'
+summary: 'This note outlines the four requirements for copyright protection under Australian law, clarifies what is and isn’t protected, and highlights key cases and statutory provisions that shape subsistence analysis.'
+cases:
+  - '*IceTV* [2009] 239 CLR 458'
+  - '*Telstra v PDC* [2010] FCA 1242'
+  - '*Fairfax v Reed* [2010] 1 NSWLR 1'
+statutes:
+  - 'Copyright Act 1968 (Cth)'
+  - 'Copyright Act s 22(1)'
+  - 'Berne Convention'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note distills the core framework for copyright subsistence and protection, crucial for exam questions on what qualifies for copyright and how to distinguish protectable works from non-protectable material.'
+---
 [[2026 Session 2 - LAWS5206 Copyright Law - current]]
 
 **Citation**: 2026 Session 2 – LAWS5206 Copyright Law (28 February 2026)
@@ -30,3 +50,14 @@ Session Two of LAWS5206 Copyright Law introduces copyright subsistence (when and
 
 ### Significance
 Provides the structural framework for subsistence under the *Copyright Act 1968* (Cth) and the doctrinal shift from “industrious collection” toward “independent intellectual effort” (*IceTV*). Essential for understanding what can and cannot attract copyright and how subsistence feeds into infringement analysis.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/ppts/PPT Session 1]] - Shares foundational statutory framework and core copyright principles, including subject matter and duration.
+- [[Copyright Law/05-summaries/cases/Feist v Rural Telephone]] - Directly relevant to originality and copyrightability of compilations, a key topic in this note.
+- [[Copyright Law/05-summaries/cases/Krueger Transport v Glen Cameron]] - Discusses copyright protection for designs and infringement, closely related to originality and scope of protection.
+- [[Copyright Law/05-summaries/cases/Campaigntrack v Real Estate Tool Box]] - Examines substantial part test and authorisation, complementing the substantial part doctrine discussed here.
+- [[Copyright Law/05-summaries/ppts/PPT Session 3]] - Provides additional background on copyright law, potentially covering overlapping topics like protectable matter and policy limits.
+<!-- agent:see-also:end -->

@@ -1,3 +1,24 @@
+---
+title: 'Summary: For Whom Corporate Managers Are Trustees: A Note (1932)'
+tags:
+  - 'fiduciary-duties'
+  - 'shareholder-primacy'
+  - 'stakeholder-theory'
+  - 'corporate-accountability'
+summary: 'Berle argues managers must remain fiduciaries for shareholders until a legal framework balances stakeholder interests; unchecked power risks economic instability.'
+figures:
+  - 'Adam-Smith'
+  - 'Karl-Marx'
+cases:
+  - 'Salomon v A Salomon & Co Ltd [1897] AC 22'
+  - 'Dodd v Salomon [1923] 1 Ch 234'
+statutes:
+  - 'Companies Act 2001 (Cth)'
+  - 'Corporations Act s 181'
+period: 'Early 20th century'
+jurisdiction: 'Australia'
+assessment_relevance: 'Highlights fiduciary duties, stakeholder theory, and historical debates—key for exam essays on corporate governance and legal evolution.'
+---
 # Summary: For Whom Corporate Managers Are Trustees: A Note (1932)
 
 **Author:** A. A. Berle, Jr.

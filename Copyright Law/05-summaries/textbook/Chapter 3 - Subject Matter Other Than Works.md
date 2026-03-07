@@ -1,3 +1,27 @@
+---
+title: 'Chapter 3 - Subject Matter Other Than Works'
+tags:
+  - 'producers-copyright'
+  - 'sound-recordings'
+  - 'cinematograph-films'
+  - 'interactive-media'
+  - 'broadcasts'
+  - 'published-editions'
+summary: 'Chapter 3 explains how Part IV of the Copyright Act 1968 protects non-authorial works like recordings, films, broadcasts, and editions. It emphasizes narrow, mechanical protection distinct from authorial works, with key cases shaping the scope of protection.'
+cases:
+  - 'CBS Records v Telmak [1997]'
+  - 'Zeccola v Universal City Studios [1992]'
+  - 'Telmak v Bond International [1998]'
+  - 'PPCA v FACTS [2001]'
+  - 'Channel Nine v Network Ten [1996]'
+  - 'Nationwide News v Copyright Agency [1992]'
+  - 'NLA v Marks & Spencer [2001]'
+statutes:
+  - 'Copyright Act 1968 (Cth)'
+  - 'Broadcasting Services Act 1992 (Cth)'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note clarifies the boundaries of producers'' copyright, essential for exams on Part IV protection and case law analysis.'
+---
 [[ch03-raw]]
 
 # Chapter 3 - Subject Matter Other Than Works
@@ -24,3 +48,14 @@ Chapter 3 examines "Subject Matter Other Than Works" protected under Part IV of 
 This chapter is critical for understanding the **dual-layered nature of copyright** in Australia. It establishes that technical productions (recordings, films, broadcasts) receive a narrower, more "mechanical" form of protection than authorial works. The "what you see/hear is what you get" principle (*CBS v Telmak*) is a fundamental limitation on Part IV rights, ensuring that copyright in the "container" does not overreach into the "content" (ideas or styles) which remains the domain of Part III or the public domain.
 
 Model used: gemini-3-flash-preview-001
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/textbook/Chapter 2 - Subject Matter: Works]] - Shares core topics like originality, material form, and substantiality, and discusses statutory frameworks relevant to subject matter other than works.
+- [[Copyright Law/05-summaries/textbook/Chapter 10 - Exceptions and Limitations]] - Covers exceptions and limitations that may apply to sound recordings, cinematograph films, and broadcast material—key subjects in this chapter.
+- [[Copyright Law/05-summaries/textbook/Chapter 1 - Introduction]] - Provides foundational context on copyright evolution and statutory framework, which underpins all subject matter discussions.
+- [[Copyright Law/05-summaries/cases/FCT v Seven Network]] - Directly addresses the issue of fixation and copyright eligibility for digital signals, relevant to sound recordings and cinematograph films.
+- [[Copyright Law/05-summaries/articles/IP and AI-Generated Works]] - Explores modern challenges to authorship and originality, relevant to evolving subject matter beyond traditional works.
+<!-- agent:see-also:end -->

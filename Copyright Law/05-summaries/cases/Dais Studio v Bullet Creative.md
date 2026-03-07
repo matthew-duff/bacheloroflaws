@@ -1,3 +1,23 @@
+---
+title: 'Dais Studio Pty Ltd v Bullet Creative Pty Ltd'
+tags:
+  - 'computer-programs'
+  - 'substantial-part'
+  - 'copyright-infringement'
+  - 'confidential-information'
+  - 'case-lost'
+  - 'ratio-the-individual-files-were-computer-programs-under-s-10-of-the-copyright-act-conf'
+summary: 'The case clarifies that individual files within a software system can qualify as ''computer programs'' under copyright law, but reproducing only small, non-substantial parts may not meet the threshold for infringement. It also addresses the limits of confidentiality claims against former employees.'
+cases:
+  - 'Dais Studio Pty Ltd v Bullet Creative Pty Ltd [2007] FCA 2054'
+statutes:
+  - 'Copyright Act 1968 (Cth)'
+  - 'Corporations Act 2001 (Cth)'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note is crucial for understanding how courts treat software components as copyrightable works and the thresholds for infringement and substantiality—common exam topics in copyright law and professional responsibility.'
+ratio: 'The court held that the individual files were ''computer programs'' under s 10 of the Copyright Act, confirming their copyrightability. However, it ruled that reproducing these files did not constitute a ''substantial part'' of the CMS, leading to dismissal of the infringement claim.'
+case_outcome: 'lost'
+---
 [[Copyright Law/03-sources/cases/Dais Studio Pty Ltd v Bullet Creative Pty Ltd (2007) 165 FCR 92]]
 
 **Citation**: *Dais Studio Pty Ltd v Bullet Creative Pty Ltd* (2007) 165 FCR 92; [2007] FCA 2054
@@ -20,3 +40,13 @@ The first applicant (Dais) designed websites and developed a Content Management 
 
 **Significance**:
 The case clarifies that individual files or modules within a larger software system can qualify as "computer programs" in their own right. However, it highlights the difficulty of proving copyright infringement when only small, functionally common components of a larger system are copied, emphasizing that "substantiality" is determined by the quality and originality of the specific code taken relative to the entire work.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/cases/Aristocrat v Pacific]] - Both cases deal with the substantial part test under s 10 of the Copyright Act, relevant to the current note's discussion on substantial part infringement.
+- [[Copyright Law/05-summaries/cases/Burge v Swarbrick]] - This case addresses copyright craftsmanship and substantial unconstrained artistic effort, closely related to the current note's focus on substantial part and copyrightability.
+- [[Copyright Law/05-summaries/cases/Campaigntrack v Real Estate Tool Box]] - It examines substantial part infringement and authorisation principles, directly relevant to the current note's substantial part analysis.
+- [[Copyright Law/05-summaries/cases/CBS v Telmak]] - Discusses original sound recordings and infringement, relevant due to the current note's reference to section 85(a) and sound-alike recordings.
+<!-- agent:see-also:end -->

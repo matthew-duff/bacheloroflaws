@@ -1,3 +1,26 @@
+---
+title: 'Exam Summary: Schmitthoff, ‘The Origin of the Joint-Stock Company’ (1939)'
+tags:
+  - 'legal-personality'
+  - 'limited-liability'
+  - 'evolutionist-theory'
+  - 'commercial-corporateness'
+  - 'joint-stock-evolution'
+summary: 'Schmitthoff argues the joint-stock company originated indigenous to England through regulated companies and medieval guilds, rejecting the Italian receptionist theory. The English model evolved from active trade, not passive finance.'
+figures:
+  - 'Adam Smith'
+  - 'Karl Marx'
+  - 'John Stuart Mill'
+cases:
+  - 'Salomon v A Salomon & Co Ltd [1897] AC 22'
+  - 'Adams v Cape Industries plc [1998] 1 AC 661'
+statutes:
+  - 'Corporations Act 2001 (Cth)'
+  - 'Companies Act 2006 (Cth)'
+period: 'Early 20th century to mid-20th century'
+jurisdiction: 'Australia and England'
+assessment_relevance: 'This note clarifies key theories on corporate origins, essential for comparative law exams and oral assessments on corporate history and structure.'
+---
 # Exam Summary: Schmitthoff, ‘The Origin of the Joint-Stock Company’ (1939)
 
 ## 1. Overview & Core Thesis

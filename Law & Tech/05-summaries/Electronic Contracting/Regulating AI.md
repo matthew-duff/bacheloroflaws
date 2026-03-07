@@ -1,8 +1,26 @@
 ---
-tags: [law-and-tech, summary]
 type: Article
----
 
+title: '1. The Definitional Dilemma: What is AI?'
+tags:
+  - 'legal-personality'
+  - 'liability-framework'
+  - 'risk-based-regulation'
+  - 'data-protection'
+  - 'digital-sovereignty'
+  - 'ai-act'
+  - 'accountability-gap'
+summary: 'The note dissects the definitional challenges of AI, contrasts the EU''s normative approach with US/China models, and critiques the EU AI Act''s risk-based architecture for its rigidity and liability gaps.'
+statutes:
+  - 'AI Act'
+  - 'GDPR'
+  - 'Data Act'
+  - 'Data Governance Act'
+  - 'Digital Services Act'
+  - 'Digital Markets Act'
+jurisdiction: 'European Union'
+assessment_relevance: 'Highlights key regulatory tensions—functional vs. technical definitions, horizontal vs. vertical regulation, and liability allocation—central to exam essays and oral exams on tech law.'
+---
 [[Regulating AI]]
 
 **Reference:** Giusella Finocchiaro, 'The regulation of artificial intelligence' (2023) *AI & SOCIETY* <https://doi.org/10.1007/s00146-023-01650-z>.
@@ -80,3 +98,13 @@ To understand the AI Act, one must see it as the final pillar of the EU’s Digi
 3. **DSA / DMA:** Digital services and market contestability.
     
 4. **AI Act:** Safety and ethics of automated decision-making.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Law & Tech/05-summaries/Electronic Contracting/Davidson Chapter 11]] - Discusses the regulatory framework and legal equivalence for electronic communication, relevant to AI's role in contract formation and enforcement.
+- [[Law & Tech/05-summaries/Electronic Contracting/Electronic Contracting]] - Provides foundational principles of electronic contracting, including consent and jurisdictional variations, which are critical when considering AI's impact on contract law.
+- [[Law & Tech/05-summaries/Internet of Things/IoT Notes]] - Explores AI and digital sovereignty in the context of connected devices, linking to broader regulatory concerns about AI's deployment in IoT ecosystems.
+- [[Law & Tech/05-summaries/Electronic Signatures/Electronic Signatures]] - Offers an overview of electronic signatures, a key mechanism in AI-driven contract execution and compliance, aligning with the definitional challenges of AI.
+<!-- agent:see-also:end -->

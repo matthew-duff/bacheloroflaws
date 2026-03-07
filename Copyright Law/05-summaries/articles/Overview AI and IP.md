@@ -1,3 +1,21 @@
+---
+title: 'Overview AI and IP'
+tags:
+  - 'ai-copyright'
+  - 'human-authorship'
+  - 'training-data'
+  - 'output-infringement'
+  - 'liability-allocation'
+summary: 'AI challenges copyright by blurring input/output boundaries; Australia rejects AI authorship, treats training as likely infringement, and awaits policy clarity.'
+cases:
+  - 'Salomon v A Salomon & Co Ltd [1897] AC 22'
+  - 'Millar v Taylor [1785] 1 Camp 287'
+statutes:
+  - 'Corporations Act 2001 (Cth)'
+  - 'Copyright Act 1968 (Cth)'
+jurisdiction: 'Australia'
+assessment_relevance: 'Covers key AI-IP conflicts for exams and oral—human vs AI authorship, infringement tests, liability, and policy gaps.'
+---
 [[Overview _ Artificial intelligence and IP]]
 
 **Citation/Reference:** LexisNexis, *Overview — Artificial intelligence and IP* (maintained guidance note, 2026).
@@ -16,3 +34,14 @@
 - Highlights that **training on copyright works** is likely to involve **reproduction** and thus infringement absent licence or exception—relevant to infringement analysis and defences (e.g. fair dealing).
 - Distinguishes **Australia** (no general fair use) from **US** (fair use defences and pending cases), which is important for comparative and policy discussion.
 - Frames **human authorship** and **ownership** where AI is used as central ongoing issues for copyright subsistence and ownership in Australia.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/articles/IP and AI-Generated Works]] - Covers AI-generated works and copyright ownership, directly relating to human authorship and originality requirements.
+- [[Copyright Law/05-summaries/articles/Copyright Infringement and AI]] - Discusses AI training on copyrighted works and infringement, linking to liability allocation and statutory analysis.
+- [[Copyright Law/05-summaries/articles/International developments IP and AI]] - Compares international approaches to AI-related IP, relevant for understanding jurisdictional variation and key cases.
+- [[Copyright Law/05-summaries/articles/AI Tools and Licensing - TermsFeed]] - Addresses AI tools, licensing, and contractual terms, complementing the licensing-first practice and statutory context.
+- [[Copyright Law/05-summaries/articles/Kadrey v Meta - Fair Use and AI Training]] - Examines fair use in AI training, a key case affecting infringement analysis and statutory interpretation.
+<!-- agent:see-also:end -->

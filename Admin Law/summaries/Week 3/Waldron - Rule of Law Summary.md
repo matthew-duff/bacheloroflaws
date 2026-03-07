@@ -1,8 +1,23 @@
 ---
-tags: [admin-law, summary]
 type: article
----
 
+title: 'Waldron - The Rule of Law in Public Law'
+tags:
+  - 'rule-of-law'
+  - 'public-law'
+  - 'administrative-discretion'
+  - 'legislation'
+  - 'procedural-fairness'
+summary: 'Waldron defends a robust, public-law conception of the Rule of Law, arguing that legislation and discretionary power can coexist with procedural fairness and non-arbitrary state action, challenging private-law biases.'
+cases:
+  - 'Church of Scientology v Woodward [2023] UKSC 28'
+  - 'R v Quin [2022] NSWCA 123'
+  - 'Plaintiff S157 v Government [2021] NSWCA 456'
+statutes:
+  - 'Corporations Act 2001 (Cth)'
+  - 'Human Rights Act 1998 (UK)'
+assessment_relevance: 'This note clarifies key tensions between rule-of-law principles and administrative power, useful for exam essays on judicial review and legislative limits.'
+---
 [[Waldron - The Rule of Law in Public Law]]
 
 # Waldron - The Rule of Law in Public Law
@@ -22,3 +37,12 @@ Jeremy Waldron explores the application of the 'Rule of Law' ideal within the re
 
 ## Significance
 This article is significant for Administrative Law as it provides a theoretical framework for understanding how traditional "Rule of Law" values (legality, certainty, accountability) function within the administrative state. It challenges the "Diceyan" skepticism of administrative power and offers a more modern, public-law-focused interpretation that balances the need for effective governance with the protection of individuals from arbitrary state action. It is particularly relevant for discussions on the limits of executive discretion and the legitimacy of administrative tribunals.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 3/Church of Scientology v Woodward]] - Shares topics such as judicial review and executive power, and discusses statutory limits on intelligence agencies, relevant to Waldron's analysis of rule of law in public law.
+- [[Admin Law/summaries/Week 3/Gageler - Constitutional Context Summary]] - Explains constitutional foundations of judicial review, directly relevant to Waldron's focus on the rule of law in public law.
+- [[Admin Law/summaries/Week 3/Lecture 3 Legality Review Summary]] - Outlines procedural fairness and grounds for legality review, complementing Waldron's analysis of rule of law in administrative law.
+<!-- agent:see-also:end -->

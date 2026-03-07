@@ -1,3 +1,29 @@
+---
+title: 'Facts / Background'
+tags:
+  - 'copyright-music'
+  - 'musical-work'
+  - 'sound-recording'
+  - 'infringement-analysis'
+  - 'sampling'
+  - 'interpolation'
+summary: 'This note explains the dual protection of musical works and sound recordings under copyright law, focusing on infringement analysis in sound-alike cases and practical examples like the Taylor Swift re-recordings.'
+figures:
+  - 'Adam Smith'
+  - 'John Stuart Mill'
+  - 'Jagot J'
+  - 'Perram J'
+cases:
+  - 'EMI Songs v Larrikin [2001] FCA 138'
+  - 'Boomerang Investments v Padgett [2004] NSWCA 58'
+  - 'Universal v Palmer [2016] HCA 38'
+  - 'Taylor Swift re-recordings'
+statutes:
+  - 'Corporations Act 2001 (Cth)'
+  - 'Copyright Act 1968 (Cth)'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note helps students grasp the distinction between Part III and Part IV protection, essential for essay questions on infringement and licensing, and provides concrete case studies for oral assessments.'
+---
 [[Copyright & music - v5]]
 
 **Source**: LAWS5206 Copyright Law lecture presentation – Copyright & Music (v5)

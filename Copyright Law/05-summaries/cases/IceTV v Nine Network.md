@@ -1,3 +1,18 @@
+---
+title: 'IceTV v Nine Network'
+tags:
+  - 'copyright-compilation'
+  - 'substantial-part-test'
+  - 'factual-information'
+  - 'form-of-expression'
+summary: 'The case clarifies that copyright protects the expressive form of compilations, not the underlying facts, and that time and title information alone are not a substantial part.'
+cases:
+  - 'IceTV v Nine Network Australia [2009] 239 CLR 458'
+statutes:
+  - 'Copyright Act 1968 (Cth) s 14(1)(b)'
+jurisdiction: 'Australia'
+assessment_relevance: 'Highlights key distinctions between expression and facts, essential for exam questions on compilation copyright and fair dealing.'
+---
 [[Copyright Law/03-sources/cases/IceTV Pty Ltd v Nine Network Australia Pty Ltd (2009) 239 CLR 458]]
 
 **Citation**: (2009) 239 CLR 458
@@ -20,3 +35,10 @@ No. The High Court allowed IceTV's appeal. The reproduction of time and title in
 
 ### Significance
 IceTV significantly clarifies the scope of copyright protection for **compilations** in Australian law. It establishes that copyright protects the **form of expression** of compilations—not the underlying facts or information—and that taking factual information (such as programme times and titles) does not necessarily amount to reproducing a substantial part. The decision casts doubt on the broad "sweat of the brow" approach in *Desktop Marketing*, suggesting that reasoning in that case may be "out of line" with copyright law's traditional focus on originality in expression. IceTV is critical for understanding the balance between protecting compilers' investment and allowing legitimate use of factual information, particularly for electronic programme guides and similar compilations of scheduling data.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/cases/FCT v Seven Network]] - Both cases deal with the definition of 'copyrightable' material and the 'substantial part test' in relation to digital content and fixation requirements.
+<!-- agent:see-also:end -->

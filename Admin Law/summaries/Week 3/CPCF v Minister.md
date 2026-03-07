@@ -1,12 +1,26 @@
 ---
 type: case
 
+title: 'CPCF v Minister for Immigration and Border Protection'
 tags:
   - 'maritime-enforcement'
   - 'executive-powers'
   - 'statutory-authorization'
   - 'procedural-fairness'
   - 'non-refoulement'
+  - 'constitutional-law'
+summary: 'The High Court upheld the executive''s power under s 72(4) of the Maritime Powers Act 2013 to detain asylum seekers at sea for removal to a third country, rejecting procedural fairness obligations and affirming statutory authority over executive action. The decision clarifies the limits of non-refoulement and statutory interpretation in immigration enforcement.'
+figures:
+  - 'High Court of Australia Justices'
+cases:
+  - 'CPCF v Minister for Immigration and Border Protection [2015] HCA 1'
+statutes:
+  - 'Maritime Powers Act 2013 (Cth)'
+  - 'Migration Act 1958 (Cth)'
+  - 'Constitution s 61'
+  - 'Constitution s 72'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note distills key tensions between statutory authority, executive power, and procedural fairness in immigration detention—central to exam questions on administrative law and constitutional limits.'
 ---
 [[CPCF v Minister for Immigration and Border Protection]]
 
@@ -40,8 +54,9 @@ An Indian-flagged vessel carrying 157 passengers (including the plaintiff, a Sri
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 12/LPDT v Minister]] - Shares statutory framework (Migration Act) and discusses jurisdictional error, which is relevant to procedural fairness and statutory authorization.
-- [[Admin Law/summaries/Week 3/A-G (NSW) v Quin]] - Discusses procedural fairness and legitimate expectations, which overlap with the principles in the current note.
-- [[Admin Law/summaries/Week 3/Church of Scientology v Woodward]] - Though summary is empty, the case is likely relevant due to its high-profile nature and possible intersection with administrative law principles.
-- [[Admin Law/summaries/Week 3/Lecture 3 Legality Review Summary]] - Provides foundational context on legal review, complementing the discussion of procedural fairness and statutory authorization.
+- [[Admin Law/summaries/Week 3/Church of Scientology v Woodward]] - Shares the same week and administrative law focus, relevant for procedural fairness and executive powers.
+- [[Admin Law/summaries/Week 12/LPDT v Minister]] - Directly related to CPCF v Minister as it discusses jurisdictional error and statutory compliance, both central to the facts and statutory interpretation.
+- [[Admin Law/summaries/Week 3/A-G (NSW) v Quin]] - Shares topics such as procedural fairness, legitimate expectation, and judicial review, complementing the discussion on executive powers.
+- [[Admin Law/summaries/Week 3/Gageler - Constitutional Context Summary]] - Provides constitutional context relevant to statutory authorization and separation of powers, tying into the constitutional law topics.
+- [[Admin Law/summaries/Week 3/Lecture 3 Legality Review Summary]] - Covers legal review grounds, which align with procedural fairness and statutory authorization in the facts.
 <!-- agent:see-also:end -->

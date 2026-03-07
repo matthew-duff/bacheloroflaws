@@ -1,8 +1,25 @@
 ---
-tags: [admin-law, summary, case]
 type: case
----
 
+title: 'Re Drake and Minister for Immigration and Ethnic Affairs (No 2)'
+tags:
+  - 'administrative-review'
+  - 'ministerial-policy'
+  - 'deportation-law'
+  - 'tribunal-independence'
+  - 'policy-consistency'
+summary: 'The case clarifies the AAT''s approach to Ministerial policy, emphasizing lawfulness, consistency, and the balance between administrative independence and political responsibility.'
+figures:
+  - 'Daniel Drake'
+cases:
+  - 'Re Drake and Minister for Immigration and Ethnic Affairs (No 2) [1979] 2 ALD 634'
+statutes:
+  - 'Migration Act 1958 (Cth) s 12'
+  - 'Administrative Appeals Tribunal Act 1991 (Cth)'
+period: 'Late 20th century'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note is crucial for understanding AAT powers, the interplay between law and policy, and the ''correct or preferable'' decision standard in administrative law exams.'
+---
 [[Re Drake and Minister for Immigration and Ethnic Affairs (No 2) (1979) 2 ALD 634]]
 
 **Citation**: *Re Drake and Minister for Immigration and Ethnic Affairs (No 2)* (1979) 2 ALD 634
@@ -29,3 +46,13 @@ In Drake's case, the policy regarding drug trafficking was consistent with the A
 
 ### Significance
 *Drake (No 2)* is the foundational case for the AAT's approach to Ministerial policy. It balances the Tribunal's independence with the need for administrative consistency. It establishes that while the AAT is not legally bound by executive policy, it will generally adopt and apply it to ensure that administrative justice is consistent across the government, provided the policy is lawful and does not lead to individual injustice.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 4/Drake no.1 - Summary]] - Shares the same case (Drake v Minister for Immigration and Ethnic Affairs), same statutes (Migration Act 1958 (Cth)), and discusses the AAT's merits review powers and judicial review boundaries.
+- [[Admin Law/summaries/Week 4/Drake no.2 - Summary]] - The central case of this week, closely linked to the facts note through shared topics (government policy review, discretionary power) and statutes.
+- [[Admin Law/summaries/Week 4/Article by Professor Allars on Merits Review - Summary]] - Provides scholarly context and doctrinal analysis of merits review, complementing the practical legal principles in the Drake cases.
+- [[Admin Law/summaries/Week 4/Chapter by Professor Creyke on Merits Review - Summary]] - Offers theoretical and structural analysis of administrative tribunals and merits review, closely related to the operational facts and legal outcomes in the Drake cases.
+<!-- agent:see-also:end -->

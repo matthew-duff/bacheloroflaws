@@ -1,3 +1,22 @@
+---
+title: 'FCT v Seven Network'
+tags:
+  - 'royalties'
+  - 'copyright'
+  - 'tax-treaty'
+  - 'digital-signal'
+  - 'fixed-form'
+  - 'ip-rights'
+summary: 'The case clarifies that a live digital television signal is not a cinematograph film and thus not a royalty under the Australia–Switzerland treaty, affirming that copyright requires fixation and that ''other like property or right'' refers to recognized IP rights.'
+cases:
+  - 'Federal Commissioner of Taxation v Seven Network Ltd [2016] 241 FCR 1'
+statutes:
+  - 'Copyright Act 1968 (Cth)'
+  - 'Income Tax Assessment Act 1936 (Cth)'
+  - 'International Tax Agreements Act 1953 (Cth)'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note is useful for exam questions on treaty interpretation, definition of ''cinematograph film'', and the characterisation of payments as royalties or other property rights.'
+---
 [[Copyright Law/03-sources/cases/Federal Commissioner of Taxation v Seven Network Ltd (2016) 241 FCR 1]]
 
 **Citation**: (2016) 241 FCR 1
@@ -22,3 +41,14 @@ Appeal dismissed. The payments were **not** royalties within Art 12(3) of the Sw
 
 ### Significance
 This case is significant for Copyright Law because it **clarifies the scope of "cinematograph film"** and the requirement of **fixation and material embodiment**: a live, ephemeral digital television signal does **not** constitute a cinematograph film. It affirms that copyright subject matter (such as cinematograph films) requires fixation in a material, tangible form, not transitory electromagnetic transmission. It also confirms that "other like property or right" in double taxation treaty contexts refers to **intellectually property rights recognised by domestic law**, not merely commercially analogous monopolies. The decision illustrates the interaction between copyright law and tax law in characterising payments for access to broadcast signals.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/cases/IceTV v Nine Network]] - Both cases deal with copyright protection of broadcast content and related rights.
+- [[Copyright Law/05-summaries/cases/Burge v Swarbrick]] - This case discusses 'work of artistic craftsmanship' under s 10(c), relevant to the FCT v Seven Network discussion of artistic and functional elements.
+- [[Copyright Law/05-summaries/cases/CBS v Telmak]] - Focuses on copyright infringement of sound-alike recordings under s 85(a), relevant to the FCT v Seven Network issue of copying and originality.
+- [[Copyright Law/05-summaries/cases/Campaigntrack v Real Estate Tool Box]] - Examines substantial part infringement and authorisation, concepts that overlap with the FCT v Seven Network case.
+- [[Copyright Law/05-summaries/cases/Desktop Marketing v Telstra]] - Concerns copyright subsistence in compilations, a key issue in the FCT v Seven Network case regarding database protection.
+<!-- agent:see-also:end -->

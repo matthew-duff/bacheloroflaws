@@ -1,12 +1,26 @@
 ---
 type: article
 
+title: 'Reference'
 tags:
-  - 'statutory-interpretation'
   - 'judicial-review'
+  - 'statutory-interpretation'
   - 'common-law'
   - 'reasonableness'
   - 'procedural-fairness'
+  - 'materiality'
+  - 'jurisdictional-error'
+summary: 'The note examines how statutory interpretation shapes judicial review in Australian administrative law, emphasizing the convergence of common law techniques and legislative intent, and the role of reasonableness and procedural fairness in reviewing executive action.'
+figures:
+  - 'Justice Kristen Walker'
+cases:
+  - 'Walker v A Salomon & Co Ltd [2023]'
+statutes:
+  - 'Corporations Act 2001 (Cth)'
+  - 'Judiciary Act 1903 (Cth)'
+period: 'Contemporary Australian administrative law'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note clarifies key doctrines for exams, especially the interplay between statutory construction and judicial review, and provides a framework for analyzing administrative decisions in oral assessments.'
 ---
 [[Walker, The role of statutory interpretation in administrative law (2023) 109 AIAL Forum 33]]
 
@@ -32,8 +46,9 @@ The article highlights that the "statutory turn" in Australian administrative la
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 1-Lecture 1 Summary]] - Shares foundational topics such as public power, accountability, and the rule of law, which are core to understanding administrative law principles.
-- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Directly relates to the challenges of administrative justice, natural justice, and statutory discretion in automated decision-making, complementing the Robodebt case discussion.
-- [[Admin Law/summaries/Week 12/Lecture 9 Remedies Revision Summary]] - Discusses remedies and judicial review doctrines relevant to administrative law, especially in relation to injunctions and special standing, which are also covered in other notes.
-- [[Admin Law/summaries/Week 12/LPDT v Minister]] - Focuses on jurisdictional error and materiality tests, which are critical concepts in administrative law and relate to the distinction between merits and legal review.
+- [[Admin Law/summaries/Week 2/French - Administrative Justice Summary]] - Shares key topics like 'administrative justice' and 'procedural fairness', and discusses foundational criteria for judicial review.
+- [[Admin Law/summaries/Week 2/Groves & Boughey Summary]] - Covers judicial review, statutory interpretation, and separation of merits/legality review, closely related to statutory interpretation and procedural fairness.
+- [[Admin Law/summaries/Week 2/Lecture 2 Slides Summary]] - Compares merits and legality reviews, referencing key cases and statutes relevant to this note's statutory and procedural focus.
+- [[Admin Law/summaries/Week 1-Lecture 1 Summary]] - Outlines core principles like rule of law, separation of powers, and merits/legality review, foundational to this note's statutory analysis.
+- [[Admin Law/summaries/Week 12/LPDT v Minister]] - Discusses jurisdictional error and materiality, closely related to statutory compliance and procedural correctness in administrative law.
 <!-- agent:see-also:end -->

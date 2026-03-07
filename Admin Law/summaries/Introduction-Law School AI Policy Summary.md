@@ -1,15 +1,16 @@
 ---
 type: policy
 
+title: 'Introduction-Law School AI Policy Summary'
 tags:
   - 'ai-in-legal-education'
   - 'academic-integrity'
   - 'legal-reasoning-standards'
-  - 'independent-verification'
-  - 'substantive-analysis-requirements'
   - 'professional-accountability'
   - 'ethical-use-of-technology'
-  - 'transparency-requirements'
+summary: 'This policy sets clear expectations for GenAI use in legal studies, emphasizing independent verification, transparency, and accountability to uphold professional standards and avoid misconduct.'
+jurisdiction: 'Australia'
+assessment_relevance: 'Highlights key tensions between technology and professional responsibility, useful for exam essays on ethical obligations and practical problem-solving.'
 ---
 [[Law School - Use of AI by Students in Law (20Feb26)]]
 
@@ -36,9 +37,3 @@ This policy outlines the TC Beirne School of Law's expectations and professional
 This policy is significant for Administrative Law and legal education as it aligns academic standards with evolving professional expectations. It reinforces the principle of personal accountability—a cornerstone of legal practice—by holding students responsible for the accuracy and integrity of their work, regardless of the tools used. It explicitly warns that reliance on unverified AI content undermines the administration of justice and may be regarded as professional misconduct in a legal career.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 12/Automated Decision-making and AI Study Summary]] - Shares key topic 'AI in legal education' and relates to AI policy implications.
-- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Directly addresses automated decision-making, relevant to AI policy and legal reasoning.
-<!-- agent:see-also:end -->

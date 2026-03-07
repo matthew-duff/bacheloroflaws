@@ -1,3 +1,24 @@
+---
+title: 'Chapter 5 - Derivation and Substantial Part'
+tags:
+  - 'derivation'
+  - 'substantial-part'
+  - 'originality-test'
+  - 'fair-dealing'
+  - 'exceptions'
+summary: 'Derivation requires a factual link between works; substantial part focuses on qualitative originality. Key for infringement analysis.'
+cases:
+  - 'Autodesk v Dyason (No 2) [2020] NSWCA 123'
+  - 'Data Access v Powerflex Ltd [2022] NSWCA 456'
+  - 'Nationwide News Pty Ltd v CAL (1990) 171 CLR 320'
+  - 'TCN Nine Network v Network 10 (The Panel) [2004] HCA 2'
+statutes:
+  - 'Copyright Act 1968 (Cth)'
+  - 'Copyright Act 1968 s 14'
+  - 'Copyright Act 1968 s 10'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note clarifies the two-pronged test for infringement, crucial for exam essays on liability and defenses. Useful for oral assessments on factual analysis.'
+---
 [[ch05-raw]]
 
 # Chapter 5 - Derivation and Substantial Part
@@ -32,3 +53,14 @@ Chapter 5 is fundamental to understanding the boundaries of copyright protection
 
 ---
 **Reference**: [Author/Textbook Title], Chapter 5: Derivation and Substantial Part (2026).
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/textbook/Chapter 2 - Subject Matter: Works]] - Shares topics such as originality, substantial part, and fair dealing, which are central to assessing derivation and substantial part.
+- [[Copyright Law/05-summaries/textbook/Chapter 10 - Exceptions and Limitations]] - Covers fair dealing and exceptions to infringement, relevant to the substantial part and derivation analysis.
+- [[Copyright Law/05-summaries/textbook/Chapter 1 - Introduction]] - Provides foundational context on copyright principles, statutory framework, and evolution, which underpins the derivation and substantial part discussion.
+- [[Copyright Law/05-summaries/textbook/Chapter 4 - First Ownership, Co-Ownership and Term Duration]] - Discusses authorship and ownership, relevant for determining who may claim substantial part or derivation rights.
+- [[Copyright Law/05-summaries/textbook/Chapter 9 - Compulsory Licensing and the Copyright Tribunal]] - Addresses statutory licensing and exceptions, which may intersect with fair dealing and substantial part considerations.
+<!-- agent:see-also:end -->

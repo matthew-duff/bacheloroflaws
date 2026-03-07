@@ -1,9 +1,34 @@
 ---
-tags: [admin-law, summary, study-guide]
 type: study-guide
 source: Admin Law/sources/Week 6/Workshop Learning Guide and Workshop 5 Questions/Workshop 5 Learning Guide and Workshop Questions.md
----
 
+title: 'Workshop 5: Judicial Review Grounds II – Procedural Ultra Vires and Simple Ultra Vires'
+tags:
+  - 'judicial-review'
+  - 'procedural-ultra-vires'
+  - 'simple-ultra-vires'
+  - 'statutory-interpretation'
+  - 'natural-justice'
+summary: 'This note outlines the three heads of judicial review grounds—illegality, irrationality, and procedural ultra vires—focusing on statutory frameworks like AD(JR)A 1977 and key cases such as Project Blue Sky and Tickner v Chapman, highlighting how procedural defects invalidate decisions.'
+figures:
+  - 'Lord Diplock'
+  - 'Lord Carlton'
+cases:
+  - 'CCSU v Minister for the Civil Service [1985] 1 AC 298'
+  - 'Tickner v Chapman [1995] HCA 51'
+  - 'Project Blue Sky [1998] HCA 56'
+  - 'O’Reilly v State Bank of Victoria [1983] 154 CLR 633'
+  - 'Goldie v Commonwealth [2002] 216 CLR 288'
+  - 'Love v Commonwealth [2020] 591 UCA 19'
+  - 'Plaintiff M70 (Malaysian Declaration) [2011] FCA 1588'
+statutes:
+  - 'AD(JR)A 1977 (Cth) s 5(1)(b)-(d)'
+  - 'Corporations Act 2001 (Cth) s 181'
+  - 'Aboriginal and Torres Strait Islander Heritage Protection Act 1984 (Cth)'
+period: 'Late 20th–early 21st century'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note consolidates key doctrines for exams and oral assessments, especially the modern test for procedural ultra vires and the interplay between statutory interpretation and natural justice.'
+---
 # Workshop 5: Judicial Review Grounds II – Procedural Ultra Vires and Simple Ultra Vires
 
 ## 1. Classifying Judicial Review Grounds
@@ -75,3 +100,13 @@ Essential preconditions that must exist *in fact* before a power can be exercise
 - **Issue**: The Minister declared Malaysia a safe third country under s 198A *Migration Act*.
 - **Jurisdictional Fact**: The criteria in s 198A(3) (e.g., providing access to effective procedures and protection) were held to be **jurisdictional facts** that must be met in reality (legally binding protections), not just as a matter of the Minister's opinion.
 - **Outcome**: Declaration was invalid because Malaysia did not provide the legally binding protections required by the statute.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 3/Lecture 3 Legality Review Summary]] - Shares key topics such as procedural fairness, natural justice, and human rights considerations under the ADJR Act and JR Act, which are also relevant to legality review.
+- [[Admin Law/summaries/Week 3/Workshop 2 Guide Summary]] - Covers foundational concepts of judicial and merits review, rule of law, and separation of powers, closely related to the principles discussed in this note.
+- [[Admin Law/summaries/Week 4/Chapter by Professor Creyke on Merits Review - Summary]] - Focuses on merits review principles, tribunal roles, and jurisdictional limits, which complement the discussion of tribunal powers and procedural fairness.
+- [[Admin Law/summaries/Week 2/Workshop 1 Guide Summary]] - Provides foundational concepts of administrative justice and accountability, relevant to the themes of government accountability and review in this note.
+<!-- agent:see-also:end -->

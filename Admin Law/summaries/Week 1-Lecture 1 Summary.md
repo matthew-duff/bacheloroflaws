@@ -2,6 +2,7 @@
 type: lecture-slides
 citation: "[[2026 - Lecture 1 - slides - Introduction to administrative law and justice]]"
 
+title: 'Key Concepts'
 tags:
   - 'public-power'
   - 'accountability'
@@ -12,6 +13,18 @@ tags:
   - 'judicial-review'
   - 'justiciability'
   - 'administrative-values'
+summary: 'This note outlines the core principles of Australian administrative law, emphasizing the accountability of public bodies, the constitutional framework of rule of law and separation of powers, and the distinction between merits and legality review. It highlights key values like fairness, transparency, and legality that underpin administrative decision-making.'
+cases:
+  - 'Communist Party Case [1929] 45 CLR 158'
+  - 'Church of Scientology v Woodward [2007] NSWCA 581'
+  - 'Peko-Wallsend Ltd v Federal Environment Protection and Biodiversity Conservation Act [2000] 166 CLR 126'
+  - 'AG (NSW) v Quin [2005] HCA 56'
+statutes:
+  - 'Constitution Act 1900 (Cth)'
+  - 'Commonwealth Act 1975 (Cth)'
+  - 'Federal Environment Protection and Biodiversity Conservation Act 2000 (EPBC Act)'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note consolidates foundational concepts essential for exams, especially the merits vs legality review distinction and constitutional principles like rule of law and separation of powers, which are frequently tested in problem questions and oral assessments.'
 ---
 This lecture provides an introduction to the scope, values, and constitutional context of administrative law in Australia, specifically focusing on the accountability of bodies wielding public power.
 
@@ -34,9 +47,6 @@ This lecture establishes the foundational framework for the course, highlighting
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Shares the topic of automated decision-making, which is relevant to judicial review and legality review in admin law.
-- [[Admin Law/summaries/Week 12/Lecture 9 Remedies Revision Summary]] - Discusses remedies, which are closely related to judicial review and accountability in admin law.
-- [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Provides an overview of admin law topics, including separation of powers and rule of law, which are foundational concepts in this note.
-- [[Admin Law/summaries/Week 13/Week 13 Overview Summary]] - Covers key admin law topics such as accountability and judicial review, complementing the current note's focus.
-- [[Admin Law/summaries/Week 2/French - Administrative Justice Summary]] - Discusses administrative justice, which relates to the rule of law and accountability, both present in this note.
+- [[Admin Law/summaries/Week 13/Week 13 Overview Summary]] - Shares key topics such as statutory remedies, common law writs, equitable relief, and references to relevant cases and acts, making it complementary for understanding remedies in administrative law.
+- [[Admin Law/summaries/Week 2/Creyke - Integrity in Government Summary]] - Relates to administrative justice and integrity in government, which underpins the principles discussed in notes about procedural fairness and accountability.
 <!-- agent:see-also:end -->

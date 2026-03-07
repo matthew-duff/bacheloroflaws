@@ -1,3 +1,20 @@
+---
+title: 'CBS v Telmak'
+tags:
+  - 'sound-alike'
+  - 'copyright-infringement'
+  - 'section-85a'
+  - 'original-sound-recording'
+  - 'independent-performers'
+summary: 'The case clarifies that creating sound-alike recordings without mechanically copying the original recordings does not infringe the exclusive right to copy under section 85(a) of the Copyright Act 1968.'
+cases:
+  - 'CBS Records Australia Ltd v Telmak Teleproducts (Aust) Pty Ltd [1987] 17 FCR 48'
+statutes:
+  - 'Copyright Act 1968 (Cth)'
+  - 'Section 10(3)(c)'
+jurisdiction: 'Australia'
+assessment_relevance: 'Key test for distinguishing between infringing copies and permissible sound-alikes; useful for exam questions on infringement and fair dealing.'
+---
 [[Copyright Law/03-sources/cases/CBS Records Australia Ltd v Telmak Teleproducts (Aust) Pty Ltd (1987) 17 FCR 48]]
 
 **CBS Records Australia Ltd v Telmak Teleproducts (Aust) Pty Ltd**, 17 FCR 48 (1987)
@@ -30,3 +47,11 @@ No. The court held that the sound-alike recordings were not copies of the origi
 Under section 10(3)(c) of the _Copyright Act 1968_ (Cth), an infringement of a sound recording by making a "copy" requires the actual embodiment or direct duplication of the specific sounds fixed in the original record. The exclusive right to copy a sound recording does not prohibit the creation of an imitation recording produced by independent performers.
 
 ### Reasoning
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/cases/Burge v Swarbrick]] - Shares topics such as 'copyright craftsmanship' and 'functional art'.
+- [[Copyright Law/05-summaries/cases/F100149]] - Same subject area; likely discusses sound recordings or similar copyright elements.
+<!-- agent:see-also:end -->

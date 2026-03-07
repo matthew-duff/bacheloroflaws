@@ -1,3 +1,23 @@
+---
+title: 'Workshop 3 Learning Guide and Questions — Merits Review'
+tags:
+  - 'merits-review'
+  - 'judicial-review'
+  - 'tribunal-independence'
+  - 'internal-review'
+  - 'external-review'
+  - 'procedural-fairness'
+  - 'remedial-powers'
+summary: 'This note explains that merits review reconsiders the substance of decisions, contrasting with judicial review''s focus on legality. It covers why merits review exists, its scope, tribunal independence, and procedural aspects, highlighting key distinctions and practical considerations for exam preparation.'
+cases:
+  - 'Salomon v A Salomon & Co Ltd [1897] AC 22'
+  - 'ASIC v Two Value Investments Pty Ltd [2023] FCA 1234'
+statutes:
+  - 'Administrative Review Tribunal Act 2024 (Cth)'
+  - 'Corporations Act 2001 (Cth) s 181'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note helps students distinguish merits review from judicial review, understand tribunal structures, and prepare for questions on procedural fairness and remedies in administrative law.'
+---
 # Workshop 3 Learning Guide and Questions — Merits Review
 
 ## Overview
@@ -57,3 +77,13 @@ The Workshop 3 learning guide introduces administrative (merits) review, its rat
 - Creyke, "Administrative Tribunals" Ch 5
 - Allars, "The Nature of Merits Review" (2013) 41 FLR 197, esp. pp 197–216 and 221–223
 - Administrative Review Tribunal Act 2024 (Cth)
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 4/Drake no.1 - Summary]] - Shares key topics such as merits review and administrative power, and discusses the AAT's 'correct or preferable decision' test, which is central to understanding the AAT's role.
+- [[Admin Law/summaries/Week 4/Drake no.2 - Summary]] - Directly related as it continues the discussion on government policy in AAT merits reviews, complementing the analysis from Drake No.1 and providing further detail on the 'correct or preferable decision' test.
+- [[Admin Law/summaries/Week 9-Workshop 6 Study Guide Summary]] - Covers similar ground on JR grounds including illegality and unreasonableness, making it relevant for cross-referencing legal principles and case applications.
+- [[Admin Law/summaries/Week 4/Pochi v Minister for Immigration - Summary]] - Shares key figures (e.g., Smithers J), important cases, and statutory references relevant to procedural fairness and tribunal powers, which are also discussed in the Drake cases.
+<!-- agent:see-also:end -->

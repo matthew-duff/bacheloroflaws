@@ -1,12 +1,21 @@
 ---
 type: article
 
+title: 'Reference'
 tags:
   - 'administrative-justice'
   - 'integrity-in-government'
   - 'nisa-framework'
   - 'institutional-accountability'
   - 'compliance-culture'
+summary: 'The note analyzes Creyke''s framework linking administrative justice to integrity in government, highlighting strengths like the NISA model and weaknesses such as underfunding, offering a systemic view useful for exam essays on accountability and institutional design.'
+cases:
+  - 'Spigelman CJ, "Integrity in Government" [2007] 31 Melbourne University Law Review 705'
+statutes:
+  - 'Corporations Act 2001 (Cth)'
+  - 'Public Interest Disclosure Act 2013 (Cth)'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note is essential for understanding the interplay between administrative law doctrines and integrity systems, crucial for essay questions on institutional accountability and reform debates.'
 ---
 [[Creyke's article on integrity in government]]
 
@@ -32,8 +41,9 @@ This article provides a systemic view of administrative law, moving beyond indiv
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Shares topics like automated decision-making, administrative justice, and statutory discretion, and references cases and statutes relevant to integrity in government and compliance culture.
-- [[Admin Law/summaries/Week 12/LPDT v Minister]] - Discusses jurisdictional error and the distinction from merits review, which aligns with the integrity and accountability themes and provides statutory context.
-- [[Admin Law/summaries/Week 4/Chapter by Professor Creyke on Merits Review - Summary]] - Directly relates to the topic of integrity in government and institutional accountability through its focus on merits review in administrative tribunals.
-- [[Admin Law/summaries/Week 1-Lecture 1 Summary]] - Introduces foundational concepts of administrative law, including accountability and rule of law, which underpin integrity in government.
+- [[Admin Law/summaries/Week 4/Chapter by Professor Creyke on Merits Review - Summary]] - Shares the same author and topic focus on meritorious review in administrative tribunals, directly complementing the reference note.
+- [[Admin Law/summaries/Week 1-Lecture 1 Summary]] - Covers foundational concepts like rule of law, separation of powers, and review types, which contextualize the integrity and accountability themes in the current note.
+- [[Admin Law/summaries/Week 12/Automated Decision-making and AI Study Summary]] - Addresses modern challenges to administrative justice and integrity, relevant for contemporary administrative law discussions.
+- [[Admin Law/summaries/Week 12/LPDT v Minister]] - Discusses jurisdictional error and statutory compliance, closely related to the integrity and procedural accountability issues in the current note.
+- [[Admin Law/summaries/Week 2/French - Administrative Justice Summary]] - Explores administrative justice, a core topic in the current note, offering additional perspectives on procedural fairness.
 <!-- agent:see-also:end -->

@@ -1,11 +1,23 @@
 ---
 type: study-guide
 
+title: 'Reference'
 tags:
   - 'public-powers'
   - 'accountability'
   - 'judicial-review'
   - 'merits-review'
+  - 'administrative-justice'
+  - 'government-accountability'
+  - 'good-administration'
+summary: 'This note outlines the foundational concepts of administrative law, emphasizing the regulation of public powers, accountability mechanisms, and core values like legality and fairness. It highlights the role of judicial and merits review, integrity bodies, and the significance of administrative justice in ensuring government accountability.'
+cases:
+  - 'Salomon v A Salomon & Co Ltd [1897] AC 22'
+statutes:
+  - 'Corporations Act 2001 (Cth)'
+  - 'Constitution Act 1900 (Cth)'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note is crucial for exams as it consolidates key doctrines like judicial review, the role of ASIC, and the principles of administrative justice, enabling students to answer problem questions on accountability and review grounds.'
 ---
 [[Workshop 1 Learning Guide and Workshop Questions To Prepare]]
 
@@ -39,9 +51,9 @@ This guide provides the pedagogical framework for the course, defining the key t
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 2/French - Administrative Justice Summary]] - Both notes address administrative justice and share the case Salomon v A Salomon & Co Ltd [1897] AC 22, with overlapping topics like procedural fairness and constitutional values.
-- [[Admin Law/summaries/Week 2/Creyke - Integrity in Government Summary]] - This note shares the case Salomon v A Salomon & Co Ltd [1897] AC 22 and discusses integrity and accountability in government, aligning with the themes of accountability and institutional oversight.
-- [[Admin Law/summaries/Week 2/Walker - Statutory Interpretation Summary]] - Both deal with judicial review and statutory interpretation, with overlapping statutes such as the Corporations Act and common law principles shaping review doctrines.
-- [[Admin Law/summaries/Week 12/Workshop 9 Guide Summary]] - This note expands on judicial review, procedural fairness, and statutory rights to reasons, complementing the themes of accountability and reasonableness in administrative law.
-- [[Admin Law/summaries/Week 13/Workshop 10 Guide Summary]] - It focuses on remedies in judicial review, complementing the earlier notes’ discussion of review grounds and accountability mechanisms.
+- [[Admin Law/summaries/Week 2/French - Administrative Justice Summary]] - Both discuss administrative justice and share the case of Salomon v A Salomon, with overlapping topics like procedural fairness and constitutional values.
+- [[Admin Law/summaries/Week 2/Walker - Statutory Interpretation Summary]] - Shares the case Salomon v A Salomon & Co Ltd and explores judicial review, statutory interpretation, and reasonableness—topics that complement the administrative justice framework.
+- [[Admin Law/summaries/Week 12/Workshop 9 Guide Summary]] - Addresses judicial review, procedural fairness, and statutory rights to reasons, closely related to the themes of accountability and integrity in government.
+- [[Admin Law/summaries/Week 13/Workshop 10 Guide Summary]] - Focuses on remedies in judicial review, complementing the earlier discussion of accountability, integrity, and procedural fairness in administrative law.
+- [[Admin Law/summaries/Week 2/Groves & Boughey Summary]] - Discusses executive accountability, judicial review, and merits review, tying directly into the core themes of integrity, accountability, and good administration.
 <!-- agent:see-also:end -->

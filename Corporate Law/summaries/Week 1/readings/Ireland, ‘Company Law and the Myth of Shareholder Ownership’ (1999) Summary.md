@@ -1,3 +1,26 @@
+---
+title: 'Exam Summary: Company Law and the Myth of Shareholder Ownership (Paddy Ireland, 1999)'
+tags:
+  - 'legal-personality'
+  - 'limited-liability'
+  - 'joint-stock-companies'
+  - 'shareholder-ownership-myth'
+  - 'separate-personality'
+  - 'fiduciary-duties'
+  - 'stakeholder-theory'
+  - 'short-termism'
+  - 'common-property'
+summary: 'Ireland challenges the notion that shareholders truly own companies, tracing the shift from partnership to depersonified institution and critiquing modern law’s failure to recognize separate corporate personality. This creates tensions between legal fiction and economic reality, affecting governance, fiduciary duties, and stakeholder interests.'
+cases:
+  - 'Bligh v Brent [1837] 1 M & C 461'
+  - 'Salomon v Salomon & Co Ltd [1897] AC 22'
+statutes:
+  - 'Corporations Act 2001 (Cth)'
+  - 'Companies Act 2006 (Cth)'
+period: '19th-20th century'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note synthesizes key debates for exams—myth of ownership, separate personality, and fiduciary duties—useful for essay frameworks and oral assessments on corporate law theory.'
+---
 # Exam Summary: Company Law and the Myth of Shareholder Ownership (Paddy Ireland, 1999)
 
 ## 1. Core Thesis
@@ -57,3 +80,14 @@ Ireland identifies a fundamental contradiction in modern law:
 *   **Common Property:** Ireland suggests corporate assets, as products of collective social labor, should be viewed as "common property" rather than private property.
 
 **Model Used:** `gemini-3-flash-preview` (via subagent)
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Corporate Law/summaries/Week 1/readings/Schmitthoff, ‘The Origin of the Joint-Stock Company’ (1939) Summary]] - Shares topics such as joint-stock companies and legal personality, and provides historical context for company law concepts.
+- [[Corporate Law/summaries/Week 1/readings/Huddard, Parker & Co Ltd v Moorehead (1909) 8 CLR 330 Summary]] - Discusses the legal personality of companies and ultra-vires doctrine, which relates to the separation of legal personality from shareholders and fiduciary duties.
+- [[Corporate Law/summaries/Week 1/readings/Clarkson (ed), The Corporation and Its Stakeholders (1998) Summary]] - Addresses stakeholder theory and contrasts with shareholder primacy, complementing the myth of shareholder ownership discussed in the summary.
+- [[Corporate Law/summaries/Week 1/Chapter 1 — History and Regulatory Structure]] - Covers the evolution of company law and regulatory structure, providing context for the development of legal personality and corporate regulation.
+- [[Corporate Law/summaries/Week 1/Week 1 - Companies and Company Law]] - Summarizes key features and legal form of companies, including legal personality and limited liability, which are central to the discussion in the summary.
+<!-- agent:see-also:end -->

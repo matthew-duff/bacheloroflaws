@@ -1,3 +1,22 @@
+---
+title: 'Summary: Wilson, ‘Salomon’s Case deters Attempts to lift the Veil’ (1961)'
+tags:
+  - 'separate-legal-entity'
+  - 'dual-capacity'
+  - 'corporate-form'
+  - 'control-and-ownership'
+summary: 'Lee v Lee’s Air Farming Ltd reaffirms that a one-person company is a valid legal entity, capable of contracting in its own name even when the sole director is also its chief employee. The case underscores the importance of the separate legal entity doctrine and refuses to lift the veil merely because of control.'
+figures:
+  - 'Geoffrey Lee'
+cases:
+  - 'Lee v Lee’s Air Farming Ltd [1961] AC 12'
+  - 'Salomon v Salomon & Co Ltd [1897] AC 22'
+statutes:
+  - 'Companies Act 2001 (Cth)'
+  - 'Corporations Act s 181'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note clarifies the separate legal entity principle and dual capacity, essential for exam questions on corporate personality and veil-lifting.'
+---
 # Summary: Wilson, ‘Salomon’s Case deters Attempts to lift the Veil’ (1961)
 
 ## Overview

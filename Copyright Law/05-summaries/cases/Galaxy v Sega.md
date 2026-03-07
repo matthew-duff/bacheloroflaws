@@ -1,3 +1,20 @@
+---
+title: 'Galaxy v Sega'
+tags:
+  - 'copyright-law'
+  - 'cinematograph-film'
+  - 'computer-games'
+  - 'intellectual-property'
+  - 'technology-licensing'
+summary: 'The Galaxy v Sega decision confirms that real-time, interactive video game displays can qualify as cinematograph films under s 10 of the Copyright Act 1968, expanding protection beyond traditional film and clarifying the treatment of pre-existing digital images.'
+cases:
+  - 'Galaxy Electronics Pty Ltd v Sega Enterprises Ltd (1997) 75 FCR 8'
+statutes:
+  - 'Copyright Act 1968 (Cth)'
+  - 'Circuit Layouts Act 1989 (Cth)'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note illustrates the evolving scope of copyright protection for digital media, a frequent exam topic on technology and media law, and highlights key doctrinal tensions between traditional film definitions and modern interactive works.'
+---
 [[Copyright Law/03-sources/cases/Galaxy Electronics Pty Ltd v Sega Enterprises Ltd (1997) 75 FCR 8]]
 
 **Citation**: (1997) 75 FCR 8
@@ -21,3 +38,11 @@ Yes. The Full Court dismissed the appeals and held that the video games constitu
 
 ### Significance
 This case establishes that **computer-generated video game images can be protected as cinematograph films** under Australian copyright law, even where: (1) images are generated in real time rather than stored as pre-recorded frames; (2) the sequence varies according to player input within predetermined limits; and (3) the images exist in digital form (e.g., 3D coordinates) rather than traditional film or video. It provides a pathway for Pt IV protection where Pt III protection for computer programs is excluded by the *Circuit Layouts Act*. The decision reflects a purposive, technology-neutral approach to the definition of "cinematograph film".
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/cases/Sega v Galaxy]] - Directly related case in the same domain, likely discussing similar issues of copyright and technology licensing.
+- [[Copyright Law/05-summaries/cases/Feist v Rural Telephone]] - Shares the theme of copyrightability of factual compilations, relevant for understanding originality standards.
+<!-- agent:see-also:end -->

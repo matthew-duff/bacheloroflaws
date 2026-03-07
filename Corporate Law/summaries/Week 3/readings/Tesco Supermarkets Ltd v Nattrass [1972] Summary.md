@@ -1,3 +1,23 @@
+---
+title: 'Case Summary: Tesco Supermarkets Ltd v Nattrass [1972] AC 153'
+tags:
+  - 'identification-doctrine'
+  - 'directing-mind-and-will'
+  - 'vicarious-liability'
+  - 'corporate-criminal-liability'
+  - 'due-diligence-defense'
+  - 'case-won'
+  - 'ratio-the-house-of-lords-held-that-a-company-is-liable-for-an-offence-only-if-the-dire'
+summary: 'Tesco Supermarkets Ltd v Nattrass established that a company is liable only for acts of its ''directing mind and will,'' not for those of a store manager, narrowing corporate criminal liability under the Trade Descriptions Act 1968.'
+cases:
+  - 'Tesco Supermarkets Ltd v Nattrass [1972] AC 153'
+statutes:
+  - 'Trade Descriptions Act 1968'
+jurisdiction: 'England and Wales'
+assessment_relevance: 'This note clarifies the ''Identification Doctrine'' and its impact on corporate liability, crucial for exam questions on vicarious liability and defenses.'
+ratio: 'The House of Lords held that a company is liable for an offence only if the ''directing mind and will'' of the company committed the act; a store manager’s failure did not constitute the company’s act under the Trade Descriptions Act 1968.'
+case_outcome: 'won'
+---
 # Case Summary: Tesco Supermarkets Ltd v Nattrass [1972] AC 153
 
 ## 1. Case Overview

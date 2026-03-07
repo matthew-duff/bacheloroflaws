@@ -1,8 +1,29 @@
 ---
-tags: [law-and-tech, summary]
 type: textbook
----
 
+title: 'Reference'
+tags:
+  - 'electronic-signatures'
+  - 'contract-formation'
+  - 'legal-equivalence'
+  - 'regulatory-framework'
+  - 'consent-requirement'
+  - 'dispatch-receipt'
+  - 'dispute-resolution'
+  - 'jurisdictional-variations'
+  - 'policy-issues'
+  - 'technology-impact'
+summary: 'This note explains how electronic communication satisfies traditional contract law principles through functional equivalence and technology neutrality, while highlighting statutory frameworks like the UNCITRAL Model Law and the Electronic Transactions Act, and clarifying key issues such as consent and the postal acceptance rule in the digital age.'
+cases:
+  - 'McGuren v Simpson [2004]'
+  - 'Bauen Constructions v Sky General Services'
+statutes:
+  - 'UNCITRAL Model Law on Electronic Commerce 1996'
+  - 'Electronic Transactions Act 1999 (Cth)'
+  - 'Communications Convention 2005'
+jurisdiction: 'Australia and international'
+assessment_relevance: 'Covers core exam topics on electronic contracts, statutory interpretation, and policy debates, useful for both written exams and oral assessments on contract formation and digital law.'
+---
 [[11-Chapter AD-5151]]
 
 ### Reference
@@ -126,3 +147,13 @@ Many jurisdictions exempt specific areas (Land, Wills, Powers of Attorney).
 ### **C. Attribution**
 
 Under the _ETA_, a person is only bound by an electronic communication if it was sent by them or with their **authority**. This preserves the law of agency but places the risk of "spoofing" or unauthorized access on the recipient.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Law & Tech/05-summaries/Electronic Signatures/Davidson Chapter 13]] - Directly related chapter on electronic signatures, likely covering similar legal principles and statutory frameworks.
+- [[Law & Tech/05-summaries/Electronic Signatures/Electronic Signatures]] - Overview of electronic signatures could offer a broader perspective on legal equivalence and regulatory frameworks relevant to this note.
+- [[Law & Tech/05-summaries/Electronic Transferable Records (MLETR)/MLETR Model Law]] - MLETR Model Law may relate to contract formation and legal equivalence in electronic contexts, complementing the discussion on electronic contracting.
+- [[Law & Tech/05-summaries/Internet of Things/IoT Australia Code]] - While more specialized, IoT law may intersect with electronic contracting and signatures in practical applications, offering a comparative angle.
+<!-- agent:see-also:end -->

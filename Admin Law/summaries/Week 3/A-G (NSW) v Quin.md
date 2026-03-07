@@ -1,14 +1,22 @@
 ---
 type: case
 
+title: 'Attorney-General (NSW) v Quin'
 tags:
   - 'natural-justice'
   - 'legitimate-expectation'
   - 'judicial-review'
   - 'executive-discretion'
-  - 'merits-review'
   - 'procedural-fairness'
   - 'appointment-policy'
+summary: 'The case clarifies that legitimate expectations in administrative law are procedural, not substantive, limiting judicial intervention in executive discretion while reinforcing the separation of powers.'
+cases:
+  - 'Attorney-General (NSW) v Quin [1990] 170 CLR 1'
+statutes:
+  - 'Local Courts Act 1982 (NSW)'
+  - 'Corporations Act 2001 (Cth)'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note is pivotal for exams on administrative law, testing understanding of legitimate expectation, judicial review limits, and executive discretion, and it supports oral assessments on procedural fairness and separation of powers.'
 ---
 [[A-G (NSW) v Quin]]
 
@@ -41,7 +49,7 @@ The High Court (Mason CJ, Brennan, and Dawson JJ; Deane and Toohey JJ dissenting
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 3/Church of Scientology v Woodward]] - Relevant due to its connection with executive discretion and procedural fairness, both of which are core topics in this note.
-- [[Admin Law/summaries/Week 3/Gageler - Constitutional Context Summary]] - Provides constitutional context relevant to natural justice and procedural fairness, which are central themes.
-- [[Admin Law/summaries/Week 3/Waldron - Rule of Law Summary]] - Offers a theoretical grounding on the rule of law, complementing the discussion of judicial review and legitimacy.
+- [[Admin Law/summaries/Week 3/Church of Scientology v Woodward]] - Shares the topic of procedural fairness and legitimate expectation, both central to administrative law and judicial review.
+- [[Admin Law/summaries/Week 3/Gageler - Constitutional Context Summary]] - Provides constitutional context relevant to judicial review and executive discretion, closely related to the principles discussed.
+- [[Admin Law/summaries/Week 3/Lecture 3 Legality Review Summary]] - Directly addresses the grounds of review and legal review, complementing the analysis of judicial review in the current note.
 <!-- agent:see-also:end -->

@@ -1,6 +1,7 @@
 ---
 type: lecture-slides
 
+title: 'Lecture 3: Legality Review Part 1 – Grounds of Review'
 tags:
   - 'procedural-fairness'
   - 'natural-justice'
@@ -10,6 +11,28 @@ tags:
   - 'project-blue-sky'
   - 'unauthorized-purpose'
   - 'human-rights-act-2019'
+summary: 'This note outlines the grounds for legality review, focusing on procedural fairness, statutory procedures, and human rights considerations under the ADJR Act and JR Act, highlighting key tests and doctrines.'
+cases:
+  - 'SZSSJ (2016)'
+  - 'Kioa v West (1985)'
+  - 'Tanos (1958)'
+  - 'Saeed (2010)'
+  - 'Project Blue Sky (1998)'
+  - 'City of Adelaide (2013)'
+  - 'Evans v NSW (2008)'
+  - 'Toohey (1981)'
+  - 'Thompson v Randwick (1981)'
+  - 'Peko-Wallsend (1986)'
+  - 'SZJSS (2010)'
+  - 'Owen-D''Arcy (2021)'
+  - 'Thompson v Minogue (2021)'
+statutes:
+  - 'ADJR Act'
+  - 'JR Act'
+  - 'Project Blue Sky Act 1998'
+  - 'Human Rights Act 2019 (Qld)'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note consolidates key doctrines for exam retrieval and oral assessment, especially around procedural fairness and human rights grounds of review.'
 ---
 [[2026 - Lecture 3 - slides - Legality review - part 1 - Grounds of review]]
 
@@ -56,9 +79,9 @@ This lecture establishes the foundational legal framework for challenging the **
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 4/Lecture 4 - Legality Review Part 2 - Summary]] - Continuation of the same topic, covering further grounds of review and human rights.
-- [[Admin Law/summaries/Week 5-Workshop 4 Study Guide Summary]] - Focuses on natural justice and procedural fairness, closely related topics in legality review.
-- [[Admin Law/summaries/Week 6-Workshop 5 Study Guide Summary]] - Explores procedural ultra vires and simple ultra vires, related to the scope of administrative law review.
-- [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Discusses legality and procedural fairness in the context of automated decision-making and AI, extending the concept of natural justice.
-- [[Admin Law/summaries/Week 3/A-G (NSW) v Quin]] - Examines procedural fairness and legitimate expectations in administrative appointments, relevant to grounds of review.
+- [[Admin Law/summaries/Week 4/Lecture 4 - Legality Review Part 2 - Summary]] - Continuation of the same lecture series, likely covering further grounds of review and human rights, closely related to the topics and cases in this note.
+- [[Admin Law/summaries/Week 5-Workshop 4 Study Guide Summary]] - Focuses on procedural fairness and natural justice, both of which are central topics in this note.
+- [[Admin Law/summaries/Week 6-Workshop 5 Study Guide Summary]] - Deals with judicial review grounds, complementing the discussion of procedural fairness and legal review in this note.
+- [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Addresses procedural fairness and legal principles in the context of automated decision-making, which relates to the broader themes of fairness and legal review.
+- [[Admin Law/summaries/Week 3/A-G (NSW) v Quin]] - Discusses procedural fairness and legitimate expectations, which are key concepts in the context of judicial review and administrative law.
 <!-- agent:see-also:end -->

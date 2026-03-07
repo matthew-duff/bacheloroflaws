@@ -1,3 +1,23 @@
+---
+title: 'Telstra v Phone Directories'
+tags:
+  - 'copyright-subsistence'
+  - 'computer-generated-compilations'
+  - 'human-authorship'
+  - 'fixation-requirement'
+  - 'sweet-of-the-brow-rejected'
+summary: 'The case clarifies that copyright does not subsist in computer-generated compilations lacking human authorship, overturning prior approaches and reinforcing that protection requires direction of creative effort toward material form.'
+figures:
+  - 'Telstra Corporation Ltd'
+  - 'Phone Directories Company Pty Ltd'
+cases:
+  - 'Telstra Corporation Ltd v Phone Directories Company Pty Ltd [2010] 194 FCR 142'
+statutes:
+  - 'Copyright Act 1968 (Cth)'
+  - 'Section 32(2)(c)'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note is crucial for exams on copyright subsistence and the impact of automation on protection, and it supports oral assessments on the limits of copyright in databases and compilations.'
+---
 [[Copyright Law/03-sources/cases/Telstra Corporation Ltd v Phone Directories Company Pty Ltd (2010) 194 FCR 142]]
 
 **Citation**: (2010) 194 FCR 142
@@ -20,3 +40,11 @@ No. Appeal dismissed. Copyright does not subsist in the directories. They are no
 
 ### Significance
 This case **overturns the Desktop Marketing approach** to copyright in compilations. It establishes that **computer-generated compilations are not protected by copyright** in Australia and that the "sweat of the brow" doctrine does not apply. Copyright requires human authorship directed at the production of the work in its material form. The decision is critical for understanding subsistence of copyright in databases, directories and other compilations produced by automated processes.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/cases/Desktop Marketing v Telstra]] - Shares the topic of copyright subsistence in factual compilations and directly relates to the Telstra v Phone Directories case.
+- [[Copyright Law/05-summaries/cases/F100149]] - Addresses copyright subsistence and automated compilation, relevant due to the automated nature of the Phone Directories compilation.
+<!-- agent:see-also:end -->

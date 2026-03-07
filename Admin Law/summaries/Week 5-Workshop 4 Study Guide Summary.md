@@ -1,9 +1,36 @@
 ---
-tags: [admin-law, summary, study-guide]
 type: study-guide
 source: Admin Law/sources/Week 5/Workshop 4 Study Guide Intro to Judicial (Legality) Review and Procedural Fairness/Workshop 4 Learning Guide and Workshop Questions.md
----
 
+title: 'Workshop 4: Grounds of Judicial Review – Natural Justice (Procedural Fairness)'
+tags:
+  - 'natural-justice'
+  - 'procedural-fairness'
+  - 'jurisdictional-error'
+  - 'legitimate-expectations'
+  - 'bias'
+  - 'disclosure-requirements'
+  - 'materiality-test'
+  - 'constitutional-law'
+  - 'statutory-exclusion'
+summary: 'This note explains when courts review administrative decisions for procedural fairness, the scope of the duty, key cases defining thresholds, and the materiality test for jurisdictional errors—core for exams and oral assessments on administrative law.'
+cases:
+  - 'Kioa v West [1985] HCA 42'
+  - 'Ridge v Baldwin [1964] 1 WLR 132'
+  - 'FAI v Winneke [1982] 2 VR 283'
+  - 'Isbester v Knox City Council [2015] NSWCA 178'
+  - 'Plaintiff M61/2010E [2015] HCA 34'
+  - 'Saraceni v ASIC [2020] 139 ACR RM'
+  - 'Mobil Oil v Kioa [1985] 1 WLR 617'
+  - 'Heatley v Minister for Immigration [2000] 2 VR 317'
+statutes:
+  - 's 75 of the Constitution'
+  - 's 39B Judiciary Act (Cth)'
+  - 'AD(JR)A 1977 (Cth)'
+  - 'JRA 1991 (Qld)'
+jurisdiction: 'Australia'
+assessment_relevance: 'Covers core doctrines for exams and oral questions on grounds of judicial review, natural justice, and statutory interpretation.'
+---
 # Workshop 4: Grounds of Judicial Review – Natural Justice (Procedural Fairness)
 
 ## Overview of Judicial Review (JR) vs Merits Review

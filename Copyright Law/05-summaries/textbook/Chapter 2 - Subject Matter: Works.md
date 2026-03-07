@@ -1,3 +1,27 @@
+---
+title: 'Chapter 2 - Subject Matter: Works'
+tags:
+  - 'originality'
+  - 'material-form'
+  - 'substantiality'
+  - 'literary-work'
+  - 'dramatic-work'
+  - 'musical-work'
+  - 'artistic-work'
+  - 'joint-authorship'
+summary: 'This note outlines the three core requirements for copyright subsistence in Australia: originality, material form, and substantiality. It distinguishes between the categories of works protected and explains the evolution from labor-based to expression-based protection, emphasizing the role of joint authorship and the impact of key cases like IceTV.'
+cases:
+  - 'Telstra Pty Ltd v Phone Directories Pty Ltd [2001] FCA 1792'
+  - 'IceTV Pty Ltd v Nine Network (2009) 156 FLR 640'
+  - 'Green v Broadcasting Corp of NZ [1997] 2 AC 288'
+statutes:
+  - 'Copyright Act 1968 (Cth)'
+  - 'Copyright Act s 32'
+  - 'Copyright Act s 22'
+  - 'Copyright Act s 10'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note is essential for understanding the foundational concepts of copyright law, enabling students to analyze infringement, ownership, and the boundaries between different work categories in exams and oral assessments.'
+---
 # Chapter 2 - Subject Matter: Works
 
 [[ch02-raw]]
@@ -36,3 +60,14 @@ Chapter 2 is fundamental to Australian copyright law as it defines the "copyrigh
 
 ---
 *Model used: gemini-3-flash-preview*
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/textbook/Chapter 1 - Introduction]] - Shares topics like 'works' and 'subject matter', and includes cases relevant to copyright foundations.
+- [[Copyright Law/05-summaries/textbook/Chapter 10 - Exceptions and Limitations]] - Discusses exceptions to copyright infringement, which complements the concept of 'works' by explaining when use is permitted.
+- [[Copyright Law/05-summaries/textbook/Chapter 6 - Exclusive Rights and Infringement]] - Focuses on exclusive rights over works, linking directly to the definition and scope of 'works' in copyright.
+- [[Copyright Law/05-summaries/articles/IP and AI-Generated Works]] - Addresses modern issues around authorship and originality, relevant to the definition of 'works' in contemporary contexts.
+- [[Copyright Law/05-summaries/textbook/Chapter 3 - Subject Matter Other Than Works]] - Explores non-traditional subject matter, providing contrast and context to the core concept of 'works'.
+<!-- agent:see-also:end -->

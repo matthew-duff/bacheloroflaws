@@ -1,3 +1,22 @@
+---
+title: 'Summary: A Friedman doctrine - The Social Responsibility of Business Is to Increase Its Profits'
+tags:
+  - 'legal-personality'
+  - 'limited-liability'
+  - 'corporate-social-responsibility'
+  - 'market-mechanism'
+  - 'executive-duty'
+summary: 'Friedman argues that corporate social responsibility beyond profit maximization within legal bounds is misguided, as it undermines market freedom and shifts decision-making to undemocratic political processes.'
+figures:
+  - 'Milton Friedman'
+cases:
+  - 'Salomon v A Salomon & Co Ltd [1897] AC 22'
+statutes:
+  - 'Corporations Act 2001 (Cth)'
+  - 'Corporations Act s 181'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note clarifies the core tension between profit maximization and social responsibility, useful for exam essays on corporate purpose and political economy.'
+---
 # Summary: A Friedman doctrine - The Social Responsibility of Business Is to Increase Its Profits
 
 **Author:** Milton Friedman (Sept. 13, 1970)
@@ -26,3 +45,14 @@ The sole social responsibility of a business is to use its resources and engage 
   - The market mechanism is based on *unanimity*: voluntary cooperation where no individual coerces another.
   - The political mechanism is based on *conformity*: the individual must serve a more general social interest and conform even if overruled. 
   - Extending the "social responsibility" doctrine to business unnecessarily extends the coercive political mechanism into the voluntary market sphere.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Corporate Law/summaries/Week 2/readings/Whittington, Review of Berle and Means (1970)]] - Discusses the evolution of corporate governance and shareholder primacy, complementing Friedman's doctrine by examining its historical context and critiques.
+- [[Corporate Law/summaries/Week 2/readings/Berle and Means, The Modern Corporation and Private Property (1932)]] - Provides foundational context on corporate structure and ownership, directly engaging with the themes of corporate social responsibility and executive duty central to Friedman's argument.
+- [[Corporate Law/summaries/Week 2/readings/cadbury-report 1]] - Addresses corporate governance and stakeholder theory, offering a contrasting perspective to Friedman's shareholder primacy by emphasizing broader corporate responsibilities.
+- [[Corporate Law/summaries/Week 1/readings/Clarkson (ed), The Corporation and Its Stakeholders (1998) Summary]] - Introduces stakeholder theory, which directly challenges Friedman's doctrine by advocating for corporate responsibility beyond profit maximization.
+- [[Corporate Law/summaries/Week 2/readings/A. A. Berle-CorporateManagersTrustees-1932]] - Explores the fiduciary role of corporate managers, linking to Friedman's discussion of executive duties and the legal responsibilities of corporate leadership.
+<!-- agent:see-also:end -->

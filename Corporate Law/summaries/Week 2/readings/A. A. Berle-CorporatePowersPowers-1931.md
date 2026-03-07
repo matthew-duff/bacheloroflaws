@@ -1,3 +1,25 @@
+---
+title: 'Summary: Corporate Powers as Powers in Trust (1931)'
+tags:
+  - 'legal-personality'
+  - 'limited-liability'
+  - 'joint-stock-companies'
+  - 'equitable-limitation'
+  - 'corporate-powers'
+summary: 'Berle argues corporate powers are held in trust for shareholders, requiring equitable limits even when statutes or charters grant broad authority. Courts enforce this through tests like the two-fold test, ensuring actions benefit all shareholders fairly.'
+figures:
+  - 'Adam-Smith'
+  - 'John-Stuart-Mill'
+cases:
+  - 'Salomon v A Salomon & Co Ltd [1897] AC 22'
+  - 'Macdougall v Gardiner [1885] 60 Ch D 142'
+statutes:
+  - 'Corporations Act 2001 (Cth)'
+  - 'Companies Act 2006 (Cth) s 181'
+period: 'Early 20th century'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note clarifies the equitable foundations of corporate powers, crucial for exam questions on fiduciary duties and shareholder rights. It also highlights how courts adapt principles across corporate law areas.'
+---
 # Summary: Corporate Powers as Powers in Trust (1931)
 
 **Author:** A. A. Berle
@@ -20,3 +42,12 @@ Berle points out that courts have already applied this underlying equitable prin
 
 ## Conclusion
 Instead of viewing these as isolated, disjointed rules, Berle synthesizes them into a single, fundamental principle: corporate powers are never absolute; they are held in a fiduciary capacity. Recognizing this overarching equitable limitation provides courts with the flexibility to substitute or adopt new remedies as needed to protect passive investors from the unrestrained power of corporate management.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Corporate Law/summaries/Week 2/readings/A. A. Berle-CorporateManagersTrustees-1932]] - Shares key topics (fiduciary duties, corporate powers) and figures (Adam-Smith, John-Stuart-Mill), and discusses Berle's theory further.
+- [[Corporate Law/summaries/Week 2/readings/Berle and Means, The Modern Corporation and Private Property (1932)]] - Directly related as a follow-up to Berle's 1931 work, exploring corporate powers and legal personality.
+- [[Corporate Law/summaries/Week 2/readings/A Friedman doctrine‐- The Social Responsibility of Business Is to Increase Its Profits - The New York Times]] - Engages with the legal personality and limited liability themes, contrasting modern corporate responsibility with classical trust-based corporate powers.
+<!-- agent:see-also:end -->

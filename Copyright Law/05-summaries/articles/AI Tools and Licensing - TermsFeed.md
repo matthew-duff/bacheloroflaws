@@ -1,3 +1,24 @@
+---
+title: 'AI Tools and Licensing - TermsFeed'
+tags:
+  - 'ai-authorship'
+  - 'human-input'
+  - 'jurisdictional-variance'
+  - 'input-ownership'
+  - 'output-ownership'
+  - 'terms-of-service'
+  - 'policy-tension'
+summary: 'The note maps how copyright law treats AI-generated outputs across major jurisdictions, emphasizing the requirement of meaningful human input for protection and the evolving contractual terms that shape ownership.'
+cases:
+  - 'Salomon v A Salomon & Co Ltd [1897] AC 22'
+  - 'Thaler v Perlmutter (2023)'
+statutes:
+  - 'EU Copyright Directive'
+  - 'US Copyright Office Guidance 2025'
+  - 'UK Copyright, Designs and Patents Act 1988 s 9(3)'
+jurisdiction: 'EU, US, UK'
+assessment_relevance: 'This note consolidates key jurisdictional approaches and practical considerations for exam essays and oral assessments on AI and copyright, highlighting the tension between statutory, case law, and contractual rules.'
+---
 [[AI Tools and Licensing: Who Owns the Output? - TermsFeed]]
 
 **Citation / Reference:** Leah Hudson, "AI Tools and Licensing: Who Owns the Output?", TermsFeed (blog), 3 December 2025, https://www.termsfeed.com/blog/ai-output-licensing/
@@ -13,3 +34,14 @@
 **Significance for Copyright Law**
 - Central reference for how copyright and related rights apply to AI inputs and outputs across major jurisdictions (EU, US, UK), and for the policy tension between human authorship and AI-assisted creation.
 - Illustrates the importance of "meaningful human input" and creative control for subsistence and ownership, and the role of provider ToS alongside statutory and judicial rules.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/articles/IP and AI-Generated Works]] - Shares the topic of AI-generated works and their copyright implications.
+- [[Copyright Law/05-summaries/articles/Copyright Infringement and AI]] - Discusses AI's role in potential copyright infringement, closely related to licensing and ownership issues.
+- [[Copyright Law/05-summaries/articles/Overview AI and IP]] - Provides a broad overview of AI's impact on intellectual property, including licensing and ownership.
+- [[Copyright Law/05-summaries/articles/International developments IP and AI]] - Covers international legal responses to AI and copyright, relevant for jurisdictional variance and policy tension.
+- [[Copyright Law/05-summaries/articles/Kadrey v Meta - Fair Use and AI Training]] - Examines a key case on fair use in AI training, directly relevant to policy tension and human input.
+<!-- agent:see-also:end -->

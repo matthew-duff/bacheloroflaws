@@ -1,3 +1,28 @@
+---
+title: 'Copyright Infringement and AI'
+tags:
+  - 'copyright-infringement'
+  - 'ai-training'
+  - 'reproduction-rights'
+  - 'communication-rights'
+  - 'attribution'
+  - 'moral-rights'
+  - 'licensing'
+  - 'defences'
+  - 'regulatory-framework'
+summary: 'The note explains how AI training on copyrighted works creates reproduction and communication risks, outlines the limits of Australian defences, and stresses licensing-first practice. It also covers output liability, proof challenges, and attribution norms.'
+figures:
+  - 'John V Swinson'
+cases:
+  - 'Getty Images v Stability AI [2025] EWHC 2863 (Ch)'
+  - 'Salomon v A Salomon & Co Ltd [1897] AC 22'
+statutes:
+  - 'Copyright Act 1968 (Cth)'
+  - 'Copyright Act s 31'
+  - 'Copyright Act s 85'
+jurisdiction: 'Australia'
+assessment_relevance: 'Key for exams and oral assessments on AI, training, and liability. Covers defences, licensing, and practical compliance.'
+---
 [[Copyright Law/05-summaries/articles/Copyright Infringement and AI]]
 
 **Citation/Reference:** Swinson, John V, *Copyright infringement and AI*, LexisNexis Guidance Note (maintained), The University of Queensland.
@@ -12,3 +37,13 @@
 **Significance for Copyright Law**
 
 Directly addresses when training AI on copyright works and when using AI output can infringe, and the limits of Australian defences (no fair use; narrow fair dealing). It explains the shift to licensing-first and the role of CAIRG and Productivity Commission, and flags liability (reproduction, communication, s 22(6)) and proof issues. Essential for advising on training datasets, licensing, output use and attribution in an Australian copyright framework.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/articles/AI Tools and Licensing - TermsFeed]] - Shares topics like AI authorship, human input, and jurisdictional variance, and discusses contractual terms affecting ownership.
+- [[Copyright Law/05-summaries/articles/IP and AI-Generated Works]] - Directly addresses AI-generated works, a core issue in copyright infringement and AI, complementing the current note's focus.
+- [[Copyright Law/05-summaries/articles/Kadrey v Meta - Fair Use and AI Training]] - Discusses fair use and AI training, closely related to infringement and legal defenses in AI contexts.
+- [[Copyright Law/05-summaries/articles/Overview AI and IP]] - Provides a broad overview of AI's impact on IP, offering context for the specific issue of copyright infringement.
+<!-- agent:see-also:end -->

@@ -1,3 +1,22 @@
+---
+title: 'Facts / Background'
+tags:
+  - 'intellectual-property'
+  - 'copyright-basics'
+  - 'statutory-rights'
+  - 'ownership-duration'
+  - 'infringement-remedies'
+summary: 'This note outlines the statutory framework of copyright law, covering subject matter, ownership, duration, and remedies. It emphasizes the automatic protection upon creation and the 70-year post-mortem term for literary works.'
+cases:
+  - 'Salomon v A Salomon & Co Ltd [1897] AC 22'
+  - 'Foster v Phillips [1892] 2 Ch 34'
+statutes:
+  - 'Copyright Act 1968 (Cth)'
+  - 'Copyright Act s 31'
+  - 'Copyright Act s 115'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note provides the core doctrinal structure for copyright analysis—identifying material, ownership, rights, and remedies—essential for exam problem-solving and oral assessments.'
+---
 [[2026 Session 1 v2 - LAWS5206 Copyright Law]]
 
 **Citation**: LAWS5206 Copyright Law, Session 1 (28 February 2026). Course materials presented by Professor John Swinson and Ben Gardiner KC.
@@ -30,3 +49,11 @@ Session 1 provides an introductory overview of copyright law and sets up the fra
 
 ### Significance
 Session 1 establishes the foundational framework used throughout the course: **Copyright in 6 Easy Steps**—(1) identify the copyright material, (2) identify the owners and licensees, (3) identify the exclusive rights, (4) identify any infringement, (5) identify defences or exceptions, (6) consider remedies. This structure organises analysis of copyright issues and is essential for approaching problems systematically.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/ppts/2026 Session 1 v2]] - Shares key statutory references (Copyright Act 1968) and discusses statutory framework and exclusive rights, complementing the background on statutory foundations.
+- [[Copyright Law/05-summaries/cases/FCT v Seven Network]] - Discusses statutory interpretation of 'royalties' and fixation requirements under the Copyright Act 1968, relating to background concepts of copyright duration and rights.
+<!-- agent:see-also:end -->

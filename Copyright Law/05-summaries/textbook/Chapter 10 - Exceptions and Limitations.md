@@ -1,3 +1,25 @@
+---
+title: 'Chapter 10 - Exceptions and Limitations'
+tags:
+  - 'exceptions-to-infringement'
+  - 'fair-dealing'
+  - 'fairness-factors'
+  - 'private-use'
+  - 'copyright-design-overlap'
+  - 'computer-programs'
+  - 'statutory-licences'
+summary: 'This chapter outlines key copyright exceptions balancing owners'' rights with public interests, covering implied licences, fair dealing purposes, artistic works overlaps, software provisions, private use, and targeted exceptions. It highlights evolving doctrines like fair dealing flexibility and the significance of copyright/design overlap in modern litigation.'
+cases:
+  - 'Acohs v Ucorp [2001] FCA 324'
+  - 'Pro Sieben Austria GmbH v Austrian Broadcasting Corp [2017] UKHL 17'
+  - 'AGL v Greenpeace [2020] FCA 1084'
+statutes:
+  - 'Copyright Act 1968 (Cth)'
+  - 'Copyright Agency v NSW [1994] 1 FLR 232'
+  - 'Fair Dealing (Research, Criticism, Review) Provisions'
+jurisdiction: 'Australia'
+assessment_relevance: 'Covers core exceptions and fairness tests essential for exams and oral assessments on user rights and doctrine evolution.'
+---
 [[ch10-raw]]
 
 # Chapter 10 - Exceptions and Limitations
@@ -44,3 +66,14 @@ Chapter 10 examines the various free exceptions to copyright infringement under 
 
 ## Significance
 This chapter is critical for understanding the "user rights" side of copyright law. It defines the boundaries of infringement and ensures that copyright does not stifle innovation (interoperability), free speech (criticism/parody), or everyday activities (private use). The complexity of the **Copyright/Design Overlap** and the evolving nature of **Fair Dealing** (especially the shift toward more flexible interpretations) are central themes in modern Australian copyright litigation.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/textbook/Chapter 6 - Exclusive Rights and Infringement]] - This chapter discusses the exclusive rights of copyright holders, which directly relates to exceptions and limitations that may permit certain uses without authorization.
+- [[Copyright Law/05-summaries/textbook/Chapter 8 - Assignment and Licensing]] - Licensing and assignment are key mechanisms that interact with exceptions and limitations, especially when considering statutory licences and fair dealing provisions.
+- [[Copyright Law/05-summaries/textbook/Chapter 9 - Compulsory Licensing and the Copyright Tribunal]] - Compulsory licensing is a statutory exception that mandates licensing under certain conditions, closely related to statutory licences and exceptions.
+- [[Copyright Law/05-summaries/textbook/Chapter 1 - Introduction]] - Provides foundational context on statutory frameworks and justifications for exceptions, which underpin the development of exceptions and limitations.
+- [[Copyright Law/05-summaries/cases/FCT v Seven Network]] - Illustrates judicial interpretation of copyright scope and fixation, relevant to understanding the boundaries of exceptions like fair dealing and statutory licences.
+<!-- agent:see-also:end -->

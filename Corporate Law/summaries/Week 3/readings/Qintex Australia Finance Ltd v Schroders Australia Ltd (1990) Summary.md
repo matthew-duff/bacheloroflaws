@@ -1,3 +1,29 @@
+---
+title: 'Exam Summary: Qintex Australia Finance Ltd v Schroders Australia Ltd (1990) 3 ACSR 267'
+tags:
+  - 'separate-legal-personality'
+  - 'corporate-group'
+  - 'contractual-capacity'
+  - 'insolvency'
+  - 'legal-personality'
+  - 'case-lost'
+  - 'ratio-the-identity-of-the-contracting-party-must-be-determined-objectively-by-the-fact'
+summary: 'The case clarifies that corporate groups must be treated as separate legal entities for contractual purposes, even when operations are unified. It underscores the tension between commercial reality and legal doctrine, emphasizing the need for objective assessment and the limits of the Salomon principle.'
+figures:
+  - 'Rogers CJ'
+cases:
+  - 'Qintex Australia Finance Ltd v Schroders Australia Ltd [1990] 3 ACSR 267'
+  - 'Industrial Equity Ltd v Blackburn [1977] 1 All ER 340'
+  - 'Gilford Motor Co Ltd v Horne [1933] Ch 935'
+statutes:
+  - 'Corporations Act 2001 (Cth)'
+  - 'Corporations Act s 181'
+period: 'Late 20th century'
+jurisdiction: 'Australia'
+assessment_relevance: 'Useful for problems on group liability, contractual capacity, and insolvency; highlights the rigidity of the separate legal personality doctrine and reform debates.'
+ratio: 'The court held that the identity of the contracting party must be determined objectively by the facts and circumstances known at the time of contracting, even if the corporate group operated as a single entity. The documentation and Schroders'' own records pointed to QTL, not QAFL, as the contracting party. Thus, the group treasury was not a single legal entity for the purposes of the contract.'
+case_outcome: 'lost'
+---
 # Exam Summary: Qintex Australia Finance Ltd v Schroders Australia Ltd (1990) 3 ACSR 267
 
 ## 1. Case Overview

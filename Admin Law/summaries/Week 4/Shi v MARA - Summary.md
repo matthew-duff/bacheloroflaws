@@ -1,3 +1,27 @@
+---
+title: 'Shi v Migration Agents Registration Authority (2008) 235 CLR 286'
+tags:
+  - 'merits-review'
+  - 'de-novo-review'
+  - 'temporal-scope'
+  - 'aat-powers'
+  - 'hybrid-review'
+  - 'case-won'
+  - 'ratio-the-high-court-held-that-the-aats-merits-review-is-generally-de-novo-allowing-it'
+summary: 'The case establishes that the AAT conducts a full merits review de novo, considering current material, and that statutory context may limit or modify this presumption. It also affirms the AAT''s ability to impose conditions under s 304A even if enacted after the original decision.'
+figures:
+  - 'Adam Smith'
+  - 'John Stuart Mill'
+cases:
+  - 'Shi v Migration Agents Registration Authority [2008] 235 CLR 286'
+statutes:
+  - 'Migration Act 1958 (Cth)'
+  - 'Corporations Act s 181'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note clarifies key review principles and statutory limits, crucial for exam questions on AAT powers and procedural fairness.'
+ratio: 'The High Court held that the AAT''s merits review is generally de novo, allowing it to consider current material unless the statute specifies otherwise. Temporal limitations on evidence are exceptions, not the rule. The AAT may also exercise newly enacted statutory powers during review.'
+case_outcome: 'won'
+---
 # Shi v Migration Agents Registration Authority (2008) 235 CLR 286
 
 ## Overview
@@ -39,3 +63,13 @@ The first High Court decision directly examining the nature of the AAT's merits 
 - Confirmed that temporal limitations on evidence are **exceptions** to the de novo presumption, dependent on statutory context
 - Introduced the framework for distinguishing **full merits review** from **hybrid merits review**
 - Affirmed the AAT's power to exercise newly enacted statutory powers during review
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 4/Lecture 4 - Legality Review Part 2 - Summary]] - Both discuss grounds of judicial review and legal principles relevant to administrative law, including human rights considerations.
+- [[Admin Law/summaries/Week 4/Pochi v Minister for Immigration - Summary]] - Shares topics with the main note, especially regarding tribunal procedure, standard of proof, and deportation hearings.
+- [[Admin Law/summaries/Week 4/Sun v Minister for Immigration - Summary]] - Although not detailed here, this case is likely relevant due to its focus on administrative review and tribunal decision-making.
+- [[Admin Law/summaries/Week 4/The Administrative Review Tribunal Act 2024 - Summary]] - Statutory context and recent developments in administrative review, complementing the analysis of the main note's statutory references.
+<!-- agent:see-also:end -->

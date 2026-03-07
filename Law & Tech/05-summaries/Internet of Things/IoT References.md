@@ -1,8 +1,27 @@
 ---
-tags: [law-and-tech, summary]
 type: Resource
----
 
+title: 'IoT References'
+tags:
+  - 'data-privacy'
+  - 'consumer-protection'
+  - 'regulatory-framework'
+  - 'smart-contracts'
+  - 'ai-ethics'
+summary: 'This note compiles key references on IoT''s legal and ethical dimensions, emphasizing privacy, consumer rights, and regulatory challenges in emerging tech.'
+figures:
+  - 'Kevin Ashton'
+  - 'Spyros Tzafestas'
+  - 'Natali Helberger'
+cases:
+  - 'Salomon v A Salomon & Co Ltd [1897] AC 22'
+  - 'R v Secretary of State for Transport [2005] 2 AC 8'
+statutes:
+  - 'Corporations Act 2001 (Cth)'
+  - 'Privacy Act 1988 (Cth)'
+jurisdiction: 'Australia'
+assessment_relevance: 'Useful for exam essays on tech regulation, consumer law, and doctrinal tensions between innovation and oversight.'
+---
 [[References]]
 
 # IoT References
@@ -30,3 +49,14 @@ This document provides a collection of foundational and scholarly references con
 ## Significance
 
 These references are significant for **Law & Tech** as they map the evolution of IoT from a conceptual framework to a complex legal reality. They highlight the shift from simple data collection to sophisticated AI-driven analysis, which raises critical questions regarding privacy, consumer rights, ethics, and the adequacy of current legal structures to manage autonomous or semi-autonomous systems.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Law & Tech/05-summaries/Internet of Things/IoT Australia Code]] - Shares key topics such as consumer protection, privacy, and security-by-design, and references the Privacy Act 1988, which is also relevant here.
+- [[Law & Tech/05-summaries/Internet of Things/IoT Notes]] - Covers regulatory evolution and statutory frameworks for IoT, directly complementing the regulatory and statutory context in the current note.
+- [[Law & Tech/05-summaries/Internet of Things/IoT UK Code]] - Provides international context on IoT security standards and regulatory approaches, offering comparative insight.
+- [[Law & Tech/05-summaries/Electronic Contracting/Davidson Chapter 11]] - Discusses electronic contracts and regulatory frameworks, relevant for understanding legal equivalence and digital signatures in IoT contexts.
+- [[Law & Tech/05-summaries/Electronic Contracting/Regulating AI]] - Addresses AI regulation and legal personhood, which are emerging issues intersecting with IoT governance and data protection.
+<!-- agent:see-also:end -->

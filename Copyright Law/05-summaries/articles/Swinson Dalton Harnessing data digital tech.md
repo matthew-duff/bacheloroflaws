@@ -1,3 +1,23 @@
+---
+title: 'Swinson Dalton Harnessing data digital tech'
+tags:
+  - 'data-copyright'
+  - 'ai-licensing'
+  - 'human-authorship'
+  - 'compensation-model'
+  - 'anti-avoidance'
+summary: 'The note examines how AI training on copyrighted works challenges traditional copyright principles, emphasizing compensation, control, and credit for creators while warning against AI-generated market harm and censorship risks.'
+figures:
+  - 'John Swinson'
+  - 'Trent Dalton'
+cases:
+  - 'Kadrey v Meta N.D. Cal 2025'
+statutes:
+  - 'Corporations Act 2001 (Cth)'
+  - 'Copyright Act 1968 (Cth)'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note clarifies key tensions between AI development and copyright, offering concrete reform proposals and doctrinal contrasts useful for exams and oral assessments on AI and copyright.'
+---
 [[Swinson Dalton Harnessing data and digital technology]]
 
 **Citation/Reference:** John Swinson and Trent Dalton, *Harnessing data and digital technology – Interim Report* (Submission to Productivity Commission, 14 September 2025).
@@ -19,3 +39,13 @@
 - Proposes **extraterritorial / anti-avoidance** application of Australian copyright to overseas training when models are used in Australia—relevant to subsistence, infringement and remedies.
 - Opposes a **TDM exception** and argues for **creator compensation and control** instead, informing reform options (exceptions vs licensing/remuneration).
 - Illustrates **fair use / fair dealing** and **human authorship** in the context of AI (with reference to US authority), useful for comparing Australian doctrine and policy.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Copyright Law/05-summaries/articles/IP and AI-Generated Works]] - Shares topics on human authorship, originality, and AI-generated works, and references overlapping statutes and cases.
+- [[Copyright Law/05-summaries/articles/International developments IP and AI]] - Compares jurisdictions on AI-related IP, complementing the current note’s focus on Australian law and referencing similar cases and statutes.
+- [[Copyright Law/05-summaries/articles/Copyright Infringement and AI]] - Discusses AI training and infringement, directly relevant to the current note’s focus on AI, copyright, and liability.
+- [[Copyright Law/05-summaries/articles/Future Impacts of AI on IP Laws]] - Addresses policy, licensing, and authorship challenges posed by AI, aligning with the current note’s forward-looking perspective.
+<!-- agent:see-also:end -->

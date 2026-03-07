@@ -1,3 +1,23 @@
+---
+title: 'Re Drake and Minister for Immigration and Ethnic Affairs (No. 2) (1979) 2 ALD 634'
+tags:
+  - 'government-policy-review'
+  - 'merits-review'
+  - 'policy-departure'
+  - 'discretionary-power'
+  - 'individual-justice'
+  - 'consistency'
+  - 'executive-discretion'
+summary: 'The note outlines the AAT''s approach to government policy in merits review, emphasizing the ''correct or preferable decision'' test, cautious policy departures, and the balance between consistency and individual justice.'
+cases:
+  - 'Drake v Minister for Immigration and Ethnic Affairs (No. 1) [1979] 2 ALD 634'
+  - 'Drake v Minister for Immigration and Ethnic Affairs (No. 2) [1979] 2 ALD 634'
+statutes:
+  - 'Corporations Act 2001 (Cth)'
+  - 'Corporations Act s 181'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note is crucial for understanding tribunal discretion in merits review, policy application, and the tension between consistency and individual justice—key exam topics and oral assessment questions.'
+---
 # Re Drake and Minister for Immigration and Ethnic Affairs (No. 2) (1979) 2 ALD 634
 
 ## Overview

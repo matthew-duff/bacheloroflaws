@@ -1,9 +1,32 @@
 ---
-tags: [admin-law, summary, study-guide]
 type: study-guide
 source: Admin Law/sources/Week 9/Materials for Workshop Topic 6/Workshop 6 Learning Guide and Workshop Questions/Workshop 6 Learning Guide and Workshop Questions.md
----
 
+title: 'Workshop 6: JR Grounds Continued – Illegality, Unreasonableness, and Human Rights'
+tags:
+  - 'ultra-vires'
+  - 'wednesbury-review'
+  - 'improper-purpose'
+  - 'human-rights-duties'
+  - 'delegated-legislation'
+summary: 'This note analyses the limits of administrative power under the ADJR Act 1977 (Cth), focusing on ultra-vires, Wednesbury unreasonableness, improper purpose, and human rights obligations under the Queensland Human Rights Act 2019. It links statutory grounds to case law and highlights key tests and remedies.'
+figures:
+  - 'Lord Justice Wednesbury'
+cases:
+  - 'Associated Provincial Picture Houses v Wednesbury Corporation [1948] 1 KB 132'
+  - 'Schlieske v Minister for Immigration [1988] 166 CLR 1'
+  - 'Minister for Immigration v Li [2013] HCA 30'
+  - 'Plaintiff S157 v The Queen [2004] HCA 56'
+  - 'Evans v NSW [2008] 234 CLR 1'
+  - 'Teoh v Australia [1995] 183 CLR 272'
+statutes:
+  - 'ADJR Act s 5 (1977) (Cth)'
+  - 'Migration Act s 501 (1975) (Cth)'
+  - 'Human Rights Act 2019 (Qld)'
+period: 'Late 20th–early 21st century'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note consolidates key doctrines for exams and oral assessments, especially the Wednesbury unreasonableness test, ultra-vires, and human rights duties, providing clear distinctions and case applications.'
+---
 # Workshop 6: JR Grounds Continued – Illegality, Unreasonableness, and Human Rights
 
 ## 1. Extended Ultra Vires (Improper Exercise of Power)

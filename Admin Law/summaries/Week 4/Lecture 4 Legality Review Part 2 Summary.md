@@ -1,8 +1,35 @@
 ---
-tags: [admin-law, summary]
 type: lecture-slides
----
 
+title: 'Lecture 4: Legality Review Part 2 Summary'
+tags:
+  - 'unreasonableness'
+  - 'jurisdictional-facts'
+  - 'errors-of-law'
+  - 'fraud-bad-faith'
+  - 'jurisdictional-error'
+  - 'human-rights-act-2019'
+summary: 'This note outlines key grounds of legality review, emphasizing unreasonableness, jurisdictional facts, errors of law, fraud, bad faith, and jurisdictional error, with focus on Human Rights Act 2019 (Qld) and proportionality.'
+cases:
+  - 'Associated Provincial Picture Houses Ltd v Wednesbury Corporation [1948]'
+  - 'Minister for Immigration and Citizenship v Li [2013]'
+  - 'Fares Rural Meat Pty Ltd v Gummow [2003]'
+  - 'Plaintiff M70/2011 [2011]'
+  - 'Craig v South Australia [1960]'
+  - 'Briginshaw v SRA [2008]'
+  - 'SZFDE v DUA16 [2020]'
+  - 'SBAN v [Year]'
+  - 'LPDT [2024]'
+  - 'Plaintiff S157 [Year]'
+  - 'Kirk [Year]'
+  - 'Owen-D''Arcy [Year]'
+  - 'Human Rights Act 2019 (Qld)'
+statutes:
+  - 'Human Rights Act 2019 (Qld)'
+  - 'Administrative Decisions (Judicial Review) Act 2010 (Qld)'
+  - 'Judiciary Act 1903 (Cth)'
+assessment_relevance: 'Highlights materiality in jurisdictional error, proportionality under HRA 2019, and key doctrines for exam essays and oral assessments.'
+---
 [[2026 - Lecture 4 - slides - Legality review - part 2 - Grounds of review and human rights]]
 
 # Lecture 4: Legality Review Part 2 Summary
@@ -45,3 +72,13 @@ This lecture covers the second part of legality review grounds, focusing on unre
 
 ## Significance
 This lecture is critical for understanding the "gravity" of legal errors required to trigger judicial intervention. It highlights the High Court's recent emphasis on **materiality** in jurisdictional error and the evolving role of **proportionality** under the Queensland *Human Rights Act*, which provides a more robust framework for challenging administrative decisions than traditional common law grounds.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Shares topics such as procedural fairness and legality, and discusses the Robodebt case, which is relevant for understanding modern challenges in administrative law.
+- [[Admin Law/summaries/Week 4/Drake no.1 - Summary]] - Directly relates to the note's discussion of the AAT's merits review powers and the 'correct or preferable decision' test, which is foundational for understanding administrative review.
+- [[Admin Law/summaries/Week 4/Drake no.2 - Summary]] - Complements the note by elaborating on the role of government policy in merits reviews and the balance between consistency and individual justice.
+- [[Admin Law/summaries/Week 4/Workshop 3 Learning Guide and Questions - Summary]] - Provides practical application and questions related to merits review, reinforcing theoretical concepts from the note.
+<!-- agent:see-also:end -->

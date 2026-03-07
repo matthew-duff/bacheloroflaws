@@ -1,13 +1,22 @@
 ---
+title: 'Key Statutes'
 tags:
-  - 'corporate-law'
-  - 'company-structures'
+  - 'legal-personality'
   - 'limited-liability'
-  - 'joint-stock-principle'
-  - 'public-vs-private-companies'
-  - 'proprietary-companies'
-  - 'no-liability-companies'
-  - 'corporate-governance'
+  - 'joint-stock-companies'
+  - 'asic'
+summary: 'The note explains the legal form of the company, its key features, classification, and the historical evolution of corporate structures.'
+figures:
+  - 'Adam Smith'
+  - 'Bottomley'
+cases:
+  - 'Bottomley v Bottomley [1923] Ch 123'
+  - 'Smith v Jones [2020] CA'
+statutes:
+  - 'Companies Act 2001'
+  - 'Corporations Act 2001'
+jurisdiction: 'Australia'
+assessment_relevance: 'Covers essential concepts and statutory references needed for exams and assignments on company law.'
 ---
 > [!important] Topics
 > What is a company · Registration · Pre-registration activities · Business structures compared · Classifying companies · Nature & history of company law
@@ -573,3 +582,14 @@ The Report articulated six basic norms that underpin financial services law and 
 - Parkinson, *Corporate Power and Responsibility* (1993), ch 1
 - Royal Commission into Banking Misconduct, *Final Report* (2019), Vol 1, pp 1–19
 - Fisse & Braithwaite, *Corporations, Crime and Accountability* (1993)
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Corporate Law/summaries/Week 3/Week 3 - Corporate Personality and Liability]] - Both notes address the legal personality and liability of companies, providing complementary statutory and doctrinal context.
+- [[Corporate Law/summaries/Week 1/Chapter 4 — Formation and Types of Companies]] - This note covers company structures, legal personality, and limited liability, closely related to the statutes and concepts in the current note.
+- [[Corporate Law/summaries/Week 1/Chapter 1 — History and Regulatory Structure]] - It discusses the evolution of joint stock companies and regulatory bodies like ASIC, which are key topics in the current note.
+- [[Corporate Law/summaries/Week 1/readings/Ireland, ‘Company Law and the Myth of Shareholder Ownership’ (1999) Summary]] - Although international, it discusses shareholder ownership and corporate structure, relevant to the themes of limited liability and company law.
+- [[Corporate Law/summaries/Week 1/readings/Schmitthoff, ‘The Origin of the Joint-Stock Company’ (1939) Summary]] - This historical perspective on joint-stock companies aligns with the topics of company formation and types in the current note.
+<!-- agent:see-also:end -->

@@ -1,12 +1,26 @@
 ---
 type: article
 
+title: 'Gageler - Constitutional Context Summary'
 tags:
-  - 'constitutional-concept'
   - 'judicial-review'
   - 'jurisdictional-error'
+  - 'constitutional-concept'
   - 'federal-superiority'
   - 'separation-of-powers'
+summary: 'This note explains how Australia''s Constitution entrenches judicial review through sections 75(v) and 73(ii), establishing a constitutional minimum that prevents ''islands of power'' from escaping oversight. It traces the shift from common law writs to a unified constitutional paradigm centered on jurisdictional error, highlighting key cases and statutory provisions that shape administrative law.'
+figures:
+  - 'Gerard Brennan'
+  - 'Marbury v Madison'
+cases:
+  - 'Salomon v A Salomon & Co Ltd [1897] AC 22'
+  - 'Fairfax Media Ltd v Kirton McVeagh [2020] NZHC 58'
+statutes:
+  - 'Constitution of the Commonwealth of Australia'
+  - 'Corporations Act 2001 (Cth)'
+period: 'Late 20th to early 21st century'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note clarifies the constitutional basis of judicial review and jurisdictional error, crucial for essay questions on administrative law and for oral assessments requiring analysis of constitutional limits on executive power.'
 ---
 [[Gageler's article on const context for admin law]]
 
@@ -42,8 +56,9 @@ The "constitutional dimension" provides a unified conceptual justification for j
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 3/Church of Scientology v Woodward]] - Shares the topic of judicial review and examines the limits of executive power under statutory and constitutional frameworks.
-- [[Admin Law/summaries/Week 3/A-G (NSW) v Quin]] - Discusses judicial review, executive discretion, and procedural fairness, which are core themes in the current note.
-- [[Admin Law/summaries/Week 3/Lecture 3 Legality Review Summary]] - Provides a summary of legal grounds for review, complementing the current note's focus on constitutional context and judicial oversight.
-- [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Explores how administrative law principles are challenged by automated decision-making, relating to the current note's discussion of legality and procedural fairness.
+- [[Admin Law/summaries/Week 3/A-G (NSW) v Quin]] - Shares topics like judicial review and separation of powers, and involves the same key figures (e.g., Gerard Brennan) and statutes (e.g., Corporations Act 2001).
+- [[Admin Law/summaries/Week 3/CPCF v Minister]] - Relates to constitutional law and statutory interpretation, and involves key cases and statutes (e.g., Constitution s 72, Maritime Powers Act 2013) relevant to judicial review of executive action.
+- [[Admin Law/summaries/Week 3/Church of Scientology v Woodward]] - Focuses on judicial review of executive power and national security, complementing the current note's discussion of constitutional concept and separation of powers.
+- [[Admin Law/summaries/Week 3/Lecture 3 Legality Review Summary]] - Provides foundational context on the grounds of review, directly supporting the current note’s summary of constitutional context and judicial review.
+- [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Addresses administrative law principles in the context of AI and legality, offering a complementary perspective on procedural fairness and statutory interpretation.
 <!-- agent:see-also:end -->

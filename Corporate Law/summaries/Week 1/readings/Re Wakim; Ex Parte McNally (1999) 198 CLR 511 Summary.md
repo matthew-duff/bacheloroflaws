@@ -1,3 +1,26 @@
+---
+title: 'Case Summary: Re Wakim; Ex parte McNally (1999) 198 CLR 511'
+tags:
+  - 'constitutional-law'
+  - 'cross-vesting'
+  - 'chapter-iii'
+  - 'federal-courts'
+  - 'state-jurisdiction'
+  - 'accrued-jurisdiction'
+  - 'cooperative-federalism'
+  - 'territories-power'
+summary: 'The High Court held that State Parliaments cannot confer State judicial power on federal courts and that the Commonwealth cannot consent to such conferral. The decision reinforced the exhaustive nature of Chapter III and clarified the limits of federal jurisdiction.'
+cases:
+  - 'Re Wakim v Ex parte McNally [1999] HCA 27'
+  - 'Gould v Brown [1998] HCA'
+statutes:
+  - 'Jurisdiction of Courts (Cross-vesting) Act 1987'
+  - 'Corporations Act 1989'
+  - 'Corporations Act 2001'
+period: 'Late 20th century'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note distills the core constitutional tensions in Re Wakim, useful for exams on separation of powers, Chapter III, and the limits of federal jurisdiction. It also highlights the practical impact on corporate law reform.'
+---
 # Case Summary: Re Wakim; Ex parte McNally (1999) 198 CLR 511
 
 ## Court and Citation

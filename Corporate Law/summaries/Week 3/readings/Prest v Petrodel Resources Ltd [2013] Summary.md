@@ -1,3 +1,27 @@
+---
+title: 'Exam Summary: Prest v Petrodel Resources Ltd [2013] UKSC 34'
+tags:
+  - 'corporate-personality'
+  - 'limited-liability'
+  - 'joint-stock-companies'
+  - 'resulting-trust'
+  - 'piercing-veil'
+  - 'case-won'
+  - 'ratio-the-court-affirmed-the-separate-legal-personality-of-the-companies-rejecting-any'
+summary: 'The case clarifies that the UK Supreme Court will not generally pierce the corporate veil to evade obligations, but may do so where a company holds property on a resulting trust for an individual, reaffirming *Salomon*''s principles and narrowing exceptions.'
+cases:
+  - 'Prest v Petrodel Resources Ltd [2013] UKSC 34'
+  - 'Salomon v Salomon & Co Ltd [1897] AC 22'
+  - 'Gilford Motor Co v Horne [1933] 2 KB 4'
+  - 'Jones v Lipman [1962] 1 WLR 832'
+statutes:
+  - 'Companies Act 2001 (UK)'
+  - 'Matrimonial Causes Act 1973'
+jurisdiction: 'United Kingdom'
+assessment_relevance: 'This note is crucial for understanding veil-piercing limits and trust-based remedies, key exam themes on corporate liability and equity principles.'
+ratio: 'The court affirmed the separate legal personality of the companies, rejecting any ''piercing'' of the corporate veil. The properties were held on a resulting trust for the husband due to his funding, not because the veil was pierced.'
+case_outcome: 'won'
+---
 # Exam Summary: Prest v Petrodel Resources Ltd [2013] UKSC 34
 
 ## 1. Case Overview

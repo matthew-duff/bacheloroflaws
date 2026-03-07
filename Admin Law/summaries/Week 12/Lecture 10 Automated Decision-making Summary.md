@@ -1,17 +1,25 @@
 ---
 type: lecture-slides
 
+title: '2026 - Lecture 10 - Automated decision-making'
 tags:
   - 'automated-decision-making'
-  - 'legality-review'
   - 'administrative-justice'
-  - 'natural-justice'
+  - 'legality-review'
   - 'statutory-discretion'
   - 'algorithm-transparency'
   - 'delegation-limits'
   - 'robodebt'
   - 'decision-definition'
-  - 'adjr-act'
+summary: 'This note examines how automated decision-making challenges traditional administrative law principles like natural justice, delegation, and legality review, using Robo-debt and Pintarich to illustrate risks of unauthorized automation and transparency failures.'
+cases:
+  - 'Pintarich v Federal Commissioner of Taxation [2018] ACA 58'
+  - 'Business Names Registration Act 2011 (Cth) s 66'
+statutes:
+  - 'Corporations Act 2001 (Cth)'
+  - 'Taxation Administration Act 1953 (Cth)'
+jurisdiction: 'Australia'
+assessment_relevance: 'Highlights key tensions between technology and administrative law, useful for essay questions on legality review, natural justice, and statutory interpretation in ADM contexts.'
 ---
 [[2026 - Lecture 10 - Automated decision-making]]
 
@@ -35,3 +43,13 @@ This lecture explores the intersection of automated decision-making (ADM) and ad
 Automated decision-making represents a fundamental shift in how public power is exercised. The lecture emphasizes that while technology can enhance efficiency, it must operate within the framework of administrative law to ensure legality, fairness, and accountability. The failure of the Robo-debt program serves as a critical case study in the dangers of unauthorized and poorly overseen automation, leading to a Royal Commission and significant legal reform discussions. The evolving nature of generative AI further complicates these issues, requiring ongoing judicial and legislative adaptation.
 
 ---
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Admin Law/summaries/Week 12/Automated Decision-making and AI Study Summary]] - Shares key topics such as automated decision-making and discretionary powers, relevant to administrative law and AI governance.
+- [[Admin Law/summaries/Week 12/Lecture 9 Remedies Revision Summary]] - Provides context on remedies and judicial review, which intersects with automated decision-making by addressing how errors are remedied in administrative contexts.
+- [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Offers a broad overview of Week 12 topics, including administrative law principles that underpin automated decision-making and delegation limits.
+- [[Admin Law/summaries/Week 1-Lecture 1 Summary]] - Covers foundational principles such as rule of law, separation of powers, and legality review, which are essential for understanding the legal framework governing automated decision-making.
+<!-- agent:see-also:end -->

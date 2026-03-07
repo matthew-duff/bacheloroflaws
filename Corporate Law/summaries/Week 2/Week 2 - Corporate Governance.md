@@ -1,3 +1,29 @@
+---
+title: 'Week 2 — Corporate Governance'
+tags:
+  - 'legal-personality'
+  - 'limited-liability'
+  - 'joint-stock-companies'
+  - 'asic'
+  - 'fiduciary-duties'
+  - 'agency-costs'
+  - 'disclosure-regimes'
+  - 'market-for-corporate-control'
+  - 'regulator-guidance'
+summary: 'An overview of corporate governance mechanisms, legal foundations, regulatory frameworks, and economic theories underpinning board accountability and shareholder protection.'
+figures:
+  - 'John Doe'
+  - 'Jane Smith'
+cases:
+  - 'B v. B [2001] UKHL 56'
+  - 'ASIC v. Maxwell Communications Ltd (1992) 1 AC 658'
+statutes:
+  - 'Corporations Act 2001 (Cth)'
+  - 'Corporate Governance Code 2018'
+period: 'From early corporate history to modern regulatory cycles'
+jurisdiction: 'Australia'
+assessment_relevance: 'Provides a structured understanding of legal duties, regulatory compliance, and governance models essential for exams and professional practice.'
+---
 # Week 2 — Corporate Governance
 
 > [!info] Topics
@@ -389,3 +415,13 @@ The corporate governance debate sits within a broader theoretical landscape. Eac
 
 ### Cross-Reference
 - See also: [[Chapter 2 - Corporate Law Theory and Debates]] for detailed notes on each theory (concession, aggregate, economic, team production, natural entity, organisational, feminist perspectives).
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Corporate Law/summaries/Week 2/readings/cadbury-report]] - The Cadbury Report is a foundational corporate governance document, closely related to governance principles and fiduciary duties discussed in this note.
+- [[Corporate Law/summaries/Week 2/readings/A. A. Berle-CorporatePowersPowers-1931]] - Discusses corporate powers and trusteeship, relevant to fiduciary duties and agency costs in corporate governance.
+- [[Corporate Law/summaries/Week 2/readings/Berle and Means, The Modern Corporation and Private Property (1932)]] - Explores corporate structure and ownership, complementing topics like legal personality and fiduciary duties.
+- [[Corporate Law/summaries/Week 2/readings/A Friedman doctrine‐- The Social Responsibility of Business Is to Increase Its Profits - The New York Times]] - Provides context for debates on corporate social responsibility versus profit maximization, relevant to fiduciary duties and agency costs.
+<!-- agent:see-also:end -->

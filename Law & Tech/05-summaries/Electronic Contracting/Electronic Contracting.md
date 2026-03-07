@@ -1,6 +1,25 @@
 ---
-tags: [law-and-tech, summary]
 type: textbook/Article
+
+title: '**1. Fundamental Principles of the ETA**'
+tags:
+  - 'electronic-signatures'
+  - 'contract-formation'
+  - 'consent-requirements'
+  - 'disclosure-obligations'
+  - 'jurisdictional-variations'
+summary: 'The note explains the ETA''s core principles, validity requirements, and contract formation issues for electronic transactions, highlighting key concepts examiners often test.'
+cases:
+  - 'Parkview Constructions v Total Lifestyle Windows [2016]'
+  - 'Stellard v North Queensland Fuel [2015]'
+  - 'Ilich v Baystar Corp [2004]'
+statutes:
+  - 'UNCITRAL Model Law on Electronic Commerce'
+  - 'Corporations Act s 181'
+  - 'Corporations Act s 9'
+  - 'Corporations Act s 10'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note clarifies ETA fundamentals and practical issues examiners frequently ask about, such as consent, writing requirements, and contract formation.'
 ---
 **Reference:** Davidson, A, *Electronic Commerce Law*, 2026. [[ECL-02-contracts26]]
 ## **1. Fundamental Principles of the ETA**
@@ -105,3 +124,13 @@ If a natural person makes an "input error" in a transaction with an automated sy
 - **UNCITRAL Convention (2005):** Aims to harmonize international e-contract law. Australia has updated its legislation to align with it, though the Federal government hasn't formally acceded yet.
     
 - **CISG:** Apply the convention where the sale of goods is international.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Law & Tech/05-summaries/Electronic Contracting/Davidson Chapter 11]] - Shares key topics such as electronic signatures, contract formation, and consent requirements, and references relevant cases and statutes.
+- [[Law & Tech/05-summaries/Electronic Signatures/Electronic Signatures]] - Covers foundational concepts of electronic signatures and legal equivalence, closely related to the principles of electronic contracting.
+- [[Law & Tech/05-summaries/Electronic Contracting/Regulating AI]] - Discusses regulatory frameworks and jurisdictional variations relevant to electronic contracting, especially as technology evolves.
+- [[Law & Tech/05-summaries/Electronic Contracting/Study Progress]] - Provides an overview of study topics in electronic contracting, useful for tracking related material and context.
+<!-- agent:see-also:end -->

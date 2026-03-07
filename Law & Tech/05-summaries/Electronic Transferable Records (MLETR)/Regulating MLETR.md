@@ -1,8 +1,24 @@
 ---
-tags: [law-and-tech, summary]
 type: Article
----
 
+title: 'Regulating MLETR'
+tags:
+  - 'electronic-transferable-records'
+  - 'functional-equivalence'
+  - 'control-principle'
+  - 'reliability-standard'
+  - 'technology-neutrality'
+  - 'integrity-maintenance'
+  - 'trade-facilitation'
+  - 'smart-contracts'
+  - 'blockchain-adoption'
+summary: 'The ML-ETR establishes legal certainty for electronic transferable records, enabling paperless trade through functional equivalence, control, and reliability standards, while supporting modern tech like DLT and smart contracts.'
+statutes:
+  - 'UNCITRAL Model Law on Electronic Transferable Records 2017'
+  - 'UNCITRAL Model Law on Electronic Commerce 1996'
+jurisdiction: 'Australia and international trade context'
+assessment_relevance: 'This note clarifies key ML-ETR concepts examiners often test: functional equivalence, control, reliability, and tech neutrality—central to problem questions on digital trade law.'
+---
 [[26-MLETR-5151]]
 
 **Reference:** Davidson, A, 'Implementation and Implications of the UNCITRAL Model Law on Electronic Transferable Records in Trade Finance' (2026).
@@ -22,3 +38,14 @@ The ML-ETR is a critical step in achieving a paperless trade environment. By pro
 1. **Trade Facilitation:** Improving speed, security, and efficiency in international logistics and finance.
 2. **Access to Credit:** Helping developing countries establish markets for electronic warehouse receipts, improving farmers' access to finance.
 3. **Modernization of Trade Finance:** Providing the legal basis for integrating blockchain and smart contracts into global supply chains, reducing the risks associated with traditional paper-based fraud and forgery.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Law & Tech/05-summaries/Electronic Transferable Records (MLETR)/MLETR Model Law]] - Shares core topics like functional equivalence, control principle, and cross-border recognition, and is the foundational legal framework for MLETR.
+- [[Law & Tech/05-summaries/Electronic Transferable Records (MLETR)/MLETR Resources]] - Directly discusses the application and critique of MLETR principles in a specific jurisdiction, reinforcing the regulatory context.
+- [[Law & Tech/05-summaries/Electronic Signatures/Electronic Signatures]] - Covers functional equivalence and regulatory frameworks for electronic signatures, which are conceptually related to electronic transferable records.
+- [[Law & Tech/05-summaries/Electronic Contracting/Regulating AI]] - While focused on AI, it discusses regulatory frameworks and legal equivalence, offering a complementary theoretical lens on technology regulation.
+- [[Law & Tech/05-summaries/Electronic Contracting/Electronic Contracting]] - Explains fundamental principles of electronic contracting, closely related to the legal validity and enforceability of electronic records like MLETR.
+<!-- agent:see-also:end -->

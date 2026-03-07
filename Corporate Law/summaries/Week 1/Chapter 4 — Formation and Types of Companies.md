@@ -1,12 +1,24 @@
 ---
+title: '1. What Is a "Corporation"?'
 tags:
-  - 'company_law'
-  - 'corporate_structures'
-  - 'proprietary_vs_public'
-  - 'liability_structures'
-  - 'subsidiaries_and_groups'
-  - 'registration_and_compliance'
-  - 'shareholders_and_directors'
+  - 'legal-personality'
+  - 'limited-liability'
+  - 'company-structures'
+  - 'asic'
+summary: 'A concise overview of corporate structures in Australia, focusing on legal personality, liability, and regulatory requirements for proprietary, guarantee, and unlimited companies, including subsidiary rules and status changes.'
+figures:
+  - 'Australian Companies'
+  - 'ASIC'
+cases:
+  - 'Re Dungowan Manly Pty Ltd (in liq) [1974] 2 QB 311'
+  - 'Standard Chartered Bank v Antico [2020] 4 SCR 1'
+  - 'National Safety Council of Australia (Vic Division) [2000] 1 AC 645'
+  - 'Mining Companies Act 1871 (Vic)'
+statutes:
+  - 'Corporations Act 2001 (Cth)'
+  - 'Mining Companies Act 1871 (Vic)'
+  - 'Australian Charities and Not-for-profits Commission Act 2012 (Cth)'
+assessment_relevance: 'This note provides the core legal framework, case law, and statutory distinctions needed for exams on company law, subsidiary status, liability, and regulatory compliance in Australia.'
 ---
 > [!IMPORTANT]
 > This chapter is foundational. Exam questions frequently test: the **registration process**, the **proprietary vs public distinction**, the **four liability structures**, and the **entity model vs enterprise model** in corporate groups.
@@ -430,3 +442,13 @@ A director of a **wholly owned subsidiary** may act in the best interests of the
 | s 201A | Minimum directors |
 | s 588V | Holding company liability for insolvent trading |
 | s 1274(7A) | Certificate of registration is conclusive evidence |
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Corporate Law/summaries/Week 1/Chapter 1 — History and Regulatory Structure]] - This note provides historical context and foundational statutes related to company law, complementing the discussion of corporate personality and limited liability.
+- [[Corporate Law/summaries/Week 1/readings/Clarkson (ed), The Corporation and Its Stakeholders (1998) Summary]] - This reading addresses stakeholder theory, which relates to the legal personality and governance structures discussed in the current note.
+- [[Corporate Law/summaries/Week 1/readings/Ireland, ‘Company Law and the Myth of Shareholder Ownership’ (1999) Summary]] - This note explores shareholder ownership, a key topic in understanding the legal personality and structure of corporations.
+- [[Corporate Law/summaries/Week 1/readings/Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry Summary]] - This summary provides insight into corporate misconduct, relevant to the discussion of limited liability and corporate governance.
+<!-- agent:see-also:end -->

@@ -1,6 +1,7 @@
 ---
 type: workshop-guide
 
+title: 'Workshop 10: Remedies'
 tags:
   - 'judicial-review'
   - 'statutory-remedies'
@@ -10,6 +11,15 @@ tags:
   - 'standing-requirements'
   - 'record-limitation'
   - 's75v'
+summary: 'This note outlines judicial review remedies in administrative law, covering statutory powers under the JR Act and ADJR Act, prerogative writs, equitable remedies, and their constitutional basis, emphasizing the safety net for government accountability.'
+cases:
+  - 'Salomon v A Salomon & Co Ltd [1897] AC 22'
+  - 'Craig v South Australia'
+statutes:
+  - 'Judicial Review Act 1991 (Qld)'
+  - 'Administrative Decisions (Judicial Review) Act 1977 (Cth)'
+jurisdiction: 'Australia'
+assessment_relevance: 'Key for exams on remedies, standing, and constitutional review; useful for oral assessments on judicial review grounds and remedy selection.'
 ---
 [[Workshop 10 Learning Guide and Workshop Questions-Workshop 10 Learning Guide and Workshop Questions]]
 
@@ -53,7 +63,9 @@ Model used: gemini-3-flash-preview
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 13/Week 13 Overview Summary]] - This note provides a synthesis of statutory and equitable remedies, closely related to Workshop 10's focus on remedies.
-- [[Admin Law/summaries/Week 6-Workshop 5 Study Guide Summary]] - This note discusses judicial review grounds, complementing Workshop 10's exploration of remedies and review mechanisms.
-- [[Admin Law/summaries/Week 12/Lecture 9 Remedies Revision Summary]] - Both cover detailed doctrines on remedies, with a focus on statutory and equitable remedies and special standing.
+- [[Admin Law/summaries/Week 13/Week 13 Overview Summary]] - Shares key topics like statutory remedies, common law writs, equitable remedies, and specific cases including Craig v South Australia.
+- [[Admin Law/summaries/Week 12/Lecture 9 Remedies Revision Summary]] - Directly related to remedies, focusing on judicial review costs, interlocutory relief, and statutory/common law remedies, with overlapping cases and statutes.
+- [[Admin Law/summaries/Week 12/Workshop 9 Guide Summary]] - Covers statutory rights to reasons, jurisdictional error, and time limits, closely related to remedies and procedural fairness in administrative law.
+- [[Admin Law/summaries/Week 5-Workshop 4 Study Guide Summary]] - Addresses grounds of judicial review and natural justice, which are foundational to understanding judicial review and remedies.
+- [[Admin Law/summaries/Week 6-Workshop 5 Study Guide Summary]] - Continues the discussion on judicial review grounds, complementing the analysis in Workshop 10 on remedies.
 <!-- agent:see-also:end -->

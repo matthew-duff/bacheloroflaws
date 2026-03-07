@@ -1,8 +1,22 @@
 ---
-tags: [law-and-tech, summary]
 type: textbook/Article
----
 
+title: 'Internet of Things (IoT) Notes'
+tags:
+  - 'iot-regulation'
+  - 'cyber-security'
+  - 'data-privacy'
+  - 'compliance-standards'
+  - 'legal-personhood'
+  - 'smart-contracts'
+summary: 'IoT''s regulatory evolution from voluntary codes to mandatory standards, focusing on Australia''s Cyber Security Act 2024 and its implications for manufacturers and critical infrastructure.'
+statutes:
+  - 'Cyber Security Act 2024 (Cth)'
+  - 'Cyber Resilience Act (EU)'
+  - 'IoT Cybersecurity Improvement Act 2020 (US)'
+jurisdiction: 'Australia, EU, US'
+assessment_relevance: 'Key for exams on regulatory transitions, mandatory standards, and cross-border IoT governance; useful for oral assessments on compliance duties and legal personhood in tech contexts.'
+---
 [[ECL-04-IOT-Notes-AD-5151]]
 
 # Internet of Things (IoT) Notes
@@ -27,3 +41,12 @@ This source provides a comprehensive overview of the Internet of Things (IoT) fr
 
 ## Significance
 This source is significant for Law & Tech as it tracks the transition from "soft law" (voluntary codes) to "hard law" (mandatory standards) in the IoT space. The *Cyber Security Act 2024 (Cth)* represents a major shift in Australian law, imposing proactive duties on manufacturers and suppliers to ensure security-by-design, reflecting the high stakes of IoT vulnerabilities in both consumer and industrial (Critical Infrastructure) contexts.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Law & Tech/05-summaries/Internet of Things/IoT Australia Code]] - Shares overlapping topics such as IoT security, consumer protection, and regulatory approach, and references the Privacy Act 1988, which may intersect with IoT data privacy concerns.
+- [[Law & Tech/05-summaries/Internet of Things/IoT UK Code]] - Provides a UK perspective on IoT security standards and consumer protection, allowing for comparative analysis with Australian regulations and statutes.
+- [[Law & Tech/05-summaries/Electronic Contracting/Davidson Chapter 11]] - While focused on electronic contracting, it covers foundational principles of digital signatures and contract formation that are relevant to IoT device agreements and automated transactions.
+<!-- agent:see-also:end -->

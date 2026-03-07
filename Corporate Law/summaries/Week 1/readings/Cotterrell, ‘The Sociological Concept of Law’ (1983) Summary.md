@@ -1,3 +1,26 @@
+---
+title: 'Exam Summary: The Sociological Concept of Law'
+tags:
+  - 'sociological-concept'
+  - 'legal-theory'
+  - 'normative-theory'
+  - 'empirical-theory'
+  - 'ideology'
+  - 'state-law'
+  - 'legal-pluralism'
+  - 'legality'
+  - 'bureaucratic-regulation'
+summary: 'Cotterrell distinguishes sociological from normative legal theory, outlines three approaches to conceptualizing law, and argues that law functions as ideology and a precision instrument of power, shaping social order beyond formal doctrine.'
+figures:
+  - 'Pashukanis'
+cases:
+  - 'Salomon v A Salomon & Co Ltd [1897] AC 22'
+statutes:
+  - 'Corporations Act 2001 (Cth)'
+  - 'Corporations Act s 181'
+jurisdiction: 'Australia'
+assessment_relevance: 'This note clarifies key theoretical distinctions and ideological critiques essential for essay questions on law''s social function and exam answers on legal theory frameworks.'
+---
 # Exam Summary: The Sociological Concept of Law
 **Author:** Roger Cotterrell (1983)
 
@@ -54,3 +77,12 @@ Cotterrell identifies three main ways sociologists conceptualize law:
 ## 5. Summary of Significance
 *   **For Sociology:** The concept of law is a "starting point" that influences research agendas.
 *   **For Law Students:** Cotterrell highlights that law is not just a set of neutral rules but a social institution deeply embedded in power dynamics and ideological structures.
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Corporate Law/summaries/Week 1/readings/Clarkson (ed), The Corporation and Its Stakeholders (1998) Summary]] - Both discuss corporate theory and stakeholder perspectives, relevant to the sociological concept of law in corporate contexts.
+- [[Corporate Law/summaries/Week 1/readings/Salomon v Salomon & Co Ltd [1897] AC 22 Summary]] - The foundational case on corporate personality, central to understanding the legal and sociological concepts of corporate law.
+- [[Corporate Law/summaries/Week 1/readings/Schmitthoff, ‘The Origin of the Joint-Stock Company’ (1939) Summary]] - Provides historical context for corporate forms, linking to sociological theories of law and corporate structure.
+<!-- agent:see-also:end -->

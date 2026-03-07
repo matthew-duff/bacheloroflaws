@@ -1,12 +1,24 @@
 ---
+title: '1. The Four Perennial Tensions ⭐'
 tags:
-  - 'company law history'
-  - 'incorporation by registration'
-  - 'limited liability'
-  - 'salomon principle'
-  - 'public vs private companies'
-  - 'uniform companies acts'
-  - 'commonwealth constitutional power'
+  - 'legal-personality'
+  - 'limited-liability'
+  - 'joint-stock-companies'
+  - 'asic'
+summary: 'This note traces the evolution of company law from early chartered and deed of settlement companies through landmark British and Australian statutes to the establishment of modern joint stock companies and the rise of ASIC as Australia''s corporate regulator.'
+figures:
+  - 'Robert Lowe'
+  - 'Maitland'
+cases:
+  - 'Salomon v Salomon & Co Ltd [1897]'
+statutes:
+  - 'Joint Stock Companies Act 1844'
+  - 'Joint Stock Companies Act 1856'
+  - 'Companies Act 1862'
+  - 'Companies Act 1884'
+  - 'Companies Act 1908'
+  - 'Corporations Act 2001'
+assessment_relevance: 'Covers key legislative milestones and case law essential for understanding company law and corporate regulation in Australia and the UK.'
 ---
 > [!important] Core Exam Themes
 > Four **perennial tensions** in corporate law · Historical evolution of the corporation · Constitutional basis of the Corporations Act 2001 · The **referral of powers** scheme · ASIC's role · The **civil penalty regime** · Statutory interpretation of the Act
@@ -476,3 +488,13 @@ timeline
     1999–2000 : Re Wakim + R v Hughes — cross-vesting & admin validity challenged
     2001 : Corporations Act 2001 — referral of powers scheme (current)
 ```
+
+---
+
+## See also
+<!-- agent:see-also:start -->
+- [[Corporate Law/summaries/Week 1/Chapter 4 — Formation and Types of Companies]] - Directly relates to the historical and structural foundations of corporations, complementing the discussion of legal personality and limited liability.
+- [[Corporate Law/summaries/Week 1/readings/Schmitthoff, ‘The Origin of the Joint-Stock Company’ (1939) Summary]] - Provides historical context on the development of joint-stock companies, relevant to the tensions and evolution of corporate forms discussed.
+- [[Corporate Law/summaries/Week 1/readings/Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry Summary]] - Connects historical corporate structure to modern regulatory and ethical challenges, highlighting tensions between governance and accountability.
+- [[Corporate Law/summaries/Week 1/Week 1 - Companies and Company Law]] - Summarizes key statutes that underpin the legal framework for corporate regulation, directly supporting the statutory analysis in the current note.
+<!-- agent:see-also:end -->
