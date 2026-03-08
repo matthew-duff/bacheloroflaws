@@ -1,5 +1,6 @@
 ---
 title: 'Exam Summary: Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry (Hayne Royal Commission)'
+original_file: "[[Corporate Law/sources/Week 1-Materials to L1/readings/Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry]]"
 tags:
   - 'misconduct'
   - 'conflicted-remuneration'

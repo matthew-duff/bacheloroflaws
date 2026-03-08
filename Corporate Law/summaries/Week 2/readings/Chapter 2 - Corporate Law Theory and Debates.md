@@ -60,14 +60,14 @@ Corporate status is a **concession (privilege) granted by the state**. The corpo
 
 ### Key Cases
 
-| Case | Principle |
-|---|---|
-| ***Nicholson v Permakraft (NZ) Ltd* [1985] 1 NZLR 242** | Cooke J: limited liability is a "privilege … open to abuse" — courts must be alert to irresponsible corporate structuring (strong version) |
-| ***Salomon v Salomon & Co Ltd* [1897] AC 22** | Lord Halsbury: company is an "artificial creation of the legislature" but once properly incorporated has "real existence" (mild version) |
-| ***EPA v Caltex Refining Co Pty Ltd* (1993) 178 CLR 477** | HCA: corporations **not entitled** to privilege against self-incrimination — corporation is an "artificial entity" and "creature of the law" (McHugh J) |
-| ***Hale v Henkel* (1906) 201 US 43** | Corporation is "a creature of the State … incorporated for the public … holds [privileges] subject to laws of the State" |
-| ***Northside Developments Pty Ltd v Registrar-General* (1990) 170 CLR 146** | Brennan J: company's "existence, capacities and activities are only such as the law attributes to it" |
-| ***Ashbury Railway Carriage & Iron Co v Riche* (1875)** | Ultra vires doctrine — companies could only carry out activities specified in their Memorandum of Association |
+| Case                                                                        | Principle                                                                                                                                               |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ***Nicholson v Permakraft (NZ) Ltd* [1985] 1 NZLR 242**                     | Cooke J: limited liability is a "privilege … open to abuse" — courts must be alert to irresponsible corporate structuring (strong version)              |
+| ***Salomon v Salomon & Co Ltd* [1897] AC 22**                               | Lord Halsbury: company is an "artificial creation of the legislature" but once properly incorporated has "real existence" (mild version)                |
+| ***EPA v Caltex Refining Co Pty Ltd* (1993) 178 CLR 477**                   | HCA: corporations **not entitled** to privilege against self-incrimination — corporation is an "artificial entity" and "creature of the law" (McHugh J) |
+| ***Hale v Henkel* (1906) 201 US 43**                                        | Corporation is "a creature of the State … incorporated for the public … holds [privileges] subject to laws of the State"                                |
+| ***Northside Developments Pty Ltd v Registrar-General* (1990) 170 CLR 146** | Brennan J: company's "existence, capacities and activities are only such as the law attributes to it"                                                   |
+| ***Ashbury Railway Carriage & Iron Co v Riche* (1875)**                     | Ultra vires doctrine — companies could only carry out activities specified in their Memorandum of Association                                           |
 
 ### Two Key Claims
 

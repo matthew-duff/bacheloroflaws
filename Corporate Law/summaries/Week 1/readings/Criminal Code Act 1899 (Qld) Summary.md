@@ -66,6 +66,6 @@ While applicable to all persons, these sections form the basis of the "identific
 <!-- agent:see-also:start -->
 - [[Corporate Law/summaries/Week 1/readings/Clarkson (ed), The Corporation and Its Stakeholders (1998) Summary]] - Both discuss corporate liability and fiduciary duties, with overlapping themes on stakeholder obligations and corporate governance.
 - [[Corporate Law/summaries/Week 1/readings/Ireland, ‘Company Law and the Myth of Shareholder Ownership’ (1999) Summary]] - This note examines corporate structure and shareholder roles, complementing the Criminal Code Act’s provisions on corporate responsibility and liability.
-- [[Corporate Law/summaries/Week 1/readings/NSW v Commonwealth (1990) 169 CLR 482 Summary]] - This High Court case addresses constitutional and statutory interpretation of corporate powers, relevant to statutory interpretation in the Criminal Code Act.
+- [[Incorporations Case (NSW v Commonwealth (1990) 169 CLR 482)]] - This High Court case addresses constitutional and statutory interpretation of corporate powers, relevant to statutory interpretation in the Criminal Code Act.
 - [[Corporate Law/summaries/Week 1/readings/Re Wakim; Ex Parte McNally (1999) 198 CLR 511 Summary]] - Discusses corporate criminal liability and the limits of corporate criminal responsibility under Australian law, closely related to the Act’s provisions.
 <!-- agent:see-also:end -->

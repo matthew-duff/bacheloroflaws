@@ -1,5 +1,6 @@
 ---
 title: 'Exam Summary: The Sociological Concept of Law'
+original_file: "[[Corporate Law/sources/Week 1-Materials to L1/readings/Cotterrell, ‘The Sociological Concept of Law’ (1983)]]"
 tags:
   - 'sociological-concept'
   - 'legal-theory'

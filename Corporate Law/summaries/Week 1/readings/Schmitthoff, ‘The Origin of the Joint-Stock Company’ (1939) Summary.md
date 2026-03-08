@@ -1,5 +1,6 @@
 ---
 title: 'Exam Summary: Schmitthoff, ‘The Origin of the Joint-Stock Company’ (1939)'
+original_file: "[[Corporate Law/sources/Week 1-Materials to L1/readings/Schmitthoff, ‘The Origin of the Joint-Stock Company’ (1939)]]"
 tags:
   - 'legal-personality'
   - 'limited-liability'

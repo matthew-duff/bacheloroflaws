@@ -1,5 +1,6 @@
 ---
 title: 'Case Summary: New South Wales v Commonwealth (1990) 169 CLR 482'
+original_file: "[[Corporate Law/sources/Week 1-Materials to L1/readings/NSW v Commonwealth (1990) 169 CLR 482]]"
 tags:
   - 'corporate-personality'
   - 'limited-liability'

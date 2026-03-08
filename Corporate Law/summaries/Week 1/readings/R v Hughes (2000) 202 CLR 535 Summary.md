@@ -1,5 +1,6 @@
 ---
 title: "Case Summary: R v Hughes (2000) 202 CLR 535"
+original_file: "[[Corporate Law/sources/Week 1-Materials to L1/readings/R v Hughes (2000) 202 CLR 535]]"
 tags:
   - corporate-regulation
   - federalism
@@ -35,12 +36,12 @@ case_outcome: won
 
 ## 3. Key Legal Issues
 1. Whether a State can validly confer executive functions/powers on a Commonwealth officer (the DPP).
-2. Whether the Commonwealth can validly authorize its officers to accept and exercise those State functions/powers.
+2. Whether the Commonwealth can validly authorise its officers to accept and exercise those State functions/powers.
 3. Whether the Commonwealth can impose a **duty** on its officers to exercise State powers.
 
 ## 4. Ratio Decidendi (The Principles)
 - **Conferral of Power:** A State can confer powers on a Commonwealth officer, and the Commonwealth can permit its officers to accept those powers (cooperative federalism).
-- **The Requirement for a Head of Power:** For the Commonwealth to authorize or impose a **duty** on its officers to exercise State functions (especially those affecting the rights of individuals, like criminal prosecution), there must be a **nexus to a Commonwealth head of power** under the Constitution (e.g., s 51).
+- **The Requirement for a Head of Power:** For the Commonwealth to authorise or impose a **duty** on its officers to exercise State functions (especially those affecting the rights of individuals, like criminal prosecution), there must be a **nexus to a Commonwealth head of power** under the Constitution (e.g., s 51).
 - **Incidental Power (s 51(xxxix)):** The Commonwealth's power to legislate in aid of the executive power (s 61) supports the DPP's role, but only where the underlying subject matter falls within federal legislative competence.
 - **Application to Facts:** The prosecution was valid because the specific offences (offshore investment schemes) fell under the **Trade and Commerce power (s 51(i))** and the **External Affairs power (s 51(xxix))**.
 

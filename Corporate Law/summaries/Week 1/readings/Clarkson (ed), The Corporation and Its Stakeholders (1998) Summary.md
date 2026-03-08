@@ -26,6 +26,8 @@ period: 'Early to mid-20th century corporate theory developments'
 jurisdiction: 'Australia and common law jurisdictions'
 assessment_relevance: 'This note clarifies the theoretical foundations of stakeholder theory and its practical implications for director duties and corporate governance, crucial for essay questions and oral exams on corporate purpose and fiduciary obligations.'
 ---
+# Clarkson (ed), The Corporation and Its Stakeholders (1998) Summary
+
 **Editor:** Max B.E. Clarkson
 
 This anthology brings together classic and contemporary readings that challenge the doctrine of **shareholder primacy** and develop the **stakeholder theory** of the corporation.

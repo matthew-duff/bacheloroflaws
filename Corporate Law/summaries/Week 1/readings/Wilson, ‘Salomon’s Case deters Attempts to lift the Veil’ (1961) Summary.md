@@ -1,5 +1,6 @@
 ---
 title: 'Summary: Wilson, ‘Salomon’s Case deters Attempts to lift the Veil’ (1961)'
+original_file: "[[Corporate Law/sources/Week 1-Materials to L1/readings/Wilson, ‘Salomon’s Case deters Attempts to lift the Veil’ (1961)]]"
 tags:
   - 'separate-legal-entity'
   - 'dual-capacity'

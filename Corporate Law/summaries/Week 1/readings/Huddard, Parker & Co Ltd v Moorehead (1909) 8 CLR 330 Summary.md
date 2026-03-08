@@ -1,5 +1,6 @@
 ---
 title: 'Exam Summary: Huddart, Parker & Co Ltd v Moorehead (1909) 8 CLR 330'
+original_file: "[[Corporate Law/sources/Week 1-Materials to L1/readings/Huddard, Parker & Co Ltd v Moorhead (1909) 8 CLR 330]]"
 tags:
   - 'corporations-power'
   - 'reserved-state-powers'
@@ -55,7 +56,7 @@ case_outcome: 'lost'
 
 ## Legal Significance for Exams
 *   **Historical Context:** Represents the peak of the "Reserved State Powers" doctrine.
-*   **Overruled Status:** While the specific holding regarding the invalidity of the trade practices provisions was **overruled** by *Strickland v Rocla Concrete Pipes Ltd* (1971), the principle that the Commonwealth cannot *create* corporations under s 51(xx) remains law (confirmed in the *Incorporations Case* (1990)).
+*   **Overruled Status:** While the specific holding regarding the invalidity of the trade practices provisions was **overruled** by *Strickland v Rocla Concrete Pipes Ltd* (1971), the principle that the Commonwealth cannot *create* corporations under s 51(xx) remains law (confirmed in the *[[Incorporations Case (NSW v Commonwealth (1990) 169 CLR 482)]]* (1990)).
 *   **Modern Application:** In an exam, use this case to show the evolution of s 51(xx). Contrast the narrow "status-based" view in *Huddart Parker* with the modern "activities-based" or "object-of-command" view established in *Rocla Pipes* and *WorkChoices* (2006).
 
 ---

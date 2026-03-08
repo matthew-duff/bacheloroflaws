@@ -1,5 +1,6 @@
 ---
 title: 'Case Summary: Salomon v Salomon & Co Ltd [1897] AC 22'
+original_file: "[[Corporate Law/sources/Week 1-Materials to L1/readings/Salomon v Salomon & Co Ltd [1897] AC 22]]"
 tags:
   - 'corporate-personality'
   - 'limited-liability'

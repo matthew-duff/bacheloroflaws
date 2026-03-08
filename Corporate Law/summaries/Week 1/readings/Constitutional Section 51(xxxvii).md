@@ -1,0 +1,7 @@
+# Constitutional Section 51(xxxvii)
+**Section 51(xxxvii) of the Constitution of Australia** (also called the **referral power**) is a provision in the [Australian Constitution](https://en.wikipedia.org/wiki/Australian_Constitution "Australian Constitution") which empowers the [Australian Parliament](https://en.wikipedia.org/wiki/Australian_Parliament "Australian Parliament") to legislate on matters referred to it by any state. As [Australia](https://en.wikipedia.org/wiki/Australia "Australia") is a [federation](https://en.wikipedia.org/wiki/Federation "Federation"), both states and the Commonwealth have legislative power, and the Australian Constitution limits Commonwealth power (see [Section 51](https://en.wikipedia.org/wiki/Section_51_of_the_Constitution_of_Australia "Section 51 of the Constitution of Australia") and [Section 52](https://en.wikipedia.org/wiki/Section_52_of_the_Constitution_of_Australia "Section 52 of the Constitution of Australia")). Section 51(xxxvii) allows for a degree of flexibility in the allocation of legislative powers.
+
+
+> The Parliament shall, subject to this Constitution, have power to make laws for the peace, order, and good government of the Commonwealth with respect to:
+> 
+> Matters referred to the Parliament of the Commonwealth by the Parliament or Parliaments of any State or States, but so that the law shall extend only to States by whose Parliaments the matter is referred, or which afterwards adopt the law:

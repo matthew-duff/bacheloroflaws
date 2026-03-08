@@ -20,6 +20,7 @@ statutes:
   - 'Corporations Act 2001'
 assessment_relevance: 'Covers key legislative milestones and case law essential for understanding company law and corporate regulation in Australia and the UK.'
 ---
+# Chapter 1 — History and Regulatory Structure
 > [!important] Core Exam Themes
 > Four **perennial tensions** in corporate law · Historical evolution of the corporation · Constitutional basis of the Corporations Act 2001 · The **referral of powers** scheme · ASIC's role · The **civil penalty regime** · Statutory interpretation of the Act
 
@@ -472,15 +473,20 @@ timeline
     1825 : Bubble Act repealed — three forms coexist: partnerships, deed of settlement cos, incorporated cos
     1844 : Joint Stock Companies Act — incorporation by registration + mandatory financial disclosure
     1855 : Amendment — limited liability on incorporation
+```
+    
+```mermaid
+timeline
     1856 : Memorandum & Articles; freedom of contract philosophy; min 7 members
 	1862 : Companies Act — company now legally distinct from members; model for Australian colonies
     1871 : No-liability companies (Vic) — Australian departure from English precedent
-```
-```mermaid
-timeline
     1896 : Companies Act (Vic) — mandatory auditing; proprietary company created
     1909 : Huddart Parker — Commonwealth cannot incorporate under s 51(xx)
     1961–62 : Uniform Companies Acts (all states/territories)
+```
+```mermaid
+timeline
+
     1971 : Concrete Pipes — reserved powers doctrine overruled
     1980–90 : Co-operative scheme — NCSC; 9 bureaucracies; lowest-common-denominator problems
     1990 : NSW v Commonwealth — Corporations Act 1989 struck down
