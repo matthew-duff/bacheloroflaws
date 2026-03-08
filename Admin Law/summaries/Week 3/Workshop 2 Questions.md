@@ -33,13 +33,13 @@ Gageler explains that this supervisory role is constitutionally entrenched, but 
 
 
 
-(4) Judgments in the High Court of Australia contain frequent assertions about the importance of the rule of law, and the practical conclusions said to be mandated by the principle of the rule of law. Carefully read the headnotes (the one-to-two-page case summary at the start of reported cases) of the following three cases detailed below, and then carefully write/type up a case-note on each one in turn.
+**(4) Judgments in the High Court of Australia contain frequent assertions about the importance of the rule of law, and the practical conclusions said to be mandated by the principle of the rule of law. Carefully read the headnotes (the one-to-two-page case summary at the start of reported cases) of the following three cases detailed below, and then carefully write/type up a case-note on each one in turn.**
 
-The case note should be structured under three headings dealing with facts, issues and decision: it should contain a brief summary of the facts (no more than a paragraph) distilled from your reading of the headnote, the claim involved in the case (that is, the key legal issue(s) before the court), a summary of the court’s decision, and a summary of the relevant judgment(s) with careful (pinpoint) reference to the judges’ reasoning. We have directed you to relevant parts of the judgments for the purpose of this exercise, so you do not need to read the entire case.
+**The case note should be structured under three headings dealing with facts, issues and decision: it should contain a brief summary of the facts (no more than a paragraph) distilled from your reading of the headnote, the claim involved in the case (that is, the key legal issue(s) before the court), a summary of the court’s decision, and a summary of the relevant judgment(s) with careful (pinpoint) reference to the judges’ reasoning. We have directed you to relevant parts of the judgments for the purpose of this exercise, so you do not need to read the entire case.**
 
-Establishing legal authority to take administrative action: Church of Scientology v Woodward (1982) 154 CLR 25 (read the judgments of Mason and Brennan JJ).
+**Establishing legal authority to take administrative action: Church of Scientology v Woodward (1982) 154 CLR 25 (read the judgments of Mason and Brennan JJ).**
 
-Was ASIO subject to judicial review? And was there a statutory foundation enabling ASIO to investigate the affairs of the church?
+**Was ASIO subject to judicial review? And was there a statutory foundation enabling ASIO to investigate the affairs of the church?**
 
 ### Facts
 The Church of Scientology and a member sued the Director-General of ASIO, the Attorney-General and the Commonwealth, alleging that ASIO had investigated them, continued gathering and communicating intelligence about them, and treated them as security risks even though initial inquiries had shown, or should have shown, that they were not relevant to security. The challenge covered the period before and after 1 June 1980, so both the `Australian Security Intelligence Organization Act 1956 (Cth)` and the `Australian Security Intelligence Organization Act 1979 (Cth)` were in play.
@@ -56,7 +56,7 @@ Establishing legal authority to take administrative action: CPCF v Minister for 
 
 Most administrative law cases are about statutory power: whether legislation authorised government actions, and the construction of the statute to determine the outer limits upon government power. But not all administrative power is sourced in statute: importantly s 61 of the Constitution supplies non-statutory executive power (similar to ‘prerogative powers’ at common law). A controversial case in which the Australian government relied on both statutory and non-statutory powers to validate its coercive action taken against asylum seekers at sea is CPCF.
 
-In light of your reading of CPCF, did the Maritime Powers Act 2013 (Cth) authorise the decision to; first, detain at sea, and secondly, take asylum seekers towards India? And, if not, did non-statutory executive power (or, ‘prerogative power’) supply an alternative basis for the Australian Government’s coercive actions?
+**In light of your reading of CPCF, did the Maritime Powers Act 2013 (Cth) authorise the decision to; first, detain at sea, and secondly, take asylum seekers towards India? And, if not, did non-statutory executive power (or, ‘prerogative power’) supply an alternative basis for the Australian Government’s coercive actions?**
 
 ### Facts
 `CPCF` concerned 157 asylum seekers on an Indian-flagged vessel intercepted in Australia's contiguous zone near Christmas Island. After the vessel became unseaworthy, they were transferred to a Commonwealth ship and detained there. The National Security Committee of Cabinet then decided they should be taken towards India, even though Australia had no prior agreement with India for their disembarkation. When negotiations with India failed, they were eventually taken to the Cocos (Keeling) Islands and detained under the `Migration Act`.
@@ -79,7 +79,7 @@ The approach of the HCA to privative clauses (‘ouster clauses’) demonstrates
 
 Plaintiff S157 is, arguably, one of the most significant contemporary decisions of the HCA. It concerned an attempt by the Federal Legislature to ‘oust’ the capacity of the High Court to review government action and use its remedial powers under s 75, vis-à-vis a ‘Commonwealth officer’.
 
-What did the High Court decide in respect of Parliament’s attempt to curtail the High Court’s supervisory function under s 75(v) Constitution? And what role did the ‘rule of law’ play in the reasoning of Chief Justice Gleeson (read carefully pages 482-494 of Plaintiff S157)?
+**What did the High Court decide in respect of Parliament’s attempt to curtail the High Court’s supervisory function under s 75(v) Constitution? And what role did the ‘rule of law’ play in the reasoning of Chief Justice Gleeson (read carefully pages 482-494 of Plaintiff S157)?**
 
 ### Facts
 The plaintiff, a Bangladeshi applicant for a protection visa, sought to challenge a Refugee Review Tribunal decision affirming the refusal of his visa. He alleged a denial of procedural fairness. Two provisions of the `Migration Act 1958 (Cth)` were said to obstruct review in the High Court: `s 474`, a broad privative clause declaring certain migration decisions "final" and not subject to judicial review, and `s 486A`, which imposed a strict 35-day time limit for seeking relief.

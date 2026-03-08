@@ -30,13 +30,13 @@ assessment_relevance: Covers core doctrines examiners test on; useful for recall
 - [ ] [[Gageler - Constitutional Context Summary|Gageler - Constitutional Context Summary]]
 - [ ] [[Workshop 2 Guide Summary|Workshop 2 Guide Summary]]
 - [ ] [[A-G (NSW) v Quin|A-G (NSW) v Quin]]
-- [ ] [[CPCF v Minister|CPCF v Minister]]
 - [ ] [[Lecture 3 Legality Review Summary|Lecture 3 Legality Review Summary]]
 - [ ] [[Church of Scientology v Woodward|Church of Scientology v Woodward]]
 
 
 ## Low Confidence
 
+- [ ] [[CPCF v Minister|CPCF v Minister]]
 - [ ] [[Plaintiff S157|Plaintiff S157]]
 
 
