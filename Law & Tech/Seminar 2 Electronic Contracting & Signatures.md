@@ -215,16 +215,16 @@ Australia (2011–2013 incorporation into ETAs), USA, EU — **not yet full rati
 
 ### Writing Cases
 
-| Case | Key Finding |
-| :--- | :--- |
-| *Grand Pacific Resort* [2010] QBCCMCmr 255 | Two-part test: (1) useable for subsequent reference; (2) "capable of being retrieved" (printer settings issue). |
-| *Austar Finance v Campbell* [2007] NSWSC 1493 | Fax = writing. "I see no reason for finding that a notice sent and received by facsimile is any less a notice in writing." [50] |
-| *Golden Ocean v Salgaocar* [2012] EWCA Civ 265 | Series of **emails** can form writing; guarantee; signed by agent via email. |
-| *Re David Scott Ellis; Ex Parte Triple M Mechanical* [2013] WASC 161 | ".rar" files — Arbitrator: NOT received. Court: IS received and "useable for subsequent reference." |
-| *Curtis v Singtel Optus Pty Ltd* [2014] FCCA 1286 | Automated system satisfied ETA; good discussion of validity of a Bankruptcy Notice. |
-| *Field; Secretary, DSS* [2015] AATA 903 | Email routed to **Junk Mail** folder still satisfies "useable for subsequent reference" — SSAT decision overturned. Also discussed "permission" in Art 9(2) and "at the time" / "reasonably accessible." |
-| *Kaczmarski v Victorian Legal Services Board* [2017] VSC 690 | Appeal lodged by email at **7:43pm** (after registry close) = "lodged" (not "filed"). Distinguishes "lodging" from "filing." [35] |
-| *Re Nichol; Nichol v Nichol* [2017] QSC 220 | **Unsent phone text message** held to be a valid will under *Succession Act 1981* (Qld) s 18. Signature: "MRN190162Q." |
+| Case                                                                 | Key Finding                                                                                                                                                                                              |
+| :------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Grand Pacific Resort* [2010] QBCCMCmr 255                           | Two-part test: (1) useable for subsequent reference; (2) "capable of being retrieved" (printer settings issue).                                                                                          |
+| *Austar Finance v Campbell* [2007] NSWSC 1493                        | Fax = writing. "I see no reason for finding that a notice sent and received by facsimile is any less a notice in writing." [50]                                                                          |
+| *Golden Ocean v Salgaocar* [2012] EWCA Civ 265                       | Series of **emails** can form writing; guarantee; signed by agent via email.                                                                                                                             |
+| *Re David Scott Ellis; Ex Parte Triple M Mechanical* [2013] WASC 161 | ".rar" files — Arbitrator: NOT received. Court: IS received and "useable for subsequent reference."                                                                                                      |
+| *Curtis v Singtel Optus Pty Ltd* [2014] FCCA 1286                    | Automated system satisfied ETA; good discussion of validity of a Bankruptcy Notice.                                                                                                                      |
+| *Field; Secretary, DSS* [2015] AATA 903                              | Email routed to **Junk Mail** folder still satisfies "useable for subsequent reference" — SSAT decision overturned. Also discussed "permission" in Art 9(2) and "at the time" / "reasonably accessible." |
+| *Kaczmarski v Victorian Legal Services Board* [2017] VSC 690         | Appeal lodged by email at **7:43pm** (after registry close) = "lodged" (not "filed"). Distinguishes "lodging" from "filing." [35]                                                                        |
+| *Re Nichol; Nichol v Nichol* [2017] QSC 220                          | **Unsent phone text message** held to be a valid will under *Succession Act 1981* (Qld) s 18. Signature: "MRN190162Q."                                                                                   |
 
 ---
 
