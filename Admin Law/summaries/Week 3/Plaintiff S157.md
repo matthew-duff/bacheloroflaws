@@ -1,21 +1,21 @@
 ---
 type: case
-
-title: 'Plaintiff S157'
+title: Plaintiff S157
 tags:
-  - 'jurisdictional-error'
-  - 'privative-clause'
-  - 'constitutional-review'
-  - 'procedural-fairness'
-  - 'migration-act'
-summary: 'The case clarifies the limits of Commonwealth privative clauses by holding that jurisdictional error is not subject to such clauses, reinforcing the High Court''s power to review decisions under s 75(v) and protecting procedural fairness.'
+  - jurisdictional-error
+  - privative-clause
+  - constitutional-review
+  - procedural-fairness
+  - migration-act
+summary: The case clarifies the limits of Commonwealth privative clauses by holding that jurisdictional error is not subject to such clauses, reinforcing the High Court's power to review decisions under s 75(v) and protecting procedural fairness.
 cases:
-  - 'Plaintiff S157/2002 v Commonwealth (2003) 211 CLR 476'
+  - Plaintiff S157/2002 v Commonwealth (2003) 211 CLR 476
 statutes:
-  - 'Migration Act 1958 (Cth)'
-  - 'Constitution s 75(v)'
-jurisdiction: 'Australia'
-assessment_relevance: 'Key for exams on constitutional review, privative clauses, and jurisdictional error; useful for oral assessments on statutory interpretation and separation of powers.'
+  - Migration Act 1958 (Cth)
+  - Constitution s 75(v)
+jurisdiction: Australia
+assessment_relevance: Key for exams on constitutional review, privative clauses, and jurisdictional error; useful for oral assessments on statutory interpretation and separation of powers.
+ratio:
 ---
 [[Plaintiff S157/2002 v Commonwealth (2003) 211 CLR 476]]
 

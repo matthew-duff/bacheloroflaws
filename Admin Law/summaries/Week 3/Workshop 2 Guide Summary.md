@@ -23,7 +23,7 @@ statutes:
 jurisdiction: 'Australia'
 assessment_relevance: 'This note is crucial for exams on administrative law, especially for understanding the limits of judicial review, the rule of law, and how to distinguish legality from merits in case analysis.'
 ---
-[[Workshop 2 Learning Guide and Workshop Questions]]
+[[Learning Guide and Workshop Questions-Workshop 2 Learning Guide and Workshop Questions]]
 
 **Reference:** LAWS3701 Administrative Law, Topic Two: Administrative Law and the Commonwealth Constitution (Workshop 2 Learning Guide).
 

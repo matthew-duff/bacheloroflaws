@@ -41,7 +41,8 @@ This chapter explores the historical development and modern emergence of a "cons
 ### Emergence of the Modern Approach (1990–2010)
 *   **The Brennan Shift (*Quin* 1990):** Sir Gerard Brennan articulated that judicial review is the enforcement of the "rule of law" over executive action, famously quoting *Marbury v Madison*: "It is, emphatically, the province and duty of the judicial department to say what the law is."
 *   **Constitutional Writs (*Aala* 2000):** The High Court relabeled the writs in s 75(v) as "constitutional writs," focusing on enforcing the law that limits a repository's power.
-*   **Entrenched Minimum Provision (*S157* 2003):** Established that the High Court's jurisdiction under s 75(v) to review for jurisdictional error cannot be removed by Parliament.
+*   **Entrenched Minimum Provision** [[Plaintiff S157]] 2003): Established that the High Court's jurisdiction under s 75(v) to review for jurisdictional error cannot be removed by Parliament.
+	* 
 *   **State Entrenchment (*Kirk* 2010):** The High Court held that State Parliaments cannot deprive State Supreme Courts of their supervisory jurisdiction to review for jurisdictional error, as this is a "defining characteristic" of a Supreme Court recognized by Chapter III.
 
 ### The Concept of Jurisdictional Error
