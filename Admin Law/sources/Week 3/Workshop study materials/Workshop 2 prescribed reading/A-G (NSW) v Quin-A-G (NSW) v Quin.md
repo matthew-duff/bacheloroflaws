@@ -94,7 +94,7 @@ treat an application by the former stipendiary magistrate in the same way
 as those of any other applicants, namely on merit, save that the allegations
 the subject of the earlier case would not be taken into account unless he
 was given an opportunity to meet them. The former stipendiary magistrate
-commenced another action in which he contended that he was entitled to
+commenced another action in which not dehe contended that he was entitled to
 have
 his application reconsidered by the
 Attorney-General without
@@ -2565,42 +2565,6 @@ memorable words of Marshall c.J. in Marbury v. Madison (98):
 "It is, emphatically, the province and duty of the judicial
 department to say what the law is."
 The duty and jurisdiction of the court to review administrative
-
-H.C.OF A.
-1989·1990.
-
-'-,-'
-
-ArrORNEY-
-GENERAL
-(N.S.W.)
-v.
-QUIN.
-
-Brennan J.
-
-(97) (1975) 134 C.L.R. 338, at
-p.380.
-(98) (1803) 1 Cranch 137, at p. 177
-[5 U.S. 87, at p. Ill).
-
-36
-HIGH COURT
-[1989-1990.
-
-H. C. OF A.
-1989-1990.
-
-'--,--J
-
-ATTORNEY-
-GENERAL
-(N.S.W.)
-v.
-QUIN.
-
-Brennan J.
-
 action do not go beyond the declaration and enforcing of the law
 which determines the limits and governs the exercise of the
 repository's power. H, in so doing, the court avoids administrative

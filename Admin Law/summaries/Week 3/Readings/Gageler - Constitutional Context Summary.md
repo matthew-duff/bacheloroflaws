@@ -22,7 +22,7 @@ period: 'Late 20th to early 21st century'
 jurisdiction: 'Australia'
 assessment_relevance: 'This note clarifies the constitutional basis of judicial review and jurisdictional error, crucial for essay questions on administrative law and for oral assessments requiring analysis of constitutional limits on executive power.'
 ---
-[[Gageler's article on const context for admin law]]
+[[Gageler's article on const context for admin law-Gageler's article on const context for admin law]]
 
 **Reference:** Hon Stephen Gageler, 'The Constitutional Dimension' in Matthew Groves (ed), *Modern Administrative Law in Australia: Concepts and Context* (Cambridge University Press, 2014) 165.
 
@@ -57,9 +57,9 @@ The "constitutional dimension" provides a unified conceptual justification for j
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 3/A-G (NSW) v Quin]] - Shares topics like judicial review and separation of powers, and involves the same key figures (e.g., Gerard Brennan) and statutes (e.g., Corporations Act 2001).
-- [[Admin Law/summaries/Week 3/CPCF v Minister]] - Relates to constitutional law and statutory interpretation, and involves key cases and statutes (e.g., Constitution s 72, Maritime Powers Act 2013) relevant to judicial review of executive action.
-- [[Admin Law/summaries/Week 3/Church of Scientology v Woodward]] - Focuses on judicial review of executive power and national security, complementing the current note's discussion of constitutional concept and separation of powers.
-- [[Admin Law/summaries/Week 3/Lecture 3 Legality Review Summary]] - Provides foundational context on the grounds of review, directly supporting the current note’s summary of constitutional context and judicial review.
+- [[A-G (NSW) v Quin]] - Shares topics like judicial review and separation of powers, and involves the same key figures (e.g., Gerard Brennan) and statutes (e.g., Corporations Act 2001).
+- [[CPCF v Minister for Immigration]] - Relates to constitutional law and statutory interpretation, and involves key cases and statutes (e.g., Constitution s 72, Maritime Powers Act 2013) relevant to judicial review of executive action.
+- [[Church of Scientology v Woodward]] - Focuses on judicial review of executive power and national security, complementing the current note's discussion of constitutional concept and separation of powers.
+- [[Lecture 3 Legality Review Summary]] - Provides foundational context on the grounds of review, directly supporting the current note’s summary of constitutional context and judicial review.
 - [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Addresses administrative law principles in the context of AI and legality, offering a complementary perspective on procedural fairness and statutory interpretation.
 <!-- agent:see-also:end -->

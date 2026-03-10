@@ -68,7 +68,7 @@ Courts secure administrative justice by:
 - Granting powerful remedies: certiorari (quashing a decision), mandamus (compelling action), prohibition (restraining unlawful action), and declarations
 - Protecting a constitutional *minimum* of judicial review that Parliament cannot remove through privative clauses (*Plaintiff S157/2002*)
 
-Crucially, courts cannot substitute their own view on the merits — they cannot enter the "forbidden field" of merits (*AG (NSW) v Quin*). This is the fundamental boundary between legality and merits review, maintained by the strict separation of powers under the Constitution (Groves & Boughey; Lecture 1 Summary).
+Crucially, courts cannot substitute their own view on the merits — they cannot enter the "forbidden field" of merits (*[[A-G (NSW) v Quin]]) *). This is the fundamental boundary between legality and merits review, maintained by the strict separation of powers under the Constitution (Groves & Boughey; Lecture 1 Summary).
 
 French CJ confirms that judicial review anchors administrative justice standards in the Constitution and the rule of law itself, giving those values their ultimate legal enforceability (French, 2010).
 

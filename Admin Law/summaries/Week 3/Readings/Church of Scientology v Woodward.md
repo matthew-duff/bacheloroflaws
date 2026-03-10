@@ -36,11 +36,29 @@ The High Court (by majority, 3:2) held that the question of whether intelligence
 
 ### Reasoning
 *   **Majority (Mason, Murphy, and Brennan JJ)**:
-    *   The *ASIO Act* defines the organization's functions in objective terms (e.g., "intelligence relevant to security"). These statutory limits mark the boundaries of legitimate executive activity.
-    *   Judicial review is the means by which the rule of law is enforced over executive action. Parliament did not expressly exclude judicial review, and such an exclusion should not be lightly implied.
+    *   The *ASIO Act* defines the organisation's functions in objective terms (e.g., "intelligence relevant to security"). These statutory limits mark the boundaries of legitimate executive activity.
+    *   Judicial review is the means by which the rule of law is enforced over executive action. Parliament did not expressly exclude judicial review, and **such an exclusion should not be lightly implied**.
     *   While "security" is a fluctuating concept and proving a lack of relevance is a "formidable hurdle" for a plaintiff (especially given Crown privilege and the secrecy of intelligence), the issue remains justiciable.
     *   **Mason J** noted that intelligence is relevant if it has a "real connection" to security, judged in light of what is known to ASIO at the time.
-    *   **Brennan J** emphasized that the Act's definition of functions (s 17) provides the measure of validity, not the Director-General's subjective opinion.
+	    * 'The privative clause is the conventional expression of the legislative intention that a decision shall not be challenged in the courts. Yet, notwithstanding the wide and strong language in which these clauses have been expressed, the courts have traditionally refused to recognize that they protect manifest jurisdictional errors or ultra vires acts. It would be ironical in the extreme if we were now to hold that what for SO long. Parliament has failed to achieve by express provision, it has now achieved without any provision at all, and this in a case in which, as we shall see, Parliament has been insistent that ASIO's activities should be confin ed to security.
+	    * "any suggestion that Parliament has impliedly excluded judicial review, especially for ultra vires, should be viewed
+with extreme caution, indeed with healthy scepticism. If Parliament
+intends to take the radical step of ousting judicial review then it is
+reasonable to suppose that
+it will express its intention with
+directness and clarity upon the topic, thereby taking the responsi-
+bility upon its own shoulders for that result rather than leaving the
+Court to spell it out from a series of provisions not specifically
+addressed to that question."
+    *   **Brennan J** emphasised that the Act's definition of functions (s 17) provides the measure of validity, not the Director-General's subjective opinion.
+	    * "As the law which sustains the Organization in
+existence limits its functions, it would mock the will of Parliament to
+deny that the functions which it has defined may be exceeded
+without restraint by the courts. **Judicial review is neither more nor**
+**less than the enforcement of the rule of law over executive action; it**
+**is the means by which executive action is prevented from exceeding**
+**the powers and functions assigned to the executive by law** and the
+interests of the individual are protected accordingly"
 *   **Dissent (Gibbs CJ and Wilson J)**:
     *   Argued that the Act evinces a legislative intent to shield ASIO's intelligence-gathering from judicial review, except where bad faith is alleged or private rights are infringed.
     *   The specialized nature of security intelligence and the provision of a specific, limited review process for security assessments (the Security Appeals Tribunal) suggested that general judicial review of intelligence gathering was not intended.
@@ -54,8 +72,8 @@ The High Court (by majority, 3:2) held that the question of whether intelligence
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 3/A-G (NSW) v Quin]] - Both cases deal with judicial review and executive discretion, and share overlapping topics such as procedural fairness and legitimate expectation.
+- [[A-G (NSW) v Quin]] - Both cases deal with judicial review and executive discretion, and share overlapping topics such as procedural fairness and legitimate expectation.
 - [[Admin Law/summaries/Week 12/LPDT v Minister]] - This case addresses jurisdictional error and statutory compliance, closely related to the legal limits of executive power and statutory interpretation discussed in the Church of Scientology v Woodward case.
-- [[Admin Law/summaries/Week 3/CPCF v Minister]] - Shares themes of statutory authority, executive powers, and immigration enforcement, relevant to understanding statutory limits and executive overreach.
-- [[Admin Law/summaries/Week 3/Waldron - Rule of Law Summary]] - Provides foundational theory on the rule of law, complementing the discussion of judicial review and executive power in the Church of Scientology case.
+- [[CPCF v Minister for Immigration]] - Shares themes of statutory authority, executive powers, and immigration enforcement, relevant to understanding statutory limits and executive overreach.
+- [[Waldron - Rule of Law Summary]] - Provides foundational theory on the rule of law, complementing the discussion of judicial review and executive power in the Church of Scientology case.
 <!-- agent:see-also:end -->

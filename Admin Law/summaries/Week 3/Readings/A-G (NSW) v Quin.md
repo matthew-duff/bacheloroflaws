@@ -18,7 +18,7 @@ statutes:
 jurisdiction: 'Australia'
 assessment_relevance: 'This note is pivotal for exams on administrative law, testing understanding of legitimate expectation, judicial review limits, and executive discretion, and it supports oral assessments on procedural fairness and separation of powers.'
 ---
-[[A-G (NSW) v Quin]]
+[[A-G (NSW) v Quin-A-G (NSW) v Quin]]
 
 **Citation**: *Attorney-General (NSW) v Quin* (1990) 170 CLR 1
 
@@ -33,6 +33,10 @@ Following *Macrae*, the Attorney-General changed the appointment policy to one b
 
 ### Held
 The High Court (Mason CJ, Brennan, and Dawson JJ; Deane and Toohey JJ dissenting) allowed the appeal, holding that the Attorney-General was not obliged to consider Quin's application under the old policy.
+
+> "The court needs to remember that the judicature is but one of the three co- ordinate branches of government and that the authority of the judicature is not derived from a superior capacity to balance the interests of the community against the interests of an individual."
+
+> The courts are not equipped to evaluate the policy considerations which properly bear on such decisions, nor is the adversary system ideally suited to the doing of administrative justice: interests which are not represented as well as interests which are represented must often be considered.
 
 ### Reasoning
 *   **Separation of Powers**: The court’s role in judicial review is to ensure legality, not to review the merits of administrative decisions. Compelling the Executive to follow a specific appointment policy would impermissibly intrude into the merits of the advice tendered to the Governor.
@@ -49,7 +53,7 @@ The High Court (Mason CJ, Brennan, and Dawson JJ; Deane and Toohey JJ dissenting
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 3/Church of Scientology v Woodward]] - Shares the topic of procedural fairness and legitimate expectation, both central to administrative law and judicial review.
-- [[Admin Law/summaries/Week 3/Gageler - Constitutional Context Summary]] - Provides constitutional context relevant to judicial review and executive discretion, closely related to the principles discussed.
-- [[Admin Law/summaries/Week 3/Lecture 3 Legality Review Summary]] - Directly addresses the grounds of review and legal review, complementing the analysis of judicial review in the current note.
+- [[Church of Scientology v Woodward]] - Shares the topic of procedural fairness and legitimate expectation, both central to administrative law and judicial review.
+- [[Gageler - Constitutional Context Summary]] - Provides constitutional context relevant to judicial review and executive discretion, closely related to the principles discussed.
+- [[Lecture 3 Legality Review Summary]] - Directly addresses the grounds of review and legal review, complementing the analysis of judicial review in the current note.
 <!-- agent:see-also:end -->

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"8707f3bd690f46e8","type":"file","file":"Copyright Law/2. Subsistence of Copyright.md","x":-540,"y":-360,"width":400,"height":50},
+		{"id":"9be3ecb5d20e91ac","type":"text","text":"Connection to Australia","x":-720,"y":-120,"width":250,"height":60,"color":"3"}
+	],
+	"edges":[
+		{"id":"c7879d82ee77cd7c","fromNode":"8707f3bd690f46e8","fromSide":"bottom","toNode":"9be3ecb5d20e91ac","toSide":"top"}
+	]
+}

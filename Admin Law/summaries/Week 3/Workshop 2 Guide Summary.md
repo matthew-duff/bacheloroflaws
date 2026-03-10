@@ -61,5 +61,5 @@ This guide is foundational for understanding why judicial review in Australia is
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 3/Lecture 3 Legality Review Summary]] - Directly addresses grounds for legality review, closely related to the cases and statutes discussed in this note, especially those concerning procedural fairness and constitutional limits.
+- [[Lecture 3 Legality Review Summary]] - Directly addresses grounds for legality review, closely related to the cases and statutes discussed in this note, especially those concerning procedural fairness and constitutional limits.
 <!-- agent:see-also:end -->

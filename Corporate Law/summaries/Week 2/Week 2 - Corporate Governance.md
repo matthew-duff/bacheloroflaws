@@ -81,8 +81,8 @@ assessment_relevance: 'Provides a structured understanding of legal duties, regu
 4. **Diversified portfolio strategy** — investors spread risk, reducing incentive to monitor any single company.
 
 ### Berle's Solution and Theoretical Nuance
-- **Corporate Powers in Trust:** In [[A. A. Berle-CorporatePowersPowers-1931]], Berle argues that all corporate powers are held in trust for the ratable benefit of all shareholders. Every action must pass a "two-fold test": a technical/legal test and an equitable test.
-- **Strict Fiduciary Duty:** In [[A. A. Berle-CorporateManagersTrustees-1932]], Berle argued that until a framework for broader social accountability is created, managers must strictly remain fiduciaries for shareholders. Otherwise, abandoning shareholder primacy grants managers unchecked, absolute power over wealth.
+- **Corporate Powers in Trust:** In [[Corporate Law/summaries/Week 2/readings/A. A. Berle-CorporatePowersPowers-1931]], Berle argues that all corporate powers are held in trust for the ratable benefit of all shareholders. Every action must pass a "two-fold test": a technical/legal test and an equitable test.
+- **Strict Fiduciary Duty:** In [[Corporate Law/summaries/Week 2/readings/A. A. Berle-CorporateManagersTrustees-1932]], Berle argued that until a framework for broader social accountability is created, managers must strictly remain fiduciaries for shareholders. Otherwise, abandoning shareholder primacy grants managers unchecked, absolute power over wealth.
 - Embrace management freedom → directors become **technocratic, publicly minded "princes of industry"** who act for the benefit of society.
 - Critique: sounds deeply naïve today, though in context of 1930s (stock market crash, rise of managed economies) it was less so.
 
@@ -152,12 +152,12 @@ assessment_relevance: 'Provides a structured understanding of legal duties, regu
 
 ### 4.2 Soft Law
 
-- **The Cadbury Report (1992)** ([[cadbury-report.md]]):
+- **The Cadbury Report (1992)** ([[Corporate Law/summaries/Week 2/readings/cadbury-report]]):
   - A pioneering UK report that established foundational standards for corporate governance via a voluntary "Code of Best Practice."
   - Introduced the concept of "comply or explain" regarding disclosure.
   - Emphasized openness, integrity, and accountability, and heavily stressed the crucial role of independent Non-Executive Directors (NEDs) in reviewing performance and managing conflicts of interest.
 
-- **ASX Corporate Governance Principles and Recommendations** (4th ed, 2019) ([[cgc-principles-and-recommendations-fourth-edn.md]]):
+- **ASX Corporate Governance Principles and Recommendations** (4th ed, 2019) ([[Corporate Law/summaries/Week 2/readings/cgc-principles-and-recommendations-fourth-edn]]):
   - Based around 8 central principles (including laying solid foundations for management, instilling an ethical culture, safeguarding corporate reports, making timely disclosure, respecting security holders, managing risk, and remunerating responsibly).
   - Not legally binding — failure to comply is not *unlawful*.
   - Operates through **corporate peer pressure** — an "if not, why not" regime (under ASX Listing Rule 4.10.3).
@@ -311,7 +311,7 @@ The corporate governance debate sits within a broader theoretical landscape. Eac
 
 | Position | Key Argument | Key Scholar |
 |---|---|---|
-| **Shareholder primacy** | Corporation's *sole* function = maximise returns to shareholders; altruism only if consistent with that goal | Milton Friedman ([[A Friedman doctrine‐- The Social Responsibility of Business Is to Increase Its Profits - The New York Times]]) |
+| **Shareholder primacy** | Corporation's *sole* function = maximise returns to shareholders; altruism only if consistent with that goal | Milton Friedman ([[Corporate Law/summaries/Week 2/readings/A Friedman doctrine‐- The Social Responsibility of Business Is to Increase Its Profits - The New York Times]]) |
 | **Enlightened shareholder value** | Directors must act for shareholders, but take a **long-term view** considering stakeholder interests as a *means* to shareholder benefit | UK Companies Act 2006 |
 | **Stakeholder theory** | Corporations have **direct responsibilities** to a wide range of constituencies beyond shareholders | E. Merrick Dodd ([[Dodd, ‘For Whom are Corporate Managers Trustees?’ (1932)]]); Kent Greenfield |
 | **Team production** | Board mediates among *all* team members' interests, not just shareholders | Blair & Stout |
@@ -324,7 +324,7 @@ The corporate governance debate sits within a broader theoretical landscape. Eac
 - Dodd aligns with growing public/business opinion that modern capitalism cannot survive if it ignores the economic security of workers.
 
 ### Milton Friedman (1970) — The Shareholder Primacy Argument
-- As argued in [[A Friedman doctrine‐- The Social Responsibility of Business Is to Increase Its Profits - The New York Times]], the sole social responsibility of a business is to increase its profits within the rules of the game.
+- As argued in [[Corporate Law/summaries/Week 2/readings/A Friedman doctrine‐- The Social Responsibility of Business Is to Increase Its Profits - The New York Times]], the sole social responsibility of a business is to increase its profits within the rules of the game.
 - **Artificial Responsibilities:** A corporation is an artificial person; only individuals can have true responsibilities. A corporate executive is an agent of the owners (principals).
 - Spending corporate money on social causes equates to "unadulterated socialism" and bypassing democratic political mechanisms (functioning as a civil servant levying a "tax").
 - Extending the "social responsibility" doctrine unnecessarily extends the coercive political mechanism (based on conformity) into the voluntary market sphere (based on unanimity). Actions branded as social responsibility are often just self-interested "window dressing".
@@ -393,17 +393,17 @@ The corporate governance debate sits within a broader theoretical landscape. Eac
 | Scholar / Source | Contribution |
 |---|---|
 | **Berle & Means** — *The Modern Corporation and Private Property* (1932) | Separation of ownership and control (See [[Berle and Means, The Modern Corporation and Private Property (1932)]]) |
-| **Berle** — 'Corporate Powers as Powers in Trust' (1931) 44 *Harvard LR* 1049 | All corporate powers are subject to an equitable limit and held in trust (See [[A. A. Berle-CorporatePowersPowers-1931]]) |
-| **Berle** — 'For Whom Corporate Managers Are Trustees' (1932) 45 *Harvard LR* 1365 | Managers must remain fiduciaries for shareholders until clear accountability frameworks are built (See [[A. A. Berle-CorporateManagersTrustees-1932]]) |
+| **Berle** — 'Corporate Powers as Powers in Trust' (1931) 44 *Harvard LR* 1049 | All corporate powers are subject to an equitable limit and held in trust (See [[Corporate Law/summaries/Week 2/readings/A. A. Berle-CorporatePowersPowers-1931]]) |
+| **Berle** — 'For Whom Corporate Managers Are Trustees' (1932) 45 *Harvard LR* 1365 | Managers must remain fiduciaries for shareholders until clear accountability frameworks are built (See [[Corporate Law/summaries/Week 2/readings/A. A. Berle-CorporateManagersTrustees-1932]]) |
 | **Dodd** — 'For Whom are Corporate Managers Trustees?' (1932) 45 *Harvard LR* 1145 | From a natural entity perspective: corporations have social responsibilities beyond profit; directors justified in considering non-shareholder interests (See [[Dodd, ‘For Whom are Corporate Managers Trustees?’ (1932)]]) |
 | **Jensen & Meckling** — 'Theory of the Firm' (1976) 3 *JFEC* 305 | Firm = "nexus of contracting relationships"; foundational agency theory paper |
 | **Easterbrook & Fischel** — *The Economic Structure of Corporate Law* (1991) | Corporation's personhood = "convenience rather than reality"; corporate law = "off-the-rack" contractual terms |
 | **Fama & Jensen** — 'Separation of Ownership and Control' (1983) 26 *JLE* 301 | Agency theory refinement — market forces constrain managerial opportunism |
 | **Blair & Stout** — 'A Team Production Theory of Corporate Law' (1999) 85 *Virginia LR* 247 | Board = "mediating hierarchy" serving all team members, not just shareholders |
-| **Friedman** — *NYT Magazine* (1970) | "The social responsibility of business is to increase its profits" (See [[A Friedman doctrine‐- The Social Responsibility of Business Is to Increase Its Profits - The New York Times]]) |
+| **Friedman** — *NYT Magazine* (1970) | "The social responsibility of business is to increase its profits" (See [[Corporate Law/summaries/Week 2/readings/A Friedman doctrine‐- The Social Responsibility of Business Is to Increase Its Profits - The New York Times]]) |
 | **Greenfield** — *The Failure of Corporate Law* (2006) | Corporations are "both private and public simultaneously"; contractarian insulation from public interest is unjustified |
-| **Cadbury Report** (1992) | UK corporate governance code; pioneered "comply or explain" (See [[cadbury-report.md]]) |
-| **ASX Corporate Governance Council** — *Principles and Recommendations* (4th ed, 2019) | Australian soft law governance code (See [[cgc-principles-and-recommendations-fourth-edn.md]]) |
+| **Cadbury Report** (1992) | UK corporate governance code; pioneered "comply or explain" (See [[Corporate Law/summaries/Week 2/readings/cadbury-report]]) |
+| **ASX Corporate Governance Council** — *Principles and Recommendations* (4th ed, 2019) | Australian soft law governance code (See [[Corporate Law/summaries/Week 2/readings/cgc-principles-and-recommendations-fourth-edn]]) |
 | **Grantham**, ch 2 | Textbook treatment of corporate governance |
 | **JK Galbraith** — *A Short History of Financial Euphoria* | Boom–bust regulatory cycles |
 

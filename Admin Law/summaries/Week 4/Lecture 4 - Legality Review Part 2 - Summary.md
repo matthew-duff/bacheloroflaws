@@ -89,7 +89,7 @@ Lecture slides covering the remaining grounds of legality (judicial) review, jur
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 3/Lecture 3 Legality Review Summary]] - Shares key topics such as procedural fairness, natural justice, and human rights, and references overlapping cases and statutes.
+- [[Lecture 3 Legality Review Summary]] - Shares key topics such as procedural fairness, natural justice, and human rights, and references overlapping cases and statutes.
 - [[Admin Law/summaries/Week 4/Lecture 4 Legality Review Part 2 Summary]] - Same lecture and subject domain, so it naturally shares topics, cases, and statutory references.
 - [[Admin Law/summaries/Week 4/Article by Professor Allars on Merits Review - Summary]] - Directly discusses merits review principles and statutory frameworks relevant to this lecture, with overlapping statutory references.
 - [[Admin Law/summaries/Week 4/Drake no.1 - Summary]] - Cases and statutory references (AAT Act, Constitution Act) are highly relevant to the grounds of review and human rights discussed in this lecture.

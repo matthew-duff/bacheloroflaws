@@ -83,5 +83,5 @@ This lecture establishes the foundational legal framework for challenging the **
 - [[Admin Law/summaries/Week 5-Workshop 4 Study Guide Summary]] - Focuses on procedural fairness and natural justice, both of which are central topics in this note.
 - [[Admin Law/summaries/Week 6-Workshop 5 Study Guide Summary]] - Deals with judicial review grounds, complementing the discussion of procedural fairness and legal review in this note.
 - [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Addresses procedural fairness and legal principles in the context of automated decision-making, which relates to the broader themes of fairness and legal review.
-- [[Admin Law/summaries/Week 3/A-G (NSW) v Quin]] - Discusses procedural fairness and legitimate expectations, which are key concepts in the context of judicial review and administrative law.
+- [[A-G (NSW) v Quin]] - Discusses procedural fairness and legitimate expectations, which are key concepts in the context of judicial review and administrative law.
 <!-- agent:see-also:end -->

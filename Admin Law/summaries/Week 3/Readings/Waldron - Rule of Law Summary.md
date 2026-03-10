@@ -42,7 +42,7 @@ This article is significant for Administrative Law as it provides a theoretical 
 
 ## See also
 <!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 3/Church of Scientology v Woodward]] - Shares topics such as judicial review and executive power, and discusses statutory limits on intelligence agencies, relevant to Waldron's analysis of rule of law in public law.
-- [[Admin Law/summaries/Week 3/Gageler - Constitutional Context Summary]] - Explains constitutional foundations of judicial review, directly relevant to Waldron's focus on the rule of law in public law.
-- [[Admin Law/summaries/Week 3/Lecture 3 Legality Review Summary]] - Outlines procedural fairness and grounds for legality review, complementing Waldron's analysis of rule of law in administrative law.
+- [[Church of Scientology v Woodward]] - Shares topics such as judicial review and executive power, and discusses statutory limits on intelligence agencies, relevant to Waldron's analysis of rule of law in public law.
+- [[Gageler - Constitutional Context Summary]] - Explains constitutional foundations of judicial review, directly relevant to Waldron's focus on the rule of law in public law.
+- [[Lecture 3 Legality Review Summary]] - Outlines procedural fairness and grounds for legality review, complementing Waldron's analysis of rule of law in administrative law.
 <!-- agent:see-also:end -->

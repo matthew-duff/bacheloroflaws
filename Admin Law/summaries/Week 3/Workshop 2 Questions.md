@@ -13,7 +13,9 @@ Further reading: J Waldron, “The rule of law in public law” in M Elliott and
 
 Sections `73` and `75` are concerned with the jurisdiction of the High Court. Section `73` deals with the Court's appellate jurisdiction, including appeals from State Supreme Courts, while `s 75` deals with the Court's original jurisdiction in specified classes of matters. For administrative law, these provisions matter because they give the Constitution a direct role in maintaining judicial supervision of executive action, rather than leaving review entirely to statute or common law.
 
-The significance of `s 75(v)` is central. It gives the High Court original jurisdiction where `mandamus`, `prohibition` or an `injunction` is sought against an `officer of the Commonwealth`. This has come to be understood as an entrenched minimum provision of judicial review for Commonwealth action, especially where there is jurisdictional error. Parliament cannot remove that minimum supervisory jurisdiction, so Commonwealth officers cannot be placed in an "island of power" immune from judicial review. Section `75(iii)` is also important because it gives the High Court original jurisdiction in matters in which the Commonwealth, or a person suing or being sued on behalf of the Commonwealth, is a party. Its significance is that it makes the Commonwealth itself amenable to judicial process and provides an additional constitutional footing for proceedings challenging unlawful executive action.
+The significance of `s 75(v)` is central. It gives the High Court original jurisdiction where `mandamus`, `prohibition` or an `injunction` is sought against an `officer of the Commonwealth`. This has come to be understood as an entrenched minimum provision of judicial review for Commonwealth action, especially where there is jurisdictional error. Parliament cannot remove that minimum supervisory jurisdiction, so Commonwealth officers cannot be placed in an "island of power" immune from judicial review, as Gagelar. Section `75(iii)` is also important because it gives the High Court original jurisdiction in matters in which the Commonwealth, or a person suing or being sued on behalf of the Commonwealth, is a party. Its significance is that it makes the Commonwealth itself amenable to judicial process and provides an additional constitutional footing for proceedings challenging unlawful executive action.
+
+*However, note that there are concerns about the efficiency of appealing straight to the High Court*
 
 The significance of `s 73(ii)` is different but complementary. By guaranteeing appellate jurisdiction from State Supreme Courts, it constitutionally assumes the continuing existence of those courts as courts with their traditional supervisory role. As Gageler explains, this helps support the entrenched supervisory jurisdiction of State Supreme Courts to grant relief for jurisdictional error by State officials and inferior courts. Together, `s 75(v)` at the Commonwealth level and `s 73(ii)` at the State level underpin the constitutional foundation of judicial review and reinforce the rule-of-law idea that all public power must remain legally accountable.
 
@@ -22,6 +24,14 @@ The significance of `s 73(ii)` is different but complementary. By guaranteeing a
 The most relevant statute is the `Administrative Decisions (Judicial Review) Act 1977 (Cth)` (`ADJR Act`). It is the principal federal judicial review statute for Commonwealth administrative action, providing a statutory avenue in the Federal Court of Australia and the Federal Circuit and Family Court of Australia for review of decisions of an administrative character made under an enactment. It is the main judicial review statute because it codifies the grounds of review and offers a simpler and more flexible statutory alternative to relying only on constitutional writs or common law remedies.
 
 It is also worth noting `s 39B` of the `Judiciary Act 1903 (Cth)`, which gives the Federal Court a jurisdiction substantially analogous to the High Court's jurisdiction under `s 75(v)`. However, for judicial review over administrative action specifically, the `ADJR Act` is the central statute.
+
+
+**Question**
+"The constitution of Australia is udnerstood to prohibit federal courts from conducting merits review."
+
+True. 
+
+Note at the State level, the courts cannot conduct merits review. However, at the State level, there are bodies (eg. QCAT) which is technically understood to be a court (hybrid body - both civil and hybrid).
 
 **(3) Refer to Attorney-General (NSW) v Quin, and also your reading of Gageler’s article, and consider the relationship between the rule of law and judicial review over administrative action by government officials. Relatedly, what are the limits on judicial (review) powers under the Constitution?**
 

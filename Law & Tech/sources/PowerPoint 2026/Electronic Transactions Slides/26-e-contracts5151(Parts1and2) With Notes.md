@@ -778,18 +778,25 @@ Postal Acceptance Rule
 Adams v Lindsell (1818) 1 B & Ald 681, 106 ER 250; Henthorn v Fraser [1892] 2 Ch 27 
 Should it apply to emails?
 Forder and Quirk - Forder and Svantesson
-
+- They make the argument that: "if the standard argument is that when a message is capable of being retrieved, then the retrieved date on the email exists"
+- 
+## Argument that Postal Acceptance Rule should apply
 Rosmawani Che Hashim, “Postal rule in acceptance via email” Commonwealth Law Bulletin, Volume 44, (2018) - https://doi.org/10.1080/03050718.2018.1552523
+
 Nonit Nath, 'Classification of Email as a Form of Non-Instantaneous Communication' (2022) 5 International Journal of Law Management & Humanities 1353 (Available online)
 
+### Argument surrounding periodic checking of email
+- Some individuals might only check their email once a day. In these circumstances, would email be an instantaneous form of communication?
 # Slide 76
 
-Postal Acceptance Rule
+## Postal Acceptance Rule
 
 Brinkibon v Stahag Stahl und Stahlwarenhandelsgesellschaft [1983] 2 AC 34 (HL) – Lord Wilberforce. 
-Technology or use
+Technology or useu
 
-“Since 1955 the use of telex communication has been greatly expanded, and there are many variants on it. The senders and recipients may not be the principals to the contemplated contract. They may be servants or agents with limited authority. The message may not reach, or be intended to reach, the designated recipient immediately: messages may be sent out of office hours, or at night, with the intention, or upon the assumption, that they will be read at a later time. There may be some error or default at the recipient's end which prevents receipt at the time contemplated and believed in by the sender. The message may have been sent and/or received through machines operated by third persons. And many other variations may occur. No universal rule can cover all such cases: they must be re solved by reference to the intention of the parties, by sound business practice and in some cases by a judgment where the risks should lie.”
+Regarding whether the postal acceptance rule should apply to email:
+
+“Since 1955 the use of telex communication has been greatly expanded, and there are many variants on it. The senders and recipients may not be the principals to the contemplated contract. They may be servants or agents with limited authority. The message may not reach, or be intended to reach, the designated recipient immediately: messages may be sent out of office hours, or at night, with the intention, or upon the assumption, that they will be read at a later time. There may be some error or default at the recipient's end which prevents receipt at the time contemplated and believed in by the sender. The message may have been sent and/or received through machines operated by third persons. And many other variations may occur. **No universal rule can cover all such cases: they must be re solved by reference to the intention of the parties, by sound business practice and in some cases by a judgment where the risks should lie.”**
 
 # Slide 77
 
@@ -809,25 +816,38 @@ Once an offer sent by email “the sender loses control over the route and deliv
 Postal Acceptance Rule
 
 Olivaylle Pty Ltd v Flottweg GMBH & Co KGAA (No 4) [2009] FCA 522 - Logan J
-“Experience suggests that email is often, but not invariably, a form of near instantaneous communication… there are analogies to be drawn with the way the law developed in relation to telex communications in an earlier era”.
-To be “explored”
-Cth 2011 Explanatory Memorandum 
+“Experience suggests that email is often, but not invariably, a form of **near instantaneous communication**… there are analogies to be drawn with the way the law developed in relation to telex communications in an earlier era”.
+**To be “explored”**
+
+**ETA Cth 2011 Explanatory Memorandum** 
+Memorandum to amendments to ETA:
+
 PAR “may be confined to situations where is can be inferred an offeror intended acceptance to be communicated upon dispatch”. {210}
 
 [Note CISG] [Article 20 ECC]
+The CISG is the convention for contracts for the international sale of goods (adopted by 97 countries).
+- formation of contract under part 2.
+- Does not mention postal acceptance rule.
+- Postal acceptance rule not mentioned in international law.
+
+Has been ratified and implemented in Australia.
 
 # Slide 80
 
+## Where did the dispatch occur?
 Place of dispatch and receipt of electronic communications
 
 Place of Dispatch and Receipt
 Place of business – closest connection – habitual residence
+- The contract is formed at the place of business of the person dispatching the message. Usually the registered office, as mentioned in the Corporations Act.
+- If there is no place of business, it will be the individual's habitual residence.
+
 
 Jagatramka v Coeclerici Asia (PTE) Limited (No.2) [2015] FCCA 2743* (October 2015) [104]
 
 Note S 105B Corporations Act 2001 (Cth) – 
 (a) register of members
- (b) registered office 
+(b) registered office 
  (ba) principal place of business in Australia - address of principal place of business in Australia; and
  (c) otherwise:
 (i) most recent physical address nominated; or
@@ -835,85 +855,103 @@ Note S 105B Corporations Act 2001 (Cth) –
 
 # Slide 81
 
-Attribution
+## Attribution
+Note this is an Australian rule, but not contained in UNCITRAL MLEC. On the issue of someone impersonating someone else:
 
-“… the purported originator of the electronic communication is bound by that communication only if the communication was sent by the purported originator or with the authority of the purported originator.”
+“… the purported originator of the electronic communication is bound by that communication **only if the communication was sent by the purported originator** or with the authority of the purported originator.”
 
 Compare to UNCITRAL MLEC (No provision in ECC)
+- UNCITRAL places burden on the person being impersonated to rebut that the email didn't come from them.
+- 
 
 # Slide 82
 
 https://www.legislation.qld.gov.au/LEGISLTN/CURRENT/E/ElectronTrQA01.pdf
 
-26D  Error in electronic communications regarding contracts (automated)
-If— (a) an individual makes an input error in an electronic communication exchanged with the automated message system of another party; and 
-(b) the automated message system does not provide the person with an opportunity to correct the error; the person, or the party on whose behalf the person was acting, has the right to withdraw the portion of the electronic communication in which the input error was made if— 
-(c) the person, or the party on whose behalf the person was acting, notifies the other party of the error as soon as possible after having learned of the error and indicates that the person made an error in the electronic communication; and 
-(d) the person, or the party on whose behalf the person was acting, has not used or received any material benefit or value from the goods or services, if any, received from the other party.
+## Errors in automated electronic communication
+- Imagine a scenario where you accidentally make an error sending an email, see below;
+
+ETA s 26D  Error in electronic communications regarding contracts (automated)
+If— 
+	(a) an individual makes an input error in an electronic communication exchanged with the automated message system of another party; and 
+	(b) the automated message system does not provide the person with an opportunity to correct the error; the person, or the party on whose behalf the person was acting, has the right to withdraw the portion of the electronic communication in which the input error was made if— 
+	(c) the person, or the party on whose behalf the person was acting, notifies the other party of the error as soon as possible after having learned of the error and indicates that the person made an error in the electronic communication; and 
+	(d) the person, or the party on whose behalf the person was acting, has not used or received any material benefit or value from the goods or services, if any, received from the other party.
 
 # Slide 83
 
-Electronic agents {228}
+Electronic agents {s 228}
 
 Possible for a computer to instruct another computer to carry out transactions automatically.
-Electronic agents:
-to initiate or respond on their behalf to electronic messages without review by the person
-as an online shopping agent programmed to surf the internet and make purchases
-as an inventory control system programmed to place orders when stocks reach a particular level
+
+Electronic agents examples:
+- To initiate or respond on their behalf to electronic messages without review by the person.
+- As an online shopping agent programmed to surf the internet and make purchases.
+- As an inventory control system programmed to place orders when stocks reach a particular level.
+
+
 
 # Slide 84
 
-26C  Use of automated message systems for contract formation—non‑intervention of natural person
+## Section 26C Qld ETA 
+### Use of automated message systems for contract formation—non‑intervention of natural person
 
-Use of automated message systems for contract formation--non-intervention of natural person
+Use of automated message systems for contract formation--non-intervention of natural person.
+
 A contract formed by:
 (a)  the interaction of an automated message system and a natural person; or
-(b)  the interaction of automated message systems;
-is not invalid, void or unenforceable on the sole ground that no natural person reviewed or intervened in each of the individual actions carried out by the automated message systems or the resulting contract.
+(b)  the interaction of automated message systems; is not invalid, void or unenforceable on the sole ground that no natural person reviewed or intervened in each of the individual actions carried out by the automated message systems or the resulting contract.
 
 # Slide 85
 
 Part 4—Additional provisions applying to contracts involving electronic communications
 
-15B Invitation to treat regarding contracts
+**15B Invitation to treat regarding contracts**
 (1)  A proposal to form a contract made through one or more electronic communications that:
  (a) is not addressed to one or more specific parties; and
- (b) is generally accessible to parties making use of information systems;
-is to be considered as an invitation to make offers, unless it clearly indicates the intention of the party making the proposal to be bound in case of acceptance.
+ (b) is generally accessible to parties making use of information systems; 
+ 
+ is to be considered as an invitation to make offers, **unless it clearly indicates the intention of the party making the proposal to be bound in case of acceptance.**
+ 
 (2)  Subsection (1) extends to proposals that make use of interactive applications for the placement of orders through information systems.
 
 # Slide 86
 
-Invitation to treat regarding contracts
+**Invitation to treat regarding contracts**
 
-Crosby Holdings Trust & Brickwest Pty Ltd v Samarawickrama [2019] VCAT 627 
+**Crosby Holdings Trust & Brickwest Pty Ltd v Samarawickrama [2019] VCAT 627**
+
 36.	I find that this language indicates, with sufficient clarity, that it was the intention of the party making the proposal to be bound by the proposal in the event of its acceptance. That being so, I find that the presumption contained in s 14B of the Electronic Transactions (Victoria) Act 2000 has been displaced.
 
 # Slide 87
 
 Terms of the contract
 
-May be expressed in writing or orally, implied by conduct or by custom, or be a combination
-Subject to certain important exceptions (eg. consumer protection laws) parties are generally free to set whatever terms they like
-The commercial reality is that the terms of the contract are usually set by the seller
+- May be expressed in writing or orally, implied by conduct or by custom, or be a combination
+
+- Subject to certain important exceptions (eg. consumer protection laws) parties are generally free to set whatever terms they like The commercial reality is that the terms of the contract are usually set by the seller
 
 # Slide 88
 
-Terms of the contract
+**Terms of the contract**
 
-Risk is reduced (writing)
+**Risk is reduced (writing)**
 Deemed to have read the contract and accepted the written terms - difficult for either party to deny the existence of the written contract
 
 # Slide 89
 
-L'Estrange  v Graucob [1934] 2 KB 394
-Oceanic Sun Line Special Shipping Company Inc v Fay [1988] HCA 32 - Brennan J said: "If a passenger signs and thereby binds himself to the terms of a contract of carriage containing a clause exempting the carrier from liability for loss arising out of the carriage, it is immaterial that the passenger did not trouble to discover the contents of the contract."
+**Crosby Holdings Trust & Brickwest Pty Ltd v Samarawickrama [2019] VCAT 627**
+
+
+**Oceanic Sun Line Special Shipping Company Inc v Fay** [1988] HCA 32
+
+Brennan J said: "If a passenger signs and thereby binds himself to the terms of a contract of carriage containing a clause exempting the carrier from liability for loss arising out of the carriage, it is immaterial that the passenger did not trouble to discover the contents of the contract."
 
 When properly drafted, parties should know with certainty their respective obligations
 
 # Slide 90
 
-Common terms – Online transactions
+**Common terms – Online transactions**
 
 Standard
 The names of the parties
@@ -925,7 +963,9 @@ Warranties, liability, insurance, intellectual property and dispute resolution
 
 Common terms  - Websites
 
-Disclaimers
+Disclaimers are valid.
+
+Hedley Byrne as relevant case?
 
 # Slide 92
 
@@ -939,13 +979,18 @@ Agreement
 
 # Slide 93
 
-Reminiscent of the Ticket cases
+## Can you enter a contract by the click of a mouse.
+- Reminiscent of the Ticket cases
+- 
 
 # Slide 94
 
-Jurisdiction clauses
+**Jurisdiction clauses**
 
-If a jurisdiction clause is effectively incorporated into the terms and conditions of the contract of sale, this may alter the outcome 
+If a jurisdiction clause is effectively incorporated into the terms and conditions of the contract of sale, this will usually be respected by a judge.
+
+"This contract is formed in the state of queensland."
+
 NB. In certain circumstances a court may override the effect of a jurisdiction clause
 
 # Slide 95
@@ -969,14 +1014,17 @@ If this Agreement is with Microsoft Corporation, claims for enforcement, breach 
 
 # Slide 98
 
+## Clause for Contract forming in Singapore
 Gonzalez v Agoda Company Pte Ltd [2017] NSWSC 1133
 
 Gonzalez in NSW - Agoda in Singapore - Booking a room in Paris
+
 Clause said exclusive jurisdiction and forum was Singapore; 
-[123] I consider that the signature on the digital document provided by Ms Gonzalez clicking the “Book Now” button (by virtue of s 9(1) of the ETA), the location of the linked terms (above the signature on the digital document), and the standard nature of the terms used by Agoda are significant factors, and that on an objective analysis of the intentions of Agoda and Ms Gonzalez as contracting parties, the terms were indeed incorporated. 
+[123] I consider that the signature on the digital document provided by Ms Gonzalez clicking the **“Book Now”** button (by virtue of s 9(1) of the ETA), the location of the linked terms (above the signature on the digital document), and the standard nature of the terms used by Agoda are significant factors, and that on an objective analysis of the intentions of Agoda and Ms Gonzalez as contracting parties, the terms were indeed incorporated. 
 
 Approved in Dialogue Consulting Pty Ltd v Instagram, Inc [2020] FCA 1846 [214-226] 
-223. A website satisfies the reasonable notice standard if it provides a person with a legitimate opportunity to learn that his or her use is subject to terms of use, even if the person does not take the opportunity.
+223. A website satisfies the reasonable notice standard if it provides a person with **a legitimate opportunity** to learn that his or her use is subject to terms of use, even if the person does not take the opportunity.
+
 See also Carnival plc v Karpik (The Ruby Princess) [2022] FCAFC 149 [119-123][207] [218-236] Karpik v Carnival plc [2023] HCA 39
 
 # Slide 99
