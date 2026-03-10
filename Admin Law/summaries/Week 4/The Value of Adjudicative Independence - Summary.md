@@ -1,72 +1,70 @@
 ---
-title: 'The Value of Adjudicative Independence in Merits Review'
-tags:
-  - 'adjudicative-independence'
-  - 'merits-review'
-  - 'bureaucratic-rationality'
-  - 'legal-model'
-  - 'aat'
-  - 'visa-cancellation'
-  - 'appointment-processes'
-  - 'public-confidence'
-  - 'accountability-mechanism'
-summary: 'The note argues that adjudicative independence is crucial for effective merits review, contrasting bureaucratic and legal models of administrative justice. It highlights how political pressures and structural tensions threaten tribunal independence, especially in sensitive areas like visa cancellations, and explains why independence underpins legitimacy and public trust.'
-figures:
-  - 'Adam Smith'
-  - 'John Stuart Mill'
-  - 'H.L.A. Hart'
-cases:
-  - 'Salomon v A Salomon & Co Ltd [1897] AC 22'
-  - 'R v Secretary of State for the Home Department, ex parte Simms [2000] 2 AC 115'
-statutes:
-  - 'Migration Act 1958 (Cth)'
-  - 'Fair Work Act 2009 (Cth)'
-jurisdiction: 'Australia'
-assessment_relevance: 'This note clarifies key tensions between efficiency and fairness in administrative law, directly supporting exam answers on tribunal independence, appointment safeguards, and the role of courts versus tribunals in rights protection.'
----
-# The Value of Adjudicative Independence in Merits Review
-
-## Overview
-An academic article exploring the concept and value of adjudicative independence in the context of merits review, with particular focus on visa cancellation decisions reviewed by the AAT. The article contrasts the "bureaucratic rationality" model of administrative justice with the "legal model" emphasising independence and due process.
-
-## Key Themes
-
-### Two Models of Administrative Justice
-1. **Bureaucratic Rationality Model**: Prioritises efficiency, consistency, and implementation of government policy. Under this model, tribunals are viewed as part of the administrative hierarchy — an extension of the executive's decision-making process
-2. **Legal Model (Adjudicative Independence)**: Emphasises independence, impartiality, procedural fairness, and individual justice. Under this model, tribunals function as independent adjudicators, akin to courts, who apply the law impartially
-
-### The Tension
-- Tribunals exist in a structural tension between these two models: they are formally part of the executive, yet expected to adjudicate independently
-- The article argues that **adjudicative independence** is essential to the legitimacy and effectiveness of merits review — without it, tribunals cannot serve as a meaningful check on executive power
-
-### Visa Cancellation Case Study
-- Visa cancellation under the Migration Act (particularly character-based cancellations) is used as a case study because:
-  - Decisions carry severe consequences (deportation/removal)
-  - Ministerial policy plays a significant role
-  - There is political sensitivity and media scrutiny
-- The article examines how the AAT's independence is tested when reviewing politically sensitive decisions where ministers have expressed strong policy preferences
-
-### Threats to Independence
-- **Appointment processes**: Politically influenced appointments (or perceptions thereof) undermine independence
-- **Reappointment vulnerability**: Fixed-term appointments create incentives for members to align with government preferences
-- **Policy pressure**: Expectation that tribunals follow ministerial policy closely can constrain independent decision-making
-- **Resource dependence**: Tribunals dependent on executive funding may face indirect pressures
-
-### The Value of Independence
-- Independence ensures the tribunal can deliver **individual justice** — the "correct or preferable decision" for each applicant
-- It maintains **public confidence** in the fairness of administrative review
-- It provides a genuine **accountability mechanism** — if tribunals simply replicate executive decisions, merits review is illusory
-
-## Significance
-- Provides the theoretical framework for understanding **why tribunal independence matters** in the context of merits review
-- Directly relevant to Workshop 3 questions on ART independence, appointment processes, and the abolition of the AAT
-- Connects the Drake principles (policy as a relevant but non-binding consideration) to structural questions about tribunal design
-
+title: "The Value of Adjudicative Independence - Summary"
+source_title: "The Value of Adjudicative Independence: Overlapping Conceptions of Administrative Justice in the Administrative Appeals Tribunal's Review of Visa Cancellations"
+author: "Dr Chantal Bostock"
+citation: "(2020) 27 AJ Admin L 154"
+source_type: "journal article"
+source_path: "Admin Law/sources/Week 4/Study materials for merits review/Workshop three prescribed reading/The value of adjudicative independence-The value of adjudicative independence.md"
+jurisdiction: "Australia"
+topics:
+  - "merits review"
+  - "adjudicative independence"
+  - "AAT"
+  - "administrative justice"
+  - "visa cancellation"
+  - "Migration Act 1958 (Cth)"
+summary: "Bostock argues that although visa cancellation review sits within a system shaped by bureaucratic rationality, the AAT's core task is governed by the legal model of administrative justice, so adjudicative independence is essential if merits review is to remain a real and fair check on executive power."
+assessment_relevance: "Useful for exam answers on why tribunal independence matters, how merits review differs from judicial review, and how government policy and codified procedures interact with the AAT's duty to reach the correct or preferable decision."
 ---
 
-## See also
-<!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 4/Drake no.1 - Summary]] - Shares the same core topic of 'merits review' and discusses the AAT's independent review powers, directly relating to the legal principles outlined in this note.
-- [[Admin Law/summaries/Week 4/Drake no.2 - Summary]] - Expands on the legal framework for government policy in tribunal reviews, closely aligning with the discussion of policy influence and discretion in this note.
-- [[Admin Law/summaries/Week 4/Pochi v Minister for Immigration - Summary]] - Covers procedural aspects and evidentiary standards relevant to tribunal decision-making, which complements the procedural and evidentiary themes in this note.
-<!-- agent:see-also:end -->
+# The Value of Adjudicative Independence
+
+## Thesis
+Bostock argues that visa cancellation decision-making under the `Migration Act 1958 (Cth)` exposes a conflict between two models of administrative justice:
+
+- `bureaucratic rationality`, which prioritises accuracy, efficiency, consistency, hierarchy, and implementation of government policy
+- the `legal model`, which prioritises fair adjudication of competing claims, individual justice, and independence
+
+Her central claim is that, although bureaucratic rationality dominates primary visa cancellation decisions, the AAT's own merits review function is dominated by the legal model. Because fairness is the key value of that model, adjudicative independence is indispensable to the Tribunal's role.
+
+## Key Arguments
+
+### 1. Different parts of the system reflect different models of administrative justice
+- At the primary decision-making stage, visa cancellation is highly codified and hierarchical.
+- Mandatory cancellation under `s 501(3A)` leaves little room for discretionary judgment.
+- Even where discretion exists under `s 501(2)` and `s 501CA(4)(b)(ii)`, it is strongly shaped by binding ministerial directions.
+- This makes primary decision-making a strong example of bureaucratic rationality or bureaucratic legalism.
+
+### 2. Judicial review is not the same as merits review
+- Courts operate within the legal model too, but their role is confined to legality, not correctness or preference.
+- Judicial review asks whether there is jurisdictional error, such as legal unreasonableness.
+- The court must avoid slipping into impermissible merits review, especially given Parliament's allocation of broad discretionary power in migration matters.
+- This means judicial review is an important but limited safeguard.
+
+### 3. The AAT's core function is to determine the correct or preferable decision
+- The Tribunal stands in the shoes of the original decision-maker and exercises all powers and discretions afresh.
+- Its task is not supervisory review of reasons, but deciding the correct or preferable outcome on the material before it.
+- In visa cancellation matters, that requires weighing competing interests, assessing evidence and credibility, and balancing community protection against the profound consequences of removal for long-term residents and their families.
+- That evaluative task is characteristic of the legal model, not mere bureaucratic implementation.
+
+### 4. Adjudicative independence is what makes merits review meaningful
+- Because the Tribunal must weigh contested interests and reach its own preferred decision, it must be free from undue executive influence in appearance and reality.
+- Political criticism of decisions setting aside cancellations illustrates the pressure created when the executive expects consistent policy-aligned outcomes.
+- Without adjudicative independence, merits review would cease to be an effective check on executive power and would lose legitimacy as a fair adjudicative process.
+
+## Doctrinal Significance
+
+- The article gives a conceptual explanation for why tribunal independence is not just institutional design rhetoric, but part of the legal justification for merits review itself.
+- It helps explain why the AAT can be bound by statute and ministerial direction, yet still must retain decisional independence when identifying the correct or preferable outcome.
+- It sharpens the distinction between:
+  - primary administrative decision-making
+  - judicial review for legality
+  - merits review by an independent tribunal
+- It is especially useful in migration law because visa cancellation decisions involve severe consequences, strong political pressure, and limited corrective capacity through judicial review alone.
+
+## Exam Use Takeaways
+
+- If asked why tribunal independence matters, say it is necessary because merits review requires an independent assessment of the correct or preferable decision, not replication of executive policy preferences.
+- If asked to compare merits review and judicial review, emphasise that judicial review polices legality, while merits review re-exercises the discretion and balances competing interests on the facts.
+- If asked about tensions in tribunal design, use Bostock's framework: the system contains both bureaucratic rationality and the legal model, but the Tribunal's adjudicative task is governed by the latter.
+- If asked about migration review specifically, note that codified rules and ministerial directions do not eliminate the need for independence; they make it more important because the Tribunal operates in a politically fraught area with significant human consequences.

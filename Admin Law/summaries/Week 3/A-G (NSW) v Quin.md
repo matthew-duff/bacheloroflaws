@@ -1,55 +1,53 @@
 ---
 type: case
-
-title: 'Attorney-General (NSW) v Quin'
+title: "Attorney-General (NSW) v Quin"
+citation: "(1990) 170 CLR 1"
+court: "High Court of Australia"
+date: "1990-06-07"
 tags:
-  - 'natural-justice'
-  - 'legitimate-expectation'
-  - 'judicial-review'
-  - 'executive-discretion'
-  - 'procedural-fairness'
-  - 'appointment-policy'
-summary: 'The case clarifies that legitimate expectations in administrative law are procedural, not substantive, limiting judicial intervention in executive discretion while reinforcing the separation of powers.'
+  - natural-justice
+  - legitimate-expectation
+  - judicial-review
+  - executive-discretion
+  - procedural-fairness
+summary: "Leading authority that legitimate expectation in Australian administrative law is ordinarily procedural, not substantive, and cannot force the Executive to continue an abandoned policy."
+ratio: "Judicial review protects legality and procedural fairness, not a substantive expectation that executive discretion will be exercised under an earlier policy; the Executive may adopt a new lawful policy if consistent with statute and the public interest."
+source:
+  - "/Users/matthewduff/Documents/bacheloroflaws/Admin Law/sources/Week 3/Workshop study materials/Workshop 2 prescribed reading/A-G (NSW) v Quin-A-G (NSW) v Quin.md"
 cases:
-  - 'Attorney-General (NSW) v Quin [1990] 170 CLR 1'
+  - "Attorney-General (NSW) v Quin (1990) 170 CLR 1"
+  - "Macrae v Attorney-General (NSW) (1987) 9 NSWLR 268"
 statutes:
-  - 'Local Courts Act 1982 (NSW)'
-  - 'Corporations Act 2001 (Cth)'
-jurisdiction: 'Australia'
-assessment_relevance: 'This note is pivotal for exams on administrative law, testing understanding of legitimate expectation, judicial review limits, and executive discretion, and it supports oral assessments on procedural fairness and separation of powers.'
+  - "Local Courts Act 1982 (NSW), s 12"
+jurisdiction: Australia
 ---
 [[A-G (NSW) v Quin]]
 
 **Citation**: *Attorney-General (NSW) v Quin* (1990) 170 CLR 1
 
 ### Facts
-In 1982, the NSW government abolished the Courts of Petty Sessions (constituted by stipendiary magistrates) and replaced them with Local Courts (constituted by magistrates). A policy was adopted to appoint former stipendiary magistrates to the new courts unless they were found "unfit" for judicial office. Quin, a former magistrate, was not appointed based on adverse allegations he was not given an opportunity to answer. In *Macrae v Attorney-General (NSW)* (1987), the NSW Court of Appeal declared this decision void for a denial of natural justice. 
+NSW abolished the old Courts of Petty Sessions and created Local Courts. Former stipendiary magistrates were initially to be appointed to the new courts unless found unfit. Quin, a former magistrate, was not appointed after adverse material was relied on without giving him an opportunity to respond.
 
-Following *Macrae*, the Attorney-General changed the appointment policy to one based purely on "merit" in competition with all other applicants, rather than the previous "fitness" test applied to Quin's former colleagues. Quin sought a declaration that he was entitled to have his application considered under the old policy (the "fitness" test) to avoid being singled out for discriminatory treatment.
+In *Macrae v Attorney-General (NSW)*, the earlier non-appointment decision was declared void for denial of natural justice. After that, the Attorney-General adopted a new policy: vacancies would be filled by selecting the most suitable applicant on merit, not by giving former magistrates preference unless unfit. Quin argued his application had to be reconsidered under the earlier policy.
 
-### Issue
-1. Whether a "legitimate expectation" of a particular procedure (the "fitness" test) can prevent the Executive from changing its policy in the public interest.
-2. Whether the court can grant substantive relief to protect a legitimate expectation by compelling the Executive to follow a discarded policy.
+### Issues
+1. Did Quin's earlier position and the decision in *Macrae* give him a legitimate expectation that his application would be assessed under the former "unless unfit" policy?
+2. Can judicial review require the Executive to apply a discarded policy when exercising a statutory appointment power?
 
 ### Held
-The High Court (Mason CJ, Brennan, and Dawson JJ; Deane and Toohey JJ dissenting) allowed the appeal, holding that the Attorney-General was not obliged to consider Quin's application under the old policy.
+By majority, the High Court allowed the appeal. The Attorney-General was not bound to consider Quin under the former policy and could lawfully use the newer merit-based approach, subject to procedural fairness if adverse material were relied on.
 
-### Reasoning
-*   **Separation of Powers**: The court’s role in judicial review is to ensure legality, not to review the merits of administrative decisions. Compelling the Executive to follow a specific appointment policy would impermissibly intrude into the merits of the advice tendered to the Governor.
-*   **Executive Discretion**: A statutory discretion (like the power to appoint magistrates under s 12 of the *Local Courts Act 1982*) must be exercised in the public interest. The Executive cannot be estopped or fettered by prior representations from changing a policy if it believes a new policy (e.g., selection by merit) better serves the administration of justice.
-*   **Nature of Legitimate Expectation**: Legitimate expectations primarily attract **procedural** protection (the right to a hearing), not **substantive** protection (the right to a specific outcome or the application of a specific policy). While Quin was entitled to natural justice regarding adverse allegations, he had no right to the "fitness" test itself once the policy had changed.
-*   **Brennan J**: Emphasized that judicial review is limited to declaring and enforcing the law; it is not a "roving commission" to cure administrative injustice. The merits of the decision are for the repository of the power alone.
+### Reasoning / Ratio
+- The court distinguished legality from merits. Judicial review ensures that statutory power is exercised lawfully; it does not let a court dictate the substantive policy choice the Executive must adopt.
+- Any legitimate expectation arising here was procedural only. It could support a right to be heard before adverse material was used, but not a right to have the old appointment policy preserved or applied.
+- The statutory discretion to recommend appointments under the `Local Courts Act 1982 (NSW)` had to remain available to be exercised according to the current view of the public interest and the proper administration of justice.
+- Mason CJ treated the Court of Appeal's approach as wrongly compelling the Attorney-General to depart from a lawful policy choice within executive discretion.
+- Brennan J stressed that review of ministerial advice to the Governor is extremely limited and that courts are not empowered to cure administrative injustice by substituting their own view of the preferable outcome.
 
 ### Significance
-*   **Leading Authority on Legitimate Expectation**: Confirms that the doctrine of legitimate expectation in Australian law is procedural rather than substantive. It cannot be used to fetter the exercise of a statutory discretion or prevent a change in government policy.
-*   **Judicial Review Limits**: Reinforces the strict distinction between the "legality" of a decision and its "merits," emphasizing that courts must not usurp the discretionary powers of the Executive.
-*   **Judicial Appointments**: Highlights the exclusive province of the Executive in appointing judicial officers, subject only to the requirements of the relevant statute.
+- Leading Australian authority rejecting substantive protection of legitimate expectation in this setting.
+- Strong statement that executive policy can be changed, and prior expectations do not generally estop or fetter a statutory discretion.
+- Frequently cited for the legality/merits distinction and the limited remedial role of judicial review.
 
----
-
-## See also
-<!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 3/Church of Scientology v Woodward]] - Shares the topic of procedural fairness and legitimate expectation, both central to administrative law and judicial review.
-- [[Admin Law/summaries/Week 3/Gageler - Constitutional Context Summary]] - Provides constitutional context relevant to judicial review and executive discretion, closely related to the principles discussed.
-- [[Admin Law/summaries/Week 3/Lecture 3 Legality Review Summary]] - Directly addresses the grounds of review and legal review, complementing the analysis of judicial review in the current note.
-<!-- agent:see-also:end -->
+### Exam Use
+Use *Quin* when a problem question asks whether procedural fairness or legitimate expectation can force the government to keep using an old policy. The key point is that fairness may require hearing before adverse material is used, but it does not usually entitle a person to a substantive benefit or to preservation of a superseded policy.

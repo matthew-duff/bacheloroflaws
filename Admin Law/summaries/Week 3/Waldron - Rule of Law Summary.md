@@ -1,48 +1,69 @@
 ---
 type: article
-
-title: 'Waldron - The Rule of Law in Public Law'
+title: "Waldron - The Rule of Law in Public Law"
+author: "Jeremy Waldron"
+source: "/Users/matthewduff/Documents/bacheloroflaws/Admin Law/sources/Week 3/Workshop study materials/Workshop 2 prescribed reading/Waldron - The Rule of Law in Public Law-Waldron - The Rule of Law in Public Law.md"
+source_type: article
 tags:
-  - 'rule-of-law'
-  - 'public-law'
-  - 'administrative-discretion'
-  - 'legislation'
-  - 'procedural-fairness'
-summary: 'Waldron defends a robust, public-law conception of the Rule of Law, arguing that legislation and discretionary power can coexist with procedural fairness and non-arbitrary state action, challenging private-law biases.'
-cases:
-  - 'Church of Scientology v Woodward [2023] UKSC 28'
-  - 'R v Quin [2022] NSWCA 123'
-  - 'Plaintiff S157 v Government [2021] NSWCA 456'
-statutes:
-  - 'Corporations Act 2001 (Cth)'
-  - 'Human Rights Act 1998 (UK)'
-assessment_relevance: 'This note clarifies key tensions between rule-of-law principles and administrative power, useful for exam essays on judicial review and legislative limits.'
+  - admin-law
+  - rule-of-law
+  - public-law
+  - legislation
+  - discretion
+  - judicial-review
+summary: "Waldron argues that the rule of law in public law should not be reduced to protection of private property, contract, or investor expectations. A sound public-law conception instead focuses on non-arbitrariness, legality, procedural safeguards, and the lawful framing of discretion within the modern administrative state."
+assessment_relevance: "High. Useful for exam answers on the rule of law, legality review, discretion, legislation, tribunals, and the relationship between judicial review and the administrative state."
 ---
-[[Waldron - The Rule of Law in Public Law]]
+[[Waldron - The Rule of Law in Public Law-Waldron - The Rule of Law in Public Law]]
 
 # Waldron - The Rule of Law in Public Law
 
-**Reference:** Jeremy Waldron, 'The Rule of Law in Public Law' in *The Rule of Law in Public Law* (Cambridge University Press, 2012).
+## Thesis
+Waldron's central claim is that the rule of law in public law must be developed from the standpoint of public administration, not from a private-law or market-centred perspective. The rule of law should constrain arbitrary official power, but it should not be treated as a weapon against legislation, regulation, or the ordinary work of the administrative state.
 
-## Overview
-Jeremy Waldron explores the application of the 'Rule of Law' ideal within the realm of public administration and public law. He critiques the tendency to view the Rule of Law through a "private law" lens—which often prioritizes property rights and market stability over public interests—and argues for a normatively robust conception of the Rule of Law that accommodates the mission of the modern administrative state without deprecating it.
+## Key arguments
 
-## Key points
-- **Private Law Bias:** Waldron identifies a tendency to associate the Rule of Law primarily with the protection of private rights (property, contract, investment). This bias can lead to an ideological hostility toward public regulation, viewing it as a "burden" rather than a legitimate exercise of governance.
-- **Unified vs. Distinct Ideals:** While some see the Rule of Law as a unified ideal (e.g., Fuller's eight principles), Waldron suggests that its application in public law requires a shift in focus. Predictability matters in private law, but in public law, the focus should be on constraining official discretion and ensuring non-arbitrary state action.
-- **Role of Legislation:** Waldron defends legislation as a legitimate and necessary tool for collective self-government. He rejects the view that the Rule of Law is inherently antagonistic to democratic change or that property rights should be insulated from legislative adjustment.
-- **Procedural Emphasis:** He emphasizes the importance of judicial and quasi-judicial procedures (due process) in public administration. He argues for a reconciliation between specialist administrative tribunals and judicialized operations.
-- **Discretion and Standards:** Official discretion is not inherently contrary to the Rule of Law; it can be "framed, authorized, and constrained" by legislation and guided by standards that promote thoughtfulness rather than arbitrary will.
-- **Stability vs. Change:** While the Rule of Law values stability, it must allow for "reasonable" change. A society must be able to adapt its rules to meet new challenges, and the Rule of Law should not be used as an obstacle to remediating inequity or addressing market failures.
+### 1. The traditional idea is often biased toward private law
+- Waldron says many accounts of the rule of law are shaped by private-law concerns such as property, contract, legal certainty, and investment security.
+- On that view, public regulation appears mainly as a threat or "burden".
+- He rejects this as ideologically distorted because it sidelines the legitimate public purposes of administration and legislation.
 
-## Significance
-This article is significant for Administrative Law as it provides a theoretical framework for understanding how traditional "Rule of Law" values (legality, certainty, accountability) function within the administrative state. It challenges the "Diceyan" skepticism of administrative power and offers a more modern, public-law-focused interpretation that balances the need for effective governance with the protection of individuals from arbitrary state action. It is particularly relevant for discussions on the limits of executive discretion and the legitimacy of administrative tribunals.
+### 2. Public law needs its own rule-of-law emphasis
+- In public law, the key issue is not just predictability for private actors.
+- The real concern is whether official power is exercised non-arbitrarily, within lawful limits, and through fair procedures.
+- The rule of law should therefore focus on constraining power without assuming that all discretion or regulation is suspect.
 
----
+### 3. Legislation is compatible with the rule of law
+- Waldron strongly rejects the idea that legislation is inherently opposed to the rule of law.
+- Legislation is a normal and legitimate mode of collective self-government.
+- A rule-of-law ideal that treats democratic legal change as a threat is, for Waldron, normatively unsound and too protective of existing private entitlements.
 
-## See also
-<!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 3/Church of Scientology v Woodward]] - Shares topics such as judicial review and executive power, and discusses statutory limits on intelligence agencies, relevant to Waldron's analysis of rule of law in public law.
-- [[Admin Law/summaries/Week 3/Gageler - Constitutional Context Summary]] - Explains constitutional foundations of judicial review, directly relevant to Waldron's focus on the rule of law in public law.
-- [[Admin Law/summaries/Week 3/Lecture 3 Legality Review Summary]] - Outlines procedural fairness and grounds for legality review, complementing Waldron's analysis of rule of law in administrative law.
-<!-- agent:see-also:end -->
+### 4. Public administration may need rules, standards, tribunals, and discretion
+- Waldron accepts that strict rule-based adjudication is not suitable for every administrative task.
+- Public administration may properly use standards, specialist tribunals, and structured discretion.
+- The question is not whether discretion exists, but whether it is framed, authorized, guided, and reviewable so that arbitrariness is reduced.
+
+### 5. Procedure remains central
+- Waldron criticizes rule-of-law theories that stress formal legality but neglect procedure.
+- In public law, procedural protections matter because they discipline official decision-making and help ensure people are treated with dignity rather than bare managerial convenience.
+- This includes support for judicial or judicialized review structures even within specialist administrative settings.
+
+### 6. Stability matters, but so does lawful change
+- The rule of law values stability and the ability of people to orient themselves around law.
+- But stability cannot mean freezing property rights, market arrangements, or inherited distributions against legislative reform.
+- In a changing society, law must be capable of deliberate adaptation to new social, economic, and regulatory problems.
+
+## Doctrinal significance
+- The article provides a theoretical defence of administrative law against Diceyan or Hayekian suspicion of public administration.
+- It supports a conception of judicial review concerned with legality and non-arbitrariness, rather than hostility to regulation as such.
+- It helps explain why administrative discretion is not unlawful per se: what matters is statutory authorization, procedural discipline, and the availability of review.
+- It also supports the legitimacy of specialist tribunals and administrative standards, provided they operate within a legal framework that checks arbitrariness.
+
+## Exam-use takeaways
+- Use Waldron when asked whether the rule of law is only about certainty, private rights, or limiting government intervention: his answer is no.
+- Cite him for the proposition that the rule of law in public law is concerned with constraining arbitrary power while still accommodating effective administration.
+- He is useful in essay questions on legality versus merits because he shows that public law can insist on legality, procedure, and review without denying the legitimacy of administration.
+- He is also useful where a problem question raises broad discretion: argue that discretion is not itself contrary to the rule of law if legislation structures it and review remains available.
+
+## Bottom line
+Waldron's article reframes the rule of law for the administrative state. It rejects the idea that public law is a second-best departure from a private-law ideal and instead argues that legality, procedure, review, and non-arbitrariness can be developed in ways that respect both individual dignity and the practical mission of public administration.

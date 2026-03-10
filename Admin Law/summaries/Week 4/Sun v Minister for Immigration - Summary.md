@@ -1,54 +1,67 @@
 ---
-title: 'Sun v Minister for Immigration and Border Protection (2016) 243 FCR 220'
-tags:
-  - 'onus-of-proof'
-  - 'burden-of-proof'
-  - 'aat-merits-review'
-  - 'pic-4020'
-  - 'credibility-assessment'
-  - 'case-won'
-  - 'ratio-the-aat-is-not-bound-by-the-formal-onus-or-burden-of-proof-rules-of-civil-litiga'
-summary: 'The case clarifies that administrative tribunals like the AAT do not apply formal litigation burdens of proof; instead, they use a practical evidential standard to decide visa cancellations based on credibility and documentary evidence.'
-cases:
-  - 'Sun v Minister for Immigration and Border Protection (2016) 243 FCR 220'
+title: "Sun and Others v Minister for Immigration and Border Protection"
+type: case
+source: "/Users/matthewduff/Documents/bacheloroflaws/Admin Law/sources/Week 4/Study materials for merits review/Workshop three prescribed reading/Sun v Minister for Immigration-Sun v Minister for Immigration.md"
+citation: "Sun and Others v Minister for Immigration and Border Protection [2016] FCAFC 52; (2016) 243 FCR 220"
+court: "Full Court of the Federal Court of Australia"
+judges:
+  - "Logan J"
+  - "Flick J"
+  - "Rangiah J"
+decision_date: "2016-04-05"
 statutes:
-  - 'Migration Regulations 1958 (Cth) s 4020'
-jurisdiction: 'Australia'
-assessment_relevance: 'This note is crucial for understanding tribunal standards versus court burdens, a frequent exam theme and oral assessment focus on administrative law principles.'
-ratio: 'The Court held that the AAT is not bound by the formal onus or burden of proof rules of civil litigation in merits review. Instead, the AAT must reach a decision based on what it considers to be the correct or preferable outcome, guided by the relevant statutory provisions. The AAT''s role is to form its own view on the evidence, not to require one party to prove its case.'
-case_outcome: 'won'
+  - "Migration Act 1958 (Cth) ss 65, 97, 349, 353"
+  - "Migration Regulations 1994 (Cth) sch 2 cl 892.223"
+  - "Migration Regulations 1994 (Cth) sch 4 PIC 4020"
+topics:
+  - "merits review"
+  - "onus of proof"
+  - "burden of proof"
+  - "tribunal procedure"
+  - "bogus documents"
+  - "migration law"
+ratio:
+  - "Absent express statutory language or necessary implication, no legal onus or burden of proof is imposed on the Migration Review Tribunal when conducting merits review."
+  - "For PIC 4020 and s 97, the Tribunal need only have material capable of reasonably supporting suspicion that a document is bogus; court-style proof rules and Briginshaw reasoning do not govern that task."
+summary: "The Full Court held that merits review by the Migration Review Tribunal is not governed by the civil law concepts of onus or burden of proof, and that PIC 4020 was engaged because there was probative material capable of supporting a reasonable suspicion that the applicants had provided bogus documents."
 ---
-# Sun v Minister for Immigration and Border Protection (2016) 243 FCR 220
 
-## Overview
-A Federal Court decision examining the concepts of onus of proof and burden of proof in the context of merits review before the AAT, specifically in visa cancellation proceedings involving "bogus documents" under Public Interest Criterion (PIC) 4020.
+# Sun and Others v Minister for Immigration and Border Protection
+
+## Citation
+*Sun and Others v Minister for Immigration and Border Protection* [2016] FCAFC 52; (2016) 243 FCR 220.
 
 ## Facts
-- Sun's visa was refused on the basis that he had provided bogus documents, engaging PIC 4020(1) of the Migration Regulations
-- The AAT affirmed the refusal, finding the documents were bogus
-- Sun appealed, arguing (among other things) that the AAT had misallocated the burden of proof
+- Mr Sun applied for a Business Skills (permanent) visa, with his wife and child included as secondary applicants.
+- A delegate refused the visa. On review, the Migration Review Tribunal affirmed the refusal and found that 11 documents given in connection with the application were "bogus documents".
+- That finding meant the applicants did not satisfy Public Interest Criterion 4020, because there was evidence before the Tribunal that bogus documents had been provided.
+- The applicants sought judicial review, arguing in substance that the Tribunal could only affirm if it discharged an onus or burden of proof, and that there was no sufficiently probative material to support its suspicion.
 
-## Key Issues
-1. Whether a formal onus or burden of proof applies in AAT merits review proceedings
-2. How the AAT should approach disputed facts where credibility and documentary evidence conflict
+## Issues
+1. Did PIC 4020 or the statutory scheme impose a legal onus or burden of proof on the Migration Review Tribunal?
+2. Was there a lawful factual basis for the Tribunal to reasonably suspect that the documents were bogus within s 97 of the *Migration Act*?
+3. Could the appellants raise a new argument on appeal that the Tribunal had impermissibly imposed an onus on them to rebut its findings?
 
-## Key Holdings
+## Held
+- No legal onus or burden of proof applied to the Tribunal's merits review function.
+- The Tribunal had ample objective material to support a reasonable suspicion that the documents were bogus.
+- Leave to add the new ground was refused, and the appeal was dismissed with costs.
 
-### No Formal Onus of Proof (Griffiths J, [63]–[65])
-- The concepts of **onus of proof** and **burden of proof** drawn from civil litigation are **not directly applicable** to administrative merits review
-- In merits review, the AAT's task is to reach the **"correct or preferable decision"** — this is a different exercise from adversarial litigation where one party bears the burden
-- The AAT must reach a state of **satisfaction** as required by the relevant statutory provision — this is a matter of the AAT forming its own view on the evidence, not of one party "proving" its case
-
-### Practical Burden ([78])
-- While there is no formal legal onus, there is a **practical or evidential burden** — the party seeking to change the status quo will typically need to adduce evidence to support their position
-- For visa applicants, this means presenting evidence sufficient to satisfy the AAT that criteria are met
-- For the Minister seeking to sustain a refusal, this means pointing to evidence supporting the refusal
-
-### Bogus Documents — PIC 4020
-- Whether a document is "bogus" is a **factual question** for the AAT to determine on the evidence before it
-- The AAT was entitled to consider all the evidence and reach its own conclusion
+## Reasoning / Ratio
+- The Court stressed that onus and burden of proof are concepts from adversarial judicial proceedings, not the ordinary language of administrative merits review.
+- Sections 349 and 353 of the *Migration Act* reinforced that point: the Tribunal stood in the shoes of the original decision-maker, was not bound by rules of evidence, and had to operate in a fair, just, economical, informal and quick way.
+- Nothing in s 65, PIC 4020, or s 97 expressly imposed an onus on the Tribunal, and the Court refused to imply one from the statutory context.
+- Earlier authorities such as *Singh* and passages in *NBDY* were treated as inapplicable or not to be followed because they either involved judicial power, a different statutory definition of "bogus document", or used court-based proof concepts unsuited to tribunal review.
+- The statutory question was whether there was "no evidence" before the decision-maker that a bogus document had been given. Because s 97 defined a bogus document by reference to what the Minister or Tribunal "reasonably suspects", the threshold was one of reasonable suspicion, not proof on the balance of probabilities.
+- The Tribunal's suspicion was supported by objective matters, including inconsistent signatures across versions of documents, the absence of originals, lack of corroboration for the applicants' explanations, and timing inconsistencies about who could have signed or altered particular documents.
+- Logan J added that an administrative decision-maker must still act on rationally probative material, but that does not import *Briginshaw* or a formal evidentiary burden into this statutory setting.
 
 ## Significance
-- Reinforces that **formal onus/burden of proof concepts from litigation do not apply** in AAT/ART merits review
-- Clarifies the distinction between a **legal onus** (which does not apply) and a **practical/evidential burden** (which does exist in practice)
-- Complements Pochi on the broader principle that tribunal proceedings are governed by different procedural norms than courts
+- This is a leading authority against importing civil litigation notions of onus or burden of proof into merits review.
+- It shows that where legislation turns on "reasonable suspicion", the tribunal only needs a rational factual basis for that suspicion.
+- It is also useful for distinguishing between judicial review of legal error and an impermissible attempt to re-argue factual conclusions reached on the merits.
+
+## Exam Use
+- Use *Sun* when asked whether a tribunal or administrator bears an onus of proof in merits review: the default answer is no unless the statute clearly says otherwise.
+- Pair it with *Pochi* and *Drake* to explain how tribunals are freed from strict court procedures but must still act lawfully on probative material.
+- In a problem question, distinguish between "no evidence" and "insufficient evidence": *Sun* supports review where there is no lawful factual basis, but not mere disagreement with the tribunal's weighing of competing material.

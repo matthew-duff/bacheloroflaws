@@ -1,65 +1,90 @@
 ---
 type: workshop-guide
-
-title: 'Workshop 2 Guide Summary'
+title: Workshop 2 Guide Summary
+week: 3
+topic: Administrative Law and the Commonwealth Constitution
+source: /Users/matthewduff/Documents/bacheloroflaws/Admin Law/sources/Week 3/Workshop study materials/Learning Guide and Workshop Questions-Workshop 2 Learning Guide and Workshop Questions.md
+source_type: learning-guide
 tags:
-  - 'rule-of-law'
-  - 'separation-of-powers'
-  - 'judicial-review'
-  - 'constitutional-law'
-  - 'jurisdiction'
-summary: 'This note explains how the rule of law and separation of powers shape Australian administrative law, focusing on constitutional limits on executive power, the distinction between legality and merits, and key cases like Brandy and Quin that define judicial review boundaries.'
-figures:
-  - 'High Court of Australia'
+  - admin-law
+  - workshop
+  - rule-of-law
+  - separation-of-powers
+  - judicial-review
+summary: Concise exam note on the constitutional foundations of administrative law, focusing on the rule of law, separation of powers, entrenched judicial review, and the authorities set for Workshop 2.
 cases:
-  - 'Brandy v HREOC [1996] HCA 40'
-  - 'Chu Kheng Lim v Minister for Immigration [1992] HCA 56'
-  - 'Attorney-General (NSW) v Quin [1997] HCA 56'
-  - 'Church of Scientology v Woodward [2005] NSWCA 123'
+  - Church of Scientology v Woodward (1982) 154 CLR 25
+  - CPCF v Minister for Immigration and Border Protection (2015) 255 CLR 514
+  - Plaintiff S157/2002 v Commonwealth (2003) 211 CLR 476
+  - Attorney-General (NSW) v Quin (1990) 170 CLR 1
+  - Brandy v Human Rights and Equal Opportunity Commission (1995) 183 CLR 245
+  - Chu Kheng Lim v Minister for Immigration (1992) 176 CLR 1
 statutes:
-  - 'Constitution of Australia s 75(v)'
-  - 'Administrative Decisions (Procedural Fairness) Act 1994 (Cth)'
-  - 'Judiciary Act 1903 (Cth)'
-jurisdiction: 'Australia'
-assessment_relevance: 'This note is crucial for exams on administrative law, especially for understanding the limits of judicial review, the rule of law, and how to distinguish legality from merits in case analysis.'
+  - Constitution ss 73, 75(iii), 75(v), 61
+  - Judiciary Act 1903 (Cth) s 39B
+  - Administrative Decisions (Judicial Review) Act 1977 (Cth)
 ---
+
 [[Learning Guide and Workshop Questions-Workshop 2 Learning Guide and Workshop Questions]]
 
-**Reference:** LAWS3701 Administrative Law, Topic Two: Administrative Law and the Commonwealth Constitution (Workshop 2 Learning Guide).
+## Core Thesis
+Workshop 2 places administrative law in constitutional context. The source treats judicial review as a practical expression of the rule of law: public power must have a legal source, remain within legal limits, and stay subject to supervision by courts. The paired constitutional idea is separation of powers, which both entrenches review and limits what courts, executives, and non-judicial bodies may do.
 
-## Overview
-This guide explores the constitutional foundations of Australian administrative law, focusing on the **rule of law** and the **separation of powers**. It examines how Chapter III of the Constitution (specifically s 75(v)) entrenches judicial review and establishes the fundamental distinction between the "legality" of executive action and its "merits."
+## Doctrinal Structure
 
-## Key points
+### 1. Rule of law as the foundation of judicial review
+- The rule of law requires that official power be constrained by public law and subject to judicial or quasi-judicial enforcement.
+- In Australia, the rule of law is not expressly stated in the Constitution, but the source says it is assumed by the constitutional structure.
+- `s 75(v)` gives practical effect to that assumption by entrenching High Court jurisdiction for `mandamus`, `prohibition` and `injunction` against an officer of the Commonwealth.
+- Judicial review in Australia is now "piecemeal": constitutional, statutory and common law avenues coexist.
 
-### 1. The Rule of Law
-*   **Definition:** All public power has legal limits; government authority must be constrained by law and subject to judicial enforcement.
-*   **Constitutional Assumption:** While not express, the rule of law is an assumption upon which the Constitution depends. Section 75(v) gives practical effect to this by allowing the High Court to review the actions of Commonwealth officers.
-*   **Evolution:** Originally common law-based (via prerogative writs like mandamus and prohibition), judicial review is now a "piecemeal" mix of constitutional, statutory (ADJR Act), and common law frameworks.
+### 2. Constitutional provisions to cite
+- `s 73(ii)`: supports the appellate role of the High Court from State Supreme Courts and helps explain the constitutional significance of their supervisory function.
+- `s 75(iii)`: matters in which the Commonwealth, or a person suing or being sued on behalf of the Commonwealth, is a party.
+- `s 75(v)`: entrenched minimum judicial review against Commonwealth officers; critical against attempts to create an "island of power".
+- `s 61`: source of non-statutory executive power, relevant where the government argues coercive action is authorised apart from statute.
 
-### 2. Separation of Powers
-*   **Institutional Division:** A sharp division exists between the judiciary (Ch III) and the executive/legislature.
-*   **Limits on Non-Judicial Bodies:** Administrative bodies cannot exercise the "judicial power of the Commonwealth" (e.g., making binding, enforceable determinations of legal rights).
-    *   *Brandy v HREOC:* Legislation was invalid because it gave an administrative body's determinations the effect of a court order without independent judicial oversight.
-*   **Executive Detention:** The executive cannot punish, but can detain for non-punitive administrative purposes (e.g., immigration processing).
-    *   *Chu Kheng Lim v Minister for Immigration:* Established that involuntary detention is usually penal and reserved for courts, but "aliens" can be detained for deportation/entry purposes.
+### 3. Statutory avenue comparable to `s 75(v)`
+- For federal administrative action, cite the `Administrative Decisions (Judicial Review) Act 1977 (Cth)` as the main judicial review statute.
+- Also cite `Judiciary Act 1903 (Cth) s 39B` as the provision conferring on the Federal Court supervisory jurisdiction broadly analogous to the High Court's entrenched jurisdiction under `s 75(v)`.
 
-### 3. Legality vs Merits (The *Quin* Principle)
-*   **Judicial Role:** The "emphatic province and duty" of the court is to say what the law is (*Marbury v Madison*).
-*   **The Merits/Legality Divide:** Courts can only review the *legality* of a decision (whether it was within power). They cannot "cure administrative injustice" or substitute their own view on the *merits* (the substantive fairness or policy wisdom) of a decision.
-    *   *Attorney-General (NSW) v Quin:* Brennan J emphasized that the court has no jurisdiction to review the merits of administrative action; that is for the executive repository of power.
+### 4. Separation of powers
+- Non-judicial Commonwealth bodies cannot exercise the judicial power of the Commonwealth.
+- Executive detention or punishment is constitutionally limited because punishment is characteristically judicial.
+- Ch III courts cannot perform merits review merely because an administrative outcome seems unfair; their role is legality review, not administrative substitution.
 
-### 4. Key Case Studies for Workshop
-*   **Church of Scientology v Woodward:** ASIO is subject to judicial review; administrative action must have legal authority.
-*   **CPCF v Minister for Immigration:** Explores statutory vs non-statutory (executive/prerogative) power in the context of maritime detention.
-*   **Plaintiff S157/2002 v Commonwealth:** A landmark case confirming that Parliament cannot use "privative clauses" to oust the High Court's constitutionally entrenched jurisdiction under s 75(v) to review jurisdictional errors.
+### 5. Legality versus merits
+- `Attorney-General (NSW) v Quin` is the source's key authority for the distinction.
+- Brennan J's point: courts declare and enforce the law governing power, but do not cure administrative injustice merely because they disagree with the decision's substantive fairness.
+- Exam formula: judicial review asks "was the decision lawful?"; merits review asks "was it the preferable or correct decision?".
 
-## Significance
-This guide is foundational for understanding why judicial review in Australia is limited in scope compared to "merits review" (handled by tribunals like the ART). It establishes that the High Court's power to supervise the executive is a constitutional requirement of the rule of law, ensuring that no "island of power" exists beyond the reach of the law.
+## Authorities To Cite
 
----
+### Structural authorities
+- `Attorney-General (NSW) v Quin (1990) 170 CLR 1`: judicial review is limited to legality; courts do not conduct merits review.
+- `Brandy v Human Rights and Equal Opportunity Commission (1995) 183 CLR 245`: an administrative body cannot be given binding, enforceable judicial power through an automatic registration mechanism.
+- `Chu Kheng Lim v Minister for Immigration (1992) 176 CLR 1`: punitive detention is generally for Ch III courts, though non-punitive detention of aliens was treated as an exception.
 
-## See also
-<!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 3/Lecture 3 Legality Review Summary]] - Directly addresses grounds for legality review, closely related to the cases and statutes discussed in this note, especially those concerning procedural fairness and constitutional limits.
-<!-- agent:see-also:end -->
+### Workshop case-note authorities
+- `Church of Scientology v Woodward (1982) 154 CLR 25`: ASIO remained subject to judicial review; national security did not place it beyond legal supervision; statutory authority still had to exist.
+- `CPCF v Minister for Immigration and Border Protection (2015) 255 CLR 514`: central example of contest between statutory authority and claimed non-statutory executive power.
+- `Plaintiff S157/2002 v Commonwealth (2003) 211 CLR 476`: Parliament cannot remove the High Court's entrenched supervisory jurisdiction under `s 75(v)` by privative clause.
+
+## What Each Workshop Question Is Testing
+- `Q1`: whether you understand the constitutional footing of judicial review, especially `ss 73` and `75`.
+- `Q2`: whether you can identify the main statutory pathways for federal judicial review.
+- `Q3`: whether you can explain why the rule of law supports review but does not justify merits review by courts.
+- `Q4`: whether you can extract facts, issues and decision from leading cases and connect them back to legality, lawful authority and access to justice.
+
+## Compact Problem-Question Checklist
+- Identify the repository of power: Commonwealth officer, tribunal, Minister, agency, or court.
+- Identify the legal source of power: Constitution, statute, prerogative/non-statutory executive power, or common law.
+- Ask whether review is constitutionally entrenched: especially `s 75(v)` or the supervisory role of superior courts.
+- Distinguish legality from merits: is the complaint about power, process, jurisdiction, or just outcome fairness?
+- Check whether the body is exercising judicial power impermissibly.
+- If detention or coercive action is involved, ask whether it is characterised as punitive or administrative.
+- If a privative clause or time limit appears, ask whether jurisdictional error keeps review available.
+- Support each conclusion with one leading authority, not just general principle.
+
+## One-Line Takeaway
+The source's central lesson is that Australian administrative law is constitutionally anchored: the rule of law demands legally accountable government, while separation of powers both protects judicial review and confines courts to legality rather than merits.

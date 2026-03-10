@@ -1,75 +1,50 @@
 ---
-title: 'Shi v Migration Agents Registration Authority (2008) 235 CLR 286'
-tags:
-  - 'merits-review'
-  - 'de-novo-review'
-  - 'temporal-scope'
-  - 'aat-powers'
-  - 'hybrid-review'
-  - 'case-won'
-  - 'ratio-the-high-court-held-that-the-aats-merits-review-is-generally-de-novo-allowing-it'
-summary: 'The case establishes that the AAT conducts a full merits review de novo, considering current material, and that statutory context may limit or modify this presumption. It also affirms the AAT''s ability to impose conditions under s 304A even if enacted after the original decision.'
-figures:
-  - 'Adam Smith'
-  - 'John Stuart Mill'
-cases:
-  - 'Shi v Migration Agents Registration Authority [2008] 235 CLR 286'
+title: "Shi v Migration Agents Registration Authority"
+citation: "[2008] HCA 31; (2008) 235 CLR 286"
+court: "High Court of Australia"
+decision_date: "2008-07-30"
+source: "/Users/matthewduff/Documents/bacheloroflaws/Admin Law/sources/Week 4/Study materials for merits review/Workshop three prescribed reading/Shi v MARA-Shi v MARA.md"
+topics:
+  - "merits review"
+  - "AAT"
+  - "temporal scope"
+  - "fit and proper person"
+  - "Migration Act"
 statutes:
-  - 'Migration Act 1958 (Cth)'
-  - 'Corporations Act s 181'
-jurisdiction: 'Australia'
-assessment_relevance: 'This note clarifies key review principles and statutory limits, crucial for exam questions on AAT powers and procedural fairness.'
-ratio: 'The High Court held that the AAT''s merits review is generally de novo, allowing it to consider current material unless the statute specifies otherwise. Temporal limitations on evidence are exceptions, not the rule. The AAT may also exercise newly enacted statutory powers during review.'
-case_outcome: 'won'
+  - "Administrative Appeals Tribunal Act 1975 (Cth) s 43"
+  - "Migration Act 1958 (Cth) ss 303, 304A, 306"
+ratio: "On review under s 43 of the AAT Act, the Tribunal generally decides the correct or preferable decision on the material before it at the time of its own decision, unless the statute indicates a different temporal focus. In reviewing cancellation of a migration agent's registration under s 303, the Tribunal could consider post-decision evidence bearing on whether the agent was currently fit and proper, and the majority held it could also impose conditions on lifting a caution under s 304A."
 ---
-# Shi v Migration Agents Registration Authority (2008) 235 CLR 286
 
-## Overview
-The first High Court decision directly examining the nature of the AAT's merits review function. The case concerned MARA's cancellation of Mr Shi's registration as a migration agent for lacking integrity and fitness, and the question of whether the AAT could consider evidence arising *after* the original decision.
+# Shi v Migration Agents Registration Authority
 
 ## Facts
-- MARA cancelled Shi's registration under s 303(1) of the Migration Act 1958 on grounds of lack of integrity and breaches of the Code of Conduct
-- The AAT granted a stay, allowing Shi to continue practising under supervision
-- During the period between MARA's decision and the AAT hearing (~2 years), further evidence of Shi's conduct became available — including evidence of improved practice
-- The AAT set aside the cancellation and substituted a caution with conditions (3-year supervised practice, no protection visa work)
-- The Federal Court reversed, holding the AAT should have assessed Shi only at the time of MARA's decision
+- MARA cancelled Shi's registration as a migration agent under `s 303(1)` on the basis that he was not a fit and proper person and had breached the Code of Conduct.
+- On review, the AAT considered not only the original misconduct but also later material, including Shi's conduct while practising under supervision after the cancellation.
+- The AAT set aside the cancellation, substituted a caution, and attached conditions for lifting that caution under `s 304A`.
+- The Federal Court held the Tribunal should have confined itself to the facts and circumstances existing when MARA made its decision.
 
-## Key Issues
-1. **Temporal scope**: Should the AAT assess the facts as at the date of the original decision or at the date of the AAT's own decision?
-2. The nature of the AAT's merits review function as confirmed by the High Court
+## Issues
+1. When the AAT reviews a decision under `s 303`, does it determine the correct or preferable decision as at the date of the original decision or as at the date of the Tribunal's own decision?
+2. Did the Tribunal have power under `s 304A` to impose conditions on the lifting of a caution?
 
-## Key Holdings
+## Held
+- The High Court allowed Shi's appeal and restored the Tribunal's decision.
+- The Tribunal was entitled to consider the state of affairs existing at the time of its own decision when deciding whether Shi was currently not a fit and proper person to give immigration assistance.
+- By majority, the Tribunal also had power under `s 304A` to impose conditions on the lifting of the caution.
 
-### Majority — De Novo Review Presumption
-- The AAT's review is **generally de novo** — it considers the facts, law, and policy as at the date of its own decision, not as at the date of the original decision
-- The "correct or preferable decision on the material before the Tribunal" formula from Drake No. 1 was endorsed
-
-### Temporal Limitations (Kirby and Kiefel JJ)
-- The **presumption** is that the AAT considers current material, but this presumption may be **displaced by the statutory context**
-- Specific statutory schemes may require assessment at the time of the original decision — examples include:
-  - Cancellation of ongoing entitlements (where the question is eligibility *at the time* of cancellation)
-  - Decisions with a fixed temporal character
-- On the facts, the nature of the integrity/fitness assessment did **not** require temporal limitation — the AAT was entitled to consider Shi's post-decision conduct
-
-### Section 304A — Conditions on Cautions
-- The AAT could exercise the power under s 304A (imposing conditions for lifting a caution) even though that provision was enacted *after* MARA's original decision
-- This was consistent with the de novo character of the review — the AAT exercises the powers available at the time of *its* decision
-
-### Hybrid Merits Review
-- Where statute limits the AAT to considering material only as at the date of the original decision, this produces something **less than full de novo merits review** — termed "hybrid merits review" by Professor Allars
+## Reasoning / Ratio
+- `s 43` of the AAT Act requires the Tribunal to make the correct or preferable decision on the material before it, exercising the powers of the original decision-maker.
+- Whether a person "is not a fit and proper person" is a present-tense evaluative question. That inquiry can require attention to reform, rehabilitation, and later conduct, not just historical misconduct.
+- The Court accepted that statutory context can sometimes require a different temporal focus, so the Tribunal is not conducting a completely fresh hearing in every case. But here the statutory question under `s 303` pointed to current fitness at the time of review.
+- The majority also read `s 304A` broadly enough to permit conditions on lifting a caution as part of an appropriately tailored disciplinary response.
 
 ## Significance
-- **First HCA decision** directly affirming the "correct or preferable decision" formula and the de novo nature of AAT review
-- Confirmed that temporal limitations on evidence are **exceptions** to the de novo presumption, dependent on statutory context
-- Introduced the framework for distinguishing **full merits review** from **hybrid merits review**
-- Affirmed the AAT's power to exercise newly enacted statutory powers during review
+- `Shi` is a leading High Court authority on the temporal scope of merits review.
+- It supports the proposition that merits review usually looks to the material before the Tribunal at the time of review, while remaining sensitive to the statute's text, subject matter, and purpose.
+- It is also authority that the Tribunal's review function is not simply historical error correction; it determines the correct or preferable decision under the statute governing the review.
 
----
-
-## See also
-<!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 4/Lecture 4 - Legality Review Part 2 - Summary]] - Both discuss grounds of judicial review and legal principles relevant to administrative law, including human rights considerations.
-- [[Admin Law/summaries/Week 4/Pochi v Minister for Immigration - Summary]] - Shares topics with the main note, especially regarding tribunal procedure, standard of proof, and deportation hearings.
-- [[Admin Law/summaries/Week 4/Sun v Minister for Immigration - Summary]] - Although not detailed here, this case is likely relevant due to its focus on administrative review and tribunal decision-making.
-- [[Admin Law/summaries/Week 4/The Administrative Review Tribunal Act 2024 - Summary]] - Statutory context and recent developments in administrative review, complementing the analysis of the main note's statutory references.
-<!-- agent:see-also:end -->
+## Exam Use
+- Use `Shi` where the issue is whether a merits reviewer can consider post-decision facts or changed circumstances.
+- Pair it with `Drake` for the "correct or preferable decision" formula.
+- Add the qualification that statutory context may displace the usual present-time approach, so always start with the particular Act.
