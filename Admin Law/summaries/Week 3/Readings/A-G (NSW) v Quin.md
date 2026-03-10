@@ -50,10 +50,3 @@ The High Court (Mason CJ, Brennan, and Dawson JJ; Deane and Toohey JJ dissenting
 *   **Judicial Appointments**: Highlights the exclusive province of the Executive in appointing judicial officers, subject only to the requirements of the relevant statute.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Church of Scientology v Woodward]] - Shares the topic of procedural fairness and legitimate expectation, both central to administrative law and judicial review.
-- [[Gageler - Constitutional Context Summary]] - Provides constitutional context relevant to judicial review and executive discretion, closely related to the principles discussed.
-- [[Lecture 3 Legality Review Summary]] - Directly addresses the grounds of review and legal review, complementing the analysis of judicial review in the current note.
-<!-- agent:see-also:end -->

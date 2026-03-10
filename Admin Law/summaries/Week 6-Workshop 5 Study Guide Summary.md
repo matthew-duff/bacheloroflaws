@@ -102,11 +102,3 @@ Essential preconditions that must exist *in fact* before a power can be exercise
 - **Outcome**: Declaration was invalid because Malaysia did not provide the legally binding protections required by the statute.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Lecture 3 Legality Review Summary]] - Shares key topics such as procedural fairness, natural justice, and human rights considerations under the ADJR Act and JR Act, which are also relevant to legality review.
-- [[Admin Law/summaries/Week 3/Workshop 2 Guide Summary]] - Covers foundational concepts of judicial and merits review, rule of law, and separation of powers, closely related to the principles discussed in this note.
-- [[Admin Law/summaries/Week 4/Chapter by Professor Creyke on Merits Review - Summary]] - Focuses on merits review principles, tribunal roles, and jurisdictional limits, which complement the discussion of tribunal powers and procedural fairness.
-- [[Admin Law/summaries/Week 2/Workshop 1 Guide Summary]] - Provides foundational concepts of administrative justice and accountability, relevant to the themes of government accountability and review in this note.
-<!-- agent:see-also:end -->

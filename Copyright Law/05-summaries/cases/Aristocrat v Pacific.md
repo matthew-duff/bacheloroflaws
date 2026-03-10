@@ -78,11 +78,3 @@ A compilation of words, figures, and symbols (such as gaming machine specificati
 Would you like me to elaborate on how the court handled the distinction between "idea" and "expression" in the context of these mathematical game mechanics?
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/cases/Dais Studio v Bullet Creative]] - Similar subject matter involving copyright infringement and original works.
-- [[Copyright Law/05-summaries/cases/Feist v Rural Telephone]] - Key case on substantial part test and originality in copyright law.
-- [[Copyright Law/05-summaries/cases/CBS v Telmak]] - Relevant to substantial part test and game specifications as original works.
-- [[Copyright Law/05-summaries/cases/Getty v Stability AI]] - Modern case addressing copyright in digital/creative works, relevant to 'game specifications' and 'reverse engineering'.
-<!-- agent:see-also:end -->

@@ -48,12 +48,3 @@ assessment_relevance: 'This note helps students compare AI-related IP doctrines 
 - **Territoriality** is emphasised: same conduct (e.g. training) may be infringing in one country and permitted in another, affecting where AI is trained and how Australian rights are enforced.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/articles/IP and AI-Generated Works]] - Shares topics such as human authorship, originality requirement, and copyright ownership, directly relating to AI-generated works and authorship.
-- [[Copyright Law/05-summaries/articles/AI Tools and Licensing - TermsFeed]] - Covers AI authorship, human input, and jurisdictional variance, aligning with the current note's focus on authorship and licensing in AI contexts.
-- [[Copyright Law/05-summaries/articles/Copyright Infringement and AI]] - Discusses AI training, reproduction rights, and communication rights, which are central to understanding infringement risks and defenses in AI.
-- [[Copyright Law/05-summaries/articles/Kadrey v Meta - Fair Use and AI Training]] - Addresses fair use and AI training, relevant to the legal analysis of reproduction and communication rights in AI.
-- [[Copyright Law/05-summaries/articles/Overview AI and IP]] - Provides a broad overview of AI and IP, useful for contextualizing the specific topics and legal developments discussed.
-<!-- agent:see-also:end -->

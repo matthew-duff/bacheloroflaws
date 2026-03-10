@@ -42,11 +42,3 @@ The first applicant (Dais) designed websites and developed a Content Management 
 The case clarifies that individual files or modules within a larger software system can qualify as "computer programs" in their own right. However, it highlights the difficulty of proving copyright infringement when only small, functionally common components of a larger system are copied, emphasizing that "substantiality" is determined by the quality and originality of the specific code taken relative to the entire work.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/cases/Aristocrat v Pacific]] - Both cases deal with the substantial part test under s 10 of the Copyright Act, relevant to the current note's discussion on substantial part infringement.
-- [[Copyright Law/05-summaries/cases/Burge v Swarbrick]] - This case addresses copyright craftsmanship and substantial unconstrained artistic effort, closely related to the current note's focus on substantial part and copyrightability.
-- [[Copyright Law/05-summaries/cases/Campaigntrack v Real Estate Tool Box]] - It examines substantial part infringement and authorisation principles, directly relevant to the current note's substantial part analysis.
-- [[Copyright Law/05-summaries/cases/CBS v Telmak]] - Discusses original sound recordings and infringement, relevant due to the current note's reference to section 85(a) and sound-alike recordings.
-<!-- agent:see-also:end -->

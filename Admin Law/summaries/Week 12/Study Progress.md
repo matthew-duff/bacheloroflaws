@@ -47,12 +47,3 @@ assessment_relevance: 'These topics are essential for exam essays on corporate f
 %%
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 12/LPDT v Minister]] - Shares topics such as jurisdictional error and materiality test, and discusses statutory compliance relevant to admin law principles.
-- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Connects to administrative law principles like legality review and delegation, relevant for understanding statutory discretion and oversight in admin law.
-- [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Provides an overview of the week's topics, including legal personality and limited liability, which underpin many admin law concepts.
-- [[Admin Law/summaries/Week 12/Workshop 9 Guide Summary]] - Covers judicial review and procedural fairness, closely related to admin law's enforcement and review mechanisms.
-- [[Admin Law/summaries/Week 12/Lecture 9 Remedies Revision Summary]] - Discusses remedies and standing in administrative law, complementing the study of statutory compliance and procedural requirements.
-<!-- agent:see-also:end -->

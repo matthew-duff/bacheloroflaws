@@ -33,12 +33,3 @@ assessment_relevance: 'This note crystallizes key exam themes: economic foundati
 - Supports **limits on protection** (term, scope, exceptions) and **transaction-cost-aware** design (e.g. orphan works, licensing) as core copyright policy concerns, and links directly to Breyer J’s dissent in *Eldred v Ashcroft* on term extension.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/articles/AI Tools and Licensing - TermsFeed]] - Both discuss the requirement of meaningful human input for copyright protection and contractual terms shaping ownership, relevant to Breyer's keynote on economic analysis and policy tension.
-- [[Copyright Law/05-summaries/articles/IP and AI-Generated Works]] - Directly addresses AI-generated works and copyright policy, aligning with Breyer's focus on economic analysis and policy implications.
-- [[Copyright Law/05-summaries/articles/International developments IP and AI]] - Covers international approaches to AI and copyright, complementing Breyer's keynote by providing broader context on evolving legal standards.
-- [[Copyright Law/05-summaries/articles/Overview AI and IP]] - Provides a general overview of AI's impact on IP, useful for contextualizing Breyer's keynote within the wider legal landscape.
-- [[Copyright Law/05-summaries/articles/Kadrey v Meta - Fair Use and AI Training]] - Examines a key case on fair use and AI training, relevant to Breyer's discussion of policy tension and legal interpretation.
-<!-- agent:see-also:end -->

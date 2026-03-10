@@ -87,12 +87,3 @@ assessment_relevance: 'This note is crucial for understanding corporate law fund
 %%
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/cases/Aristocrat v Pacific]] - Both discuss originality and substantiality in copyright, especially for creative works like game specifications.
-- [[Copyright Law/05-summaries/cases/Burge v Swarbrick]] - Focuses on the threshold for copyright protection based on artistic craftsmanship, relevant to the 'substantial part' analysis.
-- [[Copyright Law/05-summaries/cases/Campaigntrack v Real Estate Tool Box]] - Addresses substantial part infringement and authorisation principles, closely related to the 'substantial part test'.
-- [[Copyright Law/05-summaries/cases/Dais Studio v Bullet Creative]] - Deals with copyright subsistence of computer programs and the 'substantial part' threshold.
-- [[Copyright Law/05-summaries/cases/Desktop Marketing v Telstra]] - Concerned with compilation rights and the 'industrious collection' doctrine, relevant to copyright subsistence.
-<!-- agent:see-also:end -->

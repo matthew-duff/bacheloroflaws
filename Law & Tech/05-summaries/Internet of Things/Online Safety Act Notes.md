@@ -39,12 +39,3 @@ The *Online Safety Act 2021* (Cth) established the eSafety Commissioner as an in
 The *Online Safety Act* represents a global first in creating a dedicated independent online safety regulator. It shifts the regulatory burden from individual users to online service providers, imposing a "Digital Duty of Care" (as recommended in the 2024 review). The Act is significant for its proactive approach to systemic change through the BOSE and industry-specific codes, particularly in its evolving response to emerging threats like harmful AI chatbots and the protection of minors through strict age-verification requirements.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Law & Tech/05-summaries/Internet of Things/IoT Australia Code]] - Both discuss IoT security expectations and voluntary compliance standards, with overlapping topics like consumer protection and security-by-design.
-- [[Law & Tech/05-summaries/Internet of Things/IoT UK Code]] - This note expands on secure-by-design principles and links IoT security to data protection laws, complementing the Online Safety Act's regulatory approach.
-- [[Law & Tech/05-summaries/Internet of Things/IoT References]] - It references key cases and statutes relevant to IoT law, providing foundational context for the Online Safety Act's provisions.
-- [[Law & Tech/05-summaries/Electronic Signatures/Electronic Signatures]] - Both address legal frameworks for digital identity and electronic transactions, with shared statutes like the Electronic Transactions Act.
-- [[Law & Tech/05-summaries/Electronic Contracting/Davidson Chapter 11]] - This note explores contract formation and electronic signatures, closely related to the Online Safety Act's implications for digital consent and communication.
-<!-- agent:see-also:end -->

@@ -101,13 +101,3 @@ This lecture covers major grounds of legality review beyond procedural fairness:
 - In problem questions, keep the legality/merits distinction explicit throughout.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Lecture 3 Legality Review Summary]] - Shares key topics such as procedural fairness, natural justice, and human rights, and references overlapping cases and statutes.
-- [[Admin Law/summaries/Week 4/Lecture 4 Legality Review Part 2 Summary]] - Same lecture and subject domain, so it naturally shares topics, cases, and statutory references.
-- [[Admin Law/summaries/Week 4/Article by Professor Allars on Merits Review - Summary]] - Directly discusses merits review principles and statutory frameworks relevant to this lecture, with overlapping statutory references.
-- [[Admin Law/summaries/Week 4/Drake no.1 - Summary]] - Cases and statutory references (AAT Act, Constitution Act) are highly relevant to the grounds of review and human rights discussed in this lecture.
-- [[Admin Law/summaries/Week 4/Drake no.2 - Summary]] - Expands on government policy review in merits and administrative law, closely related to the theoretical and practical aspects of review in this lecture.
-<!-- agent:see-also:end -->
-

@@ -56,11 +56,3 @@ These are the "pillars" for all financial services behavior:
 *   **Efficiently, Honestly, and Fairly:** The overarching statutory obligation for AFSL and ACL holders (s 912A Corporations Act; s 47 NCCP Act).
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Corporate Law/summaries/Week 1/readings/Huddard, Parker & Co Ltd v Moorehead (1909) 8 CLR 330 Summary]] - Discusses the limits of the Commonwealth's corporations power and the doctrine of reserved state powers, relevant to regulatory authority and corporate structure discussed in the Royal Commission.
-- [[Corporate Law/summaries/Week 1/readings/Clarkson (ed), The Corporation and Its Stakeholders (1998) Summary]] - Introduces stakeholder theory and governance concepts that underpin much of the Royal Commission’s findings on corporate misconduct and duty of care.
-- [[Corporate Law/summaries/Week 1/readings/Ireland, ‘Company Law and the Myth of Shareholder Ownership’ (1999) Summary]] - Critiques shareholder primacy and explores legal personality, relevant to debates on corporate governance and accountability in the Royal Commission.
-- [[Corporate Law/summaries/Week 1/readings/Wilson, ‘Salomon’s Case deters Attempts to lift the Veil’ (1961) Summary]] - Addresses corporate veil and liability, a key legal issue in cases of misconduct and regulatory enforcement.
-<!-- agent:see-also:end -->

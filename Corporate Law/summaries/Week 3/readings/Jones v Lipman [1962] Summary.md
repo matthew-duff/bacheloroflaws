@@ -59,10 +59,3 @@ The court will "pierce the corporate veil" where a company is used as a **"mere 
 **Model Used:** gemini-3-flash-preview (via Cursor)
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Corporate Law/summaries/Week 1/readings/Cotterrell, ‘The Sociological Concept of Law’ (1983) Summary]] - Shares the topic of legal theory and ideology, providing a broader context for understanding corporate law as an ideological construct.
-- [[Corporate Law/summaries/Week 3/readings/Industrial Equity Ltd v Blackburn (1977) Summary]] - Shares the topic of separate legal personality and corporate form, reinforcing the principle that companies are distinct legal entities.
-- [[Corporate Law/summaries/Week 3/readings/Gilford Motor Co Ltd v Horne [1933] Summary]] - Shares the key topic of piercing the corporate veil and the 'sham' exception, directly relating to the main note's discussion of evasion principles.
-<!-- agent:see-also:end -->

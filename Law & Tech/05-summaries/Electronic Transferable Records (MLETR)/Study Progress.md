@@ -41,11 +41,3 @@ assessment_relevance: 'Useful for exam questions on the legal status of electron
 %%
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Law & Tech/05-summaries/Electronic Transferable Records (MLETR)/MLETR Model Law]] - Shares core topics like functional equivalence, control principle, and cross-border recognition relevant to electronic transferable records.
-- [[Law & Tech/05-summaries/Electronic Transferable Records (MLETR)/MLETR Resources]] - Discusses statutory compliance and regulatory principles under MLETR, closely related to the legal framework for electronic records.
-- [[Law & Tech/05-summaries/Electronic Contracting/Study Progress]] - Covers foundational corporate law concepts like legal personality and ASIC regulation, which underpin electronic contracting and MLETR's legal personality context.
-- [[Law & Tech/05-summaries/Electronic Signatures/Electronic Signatures]] - Explains legislative frameworks for electronic signatures, which are essential for MLETR's digital authentication and legal validity.
-<!-- agent:see-also:end -->

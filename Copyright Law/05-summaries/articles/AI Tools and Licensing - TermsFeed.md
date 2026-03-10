@@ -36,12 +36,3 @@ assessment_relevance: 'This note consolidates key jurisdictional approaches and 
 - Illustrates the importance of "meaningful human input" and creative control for subsistence and ownership, and the role of provider ToS alongside statutory and judicial rules.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/articles/IP and AI-Generated Works]] - Shares the topic of AI-generated works and their copyright implications.
-- [[Copyright Law/05-summaries/articles/Copyright Infringement and AI]] - Discusses AI's role in potential copyright infringement, closely related to licensing and ownership issues.
-- [[Copyright Law/05-summaries/articles/Overview AI and IP]] - Provides a broad overview of AI's impact on intellectual property, including licensing and ownership.
-- [[Copyright Law/05-summaries/articles/International developments IP and AI]] - Covers international legal responses to AI and copyright, relevant for jurisdictional variance and policy tension.
-- [[Copyright Law/05-summaries/articles/Kadrey v Meta - Fair Use and AI Training]] - Examines a key case on fair use in AI training, directly relevant to policy tension and human input.
-<!-- agent:see-also:end -->

@@ -39,10 +39,3 @@ Jeremy Waldron explores the application of the 'Rule of Law' ideal within the re
 This article is significant for Administrative Law as it provides a theoretical framework for understanding how traditional "Rule of Law" values (legality, certainty, accountability) function within the administrative state. It challenges the "Diceyan" skepticism of administrative power and offers a more modern, public-law-focused interpretation that balances the need for effective governance with the protection of individuals from arbitrary state action. It is particularly relevant for discussions on the limits of executive discretion and the legitimacy of administrative tribunals.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Church of Scientology v Woodward]] - Shares topics such as judicial review and executive power, and discusses statutory limits on intelligence agencies, relevant to Waldron's analysis of rule of law in public law.
-- [[Gageler - Constitutional Context Summary]] - Explains constitutional foundations of judicial review, directly relevant to Waldron's focus on the rule of law in public law.
-- [[Lecture 3 Legality Review Summary]] - Outlines procedural fairness and grounds for legality review, complementing Waldron's analysis of rule of law in administrative law.
-<!-- agent:see-also:end -->

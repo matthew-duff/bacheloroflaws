@@ -68,9 +68,3 @@ Why doesn't the judiciary just prevent all privitative clauses all together?
 
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Gageler - Constitutional Context Summary]] - Addresses jurisdictional error and constitutional review, which are core topics in the current note.
-- [[Admin Law/summaries/Week 3/Study Progress]] - Though currently unstarted, it likely tracks the same topics and cases, making it a useful cross-reference for the subject area.
-<!-- agent:see-also:end -->

@@ -50,9 +50,3 @@ Hytera's appeal was dismissed. Motorola's cross-appeal was allowed in part (grou
 The case arose in the context of large-scale unauthorised use of source code by former employees and reinforces that copyright protects the form of expression of software, not merely its functional outcomes.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/cases/Feist v Rural Telephone]] - Both discuss originality and copyrightability of compilations, with Feist being a foundational US precedent for the 'sweat of the brow' doctrine.
-- [[Copyright Law/05-summaries/cases/Campaigntrack v Real Estate Tool Box]] - Directly related to the facts of Hytera v Motorola regarding substantial part infringement and the thresholds for copyright subsistence.
-<!-- agent:see-also:end -->

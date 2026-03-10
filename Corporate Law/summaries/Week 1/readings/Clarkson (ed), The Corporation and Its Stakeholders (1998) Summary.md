@@ -68,11 +68,3 @@ Managers prioritize stakeholders based on three attributes:
 **Model used:** gemini-3-flash-preview
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Corporate Law/summaries/Week 1/readings/Ireland, ‘Company Law and the Myth of Shareholder Ownership’ (1999) Summary]] - Both notes address stakeholder theory and shareholder primacy, providing contrasting perspectives on corporate ownership and governance.
-- [[Corporate Law/summaries/Week 1/readings/Wilson, ‘Salomon’s Case deters Attempts to lift the Veil’ (1961) Summary]] - The case is foundational to corporate personality, a key issue in stakeholder theory and corporate governance debates.
-- [[Corporate Law/summaries/Week 1/Chapter 4 — Formation and Types of Companies]] - This chapter discusses legal personality and company structures, which are central to stakeholder theory and corporate law fundamentals.
-- [[Corporate Law/summaries/Week 2/readings/Whittington, Review of Berle and Means (1970)]] - This review provides context for modern corporate theory and governance, complementing stakeholder theory discussions.
-<!-- agent:see-also:end -->

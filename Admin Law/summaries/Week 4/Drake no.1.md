@@ -45,11 +45,3 @@ Drake, an American citizen with permanent resident status in Australia, was conv
 *   **Persona Designata**: Reaffirms that judges can perform non-judicial functions if appointed in their personal capacity.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 4/Drake no.1 - Summary]] - This note directly references the same case and discusses its significance in establishing the AAT's review powers, which is central to the current note's discussion of facts and legal principles.
-- [[Admin Law/summaries/Week 4/Article by Professor Allars on Merits Review - Summary]] - This article provides a detailed analysis of merits review, a key topic in the current note, and discusses the AAT's role, connecting to the legal principles and statutory framework.
-- [[Admin Law/summaries/Week 4/Chapter by Professor Creyke on Merits Review - Summary]] - This chapter offers a comprehensive overview of administrative tribunals and merits review, directly relating to the current note's focus on tribunal powers and legal doctrine.
-- [[Admin Law/summaries/Week 4/Drake no.2 - Summary]] - This note continues the discussion of the Drake case series, providing further facts and legal context that complement the current note's focus on administrative law principles.
-<!-- agent:see-also:end -->

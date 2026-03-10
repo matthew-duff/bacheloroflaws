@@ -51,9 +51,3 @@ Session 1 provides an introductory overview of copyright law and sets up the fra
 Session 1 establishes the foundational framework used throughout the course: **Copyright in 6 Easy Steps**—(1) identify the copyright material, (2) identify the owners and licensees, (3) identify the exclusive rights, (4) identify any infringement, (5) identify defences or exceptions, (6) consider remedies. This structure organises analysis of copyright issues and is essential for approaching problems systematically.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/ppts/2026 Session 1 v2]] - Shares key statutory references (Copyright Act 1968) and discusses statutory framework and exclusive rights, complementing the background on statutory foundations.
-- [[Copyright Law/05-summaries/cases/FCT v Seven Network]] - Discusses statutory interpretation of 'royalties' and fixation requirements under the Copyright Act 1968, relating to background concepts of copyright duration and rights.
-<!-- agent:see-also:end -->

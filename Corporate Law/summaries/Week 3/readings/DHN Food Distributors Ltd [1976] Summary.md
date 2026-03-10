@@ -73,11 +73,3 @@ The Court of Appeal held that the group should be treated as a **single economic
 | **Counter-point** | *Adams v Cape* effectively killed the broad application of this principle. |
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Corporate Law/summaries/Week 3/readings/Adams v Cape Industries plc [1991] Summary]] - Shares the topic of 'separate legal personality' and discusses the 'facade exception' to veil-piercing, directly relating to the legal personality and boundaries of corporate groups.
-- [[Corporate Law/summaries/Week 3/readings/Briggs v James Hardie & Co Pty Ltd (1989) Summary]] - Addresses 'piercing the corporate veil' and the limitations of agency claims, complementing the discussion of corporate unity and control in the current note.
-- [[Corporate Law/summaries/Week 3/readings/Smith, Stone & Knight Ltd [1939] Summary]] - Deals with corporate personhood and legal entity status, aligning with the themes of corporate identity and legal personality present in the current note.
-- [[Corporate Law/summaries/Week 3/readings/Industrial Equity Ltd v Blackburn (1977) Summary]] - Relevant for its discussion of corporate groups and legal personality, providing context on how courts handle integrated operations and shared control.
-<!-- agent:see-also:end -->

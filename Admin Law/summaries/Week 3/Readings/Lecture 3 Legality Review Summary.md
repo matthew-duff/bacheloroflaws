@@ -76,12 +76,3 @@ This lecture provides the first part of a detailed examination of the grounds fo
 This lecture establishes the foundational legal framework for challenging the **legality** of administrative decisions. It emphasizes the shift from rigid categories (like "mandatory vs directory") to a focus on **statutory interpretation** and the **presumption of procedural fairness**. Understanding these grounds is critical for identifying when an executive action has exceeded its legal boundaries, particularly in the context of individual rights and the evolving impact of human rights legislation on administrative law.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 4/Lecture 4 - Legality Review Part 2 - Summary]] - Continuation of the same lecture series, likely covering further grounds of review and human rights, closely related to the topics and cases in this note.
-- [[Admin Law/summaries/Week 5-Workshop 4 Study Guide Summary]] - Focuses on procedural fairness and natural justice, both of which are central topics in this note.
-- [[Admin Law/summaries/Week 6-Workshop 5 Study Guide Summary]] - Deals with judicial review grounds, complementing the discussion of procedural fairness and legal review in this note.
-- [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Addresses procedural fairness and legal principles in the context of automated decision-making, which relates to the broader themes of fairness and legal review.
-- [[A-G (NSW) v Quin]] - Discusses procedural fairness and legitimate expectations, which are key concepts in the context of judicial review and administrative law.
-<!-- agent:see-also:end -->

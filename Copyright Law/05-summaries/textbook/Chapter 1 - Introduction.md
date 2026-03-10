@@ -47,12 +47,3 @@ This chapter outlines the origins, justifications, and legislative evolution of 
 Chapter 1 provides the essential context for understanding why Australian copyright law is structured as it is. It highlights the shift from a purely domestic incentive-based system to one that is globally harmonized and increasingly complex due to technological change and international trade obligations. Understanding the distinction between Part III and Part IV subject matter is foundational for all subsequent study of the Act.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/textbook/Chapter 2 - Subject Matter: Works]] - Shares the topic of 'subject matter' and foundational concepts in copyright law.
-- [[Copyright Law/05-summaries/textbook/Chapter 3 - Subject Matter Other Than Works]] - Complements the discussion on subject matter by covering non-traditional works.
-- [[Copyright Law/05-summaries/textbook/Chapter 6 - Exclusive Rights and Infringement]] - Relates to the statutory framework and enforcement mechanisms relevant to copyright.
-- [[Copyright Law/05-summaries/textbook/Chapter 10 - Exceptions and Limitations]] - Provides context on statutory exceptions and limitations that interact with the core subject matter.
-- [[Copyright Law/05-summaries/articles/Overview AI and IP]] - Engages with the statutory and theoretical evolution of copyright, relevant to modern challenges.
-<!-- agent:see-also:end -->

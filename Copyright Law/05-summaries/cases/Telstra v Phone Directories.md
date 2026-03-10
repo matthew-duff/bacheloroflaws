@@ -42,9 +42,3 @@ No. Appeal dismissed. Copyright does not subsist in the directories. They are no
 This case **overturns the Desktop Marketing approach** to copyright in compilations. It establishes that **computer-generated compilations are not protected by copyright** in Australia and that the "sweat of the brow" doctrine does not apply. Copyright requires human authorship directed at the production of the work in its material form. The decision is critical for understanding subsistence of copyright in databases, directories and other compilations produced by automated processes.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/cases/Desktop Marketing v Telstra]] - Shares the topic of copyright subsistence in factual compilations and directly relates to the Telstra v Phone Directories case.
-- [[Copyright Law/05-summaries/cases/F100149]] - Addresses copyright subsistence and automated compilation, relevant due to the automated nature of the Phone Directories compilation.
-<!-- agent:see-also:end -->

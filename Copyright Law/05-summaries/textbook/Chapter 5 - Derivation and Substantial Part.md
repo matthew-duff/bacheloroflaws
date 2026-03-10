@@ -55,12 +55,3 @@ Chapter 5 is fundamental to understanding the boundaries of copyright protection
 **Reference**: [Author/Textbook Title], Chapter 5: Derivation and Substantial Part (2026).
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/textbook/Chapter 2 - Subject Matter: Works]] - Shares topics such as originality, substantial part, and fair dealing, which are central to assessing derivation and substantial part.
-- [[Copyright Law/05-summaries/textbook/Chapter 10 - Exceptions and Limitations]] - Covers fair dealing and exceptions to infringement, relevant to the substantial part and derivation analysis.
-- [[Copyright Law/05-summaries/textbook/Chapter 1 - Introduction]] - Provides foundational context on copyright principles, statutory framework, and evolution, which underpins the derivation and substantial part discussion.
-- [[Copyright Law/05-summaries/textbook/Chapter 4 - First Ownership, Co-Ownership and Term Duration]] - Discusses authorship and ownership, relevant for determining who may claim substantial part or derivation rights.
-- [[Copyright Law/05-summaries/textbook/Chapter 9 - Compulsory Licensing and the Copyright Tribunal]] - Addresses statutory licensing and exceptions, which may intersect with fair dealing and substantial part considerations.
-<!-- agent:see-also:end -->

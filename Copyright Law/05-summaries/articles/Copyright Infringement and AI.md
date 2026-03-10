@@ -39,11 +39,3 @@ assessment_relevance: 'Key for exams and oral assessments on AI, training, and l
 Directly addresses when training AI on copyright works and when using AI output can infringe, and the limits of Australian defences (no fair use; narrow fair dealing). It explains the shift to licensing-first and the role of CAIRG and Productivity Commission, and flags liability (reproduction, communication, s 22(6)) and proof issues. Essential for advising on training datasets, licensing, output use and attribution in an Australian copyright framework.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/articles/AI Tools and Licensing - TermsFeed]] - Shares topics like AI authorship, human input, and jurisdictional variance, and discusses contractual terms affecting ownership.
-- [[Copyright Law/05-summaries/articles/IP and AI-Generated Works]] - Directly addresses AI-generated works, a core issue in copyright infringement and AI, complementing the current note's focus.
-- [[Copyright Law/05-summaries/articles/Kadrey v Meta - Fair Use and AI Training]] - Discusses fair use and AI training, closely related to infringement and legal defenses in AI contexts.
-- [[Copyright Law/05-summaries/articles/Overview AI and IP]] - Provides a broad overview of AI's impact on IP, offering context for the specific issue of copyright infringement.
-<!-- agent:see-also:end -->

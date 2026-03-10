@@ -149,11 +149,3 @@ Many jurisdictions exempt specific areas (Land, Wills, Powers of Attorney).
 Under the _ETA_, a person is only bound by an electronic communication if it was sent by them or with their **authority**. This preserves the law of agency but places the risk of "spoofing" or unauthorized access on the recipient.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Law & Tech/05-summaries/Electronic Signatures/Davidson Chapter 13]] - Directly related chapter on electronic signatures, likely covering similar legal principles and statutory frameworks.
-- [[Law & Tech/05-summaries/Electronic Signatures/Electronic Signatures]] - Overview of electronic signatures could offer a broader perspective on legal equivalence and regulatory frameworks relevant to this note.
-- [[Law & Tech/05-summaries/Electronic Transferable Records (MLETR)/MLETR Model Law]] - MLETR Model Law may relate to contract formation and legal equivalence in electronic contexts, complementing the discussion on electronic contracting.
-- [[Law & Tech/05-summaries/Internet of Things/IoT Australia Code]] - While more specialized, IoT law may intersect with electronic contracting and signatures in practical applications, offering a comparative angle.
-<!-- agent:see-also:end -->

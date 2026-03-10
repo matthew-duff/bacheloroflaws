@@ -80,10 +80,3 @@ Cotterrell identifies three main ways sociologists conceptualize law:
 *   **For Law Students:** Cotterrell highlights that law is not just a set of neutral rules but a social institution deeply embedded in power dynamics and ideological structures.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Corporate Law/summaries/Week 1/readings/Clarkson (ed), The Corporation and Its Stakeholders (1998) Summary]] - Both discuss corporate theory and stakeholder perspectives, relevant to the sociological concept of law in corporate contexts.
-- [[Corporate Law/summaries/Week 1/readings/Salomon v Salomon & Co Ltd [1897] AC 22 Summary]] - The foundational case on corporate personality, central to understanding the legal and sociological concepts of corporate law.
-- [[Corporate Law/summaries/Week 1/readings/Schmitthoff, ‘The Origin of the Joint-Stock Company’ (1939) Summary]] - Provides historical context for corporate forms, linking to sociological theories of law and corporate structure.
-<!-- agent:see-also:end -->

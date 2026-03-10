@@ -43,9 +43,3 @@ Chapter 9 examines the Australian copyright law's reliance on **compulsory (stat
 This chapter is critical for understanding the **balance between private property rights and public interest** in Australian copyright law. It highlights how the law manages market failures and monopoly power through the Copyright Tribunal. The discussion of price caps (s 152) and the distinction between broadcasting and internet streaming (*PPCA v Commercial Radio Australia*) illustrates the ongoing tension between legacy legislative frameworks and modern digital exploitation. It also clarifies the unique "eminent domain" status of the Crown, which operates outside standard infringement frameworks.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/articles/Copyright Infringement and AI]] - Shares topics like copyright infringement, AI training, and reproduction rights, and references similar cases and statutes.
-- [[Copyright Law/05-summaries/articles/AI Tools and Licensing - TermsFeed]] - Addresses licensing and authorship in the context of AI, which is relevant for understanding modern challenges to copyright principles.
-<!-- agent:see-also:end -->

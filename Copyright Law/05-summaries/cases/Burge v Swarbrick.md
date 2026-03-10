@@ -81,12 +81,3 @@ The High Court’s logic focused on the objective intersection of art and utilit
 - **Application:** The Court found the Plug’s form was a result of naval architecture (engineering) rather than "artistic" expression. Because the functional constraints were substantial, the work fell into the category of industrial design rather than artistic craftsmanship.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/cases/Feist v Rural Telephone]] - Both cases deal with copyrightability and originality, relevant to 'functional art' and 'aesthetic intent'.
-- [[Copyright Law/05-summaries/cases/Galaxy v Sega]] - Concerns copyright in software and design, relating to 'design constraints' and 'copyright craftsmanship'.
-- [[Copyright Law/05-summaries/cases/CBS v Telmak]] - Involves copyright in broadcast content, relevant to 'anti overlap' and 'design constraints'.
-- [[Copyright Law/05-summaries/cases/FCT v Seven Network]] - Relates to copyright in broadcasting and media, intersecting with 'copyright craftsmanship' and 'aesthetic intent'.
-- [[Copyright Law/05-summaries/cases/IceTV v Nine Network]] - Concerns copyright in television programming, relating to 'functional art' and 'aesthetic intent'.
-<!-- agent:see-also:end -->

@@ -58,11 +58,3 @@ This module explores the legal nature, functions, and regulatory framework of el
 This source is critical for understanding how the law maintains technology neutrality while ensuring the fundamental legal functions of a signature—authentication and expression of intent—are preserved. It highlights the shift from formalistic "ink on paper" requirements to a functional approach where the reliability of the method is weighed against the circumstances of the transaction. The recent reforms to the *Corporations Act* and state property laws (e.g., Qld *Property Law Act*) represent a significant modernization of the law regarding deeds and formal documents.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Law & Tech/05-summaries/Electronic Signatures/Davidson Chapter 13]] - Shares core topics like electronic signatures, legal validity, and functional equivalence; includes overlapping cases such as Mehta v J Pereira Fernandes SA.
-- [[Law & Tech/05-summaries/Electronic Contracting/Davidson Chapter 11]] - Directly addresses electronic contracting, functional equivalence, and statutory frameworks like the UNCITRAL Model Law and Electronic Transactions Act.
-- [[Law & Tech/05-summaries/Electronic Contracting/Electronic Contracting]] - Covers fundamental principles of the ETA, contract formation, and consent requirements, closely related to the overview of electronic signatures and contract law.
-- [[Law & Tech/05-summaries/Electronic Signatures/Study Progress]] - Provides study structure and may reference overlapping cases and statutes relevant to electronic signatures.
-<!-- agent:see-also:end -->

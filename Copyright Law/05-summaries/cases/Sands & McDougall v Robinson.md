@@ -41,9 +41,3 @@ The respondent's map was an original literary work within s 1(1) and entitled to
 This case is a foundational authority on the meaning of **"original" in Australian copyright law**. It establishes that originality does **not** require novelty, invention, or patent-law style distinctiveness. Originality is satisfied when the author originates the work through their own skill, labour, and judgment applied to existing materials. The decision is critical for maps, compilations, directories, and other works based on pre-existing information.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/cases/Feist v Rural Telephone]] - Both cases address originality and copyrightability of factual compilations, with Feist being a foundational US precedent and this note likely discusses similar principles in the Australian context.
-- [[Copyright Law/05-summaries/cases/Fairfax v Reed]] - Both cases involve copyright protection for compilations and journalistic content, with Fairfax v Reed clarifying protection for article form and headline limitations.
-<!-- agent:see-also:end -->

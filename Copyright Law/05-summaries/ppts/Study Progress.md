@@ -40,11 +40,3 @@ assessment_relevance: 'Useful for exams on corporate formation, liability limits
 %%
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/cases/FCT v Seven Network]] - Both discuss copyright protection in relation to digital signals and fixation, relevant to the scope of copyright under Australian law.
-- [[Copyright Law/05-summaries/articles/AI Tools and Licensing - TermsFeed]] - This article examines AI authorship and copyright, directly relevant to the note's discussion of AI-generated outputs and ownership.
-- [[Copyright Law/05-summaries/articles/Breyer - Uneasy Case for Copyright Keynote]] - Breyer's keynote provides economic and policy context for copyright, complementing the note's discussion of copyright subsistence and policy limits.
-- [[Copyright Law/05-summaries/ppts/PPT Session 2]] - This session outlines the requirements for copyright subsistence, closely related to the note's focus on protectable matter and originality.
-<!-- agent:see-also:end -->

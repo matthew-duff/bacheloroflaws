@@ -79,12 +79,3 @@ The Court of Appeal identified three main arguments for piercing the corporate v
 > While *Adams* remains the leading case on the "single economic unit," the "facade" exception was further refined in **Prest v Petrodel Resources Ltd [2013]**, which distinguished between the "evasion principle" (piercing the veil) and the "concealment principle" (looking behind the veil).
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Corporate Law/summaries/Week 3/readings/Smith, Stone & Knight Ltd [1939] Summary]] - Both cases deal with the issue of corporate personality and agency relationships within companies, particularly regarding the capacity of directors and the legal status of companies.
-- [[Corporate Law/summaries/Week 3/readings/Prest v Petrodel Resources Ltd [2013] Summary]] - This case addresses the modern application of corporate personality and the 'facade' exception, which is directly relevant to the ratio and legal principles discussed in Adams v Cape Industries plc.
-- [[Corporate Law/summaries/Week 3/readings/Industrial Equity Ltd v Blackburn (1977) Summary]] - This case is relevant due to its discussion of corporate groups and the limits of liability, which ties into the broader theme of separate legal personality and its exceptions.
-- [[Corporate Law/summaries/Week 3/readings/Tesco Supermarkets Ltd v Nattrass [1972] Summary]] - It explores the issue of agency and the extent to which a company can be bound by the acts of its officers, which is closely related to the 'agency relationship' topic in Adams v Cape Industries plc.
-- [[Corporate Law/summaries/Week 1/readings/Lee v Lee’s Air Farming Ltd [1961] AC 12 Summary]] - This case is foundational for the concept of separate legal personality and its practical implications, which are central to the discussion in Adams v Cape Industries plc.
-<!-- agent:see-also:end -->

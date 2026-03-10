@@ -42,10 +42,3 @@ This chapter examines the legal framework for the transfer and licensing of copy
 Chapter 8 is critical for understanding how copyright moves from the first owner to commercial exploiters. The strictness of the signed writing requirement serves as a safeguard for authors (especially independent contractors) but necessitates careful drafting in commercial transactions. The Australian position on s 196(4) makes licences particularly robust, as they "run with the property" against subsequent assignees, creating a unique priority regime in Australian intellectual property law.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/textbook/Chapter 2 - Subject Matter: Works]] - Shares key topics on originality, material form, and substantiality, which are central to understanding copyright subsistence.
-- [[Copyright Law/05-summaries/textbook/Chapter 3 - Subject Matter Other Than Works]] - Related as it discusses non-authorial works and complements the discussion on copyright subject matter by expanding beyond traditional works.
-- [[Copyright Law/05-summaries/textbook/Chapter 1 - Introduction]] - Provides foundational context on the origins and evolution of copyright law, which underpins the legal framework discussed in other notes.
-<!-- agent:see-also:end -->

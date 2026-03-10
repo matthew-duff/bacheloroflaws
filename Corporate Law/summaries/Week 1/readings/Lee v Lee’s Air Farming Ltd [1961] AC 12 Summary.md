@@ -64,10 +64,3 @@ The Privy Council held that **a company is a separate legal entity distinct from
 *   **The Result:** Mrs. Lee was entitled to compensation because Mr. Lee was a "worker" at the time of death.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Corporate Law/summaries/Week 1/readings/Wilson, ‘Salomon’s Case deters Attempts to lift the Veil’ (1961) Summary]] - This note explores the implications of the Salomon case, particularly regarding the 'veil' of corporate personality and when courts may lift it, directly relating to the principles affirmed in Lee v Lee.
-- [[Incorporations Case (NSW v Commonwealth (1990) 169 CLR 482)]] - This case examines corporate capacity and legal personality in relation to state and federal law, relevant to the discussion of corporate legal personality in Lee v Lee.
-- [[Corporate Law/summaries/Week 3/readings/Briggs v James Hardie & Co Pty Ltd (1989) Summary]] - This case discusses the legal personality and capacity of companies, particularly in relation to employment and agency, which overlaps with topics in Lee v Lee.
-<!-- agent:see-also:end -->

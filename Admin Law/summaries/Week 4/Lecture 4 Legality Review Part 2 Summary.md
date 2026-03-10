@@ -74,11 +74,3 @@ This lecture covers the second part of legality review grounds, focusing on unre
 This lecture is critical for understanding the "gravity" of legal errors required to trigger judicial intervention. It highlights the High Court's recent emphasis on **materiality** in jurisdictional error and the evolving role of **proportionality** under the Queensland *Human Rights Act*, which provides a more robust framework for challenging administrative decisions than traditional common law grounds.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Shares topics such as procedural fairness and legality, and discusses the Robodebt case, which is relevant for understanding modern challenges in administrative law.
-- [[Admin Law/summaries/Week 4/Drake no.1 - Summary]] - Directly relates to the note's discussion of the AAT's merits review powers and the 'correct or preferable decision' test, which is foundational for understanding administrative review.
-- [[Admin Law/summaries/Week 4/Drake no.2 - Summary]] - Complements the note by elaborating on the role of government policy in merits reviews and the balance between consistency and individual justice.
-- [[Admin Law/summaries/Week 4/Workshop 3 Learning Guide and Questions - Summary]] - Provides practical application and questions related to merits review, reinforcing theoretical concepts from the note.
-<!-- agent:see-also:end -->

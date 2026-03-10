@@ -36,12 +36,3 @@ assessment_relevance: 'Covers key AI-IP conflicts for exams and oral—human vs 
 - Frames **human authorship** and **ownership** where AI is used as central ongoing issues for copyright subsistence and ownership in Australia.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/articles/IP and AI-Generated Works]] - Covers AI-generated works and copyright ownership, directly relating to human authorship and originality requirements.
-- [[Copyright Law/05-summaries/articles/Copyright Infringement and AI]] - Discusses AI training on copyrighted works and infringement, linking to liability allocation and statutory analysis.
-- [[Copyright Law/05-summaries/articles/International developments IP and AI]] - Compares international approaches to AI-related IP, relevant for understanding jurisdictional variation and key cases.
-- [[Copyright Law/05-summaries/articles/AI Tools and Licensing - TermsFeed]] - Addresses AI tools, licensing, and contractual terms, complementing the licensing-first practice and statutory context.
-- [[Copyright Law/05-summaries/articles/Kadrey v Meta - Fair Use and AI Training]] - Examines fair use in AI training, a key case affecting infringement analysis and statutory interpretation.
-<!-- agent:see-also:end -->

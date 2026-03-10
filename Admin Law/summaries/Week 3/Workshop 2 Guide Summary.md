@@ -58,8 +58,3 @@ This guide explores the constitutional foundations of Australian administrative 
 This guide is foundational for understanding why judicial review in Australia is limited in scope compared to "merits review" (handled by tribunals like the ART). It establishes that the High Court's power to supervise the executive is a constitutional requirement of the rule of law, ensuring that no "island of power" exists beyond the reach of the law.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Lecture 3 Legality Review Summary]] - Directly addresses grounds for legality review, closely related to the cases and statutes discussed in this note, especially those concerning procedural fairness and constitutional limits.
-<!-- agent:see-also:end -->

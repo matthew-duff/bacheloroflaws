@@ -41,12 +41,3 @@ Copyright was infringed. Palmer's originality argument was rejected. Parody/sati
 Important on substantial part in musical works (qualitative test, ordinary reasonably experienced listener; quality not quantity), originality as a bar to infringement, the limits of parody/satire defences, and additional damages for flagrant infringement where the defendant knowingly infringes after being refused a licence.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/cases/Feist v Rural Telephone]] - Both cases address copyrightability of factual compilations and the 'originality' requirement.
-- [[Copyright Law/05-summaries/cases/Campaigntrack v Real Estate Tool Box]] - Discusses substantial part infringement and authorisation principles, relevant to the 'substantial part' topic.
-- [[Copyright Law/05-summaries/cases/CBS v Telmak]] - Relates to original sound recordings and section 85(a) of the Copyright Act, sharing statutory references.
-- [[Copyright Law/05-summaries/cases/Desktop Marketing v Telstra]] - Concerns copyright subsistence and compilation rights, similar to the 'substantial part' and 'originality' themes.
-- [[Copyright Law/05-summaries/cases/IceTV v Nine Network]] - Deals with copyright protection for compilations of factual information, aligning with the 'substantial part' topic.
-<!-- agent:see-also:end -->

@@ -38,11 +38,3 @@ Rural's white pages are not entitled to copyright. Feist's use of the listings d
 Key US authority establishing that **originality** (independent creation + minimal creativity) is constitutionally required for copyright. **Facts are never copyrightable**; compilations are protected only to the extent of **original selection, coordination, or arrangement**. Alphabetical listing of raw factual data does not meet that standard. The rejection of the "sweat of the brow" doctrine—that copyright rewards originality, not effort—is often cited in Australian discussions of *IceTV v Nine Network* and originality in compilations.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/cases/Desktop Marketing v Telstra]] - Both cases deal with copyright subsistence in factual compilations and discuss the 'industrious collection' doctrine.
-- [[Copyright Law/05-summaries/cases/Campaigntrack v Real Estate Tool Box]] - This case addresses substantial part infringement and authorisation principles, closely related to Feist's requirements for originality and substantiality.
-- [[Copyright Law/05-summaries/cases/F100149]] - Directly related to Feist, discussing copyright subsistence, originality, and the role of human authorship versus automated compilation.
-- [[Copyright Law/05-summaries/cases/Burge v Swarbrick]] - Focuses on the threshold of copyright protection through 'substantial unconstrained artistic effort,' a key concept in Feist's originality analysis.
-<!-- agent:see-also:end -->

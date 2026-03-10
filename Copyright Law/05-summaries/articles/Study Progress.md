@@ -54,10 +54,3 @@ assessment_relevance: 'Useful for exams on corporate law foundations and AI''s i
 %%
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/articles/IP and AI-Generated Works]] - Shares topics like human authorship, originality, and copyright ownership, and discusses statutory frameworks relevant to AI-generated works.
-- [[Copyright Law/05-summaries/articles/Copyright Infringement and AI]] - Discusses reproduction and communication rights, liability, and statutory references that are also relevant to AI training and infringement.
-- [[Copyright Law/05-summaries/articles/Overview AI and IP]] - Provides a broad overview of AI’s impact on copyright, linking to key cases and statutes that inform the study note.
-<!-- agent:see-also:end -->

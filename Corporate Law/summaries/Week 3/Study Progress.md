@@ -65,12 +65,3 @@ assessment_relevance: 'This note consolidates key doctrines and case law essenti
 %%
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Corporate Law/summaries/Week 1/Study Progress]] - Shares foundational topics such as corporate personality, limited liability, joint stock companies, ASIC regulation, and veil piercing, which are all relevant to the current note's focus.
-- [[Corporate Law/summaries/Week 2/Study Progress]] - Covers similar foundational concepts and provides context for the evolution of corporate law principles, complementing the current note's content.
-- [[Corporate Law/summaries/Week 3/readings/Adams v Cape Industries plc [1991] Summary]] - This case is a key authority on corporate personality and liability, directly relevant to the topics listed in the current note.
-- [[Corporate Law/summaries/Week 3/readings/Briggs v James Hardie & Co Pty Ltd (1989) Summary]] - Addresses issues of corporate liability and veil piercing, which are central to the current note's discussion of corporate personality.
-- [[Corporate Law/summaries/Week 3/readings/Gilford Motor Co Ltd v Horne [1933] Summary]] - An early authority on corporate personality and separate legal entity, highly relevant to the current note's focus on corporate personality and liability.
-<!-- agent:see-also:end -->

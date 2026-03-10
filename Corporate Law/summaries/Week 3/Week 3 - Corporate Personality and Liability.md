@@ -95,11 +95,3 @@ assessment_relevance: 'This note consolidates core corporate law concepts—SEP,
     *   **Controlled Entities (s 50AA CA):** Capacity to determine outcomes of decisions regarding financial/operating policies.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Corporate Law/summaries/Week 1/Week 1 - Companies and Company Law]] - Shares key topics such as legal personality and limited liability, and covers foundational company law concepts relevant to corporate personality and liability.
-- [[Corporate Law/summaries/Week 3/readings/Adams v Cape Industries plc [1991] Summary]] - Directly discusses corporate personality and liability, complementing the statutory and case law analysis in the current note.
-- [[Corporate Law/summaries/Week 3/readings/Briggs v James Hardie & Co Pty Ltd (1989) Summary]] - Addresses directors' duties and corporate liability, closely related to the themes of directors' responsibilities and corporate governance.
-- [[Corporate Law/summaries/Week 3/readings/Gilford Motor Co Ltd v Horne [1933] Summary]] - A foundational case on separate corporate personality, highly relevant to understanding liability and corporate entity distinctions.
-<!-- agent:see-also:end -->

@@ -34,12 +34,3 @@ case_outcome: 'won'
 - Demonstrates that success for defendants can turn on plaintiffs’ failure to plead and prove market effects (especially dilution), rather than on a broad holding that all LLM training is fair use.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/articles/Copyright Infringement and AI]] - Both discuss AI training and reproduction/communication risks, with overlapping topics such as AI training, copyright infringement, and statutory analysis.
-- [[Copyright Law/05-summaries/articles/IP and AI-Generated Works]] - Directly addresses AI-generated works, authorship, and statutory frameworks, closely related to the fair use and transformative use issues in Kadrey v Meta.
-- [[Copyright Law/05-summaries/articles/International developments IP and AI]] - Compares international approaches to AI and IP, including fair use and TDM exceptions, relevant to understanding the broader context of Kadrey v Meta.
-- [[Copyright Law/05-summaries/articles/AI Tools and Licensing - TermsFeed]] - Covers AI authorship, human input, and contractual terms, providing context on licensing and policy tensions relevant to AI training practices.
-- [[Copyright Law/05-summaries/articles/Future Impacts of AI on IP Laws]] - Discusses future policy directions and licensing-first approaches, complementing the current case analysis with forward-looking perspectives.
-<!-- agent:see-also:end -->

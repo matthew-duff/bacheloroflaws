@@ -47,10 +47,3 @@ The MLETR is a critical instrument for the "dematerialization" of trade finance 
 **Model used:** gemini-3-flash-preview
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Law & Tech/05-summaries/Electronic Contracting/Davidson Chapter 11]] - Both discuss functional equivalence and regulatory frameworks for electronic transactions, relevant to MLETR's cross-border recognition and control principles.
-- [[Law & Tech/05-summaries/Electronic Signatures/Electronic Signatures]] - Shares topics like functional equivalence, electronic transactions acts, and statutes, all of which underpin the legal validity of electronic records and transfers.
-- [[Law & Tech/05-summaries/Electronic Contracting/Electronic Contracting]] - Covers fundamental principles of electronic contracting, including consent and jurisdictional variations, relevant to MLETR's functional equivalence and cross-border scope.
-<!-- agent:see-also:end -->

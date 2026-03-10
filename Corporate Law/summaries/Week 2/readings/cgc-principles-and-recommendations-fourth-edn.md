@@ -37,11 +37,3 @@ The guidelines are structured around eight foundational principles:
 - **Corporate Governance Statement:** Listed entities must include a corporate governance statement in their annual report (or on their website) detailing the extent to which they have followed the recommendations during the reporting period.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Corporate Law/summaries/Week 2/readings/A. A. Berle-CorporateManagersTrustees-1932]] - Discusses fiduciary duties and corporate trusteeship, closely related to the note on corporate managers as trustees and fiduciary responsibilities.
-- [[Corporate Law/summaries/Week 2/readings/A. A. Berle-CorporatePowersPowers-1931]] - Addresses corporate powers and equitable limitations, relevant to the note on corporate powers and legal personality.
-- [[Corporate Law/summaries/Week 2/readings/Berle, ‘Corporate Powers as Powers in Trust’ (1931)]] - Explores the trust-based theory of corporate powers, directly related to the note on corporate powers and fiduciary duties.
-- [[Corporate Law/summaries/Week 2/readings/Dodd, ‘For Whom are Corporate Managers Trustees?’ (1932)]] - Critiques profit-maximization and discusses managerial trusteeship, aligning with the note on fiduciary roles and corporate accountability.
-<!-- agent:see-also:end -->

@@ -126,11 +126,3 @@ If a natural person makes an "input error" in a transaction with an automated sy
 - **CISG:** Apply the convention where the sale of goods is international.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Law & Tech/05-summaries/Electronic Contracting/Davidson Chapter 11]] - Shares key topics such as electronic signatures, contract formation, and consent requirements, and references relevant cases and statutes.
-- [[Law & Tech/05-summaries/Electronic Signatures/Electronic Signatures]] - Covers foundational concepts of electronic signatures and legal equivalence, closely related to the principles of electronic contracting.
-- [[Law & Tech/05-summaries/Electronic Contracting/Regulating AI]] - Discusses regulatory frameworks and jurisdictional variations relevant to electronic contracting, especially as technology evolves.
-- [[Law & Tech/05-summaries/Electronic Contracting/Study Progress]] - Provides an overview of study topics in electronic contracting, useful for tracking related material and context.
-<!-- agent:see-also:end -->

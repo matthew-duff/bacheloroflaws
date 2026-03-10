@@ -23,9 +23,3 @@ assessment_relevance: 'This note highlights key trustee duties and shareholder r
 Please refer to the summary file `A. A. Berle-CorporateManagersTrustees-1932.md` for the full notes on this article.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Corporate Law/summaries/Week 2/readings/A. A. Berle-CorporateManagersTrustees-1932]] - Shares the same author and directly addresses the trustee duties and shareholder primacy discussed in this note.
-- [[Corporate Law/summaries/Week 2/readings/Berle and Means, The Modern Corporation and Private Property (1932)]] - Explores the separation of ownership and control, complementing Berle’s argument about fiduciary duties and corporate accountability.
-<!-- agent:see-also:end -->

@@ -43,10 +43,3 @@ assessment_relevance: 'Useful for exam questions on corporate formation, liabili
 %%
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Law & Tech/05-summaries/Electronic Signatures/Electronic Signatures]] - Shares key topics such as electronic signatures, legal validity, and statutory frameworks relevant to electronic contracting.
-- [[Law & Tech/05-summaries/Electronic Signatures/Davidson Chapter 13]] - Covers electronic signatures and legal validity, directly complementing the study of electronic contract formation and validity.
-- [[Law & Tech/05-summaries/Electronic Contracting/Electronic Contracting]] - Focuses on fundamental principles of electronic contracting, closely related to electronic signatures and contract formation.
-<!-- agent:see-also:end -->

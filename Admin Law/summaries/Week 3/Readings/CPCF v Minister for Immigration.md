@@ -54,12 +54,3 @@ An Indian-flagged vessel carrying 157 passengers (including the plaintiff, a Sri
 *   **Executive vs. Statute**: Reinforces the principle that coercive executive actions (like detention) generally require clear statutory authorization, though the majority's broad reading of the MPA reduced the need to rely on s 61.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Church of Scientology v Woodward]] - Shares the same week and administrative law focus, relevant for procedural fairness and executive powers.
-- [[Admin Law/summaries/Week 12/LPDT v Minister]] - Directly related to CPCF v Minister as it discusses jurisdictional error and statutory compliance, both central to the facts and statutory interpretation.
-- [[A-G (NSW) v Quin]] - Shares topics such as procedural fairness, legitimate expectation, and judicial review, complementing the discussion on executive powers.
-- [[Gageler - Constitutional Context Summary]] - Provides constitutional context relevant to statutory authorization and separation of powers, tying into the constitutional law topics.
-- [[Lecture 3 Legality Review Summary]] - Covers legal review grounds, which align with procedural fairness and statutory authorization in the facts.
-<!-- agent:see-also:end -->

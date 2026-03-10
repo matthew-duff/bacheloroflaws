@@ -59,11 +59,3 @@ This overview covers the final topics of administrative law remedies, focusing o
 Understanding remedies is crucial because the availability of a remedy often dictates the strategy of a judicial review application. While statutory remedies are the primary path, the inherent jurisdiction of superior courts to grant declarations and the specific requirements for prerogative relief (like the "record" for certiorari) remain vital for cases falling outside statutory schemes or requiring flexible declaratory relief.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Both discuss automated decision-making in admin law and share topics like legality review and statutory discretion.
-- [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Covers foundational admin law principles and cases relevant to procedural fairness and legality, which are also discussed in the current note.
-- [[Admin Law/summaries/Week 13/Workshop 10 Guide Summary]] - Workshop 10 focuses on remedies, which are relevant to the current note's discussion of equitable relief and statutory remedies.
-- [[Admin Law/summaries/Week 2/Groves & Boughey Summary]] - This overview covers foundational concepts in admin law, such as public power and accountability, which underpin the current note.
-<!-- agent:see-also:end -->

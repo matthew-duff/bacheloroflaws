@@ -42,12 +42,3 @@ While focused on "lawyering" generally, the study's findings on **automated deci
 - The evolving standard of "competence" and "due diligence" for legal practitioners and decision-makers in an automated environment.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Shares topics such as procedural fairness and legality, and references the Robodebt case, which is also discussed in the Week 12 overview.
-- [[Admin Law/summaries/Week 2/Creyke - Integrity in Government Summary]] - Shares the topic of administrative justice and integrity in government, linking to broader themes of accountability and institutional design relevant to administrative law.
-- [[Admin Law/summaries/Week 2/French - Administrative Justice Summary]] - Discusses administrative justice criteria and constitutional values, which are foundational concepts also relevant to understanding administrative law principles.
-- [[Admin Law/summaries/Week 13/Study Progress]] - Covers foundational corporate law concepts such as legal personality and ASIC regulation, which are closely related to administrative law topics like corporate form and regulatory compliance.
-- [[Admin Law/summaries/Week 2/Effective Letter Writing Summary]] - Although more procedural, it touches on legal writing and professional standards, which are relevant for drafting administrative decisions and notices.
-<!-- agent:see-also:end -->

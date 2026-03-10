@@ -48,12 +48,3 @@ The slides establish the "6 Easy Steps" framework for copyright analysis:
 This provides the foundational methodology used throughout the course.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/articles/Copyright Infringement and AI]] - Shares topics like reproduction rights, communication rights, and AI training issues, and references similar cases and statutes.
-- [[Copyright Law/05-summaries/articles/IP and AI-Generated Works]] - Directly addresses AI-generated works and copyright ownership, closely related topics and overlapping statutory references.
-- [[Copyright Law/05-summaries/cases/FCT v Seven Network]] - Discusses fixation and digital signals, linking to statutory interpretation and copyright scope relevant to this note.
-- [[Copyright Law/05-summaries/articles/AI Tools and Licensing - TermsFeed]] - Covers AI authorship and licensing, complementing the discussion on AI and copyright protection.
-- [[Copyright Law/05-summaries/ppts/PPT Session 1]] - Provides foundational background and context for the session, connecting to the main topics and statutory framework.
-<!-- agent:see-also:end -->

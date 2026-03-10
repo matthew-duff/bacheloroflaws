@@ -53,11 +53,3 @@ This Code of Practice is significant as a foundational regulatory instrument in 
 *   **Addressing Systemic Risk**: By mitigating poorly secured devices, it reduces the threat of Distributed Denial of Service (DDoS) attacks that can impact the wider internet infrastructure.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Law & Tech/05-summaries/Internet of Things/IoT References]] - References foundational privacy and consumer protection statutes and cases relevant to IoT, such as the Privacy Act 1988 (Cth), and complements the UK Code's regulatory context.
-- [[Law & Tech/05-summaries/Internet of Things/IoT Notes]] - Provides regulatory evolution context for IoT, including statutes and compliance standards relevant to the UK Code's framework.
-- [[Law & Tech/05-summaries/Electronic Contracting/Davidson Chapter 11]] - Discusses statutory frameworks and contract formation principles that can inform how IoT devices are legally recognized and regulated under consumer law.
-- [[Law & Tech/05-summaries/Electronic Contracting/Regulating AI]] - Addresses liability frameworks and risk-based regulation, which are relevant to emerging IoT/AI convergence and data protection concerns.
-<!-- agent:see-also:end -->

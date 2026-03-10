@@ -63,11 +63,3 @@ case_outcome: 'lost'
 *Model used: gemini-3-flash-preview*
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Corporate Law/summaries/Week 1/readings/Salomon v Salomon & Co Ltd [1897] AC 22 Summary]] - Both cases deal with the legal status and capacity of corporations, particularly regarding the doctrine of separate legal personality.
-- [[Corporate Law/summaries/Week 1/readings/Re Wakim; Ex Parte McNally (1999) 198 CLR 511 Summary]] - This case addresses the limits of corporate powers and the application of ultra vires principles in modern corporate law.
-- [[Corporate Law/summaries/Week 1/readings/Cotterrell, ‘The Sociological Concept of Law’ (1983) Summary]] - Provides theoretical context on the nature of law, including legal power and regulation, which complements the legal analysis in Huddart, Parker & Co Ltd v Moorehead.
-- [[Corporate Law/summaries/Week 1/readings/Ireland, ‘Company Law and the Myth of Shareholder Ownership’ (1999) Summary]] - Offers a critical perspective on corporate governance and shareholder rights, relevant to the discussion of corporate powers and state regulation.
-<!-- agent:see-also:end -->

@@ -19,7 +19,6 @@ statutes:
 ratio: "For the Minister's personal, non-compellable intervention powers under the Migration Act, departmental screening and briefing steps performed under ministerial guidelines are merely facilitative and preparatory unless and until the Minister decides to consider exercising the power; because the Act imposes no duty on the Minister to consider exercising those powers, the statutory scheme does not imply a hearing obligation at that pre-consideration stage."
 summary: "In the pinpoint passage, French CJ and Kiefel J frame the threshold procedural-fairness question as one of statutory construction and hold that no obligation to afford natural justice arose in relation to the departmental processes preceding possible ministerial intervention."
 ---
-
 # Plaintiff S10/2011 v Minister for Immigration and Citizenship (2012) 246 CLR 636
 
 ## Pinpoint Principle

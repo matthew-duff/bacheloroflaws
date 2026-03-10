@@ -59,12 +59,3 @@ This chapter examines the threshold legal questions of copyright ownership and d
 Chapter 4 is critical for identifying who has the standing to sue for infringement and determining whether a work has entered the public domain. It highlights the shift from author-centric ownership to employer/commissioner-centric ownership in commercial contexts and the significant 2019 reforms that ended perpetual copyright for unpublished materials in Australia.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/textbook/Chapter 2 - Subject Matter: Works]] - Shares topics such as originality, material form, and substantiality, which are foundational to understanding first ownership.
-- [[Copyright Law/05-summaries/textbook/Chapter 5 - Derivation and Substantial Part]] - Discusses how works are created and transferred, directly relating to first ownership and authorship.
-- [[Copyright Law/05-summaries/textbook/Chapter 6 - Exclusive Rights and Infringement]] - Covers exclusive rights that arise from first ownership, including infringement and remedies.
-- [[Copyright Law/05-summaries/textbook/Chapter 1 - Introduction]] - Provides context on the statutory framework and evolution of copyright, relevant to first ownership principles.
-- [[Copyright Law/05-summaries/textbook/Chapter 9 - Compulsory Licensing and the Copyright Tribunal]] - Addresses statutory licensing and compulsory licensing, which can affect first ownership and use rights.
-<!-- agent:see-also:end -->

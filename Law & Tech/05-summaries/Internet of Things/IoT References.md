@@ -51,12 +51,3 @@ This document provides a collection of foundational and scholarly references con
 These references are significant for **Law & Tech** as they map the evolution of IoT from a conceptual framework to a complex legal reality. They highlight the shift from simple data collection to sophisticated AI-driven analysis, which raises critical questions regarding privacy, consumer rights, ethics, and the adequacy of current legal structures to manage autonomous or semi-autonomous systems.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Law & Tech/05-summaries/Internet of Things/IoT Australia Code]] - Shares key topics such as consumer protection, privacy, and security-by-design, and references the Privacy Act 1988, which is also relevant here.
-- [[Law & Tech/05-summaries/Internet of Things/IoT Notes]] - Covers regulatory evolution and statutory frameworks for IoT, directly complementing the regulatory and statutory context in the current note.
-- [[Law & Tech/05-summaries/Internet of Things/IoT UK Code]] - Provides international context on IoT security standards and regulatory approaches, offering comparative insight.
-- [[Law & Tech/05-summaries/Electronic Contracting/Davidson Chapter 11]] - Discusses electronic contracts and regulatory frameworks, relevant for understanding legal equivalence and digital signatures in IoT contexts.
-- [[Law & Tech/05-summaries/Electronic Contracting/Regulating AI]] - Addresses AI regulation and legal personhood, which are emerging issues intersecting with IoT governance and data protection.
-<!-- agent:see-also:end -->

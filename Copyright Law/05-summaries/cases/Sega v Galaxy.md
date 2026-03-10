@@ -44,8 +44,3 @@ Yes. The games were cinematograph films within the definition. The Circuit Layou
 Establishes that **computer-generated video games** (where images are generated in real-time from stored data in response to player input, rather than pre-stored as a "digital movie") can qualify as **cinematograph films** under the *Copyright Act 1968*. Critical for the copyright protection of video games. Adopts a technology-neutral, liberal approach focussing on the visual result (moving picture) rather than the storage or production technology used.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/cases/Galaxy v Sega]] - Directly related case discussing cinematograph film and digital works, closely linked to Sega v Galaxy.
-<!-- agent:see-also:end -->

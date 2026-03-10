@@ -444,11 +444,3 @@ A director of a **wholly owned subsidiary** may act in the best interests of the
 | s 1274(7A) | Certificate of registration is conclusive evidence |
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Corporate Law/summaries/Week 1/Chapter 1 — History and Regulatory Structure]] - This note provides historical context and foundational statutes related to company law, complementing the discussion of corporate personality and limited liability.
-- [[Corporate Law/summaries/Week 1/readings/Clarkson (ed), The Corporation and Its Stakeholders (1998) Summary]] - This reading addresses stakeholder theory, which relates to the legal personality and governance structures discussed in the current note.
-- [[Corporate Law/summaries/Week 1/readings/Ireland, ‘Company Law and the Myth of Shareholder Ownership’ (1999) Summary]] - This note explores shareholder ownership, a key topic in understanding the legal personality and structure of corporations.
-- [[Corporate Law/summaries/Week 1/readings/Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry Summary]] - This summary provides insight into corporate misconduct, relevant to the discussion of limited liability and corporate governance.
-<!-- agent:see-also:end -->

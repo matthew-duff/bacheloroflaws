@@ -47,12 +47,3 @@ The sole social responsibility of a business is to use its resources and engage 
   - Extending the "social responsibility" doctrine to business unnecessarily extends the coercive political mechanism into the voluntary market sphere.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Corporate Law/summaries/Week 2/readings/Whittington, Review of Berle and Means (1970)]] - Discusses the evolution of corporate governance and shareholder primacy, complementing Friedman's doctrine by examining its historical context and critiques.
-- [[Corporate Law/summaries/Week 2/readings/Berle and Means, The Modern Corporation and Private Property (1932)]] - Provides foundational context on corporate structure and ownership, directly engaging with the themes of corporate social responsibility and executive duty central to Friedman's argument.
-- [[Corporate Law/summaries/Week 2/readings/cadbury-report 1]] - Addresses corporate governance and stakeholder theory, offering a contrasting perspective to Friedman's shareholder primacy by emphasizing broader corporate responsibilities.
-- [[Corporate Law/summaries/Week 1/readings/Clarkson (ed), The Corporation and Its Stakeholders (1998) Summary]] - Introduces stakeholder theory, which directly challenges Friedman's doctrine by advocating for corporate responsibility beyond profit maximization.
-- [[Corporate Law/summaries/Week 2/readings/A. A. Berle-CorporateManagersTrustees-1932]] - Explores the fiduciary role of corporate managers, linking to Friedman's discussion of executive duties and the legal responsibilities of corporate leadership.
-<!-- agent:see-also:end -->

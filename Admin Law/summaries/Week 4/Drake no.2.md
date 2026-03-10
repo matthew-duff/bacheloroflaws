@@ -48,11 +48,3 @@ In Drake's case, the policy regarding drug trafficking was consistent with the A
 *Drake (No 2)* is the foundational case for the AAT's approach to Ministerial policy. It balances the Tribunal's independence with the need for administrative consistency. It establishes that while the AAT is not legally bound by executive policy, it will generally adopt and apply it to ensure that administrative justice is consistent across the government, provided the policy is lawful and does not lead to individual injustice.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 4/Drake no.1 - Summary]] - Shares the same case (Drake v Minister for Immigration and Ethnic Affairs), same statutes (Migration Act 1958 (Cth)), and discusses the AAT's merits review powers and judicial review boundaries.
-- [[Admin Law/summaries/Week 4/Drake no.2 - Summary]] - The central case of this week, closely linked to the facts note through shared topics (government policy review, discretionary power) and statutes.
-- [[Admin Law/summaries/Week 4/Article by Professor Allars on Merits Review - Summary]] - Provides scholarly context and doctrinal analysis of merits review, complementing the practical legal principles in the Drake cases.
-- [[Admin Law/summaries/Week 4/Chapter by Professor Creyke on Merits Review - Summary]] - Offers theoretical and structural analysis of administrative tribunals and merits review, closely related to the operational facts and legal outcomes in the Drake cases.
-<!-- agent:see-also:end -->

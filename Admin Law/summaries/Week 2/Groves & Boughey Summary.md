@@ -41,10 +41,3 @@ This chapter provides a comprehensive introduction to the Australian administrat
 This source is foundational for understanding the structural and constitutional framework of Australian administrative law. It explains why Australia has a bifurcated system of review (merits vs. legality) and how constitutional principles both protect and limit the scope of judicial intervention in executive decision-making.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 2/French - Administrative Justice Summary]] - Both notes address administrative justice, with French focusing on criteria like rationality and fairness, complementing Groves & Boughey's summary on executive accountability and judicial review.
-- [[Admin Law/summaries/Week 2/Creyke - Integrity in Government Summary]] - Shares topics such as institutional accountability and integrity in government, offering a systemic perspective that aligns with Groves & Boughey's focus on executive accountability.
-- [[Admin Law/summaries/Week 2/Walker - Statutory Interpretation Summary]] - Although more focused on statutory interpretation, it relates to Groves & Boughey by addressing judicial review and the interpretation of administrative law statutes.
-<!-- agent:see-also:end -->

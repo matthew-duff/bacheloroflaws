@@ -54,12 +54,3 @@ This chapter explores the historical development and modern emergence of a "cons
 The "constitutional dimension" provides a unified conceptual justification for judicial review in Australia: the rule of law. It ensures a constitutionally guaranteed minimum level of judicial oversight at both Federal and State levels that cannot be legislated away. This paradigm shifts the focus from the technical grounds of common law writs to the source and content of the law that defines an administrator's authority, ensuring that all exercises of public power are subject to the superintendence of the High Court as the "Federal Supreme Court."
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[A-G (NSW) v Quin]] - Shares topics like judicial review and separation of powers, and involves the same key figures (e.g., Gerard Brennan) and statutes (e.g., Corporations Act 2001).
-- [[CPCF v Minister for Immigration]] - Relates to constitutional law and statutory interpretation, and involves key cases and statutes (e.g., Constitution s 72, Maritime Powers Act 2013) relevant to judicial review of executive action.
-- [[Church of Scientology v Woodward]] - Focuses on judicial review of executive power and national security, complementing the current note's discussion of constitutional concept and separation of powers.
-- [[Lecture 3 Legality Review Summary]] - Provides foundational context on the grounds of review, directly supporting the current note’s summary of constitutional context and judicial review.
-- [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Addresses administrative law principles in the context of AI and legality, offering a complementary perspective on procedural fairness and statutory interpretation.
-<!-- agent:see-also:end -->

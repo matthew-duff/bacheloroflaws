@@ -62,12 +62,3 @@ Chapter 2 is fundamental to Australian copyright law as it defines the "copyrigh
 *Model used: gemini-3-flash-preview*
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/textbook/Chapter 1 - Introduction]] - Shares topics like 'works' and 'subject matter', and includes cases relevant to copyright foundations.
-- [[Copyright Law/05-summaries/textbook/Chapter 10 - Exceptions and Limitations]] - Discusses exceptions to copyright infringement, which complements the concept of 'works' by explaining when use is permitted.
-- [[Copyright Law/05-summaries/textbook/Chapter 6 - Exclusive Rights and Infringement]] - Focuses on exclusive rights over works, linking directly to the definition and scope of 'works' in copyright.
-- [[Copyright Law/05-summaries/articles/IP and AI-Generated Works]] - Addresses modern issues around authorship and originality, relevant to the definition of 'works' in contemporary contexts.
-- [[Copyright Law/05-summaries/textbook/Chapter 3 - Subject Matter Other Than Works]] - Explores non-traditional subject matter, providing contrast and context to the core concept of 'works'.
-<!-- agent:see-also:end -->

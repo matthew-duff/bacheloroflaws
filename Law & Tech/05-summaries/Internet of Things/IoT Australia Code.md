@@ -48,12 +48,3 @@ The Code comprises 13 principles, with the first three identified as the highest
 *   **Consumer Protection:** Addresses the systemic issue of security being an "afterthought" in IoT development, aiming to build consumer confidence and mitigate risks to national security and the economy.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Law & Tech/05-summaries/Internet of Things/Study Progress]] - Shares foundational topics in IoT law, such as security, consumer protection, and regulatory approaches, providing context for IoT governance frameworks.
-- [[Law & Tech/05-summaries/Electronic Signatures/Electronic Signatures]] - Discusses legal recognition and regulation of digital signatures, which are crucial for IoT device authentication and secure transactions.
-- [[Law & Tech/05-summaries/Electronic Contracting/Davidson Chapter 11]] - Explores electronic contracting principles and statutory frameworks relevant to IoT device agreements and digital signatures.
-- [[Law & Tech/05-summaries/Internet of Things/Online Safety Act Notes]] - Covers legislative approaches to IoT safety and compliance, complementing the privacy and security statutes in the overview.
-- [[Law & Tech/05-summaries/Electronic Transferable Records (MLETR)/Regulating MLETR]] - Addresses legal frameworks for digital records and smart contracts, which are increasingly relevant to IoT data management and transactions.
-<!-- agent:see-also:end -->

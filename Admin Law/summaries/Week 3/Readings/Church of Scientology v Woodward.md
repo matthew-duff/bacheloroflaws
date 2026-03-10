@@ -69,11 +69,3 @@ interests of the individual are protected accordingly"
 *   **Practical Limitations**: While establishing justiciability in principle, the case highlights the extreme evidentiary difficulties plaintiffs face when challenging intelligence agencies due to secrecy and the broad definition of "relevance" in security contexts.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[A-G (NSW) v Quin]] - Both cases deal with judicial review and executive discretion, and share overlapping topics such as procedural fairness and legitimate expectation.
-- [[Admin Law/summaries/Week 12/LPDT v Minister]] - This case addresses jurisdictional error and statutory compliance, closely related to the legal limits of executive power and statutory interpretation discussed in the Church of Scientology v Woodward case.
-- [[CPCF v Minister for Immigration]] - Shares themes of statutory authority, executive powers, and immigration enforcement, relevant to understanding statutory limits and executive overreach.
-- [[Waldron - Rule of Law Summary]] - Provides foundational theory on the rule of law, complementing the discussion of judicial review and executive power in the Church of Scientology case.
-<!-- agent:see-also:end -->

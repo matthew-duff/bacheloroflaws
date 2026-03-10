@@ -49,9 +49,3 @@ Under section 10(3)(c) of the _Copyright Act 1968_ (Cth), an infringement of a
 ### Reasoning
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/cases/Burge v Swarbrick]] - Shares topics such as 'copyright craftsmanship' and 'functional art'.
-- [[Copyright Law/05-summaries/cases/F100149]] - Same subject area; likely discusses sound recordings or similar copyright elements.
-<!-- agent:see-also:end -->

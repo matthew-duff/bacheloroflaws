@@ -44,9 +44,3 @@ This lecture provides an introduction to the scope, values, and constitutional c
 This lecture establishes the foundational framework for the course, highlighting that administrative law is the primary mechanism for maintaining the balance between executive power and individual rights under the Australian Constitution. It introduces the critical distinction between merits and legality review which dictates which bodies (tribunals vs courts) can hear specific types of administrative disputes.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 13/Week 13 Overview Summary]] - Shares key topics such as statutory remedies, common law writs, equitable relief, and references to relevant cases and acts, making it complementary for understanding remedies in administrative law.
-- [[Admin Law/summaries/Week 2/Creyke - Integrity in Government Summary]] - Relates to administrative justice and integrity in government, which underpins the principles discussed in notes about procedural fairness and accountability.
-<!-- agent:see-also:end -->

@@ -43,10 +43,3 @@ Dodd challenges the traditional legal doctrine (defended by A. A. Berle) that a 
     - Therefore, when managers use corporate funds for social purposes (like charity or employee welfare), they are not committing a breach of trust; rather, they are appropriately fulfilling the social obligations of the corporate institution they represent. Managers are "trustees for an institution rather than attorneys for the stockholders."
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Corporate Law/summaries/Week 2/readings/Berle, ‘For Whom Corporate Managers Are Trustees’ (1932)]] - Shares the same case (Salomon v Salomon) and discusses fiduciary duties and corporate trusteeship, directly complementing the original note.
-- [[Corporate Law/summaries/Week 2/readings/A. A. Berle-CorporateManagersTrustees-1932]] - Directly authored by the same author, focusing on fiduciary duties and shareholder primacy, closely related in both topic and argument.
-- [[Corporate Law/summaries/Week 2/readings/A. A. Berle-CorporatePowersPowers-1931]] - Explores corporate powers as trusts, linking closely to the trusteeship and fiduciary themes in the original note.
-<!-- agent:see-also:end -->

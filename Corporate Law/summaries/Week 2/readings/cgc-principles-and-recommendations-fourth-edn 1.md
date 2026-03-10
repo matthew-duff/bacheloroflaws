@@ -20,11 +20,3 @@ assessment_relevance: 'This note distills key governance principles and practica
 Please refer to the summary file `cgc-principles-and-recommendations-fourth-edn.md` for the full notes on this document.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Corporate Law/summaries/Week 2/readings/A. A. Berle-CorporateManagersTrustees-1932]] - Shares topics like fiduciary duties and shareholder primacy, and discusses corporate trusteeship, complementing the note's discussion of managerial roles.
-- [[Corporate Law/summaries/Week 2/readings/A. A. Berle-CorporatePowersPowers-1931]] - Addresses corporate powers and fiduciary duties, closely related to the note's focus on corporate governance and legal limits on power.
-- [[Corporate Law/summaries/Week 2/readings/Berle, ‘Corporate Powers as Powers in Trust’ (1931)]] - Discusses corporate powers as trusts, aligning with the note's emphasis on equitable limitations and fiduciary roles.
-- [[Corporate Law/summaries/Week 2/readings/Berle, ‘For Whom Corporate Managers Are Trustees’ (1932)]] - Explores the trustee role of managers, matching the note's focus on fiduciary responsibilities and shareholder accountability.
-<!-- agent:see-also:end -->

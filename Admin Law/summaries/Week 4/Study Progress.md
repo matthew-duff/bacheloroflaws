@@ -59,11 +59,3 @@ assessment_relevance: 'These topics are essential for understanding corporate st
 %%
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 4/Lecture 4 - Legality Review Part 2 - Summary]] - Both discuss grounds of judicial review and human rights, with overlapping topics and cases.
-- [[Admin Law/summaries/Week 4/Drake no.2 - Summary]] - Shares key figures (Brennan J, Daniel Drake), cases (Drake No. 2, Salomon), and statutory references (Migration Act, Corporations Act) relevant to administrative law and AAT principles.
-- [[Admin Law/summaries/Week 4/Drake no.2]] - Provides detailed facts and statutory context for the AAT’s approach to government policy, closely related to the summary note.
-- [[Admin Law/summaries/Week 4/Drake no.1 - Summary]] - Covers foundational AAT principles and policy considerations, closely related to subsequent Drake cases and summary notes.
-<!-- agent:see-also:end -->

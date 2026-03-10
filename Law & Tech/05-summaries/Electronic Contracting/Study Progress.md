@@ -43,12 +43,3 @@ assessment_relevance: 'Useful for understanding corporate formation, liability, 
 %%
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Law & Tech/05-summaries/Electronic Contracting/Davidson Chapter 11]] - Shares key topics such as electronic signatures, contract formation, and consent requirements, and references relevant cases.
-- [[Law & Tech/05-summaries/Electronic Contracting/Electronic Contracting]] - Covers fundamental principles of the ETA, including contract formation and jurisdictional variations, which overlap with the current note's topics.
-- [[Law & Tech/05-summaries/Electronic Contracting/Regulating AI]] - Discusses legal personality and liability frameworks, which can complement the discussion of electronic contracting and legal equivalence.
-- [[Law & Tech/05-summaries/Electronic Signatures/Electronic Signatures]] - Provides an overview of electronic signatures, closely related to the topics and statutory frameworks in the current note.
-- [[Law & Tech/05-summaries/Internet of Things/IoT Australia Code]] - While more tangential, it may provide context on technological impact and regulatory frameworks relevant to electronic contracting.
-<!-- agent:see-also:end -->

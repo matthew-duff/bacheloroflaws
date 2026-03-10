@@ -100,11 +100,3 @@ To understand the AI Act, one must see it as the final pillar of the EU’s Digi
 4. **AI Act:** Safety and ethics of automated decision-making.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Law & Tech/05-summaries/Electronic Contracting/Davidson Chapter 11]] - Discusses the regulatory framework and legal equivalence for electronic communication, relevant to AI's role in contract formation and enforcement.
-- [[Law & Tech/05-summaries/Electronic Contracting/Electronic Contracting]] - Provides foundational principles of electronic contracting, including consent and jurisdictional variations, which are critical when considering AI's impact on contract law.
-- [[Law & Tech/05-summaries/Internet of Things/IoT Notes]] - Explores AI and digital sovereignty in the context of connected devices, linking to broader regulatory concerns about AI's deployment in IoT ecosystems.
-- [[Law & Tech/05-summaries/Electronic Signatures/Electronic Signatures]] - Offers an overview of electronic signatures, a key mechanism in AI-driven contract execution and compliance, aligning with the definitional challenges of AI.
-<!-- agent:see-also:end -->

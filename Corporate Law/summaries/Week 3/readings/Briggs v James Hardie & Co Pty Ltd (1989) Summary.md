@@ -62,10 +62,3 @@ The most significant contribution of this case (specifically the judgment of **R
 **Model Used:** gemini-3-flash-preview (via Cursor Agent)
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Corporate Law/summaries/Week 3/readings/Adams v Cape Industries plc [1991] Summary]] - Shares the topic of 'separate legal personality' and discusses the 'facade exception' to veil-piercing, which relates to the uncertainty and evolving doctrine in corporate law.
-- [[Corporate Law/summaries/Week 3/readings/Industrial Equity Ltd v Blackburn (1977) Summary]] - Deals with corporate dominion and agency requirements, topics also present in the current note, offering comparative context on corporate control and liability.
-- [[Corporate Law/summaries/Week 3/readings/Lennard’s Carrying Co Ltd [1915] Summary]] - An early authority on corporate personality and veil-piercing, providing historical context to the doctrines discussed in the current summary.
-<!-- agent:see-also:end -->

@@ -38,11 +38,3 @@ case_outcome: 'mixed'
 **Significance:** The case is a leading English authority on AI and copyright: it holds that a trained generative AI model whose weights do not store or reproduce copyright works is **not** an “infringing copy” under the CDPA, so secondary infringement (importation, possession, distribution, etc.) does not apply even if training used infringing copies elsewhere. It confirms that “article” can be intangible but that “copy” remains central. It also illustrates the limits of trade mark claims where AI outputs occasionally resemble a claimant’s marks (watermarks): liability was found only in narrow, version-specific circumstances and did not extend to later model versions or to all types of watermark. The judgment leaves open the possibility of primary infringement claims in the jurisdiction where training actually occurred.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/cases/Dais Studio v Bullet Creative]] - Both address copyrightability of computer programs and the threshold for infringement, with Dais Studio focusing on substantial parts and confidentiality.
-- [[Copyright Law/05-summaries/cases/Campaigntrack v Real Estate Tool Box]] - Both deal with substantial part infringement and authorisation principles under s 36(1A), relevant to secondary liability in Getty v Stability AI.
-- [[Copyright Law/05-summaries/cases/CBS v Telmak]] - Both involve section 85(a) of the Copyright Act regarding original sound recordings and infringement thresholds.
-- [[Copyright Law/05-summaries/cases/F100149]] - Both address automated compilation and originality requirements, relevant to the threshold for copyright protection.
-<!-- agent:see-also:end -->

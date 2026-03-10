@@ -69,10 +69,3 @@ Because the company was used as a vehicle for fraud or to evade a legal obligati
 | **Relationship to *Salomon*** | Limits the protection of separate legal personality where it is used for "masking" improper conduct. |
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Corporate Law/summaries/Week 3/readings/Briggs v James Hardie & Co Pty Ltd (1989) Summary]] - Discusses the reluctance to pierce the corporate veil in tort contexts, which is conceptually related to the evasion principle in Gilford Motor Co Ltd v Horne.
-- [[Corporate Law/summaries/Week 1/readings/Lee v Lee’s Air Farming Ltd [1961] AC 12 Summary]] - Clarifies the separate legal personality of a company and the role of a controlling director, relevant to corporate agency and veil issues.
-- [[Corporate Law/summaries/Week 1/readings/Salomon v Salomon & Co Ltd [1897] AC 22 Summary]] - Provides the foundational legal personality doctrine that underpins the analysis of veil-piercing in later cases.
-<!-- agent:see-also:end -->

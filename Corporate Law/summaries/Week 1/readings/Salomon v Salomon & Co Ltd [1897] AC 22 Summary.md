@@ -78,8 +78,3 @@ case_outcome: 'won'
 - [x] **Motive:** Incorporating to limit personal liability is a legitimate use of the Act, not a "scheme" or "fraud."
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Corporate Law/summaries/Week 1/readings/Lee v Lee’s Air Farming Ltd [1961] AC 12 Summary]] - Extends the principle of separate legal personality to one-man companies and discusses controlling directors, making it directly relevant to Salomon’s case.
-<!-- agent:see-also:end -->

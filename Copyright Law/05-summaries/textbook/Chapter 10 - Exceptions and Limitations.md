@@ -68,12 +68,3 @@ Chapter 10 examines the various free exceptions to copyright infringement under 
 This chapter is critical for understanding the "user rights" side of copyright law. It defines the boundaries of infringement and ensures that copyright does not stifle innovation (interoperability), free speech (criticism/parody), or everyday activities (private use). The complexity of the **Copyright/Design Overlap** and the evolving nature of **Fair Dealing** (especially the shift toward more flexible interpretations) are central themes in modern Australian copyright litigation.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/textbook/Chapter 6 - Exclusive Rights and Infringement]] - This chapter discusses the exclusive rights of copyright holders, which directly relates to exceptions and limitations that may permit certain uses without authorization.
-- [[Copyright Law/05-summaries/textbook/Chapter 8 - Assignment and Licensing]] - Licensing and assignment are key mechanisms that interact with exceptions and limitations, especially when considering statutory licences and fair dealing provisions.
-- [[Copyright Law/05-summaries/textbook/Chapter 9 - Compulsory Licensing and the Copyright Tribunal]] - Compulsory licensing is a statutory exception that mandates licensing under certain conditions, closely related to statutory licences and exceptions.
-- [[Copyright Law/05-summaries/textbook/Chapter 1 - Introduction]] - Provides foundational context on statutory frameworks and justifications for exceptions, which underpin the development of exceptions and limitations.
-- [[Copyright Law/05-summaries/cases/FCT v Seven Network]] - Illustrates judicial interpretation of copyright scope and fixation, relevant to understanding the boundaries of exceptions like fair dealing and statutory licences.
-<!-- agent:see-also:end -->

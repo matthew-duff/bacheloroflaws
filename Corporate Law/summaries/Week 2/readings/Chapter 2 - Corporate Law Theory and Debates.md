@@ -468,12 +468,3 @@ Stakeholder theory challenges:
 > 8. How do feminist perspectives challenge the "nexus of contracts" model?
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Corporate Law/summaries/Week 2/readings/A Friedman doctrine‐- The Social Responsibility of Business Is to Increase Its Profits - The New York Times]] - Shares the topic of 'legal-personality' and discusses the limits of corporate social responsibility, directly relating to the legal personality and fiduciary duties in the current note.
-- [[Corporate Law/summaries/Week 2/readings/A. A. Berle-CorporateManagersTrustees-1932]] - Directly addresses fiduciary duties and corporate powers, closely related to the discussion of corporate theory, legal personality, and shareholder primacy in the current note.
-- [[Corporate Law/summaries/Week 2/readings/Berle, ‘Corporate Powers as Powers in Trust’ (1931)]] - Explores the trust-based theory of corporate powers, linking to the legal personality and fiduciary obligations discussed in the current note.
-- [[Corporate Law/summaries/Week 2/readings/Whittington, Review of Berle and Means (1970)]] - Provides a review and continuation of Berle and Means’ theory, offering context and development of the same corporate theory themes.
-- [[Corporate Law/summaries/Week 1/readings/Clarkson (ed), The Corporation and Its Stakeholders (1998) Summary]] - Engages with stakeholder theory versus shareholder primacy, complementing the discussion of corporate purpose and fiduciary duties in the current note.
-<!-- agent:see-also:end -->

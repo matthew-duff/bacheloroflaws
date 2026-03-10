@@ -584,12 +584,3 @@ The Report articulated six basic norms that underpin financial services law and 
 - Fisse & Braithwaite, *Corporations, Crime and Accountability* (1993)
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Corporate Law/summaries/Week 3/Week 3 - Corporate Personality and Liability]] - Both notes address the legal personality and liability of companies, providing complementary statutory and doctrinal context.
-- [[Corporate Law/summaries/Week 1/Chapter 4 — Formation and Types of Companies]] - This note covers company structures, legal personality, and limited liability, closely related to the statutes and concepts in the current note.
-- [[Corporate Law/summaries/Week 1/Chapter 1 — History and Regulatory Structure]] - It discusses the evolution of joint stock companies and regulatory bodies like ASIC, which are key topics in the current note.
-- [[Corporate Law/summaries/Week 1/readings/Ireland, ‘Company Law and the Myth of Shareholder Ownership’ (1999) Summary]] - Although international, it discusses shareholder ownership and corporate structure, relevant to the themes of limited liability and company law.
-- [[Corporate Law/summaries/Week 1/readings/Schmitthoff, ‘The Origin of the Joint-Stock Company’ (1939) Summary]] - This historical perspective on joint-stock companies aligns with the topics of company formation and types in the current note.
-<!-- agent:see-also:end -->

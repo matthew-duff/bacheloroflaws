@@ -63,10 +63,3 @@ Under the _Copyright Act 1968_ (Cth), a computer program or compilation (such 
 **Authorisation of Infringement:** Relying on _Roadshow Films Pty Ltd v iiNet Ltd_, the Court determined that authorisation means to "sanction, approve, countenance." Biggin & Scott and its directors explicitly instructed Mr. Semmens _not_ to infringe on Campaigntrack's IP. They lacked the technical expertise to audit the code and trusted Semmens to build it legally. Because they neither knew nor had reason to suspect the infringement, they lacked the mental element required for authorisation. Similarly, DDPL and its director were unaware of Mr. Semmens' rogue actions and were not vicariously liable for his independent breaches.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/cases/Burge v Swarbrick]] - Both discuss substantial creative effort and the threshold for copyright protection, relevant to the 'substantial part test' and 'authorisation principle' topics.
-- [[Copyright Law/05-summaries/cases/CBS v Telmak]] - Shares the topic of copyright infringement and statutory interpretation under the Copyright Act, relevant to understanding the boundaries of protected rights.
-- [[Copyright Law/05-summaries/cases/Feist v Rural Telephone]] - A landmark case on originality and substantial part test, closely related to the 'substantial part test' and 'authorisation principle' topics.
-<!-- agent:see-also:end -->

@@ -56,10 +56,3 @@ Copyright subsists in Part III works (literary, dramatic, musical, artistic) and
 Session 3 lays out the taxonomy of copyright subject matter and the subsistence rules for Part III and Part IV. It emphasises the need to identify the precise work or subject matter and its requirements (connection to Australia, originality/material form, substantiality) before turning to ownership, infringement, and remedies. The cases covered provide the foundation for applying subsistence to computer programs, dramatic works, artistic works (including sculptures and works of artistic craftsmanship), films, and broadcasts.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/ppts/PPT Session 2]] - Shares topics on copyright subsistence and originality requirement, providing foundational context for understanding when works are protected.
-- [[Copyright Law/05-summaries/cases/FCT v Seven Network]] - Relates to the fixation and originality of works, relevant for discussing copyright protection criteria and the Feist case's influence.
-- [[Copyright Law/05-summaries/cases/Feist v Rural Telephone]] - Core case for originality and copyrightability of compilations, directly relevant to the discussion of facts and creative arrangement.
-<!-- agent:see-also:end -->

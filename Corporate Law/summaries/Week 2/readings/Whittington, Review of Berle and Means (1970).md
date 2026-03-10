@@ -49,11 +49,3 @@ This is a book review of the 1968 Revised Edition of A. A. Berle and G. C. Means
     - Whittington concludes that the new prefaces are "stimulating and provocative" and that the book remains a classic work that still "repays re-reading."
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Corporate Law/summaries/Week 2/readings/Berle and Means, The Modern Corporation and Private Property (1932)]] - Directly related review of the same foundational text, focusing on corporate power, control, and ownership—core topics in this summary.
-- [[Corporate Law/summaries/Week 1/readings/Clarkson (ed), The Corporation and Its Stakeholders (1998) Summary]] - Engages with the same stakeholder theory and Berle & Means debate, complementing the discussion of corporate governance and ownership separation.
-- [[Corporate Law/summaries/Week 2/readings/Chapter 2 - Corporate Law Theory and Debates]] - Offers an overview of corporate law frameworks, including legal personality and liability, which are central to the themes in this note.
-- [[Corporate Law/summaries/Week 1/readings/Ireland, ‘Company Law and the Myth of Shareholder Ownership’ (1999) Summary]] - Challenges the fiction of shareholder ownership and explores separate personality, closely related to the legal fiction vs economic reality tension discussed here.
-<!-- agent:see-also:end -->

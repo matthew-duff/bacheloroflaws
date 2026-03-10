@@ -45,12 +45,3 @@ assessment_relevance: 'This note clarifies key tensions between AI outputs and t
 Clarifies that Australian copyright does not protect purely AI-generated works and that authorship and originality require human intellectual effort. It frames how human–AI collaboration might attract protection, the importance of documenting human contribution, and the overlap with ownership, infringement (including in training and outputs), and other IP (patents, trade marks, designs). Essential for understanding subsistence, ownership and risk when creating or using AI-generated content and AI systems.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/articles/AI Tools and Licensing - TermsFeed]] - Shares topics such as human input, jurisdictional variance, and ownership, and references key cases like Thaler v Perlmutter and Salomon v A Salomon.
-- [[Copyright Law/05-summaries/articles/Copyright Infringement and AI]] - Directly addresses AI training and infringement, referencing Salomon v A Salomon and Getty Images v Stability AI, and overlaps with topics like reproduction rights and licensing.
-- [[Copyright Law/05-summaries/articles/International developments IP and AI]] - Provides comparative international perspectives, complementing the Australian focus and referencing global legal approaches to AI and copyright.
-- [[Copyright Law/05-summaries/articles/Overview AI and IP]] - Offers a broad overview that aligns with the themes of originality, authorship, and ownership in the context of AI, useful for contextual cross-referencing.
-- [[Copyright Law/05-summaries/articles/Future Impacts of AI on IP Laws]] - Discusses future policy and licensing trends, complementing the current note’s focus on current legal challenges and statutory frameworks.
-<!-- agent:see-also:end -->

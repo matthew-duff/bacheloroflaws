@@ -50,12 +50,3 @@ This chapter is critical for understanding the **dual-layered nature of copyrigh
 Model used: gemini-3-flash-preview-001
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/textbook/Chapter 2 - Subject Matter: Works]] - Shares core topics like originality, material form, and substantiality, and discusses statutory frameworks relevant to subject matter other than works.
-- [[Copyright Law/05-summaries/textbook/Chapter 10 - Exceptions and Limitations]] - Covers exceptions and limitations that may apply to sound recordings, cinematograph films, and broadcast material—key subjects in this chapter.
-- [[Copyright Law/05-summaries/textbook/Chapter 1 - Introduction]] - Provides foundational context on copyright evolution and statutory framework, which underpins all subject matter discussions.
-- [[Copyright Law/05-summaries/cases/FCT v Seven Network]] - Directly addresses the issue of fixation and copyright eligibility for digital signals, relevant to sound recordings and cinematograph films.
-- [[Copyright Law/05-summaries/articles/IP and AI-Generated Works]] - Explores modern challenges to authorship and originality, relevant to evolving subject matter beyond traditional works.
-<!-- agent:see-also:end -->

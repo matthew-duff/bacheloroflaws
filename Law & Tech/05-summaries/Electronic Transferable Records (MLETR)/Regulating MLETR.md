@@ -40,12 +40,3 @@ The ML-ETR is a critical step in achieving a paperless trade environment. By pro
 3. **Modernization of Trade Finance:** Providing the legal basis for integrating blockchain and smart contracts into global supply chains, reducing the risks associated with traditional paper-based fraud and forgery.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Law & Tech/05-summaries/Electronic Transferable Records (MLETR)/MLETR Model Law]] - Shares core topics like functional equivalence, control principle, and cross-border recognition, and is the foundational legal framework for MLETR.
-- [[Law & Tech/05-summaries/Electronic Transferable Records (MLETR)/MLETR Resources]] - Directly discusses the application and critique of MLETR principles in a specific jurisdiction, reinforcing the regulatory context.
-- [[Law & Tech/05-summaries/Electronic Signatures/Electronic Signatures]] - Covers functional equivalence and regulatory frameworks for electronic signatures, which are conceptually related to electronic transferable records.
-- [[Law & Tech/05-summaries/Electronic Contracting/Regulating AI]] - While focused on AI, it discusses regulatory frameworks and legal equivalence, offering a complementary theoretical lens on technology regulation.
-- [[Law & Tech/05-summaries/Electronic Contracting/Electronic Contracting]] - Explains fundamental principles of electronic contracting, closely related to the legal validity and enforceability of electronic records like MLETR.
-<!-- agent:see-also:end -->

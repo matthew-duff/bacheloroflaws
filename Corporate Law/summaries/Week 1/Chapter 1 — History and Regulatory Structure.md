@@ -496,11 +496,3 @@ timeline
 ```
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Corporate Law/summaries/Week 1/Chapter 4 — Formation and Types of Companies]] - Directly relates to the historical and structural foundations of corporations, complementing the discussion of legal personality and limited liability.
-- [[Corporate Law/summaries/Week 1/readings/Schmitthoff, ‘The Origin of the Joint-Stock Company’ (1939) Summary]] - Provides historical context on the development of joint-stock companies, relevant to the tensions and evolution of corporate forms discussed.
-- [[Corporate Law/summaries/Week 1/readings/Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry Summary]] - Connects historical corporate structure to modern regulatory and ethical challenges, highlighting tensions between governance and accountability.
-- [[Corporate Law/summaries/Week 1/Week 1 - Companies and Company Law]] - Summarizes key statutes that underpin the legal framework for corporate regulation, directly supporting the statutory analysis in the current note.
-<!-- agent:see-also:end -->

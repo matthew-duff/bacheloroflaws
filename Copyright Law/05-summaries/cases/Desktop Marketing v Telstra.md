@@ -38,10 +38,3 @@ Appeal dismissed. Copyright subsisted in Telstra’s White Pages, Yellow Pages, 
 The case establishes the **“industrious collection”** or **“sweat of the brow”** doctrine in Australian copyright law: factual compilations can attract copyright where there is substantial labour or expense in collecting data, without a requirement for creativity or intellectual effort in selection or arrangement. It diverges from the US *Feist* approach and is central to the protection of databases, directories, and other factual compilations in Australia.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/cases/Telstra v Phone Directories]] - Both cases deal with copyright issues related to telephone directories and database protection.
-- [[Copyright Law/05-summaries/cases/Burge v Swarbrick]] - This case discusses the 'sweat of the brow' doctrine and substantial artistic effort, which are relevant to the 'feasibility' and 'substantiality' themes in the current note.
-- [[Copyright Law/05-summaries/cases/CBS v Telmak]] - It addresses copyright infringement related to sound-alike recordings, which connects to the 'sound-alike' and 'original sound recording' topics.
-<!-- agent:see-also:end -->

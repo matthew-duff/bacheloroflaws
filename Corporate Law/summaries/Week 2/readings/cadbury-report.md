@@ -39,11 +39,3 @@ The Cadbury Report is a highly influential UK report that established foundation
     - The Committee believes a voluntary code, coupled with strict public disclosure, is more effective and flexible than statutory legislation, which might encourage companies to merely comply with the letter of the law rather than its spirit.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Corporate Law/summaries/Week 2/readings/A. A. Berle-CorporateManagersTrustees-1932]] - Shares topics like fiduciary duties, shareholder primacy, and corporate accountability, and references key cases and statutes related to corporate trusteeship.
-- [[Corporate Law/summaries/Week 2/readings/Berle, ‘Corporate Powers as Powers in Trust’ (1931)]] - Directly discusses corporate powers as trust powers, linking to fiduciary duties and governance, complementing the discussion of corporate trusteeship in the previous note.
-- [[Corporate Law/summaries/Week 1/readings/Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry Summary]] - Addresses corporate misconduct, duty of care, and regulatory culture, which are relevant to governance and accountability themes in the main note.
-- [[Corporate Law/summaries/Week 2/readings/A. A. Berle-CorporatePowersPowers-1931]] - Explores corporate powers and equitable limitations, closely related to the discussion of corporate powers and fiduciary roles in the main note.
-<!-- agent:see-also:end -->

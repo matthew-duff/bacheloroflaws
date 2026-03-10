@@ -41,11 +41,3 @@ assessment_relevance: 'This note clarifies key tensions between AI development a
 - Illustrates **fair use / fair dealing** and **human authorship** in the context of AI (with reference to US authority), useful for comparing Australian doctrine and policy.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/articles/IP and AI-Generated Works]] - Shares topics on human authorship, originality, and AI-generated works, and references overlapping statutes and cases.
-- [[Copyright Law/05-summaries/articles/International developments IP and AI]] - Compares jurisdictions on AI-related IP, complementing the current note’s focus on Australian law and referencing similar cases and statutes.
-- [[Copyright Law/05-summaries/articles/Copyright Infringement and AI]] - Discusses AI training and infringement, directly relevant to the current note’s focus on AI, copyright, and liability.
-- [[Copyright Law/05-summaries/articles/Future Impacts of AI on IP Laws]] - Addresses policy, licensing, and authorship challenges posed by AI, aligning with the current note’s forward-looking perspective.
-<!-- agent:see-also:end -->

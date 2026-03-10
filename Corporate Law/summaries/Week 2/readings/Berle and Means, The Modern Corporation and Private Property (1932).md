@@ -29,11 +29,3 @@ The review highlights the central thesis of Adolf A. Berle and Gardiner C. Means
 *(Note: The provided source file is a compilation of multiple journal book reviews. Only the first review pertains to the assigned Berle and Means reading.)*
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Corporate Law/summaries/Week 2/readings/Berle, ‘For Whom Corporate Managers Are Trustees’ (1932)]] - Shares the same author and discusses fiduciary duties and shareholder primacy, directly complementing Berle and Means' themes.
-- [[Corporate Law/summaries/Week 2/readings/A. A. Berle-CorporateManagersTrustees-1932]] - Another Berle work exploring similar themes of corporate control and trusteeship, closely related in both authorship and subject.
-- [[Corporate Law/summaries/Week 2/readings/Whittington, Review of Berle and Means (1970)]] - A later review of Berle and Means’ work, providing historical context and continuity of the ideas introduced in the original text.
-- [[Corporate Law/summaries/Week 2/readings/Berle, ‘Corporate Powers as Powers in Trust’ (1931)]] - Addresses the legal theory of corporate powers, closely related to the themes of control and fiduciary responsibility in Berle and Means.
-<!-- agent:see-also:end -->

@@ -37,10 +37,3 @@ This week focuses on the intersection of administrative law with modern technolo
 As government agencies increasingly adopt AI and ADM, understanding the legal constraints on these technologies is critical for administrative law practitioners. The shift from human to algorithmic decision-making requires a re-evaluation of how accountability is maintained. The Robodebt Royal Commission (2023) underscores that technological efficiency cannot override the fundamental requirement that public power be exercised lawfully, fairly, and rationally.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Shares key topics like automated decision-making, legality review, and robodebt, and discusses similar cases.
-- [[Admin Law/summaries/Week 12/Workshop 9 Guide Summary]] - Workshop 9 covers rights to reasons and procedural fairness, closely related to administrative law remedies and principles.
-- [[Admin Law/summaries/Week 12/Study Progress]] - Covers foundational corporate law topics, relevant for understanding legal personality and statutory frameworks in admin law.
-<!-- agent:see-also:end -->

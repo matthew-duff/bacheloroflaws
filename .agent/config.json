@@ -26,7 +26,7 @@
   ],
   "max_body_chars": 14000,
   "max_candidates": 12,
-  "max_links_per_note": 5,
+  "max_links_per_note": 0,
   "min_tags": 4,
   "max_tags": 12,
   "see_also_heading": "## See also",
@@ -34,5 +34,7 @@
   "memory_dir": ".agent/memories",
   "extract_prompt_path": ".agent/prompts/pass1_extract.txt",
   "case_prompt_path": ".agent/prompts/pass2_case.txt",
-  "related_prompt_path": ".agent/prompts/pass3_related.txt"
+  "related_prompt_path": ".agent/prompts/pass3_related.txt",
+  "flashcards_prompt_path": ".agent/prompts/flashcards.txt",
+  "flashcards_dir": ".agent/flashcards"
 }

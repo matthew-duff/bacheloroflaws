@@ -40,11 +40,3 @@ assessment_relevance: 'This note helps students prepare for exams on corporate l
 %%
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Law & Tech/05-summaries/Internet of Things/IoT Notes]] - Shares topics like legal personhood, compliance standards, and regulatory evolution in IoT, complementing the legal analysis with regulatory context.
-- [[Law & Tech/05-summaries/Internet of Things/IoT References]] - Compiles key references relevant to IoT legal and ethical issues, linking to foundational cases and statutes discussed in the broader IoT regulatory context.
-- [[Law & Tech/05-summaries/Electronic Contracting/Davidson Chapter 11]] - Discusses electronic communication and contract formation, directly relevant to digital and IoT regulatory frameworks and legal validity in technology contexts.
-- [[Law & Tech/05-summaries/Electronic Contracting/Regulating AI]] - Explores legal personality and liability frameworks relevant to emerging technologies, complementing the broader regulatory and legal themes in IoT and electronic contracting.
-<!-- agent:see-also:end -->

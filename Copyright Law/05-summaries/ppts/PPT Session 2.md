@@ -52,12 +52,3 @@ Session Two of LAWS5206 Copyright Law introduces copyright subsistence (when and
 Provides the structural framework for subsistence under the *Copyright Act 1968* (Cth) and the doctrinal shift from “industrious collection” toward “independent intellectual effort” (*IceTV*). Essential for understanding what can and cannot attract copyright and how subsistence feeds into infringement analysis.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Copyright Law/05-summaries/ppts/PPT Session 1]] - Shares foundational statutory framework and core copyright principles, including subject matter and duration.
-- [[Copyright Law/05-summaries/cases/Feist v Rural Telephone]] - Directly relevant to originality and copyrightability of compilations, a key topic in this note.
-- [[Copyright Law/05-summaries/cases/Krueger Transport v Glen Cameron]] - Discusses copyright protection for designs and infringement, closely related to originality and scope of protection.
-- [[Copyright Law/05-summaries/cases/Campaigntrack v Real Estate Tool Box]] - Examines substantial part test and authorisation, complementing the substantial part doctrine discussed here.
-- [[Copyright Law/05-summaries/ppts/PPT Session 3]] - Provides additional background on copyright law, potentially covering overlapping topics like protectable matter and policy limits.
-<!-- agent:see-also:end -->

@@ -26,11 +26,3 @@ assessment_relevance: 'Key for exam essays on governance duties and regulatory h
 Please refer to the summary file `cadbury-report.md` for the full notes on this report.
 
 ---
-
-## See also
-<!-- agent:see-also:start -->
-- [[Corporate Law/summaries/Week 2/readings/A Friedman doctrine‐- The Social Responsibility of Business Is to Increase Its Profits - The New York Times]] - Discusses the legal and ethical boundaries of corporate responsibility, complementing the Cadbury Report's governance focus.
-- [[Corporate Law/summaries/Week 2/readings/Berle and Means, The Modern Corporation and Private Property (1932)]] - Addresses the separation of ownership and control, a core issue in the Cadbury Report's discussion of corporate governance.
-- [[Corporate Law/summaries/Week 2/readings/A. A. Berle-CorporateManagersTrustees-1932]] - Examines the trustee role of managers, aligning with the Cadbury Report's emphasis on fiduciary duties and accountability.
-- [[Corporate Law/summaries/Week 2/readings/A. A. Berle-CorporatePowersPowers-1931]] - Discusses corporate powers and equitable limitations, relevant to the legal framework underpinning the Cadbury Report's governance principles.
-<!-- agent:see-also:end -->
