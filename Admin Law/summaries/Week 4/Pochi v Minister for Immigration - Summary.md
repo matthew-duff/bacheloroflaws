@@ -1,62 +1,62 @@
 ---
-title: 'Pochi v Minister for Immigration and Ethnic Affairs (1979) 36 FLR 482'
-tags:
-  - 'onus-of-proof'
-  - 'standard-of-proof'
-  - 'tribunal-procedure'
-  - 'public-hearings'
-  - 'ministerial-policy'
-  - 'case-won'
-  - 'ratio-the-aat-must-reach-a-state-of-satisfaction-regarding-statutory-criteria-for-depo'
-summary: 'The case defines the AAT''s role as mirroring the original decision-maker, sets out flexible evidentiary standards, and balances transparency with privacy in deportation hearings.'
-figures:
-  - 'Smithers J'
-cases:
-  - 'Pochi v Minister for Immigration and Ethnic Affairs [1979] 36 FLR 482'
-statutes:
-  - 'AAT Act s 35'
-  - 'Migration Act'
-jurisdiction: 'Australia'
-assessment_relevance: 'Key for exam questions on tribunal powers, evidence, and procedural fairness; useful for oral assessments on administrative law principles.'
-ratio: 'The AAT must reach a state of satisfaction regarding statutory criteria for deportation, applying a standard appropriate to the gravity of the matter. It is not bound by strict evidence rules or onus of proof but must ensure fairness and reliability. The tribunal may hold private hearings only where justified, and the AAT found in the subject''s favour by setting aside the deportation order.'
-case_outcome: 'won'
+title: "Pochi v Minister for Immigration and Ethnic Affairs (1979) 36 FLR 482"
+source_path: "/Users/matthewduff/Documents/bacheloroflaws/Admin Law/sources/Week 4/Study materials for merits review/Workshop three prescribed reading/Pochi v Minister for Immigration (1979)-Pochi v Minister for Immigration (1979).md"
+source_type: "prescribed reading"
+case_type: "AAT merits review decision"
+jurisdiction: "Australia"
+topics:
+  - "merits review"
+  - "deportation"
+  - "evidence"
+  - "procedural fairness"
+  - "confidential evidence"
+  - "AAT Act s 35"
+ratio: "On review of a deportation order under s 12 of the Migration Act, the Tribunal is not bound by the rules of evidence but must act on logically probative material; where deportation would have grave consequences, the facts said to justify deportation should be proved by clear, unequivocal and convincing material, not mere suspicion; and exclusion of the public or the applicant under s 35(2) should occur only where confidentiality is truly necessary and justice is more likely to be done by receiving the material in confidence."
+summary: "Brennan J revoked a deportation order against a long-term resident because the Minister proved the conviction but did not prove the further suspected drug-trafficking conduct said to make deportation in Australia's best interests."
+status: "updated"
 ---
 # Pochi v Minister for Immigration and Ethnic Affairs (1979) 36 FLR 482
 
-## Overview
-An AAT decision concerning the proposed deportation of Mr Pochi, a non-citizen convicted of drug offences. The case is significant for articulating that the AAT **"stands in the shoes"** of the original decision-maker and for its treatment of onus of proof, evidence, and public hearings in tribunal proceedings.
+## Citation
+`Pochi v Minister for Immigration and Ethnic Affairs (1979) 36 FLR 482` (Brennan J, President of the AAT)
 
-## Key Issues
-1. The standard and sufficiency of proof in AAT proceedings
-2. The relevance and applicability of formal rules of evidence
-3. The circumstances justifying private (in camera) hearings under s 35 AAT Act
-4. The application of ministerial policy on deportation of drug offenders
+## Facts
+- Luigi Pochi was an Italian-born long-term Australian resident with an Australian wife and Australian-born children.
+- He was liable to deportation under `s 12` of the `Migration Act 1958 (Cth)` after a conviction for supplying Indian hemp, for which he received two years' imprisonment with a one-year non-parole period.
+- The Minister made a deportation order and relied not only on the conviction, but also on allegations that Pochi was involved more broadly in marihuana trading and had access to clandestine funds.
+- The evidence also showed that Pochi had tried to obtain Australian citizenship earlier, but departmental failures meant he was apparently never properly notified of an approved grant.
 
-## Key Holdings
+## Issues
+- What matters should the Tribunal weigh when deciding whether deportation is in the best interests of Australia?
+- Can the Tribunal go behind the criminal conviction or revisit guilt?
+- What standard of proof and type of evidence are required for additional allegations beyond the conviction?
+- When can the Tribunal receive confidential evidence in private and exclude the public or the applicant under `s 35(2)` of the `Administrative Appeals Tribunal Act 1975 (Cth)`?
 
-### "Standing in the Shoes"
-- Smithers J coined the now-famous expression that the AAT **"stands in the shoes"** of the primary decision-maker — it exercises the same powers and discretions
-- Smithers J here adopted the **"correct or preferable decision"** formula (aligning with Drake No. 1)
+## Held
+- The deportation order should be revoked.
+- The Tribunal could not go behind the conviction itself; until quashed, the conviction stood.
+- The conviction enlivened the deportation power, but further adverse conduct relied on to justify deportation had to be proved, not merely suspected.
+- The Minister had not proved the broader alleged drug-trading conduct strongly enough to justify deportation.
+- Private receipt of confidential material is exceptional and must be justified by real necessity.
 
-### Onus and Standard of Proof
-- The AAT is **not bound by strict rules of evidence** — it may inform itself in any manner it considers appropriate
-- There is **no formal onus of proof** in AAT proceedings in the way understood in civil litigation
-- The AAT must nonetheless reach a state of **satisfaction** that the relevant statutory criteria are met
-- The tribunal should apply a standard commensurate with the **seriousness of the matter** — deportation being a grave consequence warrants careful scrutiny
-
-### Rules of Evidence
-- While not formally bound by the rules of evidence, the AAT should use those rules as a **practical guide** to ensure reliability and fairness
-- Hearsay and other informally obtained evidence may be received but should be treated with appropriate caution
-
-### Public Hearings (s 35 AAT Act)
-- AAT proceedings are **presumptively public** (s 35)
-- The Tribunal may direct private hearings under s 35(2) where satisfied it is **desirable** for reasons including: national security, personal privacy, or confidential business information
-- The balance tilts in favour of openness — public confidence in the tribunal requires transparency
-
-### Outcome
-- The AAT found in Mr Pochi's favour and set aside the deportation order, finding the circumstances did not warrant deportation despite the drug conviction
+## Reasoning / Ratio
+- In a deportation review, the Tribunal should consider the person's attempts to obtain citizenship, length of residence, the nature and seriousness of the conviction, the person's conduct as a whole, future risk to the community, and the impact on the person's Australian family.
+- The Tribunal cannot treat the review as a collateral attack on the conviction. If the order is based on conviction under `s 12`, the conviction must be accepted as valid unless and until set aside elsewhere.
+- Although the Tribunal is not bound by technical rules of evidence, it must act on material with rational probative force. Flexible procedure does not justify findings based on mere suspicion or insubstantial hearsay.
+- Because deportation has very grave consequences, Brennan J said the Minister should bear the burden of proving the circumstances said to warrant deportation, and adverse facts should be shown by material that is "clear, unequivocal and convincing".
+- Suspicion that Pochi had access to unexplained funds and may have been involved in wider marihuana commerce was not enough. The evidence raised concern, but did not prove the allegation.
+- Section `35(2)` powers to exclude the public or the party exist, but should be used with great reluctance. Excluding the applicant is only justified where confidentiality is essential and justice is more likely to be done by receiving the material in confidence than by refusing to receive it.
+- The confidential evidence received in camera lacked sufficient cogency to support positive findings against Pochi.
+- The hardship to Pochi's wife and children, and the fact that he likely would have become an Australian citizen but for administrative failure, counted strongly against deportation.
 
 ## Significance
-- Established the **"stands in the shoes"** metaphor as a standard description of the AAT's function
-- Clarified that formal rules of evidence and onus of proof from civil litigation are not directly applicable to tribunal proceedings
-- Affirmed the presumption in favour of public hearings, with exceptions only where justified
+- Important authority that, in merits review, serious adverse administrative consequences require solid proof even though the Tribunal is not bound by the ordinary rules of evidence.
+- Frequently cited for the idea that logically probative material is required in tribunal proceedings.
+- Strong authority on procedural fairness and the narrow use of confidential or closed-hearing procedures in the Tribunal.
+- Illustrates that ministerial policy on drug offending may be relevant, but it does not displace the Tribunal's obligation to decide the particular case on proved facts.
+
+## Exam Use
+- Use `Pochi` for propositions that tribunal procedure is flexible but not lawless: no strict evidence code, yet findings still need logically probative support.
+- Use it where a question involves serious consequences, confidential intelligence, or allegations that go beyond a proven conviction.
+- Pair it with `Drake` if asked about the relevance of ministerial policy in merits review.
+- Distinguish between the fact of conviction, which the Tribunal must accept for a `s 12` case, and broader misconduct allegations, which still require proof.

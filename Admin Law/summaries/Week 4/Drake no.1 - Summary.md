@@ -1,71 +1,57 @@
 ---
-title: 'Drake v Minister for Immigration and Ethnic Affairs (No. 1) (1979) 2 ALD 60'
-tags:
-  - 'merits-review'
-  - 'administrative-power'
-  - 'government-policy'
-  - 'constitutional-validity'
-  - 'delegated-legislation'
-  - 'case-won'
-  - 'ratio-the-federal-court-held-that-the-administrative-appeals-tribunal-aat-must-determi'
-summary: 'The case established the AAT''s ''correct or preferable decision'' test, affirming its de novo administrative review power and clarifying the limits of judicial review over tribunal decisions.'
-figures:
-  - 'Adam Smith'
-  - 'John Stuart Mill'
-  - 'Bowen CJ'
-  - 'Deane J'
-cases:
-  - 'Drake v Minister for Immigration and Ethnic Affairs (No. 1) [1979] 2 ALD 60'
+title: "Drake v Minister for Immigration and Ethnic Affairs (No 1) - Summary"
+type: case
+source: "Drake no.1-Drake no.1.md"
+source_path: "/Users/matthewduff/Documents/bacheloroflaws/Admin Law/sources/Week 4/Study materials for merits review/Workshop three prescribed reading/Drake no.1-Drake no.1.md"
+citation: "(1979) 46 FLR 409"
+court: "Federal Court of Australia"
+year: 1979
+topics:
+  - merits review
+  - AAT
+  - government policy
+  - deportation
+  - persona designata
 statutes:
-  - 'AAT Act 1975 s 43(1)'
-  - 'Constitution Act 1900 (Cth) s 121'
-period: 'Late 20th century'
-jurisdiction: 'Australia'
-assessment_relevance: 'This note is crucial for understanding the AAT''s review powers and the separation of powers in administrative law, key for both written exams and oral assessments.'
-ratio: 'The Federal Court held that the Administrative Appeals Tribunal (AAT) must determine whether its decision is the correct or preferable one on the material before it, exercising independent de novo discretion rather than merely reviewing the original decision-maker''s ruling. The AAT''s review is administrative, not judicial, and it must consider government policy as a relevant factor without being bound by it.'
-case_outcome: 'won'
+  - "Migration Act 1958 (Cth) s 12"
+  - "Administrative Appeals Tribunal Act 1975 (Cth) ss 43, 44"
+ratio: "On merits review, the AAT must decide for itself what is the correct or preferable decision on the material before it. Government policy may be a relevant consideration, but the Tribunal cannot treat policy as binding or abdicate its independent evaluative function."
+summary: "The Federal Court held that a Federal Court judge could validly sit on the AAT in a personal capacity, and that the AAT erred in law by treating ministerial policy on deportation as effectively determinative rather than making its own independent merits decision."
 ---
-# Drake v Minister for Immigration and Ethnic Affairs (No. 1) (1979) 2 ALD 60
+# Drake v Minister for Immigration and Ethnic Affairs (No 1)
 
-## Overview
-A landmark Federal Court decision establishing the foundational principles of the AAT's merits review function. The case concerned a deportation order against Mr Drake, a US citizen convicted of drug offences in Australia.
+## Citation
+*Drake v Minister for Immigration and Ethnic Affairs* (1979) 46 FLR 409 (FCA).
 
-## Key Issues
-1. Whether a federal judge could validly sit as a presidential member of the AAT (constitutional separation of powers under Ch III)
-2. The nature and scope of the AAT's review function under s 43(1) of the AAT Act 1975
-3. The role of government policy in AAT decision-making
+## Facts
+Drake was a US citizen and permanent resident of Australia. He was convicted of possessing cannabis on a substantial scale intended for sale. He was sentenced to 12 months' imprisonment, with a direction that he be released after 3 months on entering into a recognizance. The Minister ordered his deportation under s 12 of the *Migration Act 1958* (Cth). The AAT, constituted by Davies J, affirmed the deportation order, and Drake appealed to the Federal Court on questions of law.
 
-## Key Holdings
+## Issues
+1. Whether it was constitutionally valid for a Federal Court judge to sit as a presidential member of the AAT.
+2. Whether Drake was an "alien" within s 12 of the *Migration Act*.
+3. Whether a 12-month sentence with release after 3 months still counted as being "sentenced to imprisonment for one year or longer".
+4. Whether the AAT erred by giving ministerial policy such weight that it failed to exercise its own independent merits review.
 
-### The AAT's Function (Bowen CJ and Deane J — Joint Judgment)
-- The AAT must determine whether the decision under review is **"the correct or preferable one on the material before the Tribunal"** — not on the material before the original decision-maker
-- This established the AAT's review as **de novo** — the Tribunal exercises an independent discretion and is not merely supervisory
-- The AAT exercises **administrative** (not judicial) power; it is an administrative decision-maker in its own right
+## Held
+1. Yes. A judge may be appointed to the AAT in a personal capacity; this does not convert the AAT into a Ch III court or make its function judicial.
+2. Yes. Drake fell within the statutory definition of "alien".
+3. Majority: yes. The composite sentence still amounted to a sentence of imprisonment for one year or longer. Smithers J dissented on this point.
+4. Yes. The AAT erred in law because its reasons showed it had treated ministerial policy as effectively paramount instead of independently deciding the correct or preferable outcome.
 
-### Government Policy
-- The AAT is bound to take into account **relevant considerations**, including valid and applicable government policy
-- However, the AAT **cannot blindly follow policy** — it must exercise independent judgment and consider the propriety of the policy's merits
-- The AAT should balance the **desirability of consistency** in administration with **"the ideal of justice in the individual case"**
-
-### Smithers J (Partial Dissent)
-- Agreed the AAT must exercise independent discretion but described its function differently: the AAT applies an **"objective standard of good government"**
-- This approach was later rejected in favour of the "correct or preferable decision" formula
-
-### Constitutional Validity
-- No infringement of Chapter III when a federal judge acts *persona designata* as an AAT presidential member
+## Reasoning / Ratio
+- The AAT's function is administrative, not judicial. On review it must decide whether the decision under review is the correct or preferable one on the material before the Tribunal, not merely whether the original decision-maker acted reasonably.
+- Government policy can be relevant where a discretionary power is being reviewed, especially where the statute gives broad discretion and does not set detailed criteria.
+- But the AAT is not bound by policy unless the statute says so. It must not abdicate its function by simply applying policy or checking whether the Minister applied policy rationally.
+- The Tribunal's reasons suggested a supervisory approach: it focused on whether the Minister's policy had been reasonably applied, and gave decisive weight to deterrence under ministerial policy, rather than clearly making its own independent assessment of the preferable outcome.
+- On the constitutional point, the Court held that appointing a judge personally to an administrative office is permissible because the office is conferred on the judge as an individual, not on the court.
 
 ## Significance
-- Established the **"correct or preferable decision"** test as the standard description of the AAT's merits review function
-- Confirmed the AAT's review is **de novo** and not merely supervisory
-- Set the framework for how tribunals should treat government policy — as a relevant consideration, not a binding directive
-- Distinguished merits review (by tribunals) from judicial review (by courts)
+- Foundational authority for the AAT's independent merits review role.
+- Establishes the classic formula that the Tribunal must reach the correct or preferable decision on the material before it.
+- Clarifies the proper status of policy in merits review: relevant, but not binding unless legislation makes it so.
+- Important authority on *persona designata* and the administrative, rather than judicial, character of AAT review.
 
----
-
-## See also
-<!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 4/Drake no.2 - Summary]] - Shares the same case and statutory references, providing further context on the same legal principles.
-- [[Admin Law/summaries/Week 4/Chapter by Professor Creyke on Merits Review - Summary]] - Discusses merits review principles and references the same case, offering deeper analysis of the topic.
-- [[Admin Law/summaries/Week 4/Pochi v Minister for Immigration - Summary]] - Another case in the same series, relevant for comparative analysis of administrative law principles.
-- [[Admin Law/summaries/Week 4/Lecture 4 - Legality Review Part 2 - Summary]] - Addresses related grounds of review and legal frameworks, complementing the statutory and constitutional discussion in the current note.
-<!-- agent:see-also:end -->
+## Exam Use
+- Cite it for the proposition that merits review is a fresh administrative evaluation, not judicial review for legal error.
+- Use it when discussing how tribunals should approach government policy: policy promotes consistency, but cannot replace independent judgment.
+- Pair it with later AAT authorities where a tribunal's role, use of policy, or the distinction between merits and judicial review is in issue.

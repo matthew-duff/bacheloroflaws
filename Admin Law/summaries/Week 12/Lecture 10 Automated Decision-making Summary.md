@@ -1,55 +1,60 @@
 ---
-type: lecture-slides
-
-title: '2026 - Lecture 10 - Automated decision-making'
+type: lecture-summary
+title: "Lecture 10 - Automated decision-making"
+source_title: "2026 - Lecture 10 - Automated decision-making"
+source_type: lecture-slides
+source_path: "/Users/matthewduff/Documents/bacheloroflaws/Admin Law/sources/Week 12/2026 Self-directed learning - automated decision-making and AI/2026 - Lecture 10 - Automated decision-making.md"
+week: 12
 tags:
-  - 'automated-decision-making'
-  - 'administrative-justice'
-  - 'legality-review'
-  - 'statutory-discretion'
-  - 'algorithm-transparency'
-  - 'delegation-limits'
-  - 'robodebt'
-  - 'decision-definition'
-summary: 'This note examines how automated decision-making challenges traditional administrative law principles like natural justice, delegation, and legality review, using Robo-debt and Pintarich to illustrate risks of unauthorized automation and transparency failures.'
+  - automated-decision-making
+  - ai
+  - administrative-law
+  - robodebt
+  - natural-justice
+  - jurisdictional-error
+summary: "Concise summary of how automated systems and AI interact with administrative law, focusing on authorization, natural justice, discretion, reasons, and what counts as a reviewable decision."
 cases:
-  - 'Pintarich v Federal Commissioner of Taxation [2018] ACA 58'
-  - 'Business Names Registration Act 2011 (Cth) s 66'
+  - "Pintarich v Federal Commissioner of Taxation (2018) 262 FCR 41"
+  - "Semunigus v Minister for Immigration and Multicultural Affairs [1999] FCA 422"
+  - "Australian Broadcasting Tribunal v Bond (1990) 170 CLR 321"
 statutes:
-  - 'Corporations Act 2001 (Cth)'
-  - 'Taxation Administration Act 1953 (Cth)'
-jurisdiction: 'Australia'
-assessment_relevance: 'Highlights key tensions between technology and administrative law, useful for essay questions on legality review, natural justice, and statutory interpretation in ADM contexts.'
+  - "Business Names Registration Act 2011 (Cth) s 66"
+  - "Human Rights Act 2019 (Qld) s 48"
+  - "Human Rights Act 2019 (Qld) ss 15-37"
+  - "ADJR Act / JR Act"
+assessment_relevance: "The slides say this topic is not examinable, but it is useful for policy discussion and for applying orthodox admin law doctrines to new technologies."
 ---
 [[2026 - Lecture 10 - Automated decision-making]]
 
-# 2026 - Lecture 10 - Automated decision-making
+# Lecture 10 - Automated decision-making
 
-## Overview
-This lecture explores the intersection of automated decision-making (ADM) and administrative law, focusing on the potential benefits, pitfalls, and legal challenges posed by the use of algorithms and AI in government processes. It examines the impact of automation on administrative justice and the applicability of traditional legality review grounds to ADM, with significant reference to the "Robo-debt" program and the *Pintarich* case.
+## Bottom line
+Automated decision-making can improve speed, consistency and cost, but it still must comply with ordinary administrative law. The key questions are whether the legislation authorises automation, whether the system unlawfully substitutes rigid rules for discretion, whether affected persons get procedural fairness, and whether the output is a reviewable "decision" with intelligible reasons.
 
-## Key points
-- **Benefits and Pitfalls**: ADM offers increased access to justice (speed and cost), consistency, and government savings. However, it raises concerns regarding administrative justice, particularly when rules are applied without human discretion or when "black box" algorithms are used.
-- **Types of Automation**: Ranges from simple template letters to preliminary recommendations for humans, and fully automated predictive language model decisions.
-- **Legality Review Grounds**:
-    - **Authorization**: Decisions must be authorized by legislation (e.g., Robo-debt was found illegal because income averaging was not authorized).
-    - **Delegation**: Automation may constitute invalid sub-delegation unless expressly provided for by statute (e.g., *Business Names Registration Act 2011* (Cth) s 66).
-    - **Natural Justice**: Automation challenges the hearing rule (opportunity to respond) and the bias rule (potential for biased data/inputs).
-    - **Discretion**: Algorithms may improperly fetter statutory discretion by applying fixed rules without regard to individual merits.
-- **Defining a "Decision"**: *Pintarich v Federal Commissioner of Taxation* (2018) highlights the difficulty in defining when an automated output constitutes a "decision" under the *ADJR Act*, particularly regarding the requirement for mental processes in decision-making.
-- **Transparency and Reasons**: "Black box" algorithms and self-learning models complicate the statutory duty to provide reasons. Programming inadequacies do not justify a failure to comply with this duty.
+## Key doctrines from the slides
+- **Statutory authority is essential**: automation is invalid if the legislation does not authorise the way the power is being exercised.
+- **Sub-delegation risk**: using software may amount to an invalid sub-delegation unless there is an express statutory basis, such as `Business Names Registration Act 2011 (Cth) s 66`.
+- **Natural justice still applies**: automated processes may deny a meaningful chance to respond to adverse material or may embed biased inputs and classifications.
+- **Discretion cannot be abdicated**: an algorithm cannot lawfully replace a statutory discretion by applying policy mechanically without regard to the merits of the individual case.
+- **Interpretation remains necessary**: broad statutory terms and complex factual issues often require human legal judgment; automation may struggle where interpretation is integral.
+- **Reasons and transparency matter**: technical opacity or "black box" design does not excuse failure to comply with statutory duties to give reasons.
 
-## Significance
-Automated decision-making represents a fundamental shift in how public power is exercised. The lecture emphasizes that while technology can enhance efficiency, it must operate within the framework of administrative law to ensure legality, fairness, and accountability. The failure of the Robo-debt program serves as a critical case study in the dangers of unauthorized and poorly overseen automation, leading to a Royal Commission and significant legal reform discussions. The evolving nature of generative AI further complicates these issues, requiring ongoing judicial and legislative adaptation.
+## Main examples and authorities
+- **Robo-debt**: the lecture uses Robo-debt as the central warning example. Income averaging and reversal of the practical onus onto welfare recipients were not authorised by the legislation, showing how crude automation can produce unlawful decisions at scale.
+- **`Pintarich v Federal Commissioner of Taxation (2018) 262 FCR 41`**: relevant to whether automatically generated communications or system outputs amount to a "decision" for review purposes.
+- **`Semunigus v Minister for Immigration and Multicultural Affairs [1999] FCA 422`**: another authority on what may count as a relevant administrative decision in an automated or semi-automated context.
+- **`Australian Broadcasting Tribunal v Bond (1990) 170 CLR 321`**: important because its approach to reviewable "decisions" creates difficulties for self-executing or highly automated systems.
 
----
+## Administrative justice and AI points
+- Simple automation, such as template letters generated from human-entered data, raises different issues from predictive or self-learning AI systems.
+- Automation is less problematic for tightly constrained, non-discretionary powers than for broad discretions requiring value judgments.
+- Risks become greater where public power affects fundamental common law rights or, in Queensland, rights protected by the `Human Rights Act 2019 (Qld)`.
+- Generative or predictive large language models increase concerns about opacity, error, embedded bias and the difficulty of explaining the actual basis of the outcome.
 
----
-
-## See also
-<!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 12/Automated Decision-making and AI Study Summary]] - Shares key topics such as automated decision-making and discretionary powers, relevant to administrative law and AI governance.
-- [[Admin Law/summaries/Week 12/Lecture 9 Remedies Revision Summary]] - Provides context on remedies and judicial review, which intersects with automated decision-making by addressing how errors are remedied in administrative contexts.
-- [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Offers a broad overview of Week 12 topics, including administrative law principles that underpin automated decision-making and delegation limits.
-- [[Admin Law/summaries/Week 1-Lecture 1 Summary]] - Covers foundational principles such as rule of law, separation of powers, and legality review, which are essential for understanding the legal framework governing automated decision-making.
-<!-- agent:see-also:end -->
+## Exam use
+- Start with orthodox doctrine: ask whether the statute authorises automation and whether there has been unlawful sub-delegation.
+- Then test procedural fairness: was there a real opportunity to answer adverse material and is there any indication of biased data or categories.
+- For discretionary powers, argue that rigid algorithmic application may amount to fettering, failure to consider the merits, or misunderstanding the statute.
+- If judicial review is in issue, discuss whether the automated output is itself a reviewable "decision", using `Pintarich`, `Semunigus` and the difficulties posed by `ABT v Bond`.
+- For remedies or reasons questions, note that technical complexity does not remove duties of legality, reviewability, or reason-giving.
+- If asked for policy or reform discussion, use Robo-debt to show the rule-of-law costs of scale, opacity and weak human oversight.

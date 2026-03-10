@@ -1,89 +1,104 @@
 ---
-title: 'Lecture 4 — Legality Review Part 2: Grounds of Review and Human Rights'
+title: "Lecture 4 - Legality Review Part 2 - Summary"
+source_type: lecture_slides
+source_title: "Lecture 4 - PowerPoint slides-2026 - Lecture 4 - slides - Legality review - part 2 - Grounds of review and human rights"
+source_path: "Admin Law/sources/Week 4/Lecture 4 - PowerPoint slides-2026 - Lecture 4 - slides - Legality review - part 2 - Grounds of review and human rights.md"
+week: 4
+updated: 2026-03-10
 tags:
-  - 'unreasonableness'
-  - 'proportionality'
-  - 'jurisdictional-error'
-  - 'fraud'
-  - 'bad-faith'
-  - 'human-rights'
-  - 'adjr-act'
-summary: 'This note outlines key grounds of judicial review in administrative law, focusing on unreasonableness, jurisdictional error, and the interaction with human rights legislation. It highlights doctrinal tests like Wednesbury unreasonableness, the three paradigms from Fares Rural Meat, and the nuanced relationship between proportionality and unreasonableness. The Human Rights Act 2019 (Qld) is examined for its compatibility and proportionality provisions.'
-cases:
-  - 'Wednesbury Corporation v Wednesbury Corporation [1948] 1 KB 346'
-  - 'Associated Provincial Picture Houses v Wednesbury Corporation [1948] 1 KB 316'
-  - 'Minister for Immigration and Citizenship v Li [2013] 249 CLR 332'
-  - 'Fares Rural Meat v Australian Competition and Consumer Commission [2009] 2 AC 1'
-  - 'Curragh Queensland Mining v Daniel [1992] 3 NSWLR 1'
-  - 'Plaintiff M70/2011 [2012] FPC 1'
-  - 'Craig v SA [1995] 2 AC 606'
-  - 'Kirk v Industrial Court [2010] 3 NSWLR 1'
-  - 'Anisminic Ltd v Foreign Compensation Commission [1969] 1 WLR 432'
-  - 'Plaintiff S157 [2003] HCA 48'
-  - 'Owen-D''Arcy v Australian Human Rights Commission [2021] 138 FCR 1'
-  - 'Human Rights Act 2019 (Qld)'
-statutes:
-  - 'Judiciary Act 1903 (Cth)'
-  - 'Australian Constitution s 109'
-  - 'Human Rights Act 2019 (Qld) s 48, 58, 59'
-  - 'ADJR Act s 5(1)(h)'
-  - 'Migration Act s 58(1)'
-jurisdiction: 'Australia'
-assessment_relevance: 'This note is essential for understanding the doctrinal framework of judicial review and human rights review, crucial for exam essays on grounds of review and for oral assessments on administrative law.'
+  - admin-law
+  - legality-review
+  - unreasonableness
+  - jurisdictional-error
+  - human-rights
+  - judicial-review
 ---
-# Lecture 4 — Legality Review Part 2: Grounds of Review and Human Rights
+
+# Lecture 4 - Legality Review Part 2
 
 ## Overview
-Lecture slides covering the remaining grounds of legality (judicial) review, jurisdictional error, ouster clauses, and the interaction between administrative law and the Human Rights Act 2019 (Qld).
+This lecture covers major grounds of legality review beyond procedural fairness: unreasonableness, no evidence, jurisdictional facts, errors of law, fraud, bad faith, jurisdictional error, ouster clauses, and the interaction between judicial review and the `Human Rights Act 2019 (Qld)`.
 
-## Topics Covered
+## Key Doctrines
 
-### 1. Unreasonableness
-- **Wednesbury unreasonableness**: "so unreasonable that no reasonable person could have so exercised the power" — Associated Provincial Picture Houses v Wednesbury Corporation [1948]
-- **Minister for Immigration and Citizenship v Li (2013) 249 CLR 332** (key HCA decision):
-  - Unreasonableness can relate to the **reasoning process** or the **outcome** that "lacks an evident or intelligible justification"
-  - The court endorsed Gummow J's **three paradigms of unreasonableness** (from Fares Rural Meat):
-    1. Capricious selection of powers invading common law rights
-    2. Unjustified discrimination in distributing benefits/detriments
-    3. Exercise of power **out of proportion** to its scope
-- **Proportionality**: Ongoing debate about the relationship between unreasonableness and proportionality analysis — French CJ's "sledgehammer to crack a nut" metaphor in Li
+### Unreasonableness
+- Codified formula: a decision is reviewable if it is "so unreasonable that no reasonable person could have so exercised the power".
+- The slides stress the classic concern that courts must avoid slipping from legality review into impermissible merits review.
+- `Associated Provincial Picture Houses Ltd v Wednesbury Corporation [1948] 1 KB 223` is the starting point.
+- `Minister for Immigration and Citizenship v Li (2013) 249 CLR 332` is the leading Australian authority:
+  - unreasonableness may relate to the reasoning process;
+  - or to an outcome lacking an evident and intelligible justification.
+- The lecture links `Li` to Gummow J's three paradigms in `Fares Rural Meat & Livestock Co Pty Ltd v Australian Meat and Livestock Corporation (1990) 96 ALR 153`:
+  - capricious choice of power invading rights;
+  - unjustified discrimination;
+  - disproportional exercise of power.
+- The slides also note debate about overlap between unreasonableness and proportionality.
 
-### 2. No Evidence Ground
-- **Common law ground** (narrow): Absence of any factual foundation for the conditions on which the decision-maker's power depends — R v Australian Stevedoring Industry Board (1953)
-- **ADJR Act/JR Act ground** (s 5(1)(h), broader): "No evidence or other material to justify the making of the decision"
-- The "chain of reasoning" metaphor: A factual link that is critical to the decision — Curragh Queensland Mining v Daniel (1992)
+### No evidence and jurisdictional facts
+- Common law no-evidence review is narrow: there must be no factual foundation for the condition on which power depends.
+- Authority: `R v Australian Stevedoring Industry Board; Ex parte Melbourne Stevedoring Co Pty Ltd (1953) 88 CLR 100`.
+- The statutory no-evidence ground under the ADJR/JR model is broader than the common law position.
+- `Australian Broadcasting Tribunal v Bond (1990) 170 CLR 321` explains that breadth and its connection with error of law.
+- `Curragh Queensland Mining Ltd v Daniel (1992) 34 FCR 212` uses the "chain of reasoning" idea: a critical factual link with no support can invalidate the decision.
+- A jurisdictional fact is a factual criterion whose existence enlivens power.
+- `Plaintiff M70/2011 v Minister for Immigration and Citizenship (2011) 244 CLR 144` shows disagreement about whether the criterion is approached subjectively or objectively.
 
-### 3. Jurisdictional Facts
-- A jurisdictional fact is a **factual criterion** whose satisfaction enlivens a decision-making power
-- Example: Plaintiff M70/2011 — French CJ treated the decision-maker's subjective state of mind as a jurisdictional fact; Gummow, Hayne, Crennan and Bell JJ took a more objective approach
+### Errors of law
+- At common law, certiorari for non-jurisdictional error of law depended on error appearing on the face of the record.
+- Authority: `Craig v South Australia (1995) 184 CLR 163`.
+- The slides contrast this with the broader statutory error-of-law ground in ADJR-style legislation.
+- `Collector of Customs v Agfa-Gevaert Ltd (1996) 186 CLR 389` is used to show how difficult the law/fact distinction can be, while reinforcing that statutory interpretation errors are generally errors of law.
 
-### 4. Errors of Law
-- Common law ground linked to certiorari — requires error apparent on the **"face of the record"** (Craig v SA)
-- ADJR Act s 5(1)(f) is broader — potentially encompasses every ground of legality review
-- Distinguishing errors of law from errors of fact is "surprisingly complex" — Collector of Customs v Agfa-Gevaert (1996)
+### Fraud and bad faith
+- Because these allegations are serious, the `Briginshaw v Briginshaw (1938) 60 CLR 336` standard applies.
+- Fraud can be committed by a third party on the decision-maker: `SZFDE v Minister for Immigration and Citizenship (2007) 232 CLR 189`.
+- But fraud only invalidates if it adversely affects the exercise of a particular duty, function, or power: `Minister for Home Affairs v DUA16 (2020) 271 CLR 550`.
+- For bad faith, the key warning is that there is no deemed or constructive bad faith: `Minister for Immigration and Multicultural and Indigenous Affairs v SBAN [2002] FCAFC 431`.
+- `SBBS v Minister for Immigration and Multicultural and Indigenous Affairs (2002) 194 ALR 749` is treated as a summary of principle.
 
-### 5. Fraud and Bad Faith
-- Stricter standard of proof applies — **Briginshaw v Briginshaw** (1938)
-- Fraud includes fraud by **third parties** upon the decision-maker — SZFDE (2007)
-- But third-party fraud must have **adversely affected** a duty, function, or power of the decision-maker — DUA16 (2020)
-- Bad faith: No "deemed or constructive bad faith" — must be actual — SBAN [2002]
+### Jurisdictional error
+- The lecture distinguishes want of jurisdiction, excess of jurisdiction, and failure to exercise jurisdiction.
+- For tribunals and executive decision-makers, jurisdictional error grounds are broader than for courts.
+- `Anisminic Ltd v Foreign Compensation Commission [1969] 2 AC 147`, `Craig`, and `Kirk v Industrial Court of NSW (2010) 239 CLR 531` are the historical anchors.
+- `Ismail v Minister for Immigration, Citizenship and Multicultural Affairs (2024) 280 CLR 265` shows that failure to make a necessary inquiry may amount to jurisdictional error or legal unreasonableness.
+- Materiality matters: under `LPDT v Minister for Immigration, Citizenship, Migrant Services and Multicultural Affairs (2024) 280 CLR 321`, an error is usually jurisdictional only if there is a realistic possibility the decision could have been different without it.
+- Not every error of law by a tribunal is jurisdictional: `Hossain v Minister for Immigration and Border Protection (2018) 264 CLR 123`; `Probuild Constructions (Aust) Pty Ltd v Shade Systems Pty Ltd (2018) 264 CLR 1`.
 
-### 6. Jurisdictional Error and Ouster Clauses
-- **Craig v SA (1995)**: Jurisdictional error grounds are **broader for tribunals** than for courts
-- **Kirk v Industrial Court (2010)**: Not all errors of law are jurisdictional; jurisdictional error expresses the **gravity** of the error
-- **Materiality**: Error must be **"material"** — a realistic possibility the decision could have been different — LPDT (2024)
-- **Hossain (2018)**: Federal tribunals can make non-jurisdictional errors of law
-- **Ouster clauses**: Courts use jurisdictional error to **read down** ouster clauses:
-  - Anisminic (1969) — House of Lords
-  - Plaintiff S157 (2003) — HCA: s 474 Migration Act read as only protecting decisions not tainted by jurisdictional error
-  - Kirk (2010) — the Constitution entrenches State Supreme Courts' role in correcting jurisdictional errors
+### Ouster clauses
+- The slides emphasise the constitutional entrenchment of judicial review for jurisdictional error, especially via `s 75(v)` of the Constitution.
+- Courts read down privative clauses so they do not protect decisions affected by jurisdictional error.
+- Main authorities:
+  - `Plaintiff S157 v Commonwealth (2003) 211 CLR 476`;
+  - `Kirk`;
+  - `Bodruddaza v Minister for Immigration and Multicultural Affairs (2007) 228 CLR 651`;
+  - `Graham v Minister for Immigration and Border Protection (2017) 263 CLR 1`.
+- The lecture also notes implied exclusion of review for non-jurisdictional error in some statutory schemes, illustrated by `Probuild`.
 
-### 7. Human Rights Act 2019 (Qld)
-- **s 48**: Statutory interpretation must be compatible with human rights where possible
-- **s 58**: Public entities must act compatibly with human rights and give proper consideration to relevant human rights — potentially expands relevant/irrelevant considerations grounds
-- **s 59**: Allows a person to rely on a failure to act compatibly with human rights in legality review proceedings
-- **s 13**: Proportionality test for limits on human rights — more structured than Wednesbury unreasonableness
-- **Owen-D'Arcy (2021)**: Human Rights Act review is a **"more intensive standard"** than Wednesbury but does not drift into merits review
+## Human Rights Intersections
+- The slides tie legality review to the `Human Rights Act 2019 (Qld)` in several ways.
+- `s 48`: compatible interpretation reinforces the centrality of statutory interpretation in judicial review.
+- `s 13`: proportionality under the HRA is more structured than traditional Wednesbury-style unreasonableness.
+- `R (Daly) v Home Secretary [2001] 2 AC 532` and `Johnston v Carroll; Sutton v Carroll; Witthahn v Wakefield [2024] QSC 2` are used to show different intensities of review.
+- `Owen-D'Arcy v Chief Executive, Queensland Corrective Services (2021) 9 QR 250` supports the proposition that HRA unlawfulness review is more intensive than Wednesbury review, without collapsing into merits review.
+- `s 58` may expand the practical significance of relevant/irrelevant considerations because public entities must act compatibly with human rights and properly consider them.
+- `s 59` matters procedurally because HRA arguments can be raised in Supreme Court review proceedings.
+
+## Authorities To Remember
+- `Wednesbury`: classic unreasonableness formula.
+- `Li`: evident and intelligible justification.
+- `Bond`: broader statutory no-evidence ground.
+- `Plaintiff M70`: jurisdictional facts.
+- `Craig` and `Kirk`: structure of jurisdictional error.
+- `LPDT`: materiality.
+- `Plaintiff S157`: privative clauses read down.
+- `Owen-D'Arcy`: HRA review is more intensive than Wednesbury review.
+
+## Exam Use
+- If asked about **unreasonableness**, start with `Wednesbury`, then move quickly to `Li` and ask whether the reasoning process or outcome lacked evident and intelligible justification.
+- If given a factual error problem, separate **no evidence**, **jurisdictional fact**, and **error of law** before choosing the strongest ground.
+- If a statute appears to block review, raise **jurisdictional error plus privative clause authorities** rather than assuming review is excluded.
+- If a Queensland public entity is involved, consider whether the same facts also support an HRA argument under `ss 13, 48, 58, 59`.
+- In problem questions, keep the legality/merits distinction explicit throughout.
 
 ---
 
@@ -95,3 +110,4 @@ Lecture slides covering the remaining grounds of legality (judicial) review, jur
 - [[Admin Law/summaries/Week 4/Drake no.1 - Summary]] - Cases and statutory references (AAT Act, Constitution Act) are highly relevant to the grounds of review and human rights discussed in this lecture.
 - [[Admin Law/summaries/Week 4/Drake no.2 - Summary]] - Expands on government policy review in merits and administrative law, closely related to the theoretical and practical aspects of review in this lecture.
 <!-- agent:see-also:end -->
+

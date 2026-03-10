@@ -1,51 +1,46 @@
 ---
-type: article
-
-title: 'Reference'
+title: "French - Administrative Justice Summary"
+type: speech-summary
+author: "Chief Justice Robert French"
+source_title: "Administrative Justice - Words in Search of Meaning"
+source_event: "National Administrative Law Forum 2010"
+source_date: "2010-07-22"
+source_path: "Admin Law/sources/Week 2/Workshop study materials/French on Administrative Justice-French on Administrative Justice.md"
+jurisdiction: "Australia"
 tags:
-  - 'administrative-justice'
-  - 'legal-standards'
-  - 'procedural-fairness'
-  - 'merits-review'
-  - 'constitutional-values'
-summary: 'French defines administrative justice through four criteria—lawfulness, rationality, fairness, and intelligibility—and links it to broader values like efficiency and accessibility. Merits review is highlighted as a key element, reinforcing constitutional expectations of decision-making.'
-figures:
-  - 'Robert French'
-cases:
-  - 'Salomon v A Salomon & Co Ltd [1897] AC 22'
-statutes:
-  - 'Corporations Act 2001 (Cth)'
-  - 'Corporations Act s 181'
-jurisdiction: 'Australia'
-assessment_relevance: 'This note distills core doctrinal tests and institutional roles for exam essays on administrative law, especially around procedural fairness and merits review. It bridges theory and practice for oral assessments.'
----
-[[French on Administrative Justice]]
-
-# Reference
-Chief Justice Robert French, 'Administrative Justice – Words in Search of Meaning' (Speech delivered at the National Administrative Law Forum, 22 July 2010).
-
-# Overview / Key Points
-Chief Justice French explores the origins and utility of the term "administrative justice," seeking to define its core normative standards.
-
-*   **Evolution of the Term**: The term emerged from reflection on the objectives of administrative law, moving beyond mere procedural remedies to broader values.
-*   **The "Skeleton" Concept**: French J proposes a minimalist "bare bones" definition of administrative justice based on four criteria:
-    1.  **Lawfulness**: Decisions must be made in accordance with the rules prescribed by law.
-    2.  **Rationality**: Decisions must be logically open on the information available.
-    3.  **Fairness**: Procedural fairness is a central, non-optional requirement.
-    4.  **Intelligibility**: Reasons must be provided so the person affected knows why the decision was made.
-*   **Broader Elements**: Beyond the core, administrative justice includes efficiency, timeliness, accessibility, and affordability.
-*   **Merits Review**: External and independent merits review (like the AAT) is a distinct element of administrative justice, allowing for the "hard case" to be dealt with on an individual basis and diffusing executive power.
-*   **Acceptability**: Ultimately, administrative justice provides the "qualities of a decision process that provide arguments for the acceptability of its decisions."
-
-# Significance
-This speech provides a high-level conceptual framework for understanding the goal of the administrative law system. It bridges the gap between technical legal rules (like jurisdictional error) and the broader societal expectation of "justice" in government decision-making, emphasizing that these standards are anchored in the Constitution and the rule of law.
-
+  - administrative-law
+  - administrative-justice
+  - procedural-fairness
+  - merits-review
+  - rule-of-law
+summary: "French argues that 'administrative justice' is useful if it identifies general standards for official decision-making. Its bare minimum content is lawfulness, rationality, fairness, and intelligibility, supplemented by efficiency, timeliness, accessibility, affordability, and review mechanisms."
 ---
 
-## See also
-<!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 2/Creyke - Integrity in Government Summary]] - Both notes address administrative justice and share thematic overlap with integrity in government and institutional accountability.
-- [[Admin Law/summaries/Week 4/Chapter by Professor Creyke on Merits Review - Summary]] - This note directly references the same author and topic (merits review), making it highly relevant for cross-referencing legal standards and procedural fairness.
-- [[Admin Law/summaries/Week 4/The Administrative Review Tribunal Act 2024 - Summary]] - The note is relevant as it discusses statutory frameworks for administrative review, complementing the discussion of procedural fairness and judicial review.
-- [[Admin Law/summaries/Week 2/Groves & Boughey Summary]] - This summary provides an overview of administrative law principles that align with the topics of administrative justice and constitutional values.
-<!-- agent:see-also:end -->
+# Thesis
+French argues that "administrative justice" should not be an empty slogan. It is a useful concept only if it identifies general standards by which official decision-making and review can be judged and improved, especially at the level of the primary decision-maker.
+
+# Key Principles
+- **Administrative justice has a constitutional setting**: Its standards must be linked to representative democracy, the rule of law, separation of powers, and common law rights and freedoms.
+- **The core "skeleton" of administrative justice has four minimum requirements**:
+  1. **Lawfulness**: decisions must be made according to the statute and legal rules governing the power.
+  2. **Rationality**: the outcome must be logically open on the material properly before the decision-maker.
+  3. **Fairness**: procedural fairness is central, not optional, because a person affected should have a proper opportunity to respond and the decision-maker must avoid bias.
+  4. **Intelligibility**: reasons should be given so the affected person and reviewers can understand why the decision was made.
+- **Broader institutional values matter**: French adds efficiency, timeliness, accessibility, and affordability as further features of a just administrative system.
+- **Review is part of administrative justice**: Internal review, external merits review, and judicial review are all important because they correct error and diffuse administrative power.
+- **Primary decision-making is the real focal point**: The most important questions of administrative justice are answered before a matter reaches a court or tribunal.
+
+# Doctrinal Significance
+This speech provides a normative framework that ties together major topics in administrative law that are often studied separately, including legality, procedural fairness, reasons, rationality, efficiency, and review structures. It is useful because it explains why these doctrines matter: they are mechanisms for securing just administration rather than isolated technical rules.
+
+French also highlights the tension between individual fairness and large-scale administrative efficiency, especially in high-volume decision-making. That tension is a recurring exam theme in migration, social security, and tribunal review questions.
+
+# Exam-Use Takeaways
+- Use French when asked what values underpin Australian administrative law beyond narrow judicial review doctrine.
+- Cite the four bare-minimum standards: **lawfulness, rationality, fairness, intelligibility**.
+- Explain that administrative justice is not exhausted by court supervision; it also depends on sound primary decision-making and accessible review mechanisms.
+- Where an exam problem concerns reasons, hearing rights, bias, or irrationality, French helps connect those doctrines to a broader justification grounded in the rule of law.
+- Where a question asks whether administrative law is too technical or too court-centred, French supports the view that the field should be evaluated by how well it delivers practical justice to affected persons.
+
+# Bottom Line
+French presents administrative justice as a practical normative standard for official decision-making: lawful, rational, fair, intelligible, and supported by review structures that make the system efficient and accessible in practice.

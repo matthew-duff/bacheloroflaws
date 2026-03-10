@@ -1,89 +1,127 @@
 ---
-title: 'Workshop 3 Learning Guide and Questions — Merits Review'
+title: "Workshop 3 Learning Guide and Questions - Summary"
+source_title: "Learning Guide and Workshop 3 Questions-Workshop 3 Learning Guide and Workshop Questions"
+source_path: "Admin Law/sources/Week 4/Study materials for merits review/Learning Guide and Workshop 3 Questions-Workshop 3 Learning Guide and Workshop Questions.md"
+source_type: "workshop guide"
+week: 4
+topic: "Merits review"
 tags:
-  - 'merits-review'
-  - 'judicial-review'
-  - 'tribunal-independence'
-  - 'internal-review'
-  - 'external-review'
-  - 'procedural-fairness'
-  - 'remedial-powers'
-summary: 'This note explains that merits review reconsiders the substance of decisions, contrasting with judicial review''s focus on legality. It covers why merits review exists, its scope, tribunal independence, and procedural aspects, highlighting key distinctions and practical considerations for exam preparation.'
+  - admin-law
+  - merits-review
+  - art
+  - tribunal-independence
+  - judicial-review
 cases:
-  - 'Salomon v A Salomon & Co Ltd [1897] AC 22'
-  - 'ASIC v Two Value Investments Pty Ltd [2023] FCA 1234'
+  - "Drake v Minister for Immigration and Ethnic Affairs (1979) 46 FLR 409"
+  - "Re Drake and Minister for Immigration and Ethnic Affairs (No 2) (1979) 2 ALD 635"
+  - "Shi v Migration Agents Registration Authority (2008) 235 CLR 286"
+  - "Pochi v Minister for Immigration and Ethnic Affairs (1979) 36 FLR 482"
+  - "Sun v Minister for Immigration and Border Protection (2016) 243 FCR 220"
 statutes:
-  - 'Administrative Review Tribunal Act 2024 (Cth)'
-  - 'Corporations Act 2001 (Cth) s 181'
-jurisdiction: 'Australia'
-assessment_relevance: 'This note helps students distinguish merits review from judicial review, understand tribunal structures, and prepare for questions on procedural fairness and remedies in administrative law.'
----
-# Workshop 3 Learning Guide and Questions — Merits Review
-
-## Overview
-The Workshop 3 learning guide introduces administrative (merits) review, its rationale, the role of tribunals, tribunal independence, and the transition from the AAT to the ART. The workshop questions guide preparation on the substantive, procedural, and remedial aspects of merits review.
-
-## Key Concepts from the Learning Guide
-
-### Merits Review vs Judicial Review
-- Merits review reconsiders the **substance** of an administrative decision — what the "best" decision is
-- Judicial review examines **legality** — whether the decision was made according to law
-- There is **no inherent right** to merits review; it is a creature of statute. By contrast, judicial review is constitutionally entrenched
-
-### Why Merits Review Exists
-- Government decision-making is complex and officials make mistakes
-- Merits review is **cheaper, quicker, and more accessible** than courts
-- It serves as **quality assurance** — improving consistency and care in administrative decisions
-- It offers the potential of a **fresh decision** (substitution), unlike courts which can only quash and remit
-
-### Not All Decisions are Reviewable
-- Some decisions are excluded from merits review — e.g., national security assessments affecting non-citizens
-- Parliament determines the scope of merits review jurisdiction
-
-### Internal and External Review
-- **Internal review**: Reconsideration by the same department (e.g., Centrelink internal review)
-- **External review**: Review by an independent tribunal (e.g., ART)
-- Multiple tiers may exist — e.g., for social security: Centrelink → ART (three tiers) → Federal Court (on questions of law)
-
-### Tribunal Independence
-- Tribunal independence is **essential** for public confidence in administrative justice
-- Key threats: politically influenced appointments, fixed-term reappointment vulnerability, opaque processes
-- The AAT was abolished and replaced by the ART in 2024 partly due to concerns about **"political stacking"** of appointments
-- The ART Act requires an **assessment panel** (s 209) for appointments and sets clear **removal grounds** (s 221)
-
-### Where Tribunals Fit in Government
-- Formally within the **executive branch** but expected to adjudicate independently
-- Tribunals are the "last rung" of the administrative hierarchy before the courts
-- They straddle the executive and judicial branches — sometimes described as part of a **"fourth arm"** (integrity branch) of government
-
-## Workshop Questions Summary
-
-### Part A — Quick-Fire Questions
-1. Difference between merits and judicial review; why courts don't engage in merits review
-2. Rationale for parliamentary provision of merits review avenues
-3. ART's place in the tripartite system of government
-4. Features ensuring ART independence; reasons for abolishing the AAT
-
-### Part B — Guiding Principles for Merits Review
-5. The AAT/ART's function is **more than supervisory** — requires analysis of Drake No. 1, Drake No. 2, Shi v MARA including:
-   - The de novo function
-   - Role of government policy (Drake No. 2)
-   - Temporal limitations on evidence (Shi v MARA)
-   - Examples of "hybrid merits review"
-6. Procedure and evidence — based on Pochi (standard of proof, rules of evidence, public hearings) and Sun (onus/burden of proof)
-7. Remedial powers of the ART contrasted with judicial review remedies
-
-### Required Reading
-- Creyke, "Administrative Tribunals" Ch 5
-- Allars, "The Nature of Merits Review" (2013) 41 FLR 197, esp. pp 197–216 and 221–223
-- Administrative Review Tribunal Act 2024 (Cth)
-
+  - "Administrative Review Tribunal Act 2024 (Cth)"
+summary: "Concise exam note on the doctrinal structure of merits review, the role and independence of the ART, and the core authorities on de novo review, policy, procedure, evidence, and remedies."
 ---
 
-## See also
-<!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 4/Drake no.1 - Summary]] - Shares key topics such as merits review and administrative power, and discusses the AAT's 'correct or preferable decision' test, which is central to understanding the AAT's role.
-- [[Admin Law/summaries/Week 4/Drake no.2 - Summary]] - Directly related as it continues the discussion on government policy in AAT merits reviews, complementing the analysis from Drake No.1 and providing further detail on the 'correct or preferable decision' test.
-- [[Admin Law/summaries/Week 9-Workshop 6 Study Guide Summary]] - Covers similar ground on JR grounds including illegality and unreasonableness, making it relevant for cross-referencing legal principles and case applications.
-- [[Admin Law/summaries/Week 4/Pochi v Minister for Immigration - Summary]] - Shares key figures (e.g., Smithers J), important cases, and statutory references relevant to procedural fairness and tribunal powers, which are also discussed in the Drake cases.
-<!-- agent:see-also:end -->
+# Workshop 3 Learning Guide and Questions - Summary
+
+## Core doctrinal structure
+
+### What merits review is
+- Merits review is reconsideration of the substance of an administrative decision: the tribunal asks what the correct or preferable decision is.
+- Judicial review is different: courts supervise legality, not merits, because Ch III courts cannot exercise non-judicial power.
+- Merits review is statutory only. There is no entrenched common law or constitutional right to it, so scope and procedure depend on the legislation creating it.
+
+### Why merits review exists
+- It provides a cheaper, quicker, and more accessible avenue for challenging government decisions than court litigation.
+- It promotes access to justice because many affected people can use it without full legal representation.
+- It functions as quality control for administration by exposing primary decisions to further scrutiny and potential correction.
+- It can give practical relief by setting aside the original decision and substituting a fresh one.
+
+### Why all decisions are not reviewable
+- Parliament decides which decisions attract merits review and on what terms.
+- Some decisions are excluded because they are treated as highly sensitive or political, including some national security-related decisions affecting non-citizens.
+
+### Internal and external review
+- Internal review is reconsideration within the same department.
+- External review is conducted by an independent tribunal such as the ART.
+- A common structure is: primary decision -> internal review -> tribunal merits review -> court appeal on a question of law.
+
+## Where tribunals fit constitutionally
+- Federal tribunals sit within the executive branch, not the judicial branch.
+- They are often described as the last rung of the administrative hierarchy before the courts.
+- Their role is adjudicative and they must act independently and fairly, but they do not exercise judicial power in the Ch III sense.
+- This institutional position explains why tribunals can undertake full merits reconsideration while courts cannot.
+
+## Tribunal independence
+
+### Why it matters
+- Public confidence in merits review depends on the tribunal being, and appearing to be, independent from the executive whose decisions it reviews.
+- The key concern is whether appointment, reappointment, removal, or remuneration arrangements could distort impartial adjudication.
+
+### Features identified in the guide
+- Merit-based and transparent appointments are essential.
+- The ART Act requires an assessment panel for appointments: `s 209`.
+- Removal grounds are set out by statute, reducing arbitrary executive control: `s 221`.
+- Remuneration being fixed independently supports institutional integrity.
+- Fixed-term appointments can still create pressure around reappointment, so transparency matters.
+
+### Why the AAT was abolished and replaced by the ART
+- The guide links the 2024 replacement to concerns about politicised appointments, poor-quality decision-making, and loss of public confidence in the AAT.
+
+## Authorities to cite
+
+### `Drake v Minister for Immigration and Ethnic Affairs (No 1)`
+- Key authority that the AAT's function is not merely supervisory.
+- Explains the tribunal's de novo character: it stands in the shoes of the original decision-maker and determines the correct or preferable decision according to law as applied to the facts.
+- Also important on the constitutional compatibility of a federal judge serving on the AAT.
+
+### `Re Drake (No 2)`
+- Brennan J explains the role of government policy in merits review.
+- Tribunal policy is relevant and often should be followed for consistency, but it cannot displace the statute.
+- The tribunal must not apply policy mechanically; it must decide whether following policy produces the correct or preferable decision in the individual case.
+
+### `Shi v Migration Agents Registration Authority`
+- Leading High Court authority on the nature of federal merits review.
+- Supports the proposition that merits review can consider up-to-date material and is not always confined to the facts as they stood at the time of the original decision.
+- Also shows that review is not invariably a full "do-over": the statute and subject matter may shape the scope of review, which is why Allars refers to "hybrid merits review."
+
+### `Pochi v Minister for Immigration and Ethnic Affairs`
+- Important on tribunal procedure and evidence.
+- Supports the idea that strict court-based evidentiary rules do not directly control tribunal proceedings.
+- Also relevant to public hearings, exclusion of the public, and the statutory power to proceed in camera in appropriate cases.
+
+### `Sun v Minister for Immigration and Border Protection`
+- Important on burden or onus of proof in administrative review.
+- Warns against importing civil litigation concepts too rigidly into tribunal merits review.
+
+## Procedure, evidence, and hearing standards
+- Tribunal procedure is more flexible and informal than court procedure.
+- Even so, tribunals must still afford procedural fairness.
+- Rules of evidence are not applied in the same strict way as in ordinary civil litigation.
+- Concepts like burden of proof are of limited and context-dependent relevance in merits review.
+- Public hearing is the norm, but the statute may permit closed hearings where justified.
+- The guide directs comparison between former `s 35` of the AAT Act and `s 69` of the ART Act on non-public hearings.
+
+## Remedial powers
+- The ART can affirm a decision.
+- It can vary a decision.
+- It can set aside a decision and substitute the correct or preferable decision.
+- It can remit the matter for reconsideration with directions or recommendations if the statute permits.
+- This is broader and more practical than judicial review remedies, where a court usually quashes, prohibits, compels, or remits for legal error rather than remaking the merits itself.
+
+## Compact problem-question checklist
+- Identify the statutory source of review: is merits review actually available?
+- Distinguish merits review from judicial review: substance versus legality.
+- State the tribunal's task: reach the correct or preferable decision.
+- Ask whether the tribunal is conducting full de novo review or a more limited, statute-shaped form of review.
+- Consider whether government policy is relevant and whether it should be followed consistently with the statute.
+- Address procedure: fairness, flexibility, evidence, and whether public or closed hearing rules apply.
+- Do not assume a strict burden of proof as in civil litigation.
+- Identify the available remedy: affirm, vary, set aside and substitute, or remit.
+- If independence is in issue, discuss appointments, tenure, removal, remuneration, and the rationale for the ART reforms.
+
+## Quick oral-exam answers
+- Why do courts not decide merits? Because federal courts are confined to judicial power and cannot remake executive decisions on their merits.
+- Why provide merits review? Access to justice, cheaper and quicker correction of error, better administration, and more practical relief.
+- Where is the ART located? In the executive branch, as an independent merits review body within the administrative system.
+- What is the exam phrase to remember? The tribunal decides the "correct or preferable decision."

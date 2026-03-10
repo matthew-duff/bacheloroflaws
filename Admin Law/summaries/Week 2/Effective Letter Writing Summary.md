@@ -1,50 +1,89 @@
 ---
-type: textbook
-
-title: 'Reference'
+title: Effective Letter Writing Summary
+type: practical-skills
+source_title: Effective letter writing
+source_path: Admin Law/sources/Week 2/Workshop study materials/Effective letter writing-Effective letter writing.md
+source_context: Week 2 workshop study materials
 tags:
-  - 'substance-over-form'
-  - 'professional-standards'
-  - 'decision-notices'
-  - 'legal-integrity'
-  - 'clear-communication'
-summary: 'Effective legal letter writing hinges on substance, clarity, and proper structure, ensuring professional standards and avoiding negligence. It covers planning, logical sequencing, plain English, and layout considerations.'
-jurisdiction: 'Australia'
-assessment_relevance: 'This note distills key principles for exam preparation and oral assessments, focusing on drafting standards, decision-making rationale, and communication best practices.'
----
-[[Effective letter writing]]
-
-# Reference
-'Letter Writing' in *Clear and Precise: Writing skills for today's lawyer*.
-
-# Overview / Key Points
-This extract provides practical guidance on effective legal letter writing, emphasizing substance, language, and layout.
-
-*   **Substance**:
-    *   **Planning**: Determine the purpose (to inform, persuade, request, or record) and whether a letter is the best medium.
-    *   **Instructions**: Follow client instructions precisely to avoid professional negligence.
-    *   **Accuracy**: Ensure all facts and legal references are accurate.
-*   **Language**:
-    *   **Logical Sequence**: Rank issues logically (e.g., chronological, importance, or problem-to-solution).
-    *   **Plain English**: Avoid legal jargon (e.g., "instant", "ultimo", "on even date"). Use active voice and complete sentences.
-    *   **Clarity**: Say what you mean and follow through with stated consequences. Avoid unnecessary apologies or exaggeration.
-*   **Layout**:
-    *   **Reader-friendly**: Use plenty of white space, clear fonts, and numbered paragraphs for long letters.
-    *   **Style Guides**: Adhere to firm-specific formatting rules.
-*   **Special Contexts**:
-    *   **Decision Letters**: When providing reasons for a decision, use clear, non-legalistic language. Include findings of material fact and the evidence relied upon.
-    *   **Email**: Treat emails with the same caution as formal letters. Be aware of the risks of misdirection and the permanent nature of electronic records.
-
-# Significance
-Effective communication is a core skill for administrative lawyers, particularly when drafting decision notices or advising clients. This source provides the foundational "how-to" for the practical workshop tasks, ensuring that legal communication meets professional standards of clarity, accuracy, and accountability.
-
+  - admin-law
+  - legal-writing
+  - practical-skills
+  - decision-letters
+  - email
+summary: Concise principles for legal letter writing: identify purpose, structure information logically, use plain English, maintain accuracy, and present content in a reader-friendly format.
+jurisdiction: Australia
+assessment_relevance: Useful for workshop drafting tasks and exam answers about clear reasons, professional communication, and legally effective correspondence.
 ---
 
-## See also
-<!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 2/Creyke - Integrity in Government Summary]] - Both notes address integrity in government and institutional accountability, with Creyke's framework complementing the discussion of administrative justice and compliance culture.
-- [[Admin Law/summaries/Week 1-Lecture 1 Summary]] - This foundational note covers core principles like rule of law and separation of powers, which underpin the concepts of administrative integrity and accountability discussed in the reference.
-- [[Admin Law/summaries/Week 12/LPDT v Minister]] - The case is pivotal for understanding jurisdictional error and the materiality test, directly relating to administrative decision-making standards and procedural compliance.
-- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - This note examines challenges to natural justice and delegation in automated decision-making, a contemporary extension of administrative justice principles.
-- [[Admin Law/summaries/Week 2/French - Administrative Justice Summary]] - Although summary is empty, its focus on administrative justice aligns with the reference’s emphasis on professional standards and clear communication in official writing.
-<!-- agent:see-also:end -->
+# Effective Letter Writing
+
+## Core framework
+- Effective legal letters depend on three things: `substance`, `language`, and `layout`.
+- Before writing, decide whether a letter is the best form of communication.
+- Most legal letters aim to `inform`, `persuade`, `request`, or `record`.
+
+## Substance
+- Plan the letter around its purpose, audience, and desired outcome.
+- Follow client instructions precisely, especially when writing to third parties; failure to do so can create professional negligence risk.
+- Check all facts carefully before sending because a letter is difficult to retract once sent.
+- If law is mentioned, it must be accurate, but advice to non-lawyers should avoid unnecessary legal detail.
+- State consequences only if you are prepared to follow through.
+- Avoid exaggeration and unnecessary apology; be firm, accurate, and restrained.
+
+## Language
+- Present issues in a logical sequence. Suitable structures include chronological order, order of importance, or problem-to-solution.
+- Use plain English rather than lawyerly jargon.
+- Avoid dated expressions like `instant`, `ultimo`, and `on even date`; use clear dates such as `13 February` or `today`.
+- Use complete sentences, preferably in the active voice.
+- Keep one main idea per sentence to avoid confusion.
+- If technical language is unavoidable, explain it simply the first time it appears.
+
+## Layout
+- Use the firm's style guide if one exists.
+- Make the letter easy to read with spacing, short paragraphs, and numbered paragraphs where useful.
+- Reader-friendly presentation matters because dense text reduces comprehension.
+
+## Purpose-specific guidance
+### Inform
+- Give the required information succinctly.
+- In advice letters, it may help to begin with a short summary of the key advice.
+- Client instructions within the letter should be simple and action-focused.
+
+### Persuade
+- State the position early.
+- Match the strength of the argument to the anticipated resistance.
+- Support the position with facts, legal reasons, or other persuasive material as appropriate.
+
+### Request
+- Keep requests short and courteous unless a confrontational tone is deliberately required, such as in a demand.
+- When replying to a request, give only the information asked for.
+
+### Record
+- Use letters to confirm oral instructions, meetings, actions, or conversations.
+- Recording letters have evidentiary value, so every detail must be accurate.
+
+## Decision letters
+- When giving reasons for a decision, write for the actual reader rather than for appellate scrutiny alone.
+- Reasons should explain the decision in clear, unambiguous language.
+- A useful structure is:
+  1. Simple subject line.
+  2. Introductory paragraph with formal context.
+  3. Early statement of the decision and any next steps.
+  4. Summary of reasons if the matter is complex.
+  5. Separate heading for the reasons.
+  6. Clear headings throughout.
+- State relevant principles and apply them, rather than relying on long unexplained quotations.
+- Summarise submissions where possible instead of quoting them at length.
+
+## Email cautions
+- Treat email with the same care as formal correspondence.
+- Do not rely on the apparent informality of email.
+- Check `reply`, `forward`, recipients, and attachments carefully before sending.
+- Avoid sending material that would be harmful if forwarded or quoted.
+- Be especially cautious with confidential or sensitive information.
+- Use a clear subject line and remain polite, professional, and non-sarcastic.
+
+## Exam / study use
+- For drafting questions, organise answers around `purpose`, `accuracy`, `plain English`, `logical structure`, and `reader-focused layout`.
+- For administrative law decision-writing questions, link clear reasons to accountability, intelligibility, and effective review.
+- For professional responsibility problems, use the source to support points about following instructions, accuracy, and the risks of careless email communication.

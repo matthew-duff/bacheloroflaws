@@ -1,79 +1,71 @@
 ---
 title: 'Margaret Allars, "The Nature of Merits Review: A Bold Vision Realised in the Administrative Appeals Tribunal" (2013) 41 Federal Law Review 197'
+author: 'Margaret Allars'
+year: 2013
+source_type: article
+journal: 'Federal Law Review'
+citation: '(2013) 41 Federal Law Review 197'
+source_path: '/Users/matthewduff/Documents/bacheloroflaws/Admin Law/sources/Week 4/Study materials for merits review/Workshop three prescribed reading/Article by Professor Allars on merits review-Article by Professor Allars on merits review.md'
+summary: 'Allars argues that full merits review is a de novo exercise of administrative power, best captured by the AAT''s duty to reach the correct or preferable decision on the material before it; statutory departures from that model are better understood as hybrid merits review, and judicial review remains a distinct legality function.'
 tags:
-  - 'merits-review'
-  - 'de-novo-review'
-  - 'hybrid-merits'
-  - 'tribunal-independence'
-  - 'administrative-powers'
-summary: 'The note analyses the evolution and doctrinal distinctions of merits review in Australia, focusing on the AAT''s role, judicial review versus merits review, and hybrid forms, highlighting key cases and scholarly debates.'
-figures:
-  - 'Bowen CJ'
-  - 'Deane J'
-  - 'Smithers J'
-  - 'Drake'
-  - 'Kerr Committee'
-  - 'Bland Committee'
-  - 'Shi'
-cases:
-  - 'Drake No. 1 [1987] FCA 123'
-  - 'Drake No. 2 [1991] FCA 456'
-  - 'Shi v MARA [2000] HCA 123'
-  - 'Fox v Percy [2002] FCA 789'
-statutes:
-  - 'Administrative Review Tribunal Act 2024'
-  - 'Corporations Act 2001 (Cth)'
-  - 'Federal Environment Protection and Biodiversity Conservation Act 1999 (EPBC Act)'
-jurisdiction: 'Australia'
-assessment_relevance: 'This note consolidates key theoretical and doctrinal debates on merits review, useful for exam essays on tribunal powers, judicial review distinctions, and hybrid review forms.'
+  - admin-law
+  - merits-review
+  - AAT
+  - judicial-review
+  - hybrid-merits-review
+assessment_relevance: 'High. This article gives the doctrinal account of what full merits review is, why Shi matters, and how to distinguish merits review from judicial review in essays and problem questions.'
 ---
-# Margaret Allars, "The Nature of Merits Review: A Bold Vision Realised in the Administrative Appeals Tribunal" (2013) 41 Federal Law Review 197
+# Allars on merits review
 
-## Overview
-A detailed academic analysis of the nature and evolution of the AAT's merits review function, from the Kerr Committee's recommendations through Drake No. 1, Drake No. 2, and Shi v MARA. The article argues that full merits review is a de novo exercise of administrative power, distinguishable from both judicial review and from "hybrid" forms of limited merits review.
+## Thesis
+Allars' central claim is that **full merits review** in the AAT is a **de novo exercise of administrative power**, not merely error-correction and not an exercise of judicial power. Properly understood, that conception explains the AAT's ability to reach the **correct or preferable decision on the material before it**, helps identify when statutes create only **hybrid merits review**, and guards against overstating similarities between merits review and **judicial review**.
 
-## Key Themes
+## Key arguments
 
-### Part I — Early Conceptions of the AAT's Function
-- **Two competing approaches** emerged in Drake No. 1:
-  - **Bowen CJ and Deane J**: The AAT determines **"the correct or preferable decision on the material before the Tribunal"** — a compendious label for a structured decision-making process driven by the statute, not an external criterion
-  - **Smithers J**: The AAT applies an **"objective standard of good government"** — an external evaluative criterion
-- Brennan J in **Drake No. 2** rejected the "good government" test, adopting the "correct or preferable" formula and emphasising cautious departures from policy
-- Smithers J later accepted the "correct or preferable" formula in **Pochi**, settling the matter
+### 1. The orthodox AAT function comes from `Drake`, not from an external "good government" test
+- In `Drake (No 1)`, Bowen CJ and Deane J described the tribunal's task as deciding whether the original decision is the **correct or preferable one on the material before the Tribunal**.
+- Allars treats this as the enduring and orthodox account because it reflects the AAT's role as an **independent administrative decision-maker** applying the statute afresh.
+- She rejects Smithers J's competing language of an **"objective standard of good government"**, because that suggests an external criterion inconsistent with the actual concept of merits review.
+- `Drake (No 2)` and later authority are presented as resolving the issue in favour of the **correct/preferable** formula.
 
-### The Kerr and Bland Committees
-- The **Kerr Committee** (1971) proposed the AAT as part of a comprehensive system of merits review standing alongside judicial review — a "bold vision" for individual justice
-- The **Bland Committee** (1973) took a more cautious approach, viewing the proposed tribunal as "an extension of the administrative process"
-- Bowen CJ/Deane J's language aligns with the Kerr Committee; Smithers J's language with the Bland Committee
-- The AAT's independence (its own statute, independent members) meant it could never be merely an extension of the administrative process
+### 2. The Kerr Committee's "bold vision" matters
+- The article links the orthodox understanding of merits review to the **Kerr Committee's** design of a broad, independent tribunal system standing **alongside judicial review**.
+- That vision was not that the tribunal would merely continue departmental process, but that it would provide a distinct avenue for **administrative justice in the individual case**.
+- Allars uses this history to explain why the AAT's institutional independence is doctrinally important: an independent tribunal cannot sensibly be reduced to an "extension of the administrative process".
 
-### Part II — The High Court in Shi
-- Shi was the **first HCA decision** directly examining the AAT's merits review function
-- The Court endorsed the "correct or preferable decision" formula and de novo review
-- The article analyses the fourfold classification of appeals from Fox v Percy — merits review most closely resembles **de novo review** (category 4), not re-hearing
-- Key distinction: in de novo review, the tribunal exercises power **regardless of error**, hearing the matter afresh
+### 3. `Shi` confirms the de novo nature of full merits review
+- Allars treats `Shi v Migration Agents Registration Authority` as the High Court's first direct treatment of the AAT's merits review function.
+- The key point is that the AAT generally decides on the **latest material before it**, unless the statute imposes a contrary limit.
+- She reads `Shi` as confirming that merits review is not confined to asking whether the original decision-maker erred on the original record; rather, the tribunal may effectively **do over again** what the original decision-maker was required to do.
+- Using the `Fox v Percy` categories, she says full merits review most closely resembles **de novo review**, not an appeal in the strict sense and not a standard re-hearing.
 
-### Part III — Hybrid Merits Review
-- Some statutory schemes impose limitations that produce something **less than full merits review** — termed "hybrid merits review"
-- Examples include temporal limitations (requiring assessment at the date of the original decision) and restrictions on the material the tribunal may consider
-- These hybrid forms arise from specific statutory contexts, not from the general nature of merits review
+### 4. Some statutory schemes create only hybrid merits review
+- Allars argues that some review regimes are so constrained that they are not examples of **full** merits review, even though they retain some merits characteristics.
+- She uses **hybrid merits review** to describe schemes where statutory limits narrow the tribunal's function, for example by:
+  - confining attention to a past point in time;
+  - restricting the evidence or information that can be used;
+  - making identification of error a threshold requirement before remedial powers are exercised.
+- The important doctrinal point is that these are **statutory exceptions or variations**, not the core meaning of merits review.
 
-### Part IV — Merits Review vs Judicial Review
-- Full merits review is **fundamentally different** from judicial review:
-  - Merits review is a de novo exercise of administrative power; judicial review examines legal correctness
-  - The AAT can make new factual findings; courts generally cannot
-  - The AAT can substitute its decision; courts can only quash and remit
-- The article warns against misconceptions that conflate judicial review with merits review — they serve different purposes in the administrative law system
+### 5. Judicial review remains fundamentally different
+- Allars insists that courts on judicial review do **not** re-exercise the administrator's power.
+- Judicial review is concerned with **legal correctness**, not with reaching the preferable substantive outcome.
+- Even where judicial review involves close scrutiny of facts or reasoning, the court still asks whether there is **legal error** and ordinarily responds by **quashing and remitting**, not by substituting the court's own administrative decision.
+- This distinction matters because claims that Australian judicial review resembles merits review risk obscuring the constitutional and functional differences between courts and tribunals.
 
-## Significance
-- Provides the most comprehensive academic account of the nature of merits review in Australia
-- Essential reading for understanding the theoretical foundations of the AAT/ART's function
-- Clarifies the distinction between full merits review, hybrid merits review, and judicial review
-- Directly addresses Workshop 3 questions on the nature and scope of merits review
+## Doctrinal significance
+- Gives a strong doctrinal definition of **full merits review**: a fresh exercise of the same administrative power.
+- Explains why the formula **"correct or preferable decision"** is not just a slogan, but the best shorthand for the tribunal's task.
+- Shows that `Shi` is important not only for temporal questions, but because it confirms the **nature** of AAT review.
+- Supplies a useful category, **hybrid merits review**, for statutory schemes that look like merits review but fall short of the full AAT model.
+- Reinforces the orthodox distinction between **merits review** and **judicial review**, which is crucial across Australian administrative law.
 
----
-
-## See also
-<!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 4/The Administrative Review Tribunal Act 2024 - Summary]] - This statute directly shapes the legal framework governing merits review tribunals discussed in the article.
-<!-- agent:see-also:end -->
+## Exam-use takeaways
+- If asked **what merits review is**, say it is ordinarily a **de novo administrative redecision** in which the tribunal stands in the shoes of the original decision-maker and reaches the **correct or preferable** decision on the material before it.
+- If asked **why `Shi` matters**, say it confirms that full merits review usually proceeds on **current material**, unless the statute indicates a temporal or other limit.
+- If a statute narrows the review function, discuss whether it creates **hybrid merits review** rather than assuming all "review" is full merits review.
+- If comparing **merits review and judicial review**, emphasise:
+  - merits review remakes the administrative decision;
+  - judicial review polices legality;
+  - courts usually remit, while merits reviewers can substitute.
+- In problem questions, always identify the **statutory context** before assuming the reviewer has full merits review powers.

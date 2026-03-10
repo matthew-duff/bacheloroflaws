@@ -1,72 +1,143 @@
 ---
-type: lecture-slides
-
-title: 'Lecture 9: Remedies Revision Summary'
+type: lecture-summary
+title: "Lecture 9 Remedies Revision Summary"
+source: "/Users/matthewduff/Documents/bacheloroflaws/Admin Law/sources/Week 12/Lecture 9 - PowerPoint slides-2026 - Lecture 9 - slides Remedies revision.md"
+source_type: powerpoint-slides
+week: 12
+topic: remedies-revision
 tags:
-  - 'judicial-review-costs'
-  - 'interlocutory-relief'
-  - 'stays-injunctions'
-  - 'prima-facie-case'
-  - 'balance-of-convenience'
-  - 'injunctions-criminal-law'
-  - 'standing-public-law'
-  - 'special-interest-test'
-  - 'statutory-common-law-equitable-remedies'
-summary: 'This note consolidates key doctrines on remedies in administrative law, focusing on court costs under the JR Act, interlocutory relief, and the limited use of injunctions to enforce criminal law. It clarifies standing requirements and the interplay between statutory, common law, and equitable remedies.'
-cases:
-  - 'ABC v O’Neill [2023] QSC 123'
-  - 'Central Queensland Speleological Society v Central Queensland Cement [2022] QSC 456'
-  - 'Onus v Alcoa [2021] QSC 789'
+  - admin-law
+  - remedies
+  - judicial-review
+  - costs
+  - interlocutory-relief
+  - injunctions
+  - standing
+summary: "Exam-focused revision note on JR Act costs, stays and interlocutory injunctions, injunctions enforcing the criminal law, standing, and the remedies taxonomy."
 statutes:
-  - 'Judicial Review Act 1991 (Qld)'
-  - 'ADJR Act Part 3'
-  - 'Corporations Act s 181'
-jurisdiction: 'Queensland, Australia'
-assessment_relevance: 'This note distills complex procedural doctrines into exam-ready points, highlighting the unique costs regime and standing test under Queensland administrative law, crucial for essay and problem questions.'
+  - "Judicial Review Act 1991 (Qld) ss 29, 49, 50"
+  - "Judicial Review Act 1991 (Qld) Parts 3, 4, 5"
+  - "Administrative Decisions (Judicial Review) Act 1977 (Cth)"
+cases:
+  - "Re Murphy and Minister for Minerals and Energy (1995) 2 QAR 94"
+  - "Australian Broadcasting Corporation v O'Neill (2006) 227 CLR 57"
+  - "Bateman's Bay Local Aboriginal Land Council v Aboriginal Community Benefit Fund Pty Ltd (1998) 194 CLR 247"
+  - "Onus v Alcoa of Australia Ltd (1981) 149 CLR 27"
+  - "Gouriet v Union of Post Office Workers [1978] AC 435"
+  - "Central Queensland Speleological Society v Central Queensland Cement [1989] 2 Qd R 512"
 ---
-[[2026 - Lecture 9 - slides Remedies revision]]
+[[Lecture 9 - PowerPoint slides-2026 - Lecture 9 - slides Remedies revision]]
 
-# Lecture 9: Remedies Revision Summary
+# Lecture 9 Remedies Revision Summary
 
-## Overview
-This lecture provides a comprehensive revision of remedies in administrative law, focusing on court costs under the *Judicial Review Act 1991* (Qld) ('JR Act'), interlocutory relief (stays and injunctions), and the specific challenges of using injunctions to enforce criminal law. It also covers the distinction between statutory, common law, and equitable remedies, and provides exam-related information.
+## Revision structure
 
-## Key points
+This lecture is a remedies revision class. The slides revise:
 
-### Court Costs under the JR Act
-- **Reasons (s 50):** The Supreme Court has the power to make special costs orders for proceedings to vindicate the statutory right to reasons. This varies the usual rule that "costs follow the event." There is no equivalent in the *ADJR Act*.
-- **Judicial Review (s 49):** Special powers for costs orders in JR proceedings. Indemnity orders under s 49(1)(d) operate prospectively, making early application crucial.
+- costs when seeking reasons and legality review;
+- interlocutory relief in public law litigation;
+- injunctions used to enforce the criminal law;
+- the overall remedies taxonomy for legality review;
+- standing and remedy selection through a revision problem.
 
-### Interlocutory Relief
-- **Stays (s 29 JR Act):** Functionally equivalent to interlocutory injunctions.
-- **Interlocutory Injunctions:** Require a two-part inquiry (*ABC v O’Neill*):
-    1. **Prima facie case:** Probability that the plaintiff will be entitled to relief at trial.
-    2. **Balance of convenience:** Whether the injury to the plaintiff if refused outweighs the injury to the defendant if granted.
-- **Undertaking as to Damages:** Usually required in commercial litigation to compensate the defendant if the plaintiff's case fails. In public interest cases, the court may take public interest into account when considering the "balance of convenience" if the undertaking is inadequate (*Central Queensland Speleological Society v Central Queensland Cement*).
+## 1. Costs under the JR Act
 
-### Injunctions to Enforce Criminal Law
-- This is an "exceptional" power that must be "jealously guarded" (*Bateman's Bay*; *Onus v Alcoa*; *Gouriet*).
-- **Concerns:** It bypasses the criminal standard of proof (jury trial) and can impose unlimited sanctions (contempt) for acts Parliament only penalised with small fines.
-- **Usage:** Typically confined to cases of emergency or frequent repetition in disregard of inadequate penalties.
+### Right to reasons
 
-### Standing (Locus Standi)
-- **Special Interest Test:** To prevent violation of a public right using the court's inherent jurisdiction (declarations/injunctions), a plaintiff must show a "special interest... beyond that of any other member of the public" (*Onus v Alcoa*).
-- There is a likely convergence of standing tests between statutory and common law/equitable paths.
+- `JR Act s 50` lets the Supreme Court make a special costs order where proceedings are brought to vindicate the statutory right to reasons.
+- This displaces the ordinary rule that costs usually follow the event.
+- The slides stress there is **no equivalent provision in the ADJR Act**.
 
-### Summary of Remedies
-- **Statutory:** *ADJR Act* / *JR Act* Part 3 (codified grounds and remedies).
-- **Common Law:** Prerogative and Constitutional Writs (incorporated into Part 5 of the *JR Act* in Qld).
-- **Equitable:** Declarations and Injunctions (found both within and outside Part 5 of the *JR Act*).
+### Judicial review proceedings
 
-## Significance
-This revision highlights the procedural nuances of administrative law in Queensland, particularly the unique costs provisions of the *JR Act* and the high threshold for interlocutory relief in public law matters. It emphasizes the "special interest" requirement for standing and the cautious approach courts take when civil remedies are sought to enforce criminal statutes, ensuring that the separation of powers and criminal procedural protections are maintained.
+- `JR Act s 49` gives the Supreme Court special costs powers in judicial review proceedings.
+- The key exam point is that an indemnity order under `s 49(1)(d)` only operates **prospectively**.
+- Therefore, if seeking that protection, the application should be made early.
 
----
+## 2. Interlocutory relief
 
-## See also
-<!-- agent:see-also:start -->
-- [[Admin Law/summaries/Week 12/Lecture 10 Automated Decision-making Summary]] - Shares topics such as administrative justice, legality review, and statutory discretion, and discusses how automation affects traditional admin law principles.
-- [[Admin Law/summaries/Week 12/Week 12 Overview Summary]] - Provides an overview of the week’s topics, including remedies, which complements the detailed revision summary.
-- [[Admin Law/summaries/Week 12/Workshop 9 Guide Summary]] - Workshop 9 addresses rights to reasons and judicial review, closely related to remedies and judicial review principles.
-- [[Admin Law/summaries/Week 13/Workshop 10 Guide Summary]] - Workshop 10 focuses on remedies, offering further context and application to the concepts in this revision summary.
-<!-- agent:see-also:end -->
+### Stays
+
+- The slides treat stays under `JR Act s 29` as an important interlocutory remedy when legality review is on foot.
+- `Re Murphy and Minister for Minerals and Energy` raises, but does not conclusively decide, whether a court granting a stay under `s 29` can require an undertaking as to damages.
+
+### Interlocutory injunctions
+
+From *Australian Broadcasting Corporation v O'Neill*:
+
+- a plaintiff must show a **prima facie case** in the sense that, if the evidence remains as it is, there is a probability of ultimate entitlement to relief;
+- the court must then assess the **balance of convenience**.
+
+The slides also emphasise:
+
+- interlocutory injunctions are functionally equivalent to stays in this setting;
+- the applicant must show more than that the claim is merely "not frivolous or vexatious";
+- in ordinary commercial litigation, an undertaking as to damages is usually required.
+
+## 3. Injunctions to enforce the criminal law
+
+This is presented as an **exceptional** jurisdiction that must be approached cautiously.
+
+### Core authorities
+
+- *Bateman's Bay*: special considerations apply when injunctions are used to enforce the criminal law; *Onus v Alcoa* is treated as exceptional.
+- *Onus v Alcoa*: courts must jealously guard this jurisdiction, even though preventive relief may better protect irreplaceable subject matter than punishment after the event.
+- *Gouriet*: civil assistance in aid of the criminal law is generally confined to repeated offending with inadequate penalties or to emergencies, and must be used with caution.
+
+### Why the jurisdiction is "jealously guarded"
+
+The slides identify two key concerns:
+
+- an injunction backed by contempt sanctions may effectively impose sanctions more severe than Parliament chose for the offence;
+- civil proceedings may sidestep criminal procedure protections, including criminal standards of proof and, where relevant, trial by jury.
+
+## 4. Public interest litigation, standing, and undertakings
+
+*Central Queensland Speleological Society v Central Queensland Cement* is used as the main illustration combining:
+
+- attempted enforcement of the criminal law by injunction;
+- public interest standing issues;
+- the practical problem of undertakings as to damages.
+
+Exam points from the slides:
+
+- Thomas J noted that in a commercial case an inadequate undertaking as to damages would commonly be decisive.
+- But public interest considerations may still be relevant to the balance of convenience.
+- Derrington J warned that inability to give an adequate undertaking may create a danger of abuse of the system of justice and justify refusal of interlocutory relief.
+
+## 5. Remedies taxonomy
+
+The lecture's summary map of remedies is:
+
+- **Statutory remedies**: `ADJR Act` and `JR Act Part 3`, which codify legality grounds and provide statutory remedies.
+- **Reasons**: in Queensland, the right to reasons is separately provided in `JR Act Part 4`.
+- **Common law remedies**: prerogative and constitutional writs, incorporated in Queensland through `JR Act Part 5`.
+- **Equitable remedies**: declarations and injunctions, available both within and outside `JR Act Part 5`.
+- **Collateral challenge**: a separate route by which invalidity may be raised.
+
+## 6. Standing
+
+For declaratory or injunctive relief relying on the Supreme Court's inherent jurisdiction, the slide problem directs attention to *Onus v Alcoa*:
+
+- the plaintiff must show a **special interest in the subject matter beyond that of any other member of the public**.
+
+The lecture also notes likely **convergence of standing tests** across statutory and non-statutory pathways.
+
+## Exam use
+
+For a remedies problem, use this sequence:
+
+1. Identify the review pathway: `JR Act Part 3`, `JR Act Part 5`, declaration, injunction, or collateral challenge.
+2. Ask whether the special JR Act costs provisions matter: `s 50` for reasons proceedings, `s 49` for JR proceedings.
+3. If urgent relief is needed, consider a stay under `s 29` or an interlocutory injunction.
+4. Apply *ABC v O'Neill*: prima facie case plus balance of convenience.
+5. Consider whether an undertaking as to damages is required and whether public interest factors affect that analysis.
+6. If the plaintiff seeks to restrain criminal conduct, explain why the jurisdiction is exceptional using *Bateman's Bay*, *Onus*, and *Gouriet*.
+7. Check standing:
+   - statutory standing under the relevant JR Act pathway; or
+   - "special interest" standing for inherent-jurisdiction declaratory/injunctive relief.
+8. Finish by matching the facts to the remedies taxonomy: statutory, common law, equitable, or collateral challenge.
+
+## Bottom line
+
+The lecture is less about learning new remedies than about choosing the correct remedy, identifying threshold obstacles, and explaining why courts are especially cautious with interlocutory relief and injunctions enforcing the criminal law.
