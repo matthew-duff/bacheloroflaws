@@ -23,6 +23,11 @@ case_outcome: 'won'
 ---
 # Case Summary: Lennard’s Carrying Co Ltd v Asiatic Petroleum Co Ltd [1915] AC 705
 
+![Case image](/assets/pixabay/case_summary_lennards_carrying_co_ltd_v_asiatic_petroleum_co_ltd_1915_ac_705_pixabay_7418239.jpg)
+
+*Image credit: [Pixabay](https://pixabay.com/photos/port-container-ship-night-7418239/) by [LoboStudioHamburg](https://pixabay.com/users/LoboStudioHamburg-13838/). Query: `ship`*
+
+
 **Court:** House of Lords (UK)
 **Key Doctrine:** The "Directing Mind and Will" Doctrine (Identification Doctrine)
 **Legal Area:** Corporate Liability / Attribution

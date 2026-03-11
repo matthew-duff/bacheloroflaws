@@ -25,6 +25,11 @@ case_outcome: 'won'
 ---
 # Case Summary: Salomon v Salomon & Co Ltd [1897] AC 22
 
+![Case image](/assets/pixabay/case_summary_salomon_v_salomon_co_ltd_1897_ac_22_pixabay_7111763.jpg)
+
+*Image credit: [Pixabay](https://pixabay.com/photos/technology-business-internet-7111763/) by [tungnguyen0905](https://pixabay.com/users/tungnguyen0905-17946924/). Query: `company`*
+
+
 ## Case Details
 - **Court:** House of Lords
 - **Date:** 16 November 1896

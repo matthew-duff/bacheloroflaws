@@ -34,26 +34,26 @@ assessment_relevance: Highlights key doctrines and regulatory frameworks essenti
 
 ## Low Confidence
 
-- [ ] [[readings/Clarkson (ed), The Corporation and Its Stakeholders (1998) Summary|Clarkson (ed), The Corporation and Its Stakeholders (1998) Summary]]
 - [ ] [[Week 1 - Companies and Company Law|Week 1 - Companies and Company Law]]
-- [ ] [[readings/Re Wakim; Ex Parte McNally (1999) 198 CLR 511 Summary|Re Wakim; Ex Parte McNally (1999) 198 CLR 511 Summary]]
 - [ ] [[readings/Cotterrell, ‘The Sociological Concept of Law’ (1983) Summary|Cotterrell, ‘The Sociological Concept of Law’ (1983) Summary]]
-- [ ] [[readings/Huddard, Parker & Co Ltd v Moorehead (1909) 8 CLR 330 Summary|Huddard, Parker & Co Ltd v Moorehead (1909) 8 CLR 330 Summary]]
 - [ ] [[Incorporations Case (NSW v Commonwealth (1990) 169 CLR 482)|Incorporations Case (NSW v Commonwealth (1990) 169 CLR 482)]]
 - [ ] [[readings/Lee v Lee’s Air Farming Ltd [1961] AC 12 Summary|Lee v Lee’s Air Farming Ltd [1961] AC 12 Summary]]
 - [ ] [[readings/Shaffer, ‘How Businesses Shape Law- A Socio-Legal Framework’ (2009) Summary|Shaffer, ‘How Businesses Shape Law- A Socio-Legal Framework’ (2009) Summary]]
 - [ ] [[readings/R v Hughes (2000) 202 CLR 535 Summary|R v Hughes (2000) 202 CLR 535 Summary]]
-- [ ] [[readings/Salomon v Salomon & Co Ltd [1897] AC 22 Summary|Salomon v Salomon & Co Ltd [1897] AC 22 Summary]]
 
 
 ## Medium Confidence
 
 - [ ] [[readings/Criminal Code Act 1899 (Qld) Summary|Criminal Code Act 1899 (Qld) Summary]]
+- [ ] [[readings/Huddard, Parker & Co Ltd v Moorehead (1909) 8 CLR 330 Summary|Huddard, Parker & Co Ltd v Moorehead (1909) 8 CLR 330 Summary]]
+- [ ] [[readings/Re Wakim; Ex Parte McNally (1999) 198 CLR 511 Summary|Re Wakim; Ex Parte McNally (1999) 198 CLR 511 Summary]]
 - [ ] [[readings/Wilson, ‘Salomon’s Case deters Attempts to lift the Veil’ (1961) Summary|Wilson, ‘Salomon’s Case deters Attempts to lift the Veil’ (1961) Summary]]
+- [ ] [[readings/Salomon v Salomon & Co Ltd [1897] AC 22 Summary|Salomon v Salomon & Co Ltd [1897] AC 22 Summary]]
 
 
 ## High Confidence
 
+- [ ] [[Stakeholder Theory (Clarkson) - The Corporation and Its Stakeholders (1998) Summary|Stakeholder Theory (Clarkson) - The Corporation and Its Stakeholders (1998) Summary]]
 
 
 ## See also
@@ -61,7 +61,7 @@ assessment_relevance: Highlights key doctrines and regulatory frameworks essenti
 - [ ] [[Corporate Law/summaries/Week 1/Chapter 1 — History and Regulatory Structure]] - Covers foundational topics like legal personality and limited liability, which underpin the discussion of corporate personhood and veil piercing in later notes.
 - [ ] [[Corporate Law/summaries/Week 1/Chapter 4 — Formation and Types of Companies]] - Directly addresses company structures and legal personality, linking to the topics and cases in the current note.
 - [ ] [[Corporate Law/summaries/Week 1/Week 1 - Companies and Company Law]] - Provides a summary of key statutes relevant to the topics and cases referenced in the current note.
-- [ ] [[Corporate Law/summaries/Week 1/readings/Clarkson (ed), The Corporation and Its Stakeholders (1998) Summary]] - Offers theoretical context on stakeholder theory, which complements the discussion of corporate governance and liability.
+- [ ] [[Stakeholder Theory (Clarkson) - The Corporation and Its Stakeholders (1998) Summary]] - Offers theoretical context on stakeholder theory, which complements the discussion of corporate governance and liability.
 - [ ] [[Corporate Law/summaries/Week 1/readings/Ireland, ‘Company Law and the Myth of Shareholder Ownership’ (1999) Summary]] - Provides critical analysis of shareholder ownership, relating to the discussion of corporate personhood and limited liability.
 
 

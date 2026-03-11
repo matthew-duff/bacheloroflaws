@@ -538,7 +538,7 @@ The Report articulated six basic norms that underpin financial services law and 
 
 ### 14.1 The Stakeholder vs. Shareholder Primacy Debate
 - **Shareholder Primacy (Berle):** Corporate powers are held in trust for the benefit of shareholders. Managers owe duties strictly to capital owners.
-- **Stakeholder Theory (Dodd / Clarkson):** The corporation is a social institution. Managers are fiduciaries for the institution itself (a "nexus of risks") and must balance stakes of all participants (voluntary and involuntary). A manager should prioritize stakeholders based on **power, legitimacy, and urgency** (**[[Clarkson (ed), The Corporation and Its Stakeholders (1998) Summary]]**).
+- **Stakeholder Theory (Dodd / Clarkson):** The corporation is a social institution. Managers are fiduciaries for the institution itself (a "nexus of risks") and must balance stakes of all participants (voluntary and involuntary). A manager should prioritize stakeholders based on **power, legitimacy, and urgency** (**[[Stakeholder Theory (Clarkson) - The Corporation and Its Stakeholders (1998) Summary]]**).
 - **The "Myth" of Shareholder Ownership (Ireland):** The idea that shareholders own the company is a legal and economic myth. Shareholders are passive rentiers, and modern corporate law's failure to recognize the true separate personality of a corporation leads to an anachronistic focus on "shareholder value." This critical view reframes corporate assets as "common property" rather than private property (**[[Ireland, ‘Company Law and the Myth of Shareholder Ownership’ (1999) Summary]]**).
 
 ### 14.2 Socio-Legal Perspectives

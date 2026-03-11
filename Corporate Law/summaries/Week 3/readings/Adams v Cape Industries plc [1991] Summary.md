@@ -23,6 +23,11 @@ case_outcome: 'won'
 ---
 # Case Summary: Adams v Cape Industries plc [1991] 1 All ER 929
 
+![Case image](/assets/pixabay/case_summary_adams_v_cape_industries_plc_1991_1_all_er_929_pixabay_4333044.jpg)
+
+*Image credit: [Pixabay](https://pixabay.com/photos/cape-marguerite-flower-blossom-4333044/) by [Hans](https://pixabay.com/users/Hans-2/). Query: `Cape Industries NAAC subsidiary`*
+
+
 | **Court** | UK Court of Appeal |
 | :--- | :--- |
 | **Key Topics** | Separate Legal Personality, Corporate Groups, Piercing the Veil, Agency, Jurisdiction |

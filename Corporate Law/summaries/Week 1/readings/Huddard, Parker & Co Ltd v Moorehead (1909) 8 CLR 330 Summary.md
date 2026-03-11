@@ -26,6 +26,11 @@ case_outcome: 'lost'
 ---
 # Exam Summary: Huddart, Parker & Co Ltd v Moorehead (1909) 8 CLR 330
 
+![Case image](/assets/pixabay/exam_summary_huddart_parker_co_ltd_v_moorehead_1909_8_clr_330_pixabay_5373341.jpg)
+
+*Image credit: [Pixabay](https://pixabay.com/photos/painting-track-work-seven-paint-5373341/) by [HeungSoon](https://pixabay.com/users/HeungSoon-4523762/). Query: `corporations`*
+
+
 ## Case Overview
 *   **Court:** High Court of Australia
 *   **Significance:** A foundational (though later partially overruled) case on the **Corporations Power** (s 51(xx)) and the **Trade and Commerce Power** (s 51(i)) of the Australian Constitution. It established the "Reserved State Powers" doctrine, which was later overturned in the *Engineers' Case* (1920).

@@ -20,6 +20,11 @@ case_outcome: 'won'
 ---
 # Case Summary: Tesco Supermarkets Ltd v Nattrass [1972] AC 153
 
+![Case image](/assets/pixabay/case_summary_tesco_supermarkets_ltd_v_nattrass_1972_ac_153_pixabay_1850082.jpg)
+
+*Image credit: [Pixabay](https://pixabay.com/photos/hangers-clothing-shopping-market-1850082/) by [Pexels](https://pixabay.com/users/Pexels-2286921/). Query: `store`*
+
+
 ## 1. Case Overview
 *   **Court:** House of Lords
 *   **Key Issue:** Whether a company can be held liable for the acts of a store manager under the *Trade Descriptions Act 1968* (UK), and the scope of the "directing mind and will" doctrine.

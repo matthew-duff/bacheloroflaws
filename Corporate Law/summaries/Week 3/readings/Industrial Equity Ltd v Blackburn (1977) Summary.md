@@ -25,6 +25,11 @@ case_outcome: 'won'
 ---
 # Case Summary: Industrial Equity Ltd v Blackburn (1977) 137 CLR 567
 
+![Case image](/assets/pixabay/case_summary_industrial_equity_ltd_v_blackburn_1977_137_clr_567_pixabay_9114701.jpg)
+
+*Image credit: [Pixabay](https://pixabay.com/photos/building-windows-wall-construction-9114701/) by [ValterM](https://pixabay.com/users/ValterM-24820004/). Query: `construction`*
+
+
 ## 📌 Exam Overview
 **Core Principle:** Separate Legal Personality in Corporate Groups.
 **Key Takeaway:** A holding company cannot treat the profits of its subsidiaries as its own for the purpose of declaring dividends. Each company is a separate legal entity.

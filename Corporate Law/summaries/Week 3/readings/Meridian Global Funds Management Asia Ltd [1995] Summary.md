@@ -20,6 +20,11 @@ case_outcome: 'won'
 ---
 # Exam Summary: Meridian Global Funds Management Asia Ltd v Securities Commission [1995] 3 All ER 918
 
+![Case image](/assets/pixabay/exam_summary_meridian_global_funds_management_asia_ltd_v_securities_commission_1_pixabay_9114701.jpg)
+
+*Image credit: [Pixabay](https://pixabay.com/photos/building-windows-wall-construction-9114701/) by [ValterM](https://pixabay.com/users/ValterM-24820004/). Query: `construction`*
+
+
 ## Case Overview
 *   **Court:** Privy Council (on appeal from NZ)
 *   **Key Judge:** Lord Hoffmann

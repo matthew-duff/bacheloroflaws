@@ -26,6 +26,11 @@ ratio: 'The High Court held that s 51(xx) of the Constitution does not grant the
 case_outcome: 'lost'
 ---
 # Case Summary: New South Wales v Commonwealth (1990) 169 CLR 482
+
+![Case image](/assets/pixabay/case_summary_new_south_wales_v_commonwealth_1990_169_clr_482_pixabay_9114701.jpg)
+
+*Image credit: [Pixabay](https://pixabay.com/photos/building-windows-wall-construction-9114701/) by [ValterM](https://pixabay.com/users/ValterM-24820004/). Query: `construction`*
+
 *(The Incorporation Case)*
 
 ## ⚖️ Case Details

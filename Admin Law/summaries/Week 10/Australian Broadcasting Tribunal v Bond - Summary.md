@@ -1,4 +1,6 @@
 ---
+
+
 type: case-summary
 source: 'Admin Law/sources/Week 10/Materials for Workshop Topic 7/Cases-Readings (you only need to read the pinpoints set out in the workshop questions)-Readings (you only need to read the pinpoints set out in the seminar questions).md'
 title: 'Australian Broadcasting Tribunal v Bond'
@@ -22,6 +24,11 @@ statutes:
 assessment_relevance: 'High-value authority for exam questions on whether something is a reviewable decision under the ADJR Act, the meaning of reviewable conduct, the no-evidence ground, and the difference between substantive determinations and findings along the way.'
 ---
 # Australian Broadcasting Tribunal v Bond
+
+![Case image](/assets/pixabay/australian_broadcasting_tribunal_v_bond_pixabay_2803366.jpg)
+
+*Image credit: [Pixabay](https://pixabay.com/photos/vitoria-celebration-soccer-field-2803366/) by [Fotorech](https://pixabay.com/users/Fotorech-5554393/). Query: `Commodory companies dispute`*
+
 
 ## Why this case matters
 - Leading High Court authority on the meaning of a `decision` and `conduct` under the `Administrative Decisions (Judicial Review) Act 1977 (Cth)`.

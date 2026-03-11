@@ -28,6 +28,11 @@ case_outcome: 'won'
 ---
 # Case Summary: DHN Food Distributors Ltd v Tower Hamlets LBC [1976] 3 All ER 462
 
+![Case image](/assets/pixabay/case_summary_dhn_food_distributors_ltd_v_tower_hamlets_lbc_1976_3_all_er_462_pixabay_1868667.jpg)
+
+*Image credit: [Pixabay](https://pixabay.com/photos/architecture-building-business-city-1868667/) by [Pexels](https://pixabay.com/users/Pexels-2286921/). Query: `corporate towers dense cityscape`*
+
+
 ## Quick Overview
 - **Court:** Court of Appeal (UK)
 - **Key Judges:** Lord Denning MR, Goff LJ, Shaw LJ

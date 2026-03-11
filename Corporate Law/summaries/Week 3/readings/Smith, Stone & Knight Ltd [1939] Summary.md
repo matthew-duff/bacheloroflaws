@@ -26,6 +26,11 @@ case_outcome: 'won'
 ---
 # Case Summary: Smith, Stone & Knight Ltd v Birmingham Corporation [1939] 4 All ER 116
 
+![Case image](/assets/pixabay/case_summary_smith_stone_knight_ltd_v_birmingham_corporation_1939_4_all_er_116_pixabay_5150795.jpg)
+
+*Image credit: [Pixabay](https://pixabay.com/photos/abandoned-places-panorama-pforphoto-5150795/) by [Tama66](https://pixabay.com/users/Tama66-1032521/). Query: `factory`*
+
+
 **Court:** King’s Bench Division  
 **Judge:** Atkinson J  
 **Key Concept:** Piercing the Corporate Veil — Agency Exception

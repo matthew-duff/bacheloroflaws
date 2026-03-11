@@ -26,6 +26,11 @@ case_outcome: won
 ---
 # Case Summary: Lee v Lee’s Air Farming Ltd [1961] AC 12
 
+![Case image](/assets/pixabay/case_summary_lee_v_lees_air_farming_ltd_1961_ac_12_pixabay_7111763.jpg)
+
+*Image credit: [Pixabay](https://pixabay.com/photos/technology-business-internet-7111763/) by [tungnguyen0905](https://pixabay.com/users/tungnguyen0905-17946924/). Query: `company`*
+
+
 ## **Overview**
 *   **Court:** Privy Council (on appeal from New Zealand)
 *   **Key Parties:** Catherine Lee (Appellant/Widow) v Lee’s Air Farming Ltd (Respondent)

@@ -25,6 +25,11 @@ case_outcome: 'won'
 ---
 # Case Summary: Briggs v James Hardie & Co Pty Ltd (1989) 16 NSWLR 549
 
+![Case image](/assets/pixabay/case_summary_briggs_v_james_hardie_co_pty_ltd_1989_16_nswlr_549_pixabay_1867900.jpg)
+
+*Image credit: [Pixabay](https://pixabay.com/photos/bridal-beads-veil-white-pearls-1867900/) by [Pexels](https://pixabay.com/users/Pexels-2286921/). Query: `veil tort`*
+
+
 ## 1. Overview
 *   **Court:** NSW Court of Appeal (Hope, Meagher JJA; Rogers A-JA)
 *   **Context:** Application for extension of limitation period (s 58 *Limitation Act 1969*) by a plaintiff (Briggs) suffering from asbestosis.

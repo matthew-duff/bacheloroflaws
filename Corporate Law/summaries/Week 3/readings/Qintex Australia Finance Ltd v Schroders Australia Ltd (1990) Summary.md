@@ -26,6 +26,11 @@ case_outcome: 'lost'
 ---
 # Exam Summary: Qintex Australia Finance Ltd v Schroders Australia Ltd (1990) 3 ACSR 267
 
+![Case image](/assets/pixabay/exam_summary_qintex_australia_finance_ltd_v_schroders_australia_ltd_1990_3_acsr__pixabay_9176504.jpg)
+
+*Image credit: [Pixabay](https://pixabay.com/photos/seagull-bird-animal-feathers-9176504/) by [Trek_Jason](https://pixabay.com/users/Trek_Jason-18696359/). Query: `qintex group`*
+
+
 ## 1. Case Overview
 *   **Court:** Supreme Court of NSW (Commercial Division)
 *   **Judge:** Rogers CJ

@@ -60,7 +60,7 @@ Managers prioritize stakeholders based on three attributes:
 *   **Salience:** The more attributes a stakeholder possesses, the higher their salience (priority) to management.
 
 ## 5. Exam-Focused Ratios & Principles
-*   **Purpose of the Corporation:** Shift from profit maximization for shareholders to **wealth/value creation for all stakeholders**.
+*   **Purpose of the Corporation:** Shift from profit maximisation for shareholders to **wealth/value creation for all stakeholders**.
 *   **Managerial Duty:** Managers should acknowledge and respond to diverse stakeholder interests as a **moral requirement** for the legitimacy of the managerial function.
 *   **Corporate Social Performance (CSP):** Should be measured by how well a corporation manages its relationships with its stakeholders, rather than just historical financial data.
 

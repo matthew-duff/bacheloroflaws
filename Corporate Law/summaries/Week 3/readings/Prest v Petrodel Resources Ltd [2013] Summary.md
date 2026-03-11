@@ -24,6 +24,11 @@ case_outcome: 'won'
 ---
 # Exam Summary: Prest v Petrodel Resources Ltd [2013] UKSC 34
 
+![Case image](/assets/pixabay/exam_summary_prest_v_petrodel_resources_ltd_2013_uksc_34_pixabay_1867900.jpg)
+
+*Image credit: [Pixabay](https://pixabay.com/photos/bridal-beads-veil-white-pearls-1867900/) by [Pexels](https://pixabay.com/users/Pexels-2286921/). Query: `veil`*
+
+
 ## 1. Case Overview
 *   **Court:** UK Supreme Court
 *   **Key Issue:** Whether the court could "pierce the corporate veil" to reach assets held by companies controlled by a husband in matrimonial proceedings.

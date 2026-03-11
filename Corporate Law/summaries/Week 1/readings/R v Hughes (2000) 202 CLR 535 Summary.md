@@ -23,6 +23,11 @@ case_outcome: won
 ---
 # Case Summary: R v Hughes (2000) 202 CLR 535
 
+![Case image](/assets/pixabay/case_summary_r_v_hughes_2000_202_clr_535_pixabay_5946500.jpg)
+
+*Image credit: [Pixabay](https://pixabay.com/photos/mountains-forest-sunset-fog-mist-5946500/) by [RickJbrown](https://pixabay.com/users/RickJbrown-20009998/). Query: `state`*
+
+
 ## 1. Case Details
 - **Court:** High Court of Australia
 - **Date:** 3 May 2000

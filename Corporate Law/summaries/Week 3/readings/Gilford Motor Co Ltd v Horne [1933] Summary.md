@@ -27,6 +27,11 @@ case_outcome: 'won'
 ---
 # Case Summary: Gilford Motor Co Ltd v Horne [1933] Ch 935
 
+![Case image](/assets/pixabay/case_summary_gilford_motor_co_ltd_v_horne_1933_ch_935_pixabay_9116844.jpg)
+
+*Image credit: [Pixabay](https://pixabay.com/photos/ibex-capricorn-wildlife-animal-9116844/) by [xiSerge](https://pixabay.com/users/xiSerge-15871962/). Query: `horne`*
+
+
 **Court:** Court of Appeal (UK)
 **Key Principle:** Piercing the Corporate Veil — The "Sham" or "Facade" Exception.
 

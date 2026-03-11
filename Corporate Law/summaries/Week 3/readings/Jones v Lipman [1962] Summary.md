@@ -26,6 +26,11 @@ case_outcome: 'won'
 ---
 # Exam Summary: Jones v Lipman [1962] 1 WLR 832
 
+![Case image](/assets/pixabay/exam_summary_jones_v_lipman_1962_1_wlr_832_pixabay_7111763.jpg)
+
+*Image credit: [Pixabay](https://pixabay.com/photos/technology-business-internet-7111763/) by [tungnguyen0905](https://pixabay.com/users/tungnguyen0905-17946924/). Query: `lipman company`*
+
+
 ## 1. Case Overview
 *   **Court:** Chancery Division, UK
 *   **Judge:** Russell J
