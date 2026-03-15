@@ -108,23 +108,25 @@ M Allars, “The Nature of Merits Review: A Bold Vision Realised in the Administ
 
 Administrative Review Tribunal Act 2024 (Cth) go here
 
-Workshop Questions
+# Workshop Questions
 
-Part A. Consolidating material covered in the lecture/learning guide: quick-fire questions
+## Part A. Consolidating material covered in the lecture/learning guide: quick-fire questions
 
-(1) What is the difference between merits and judicial review? And why do the courts not interfere with determinations about the merits of executive decisions?
+**(1) What is the difference between merits and judicial review? And why do the courts not interfere with determinations about the merits of executive decisions?**
 
-(2) Why do you think Federal, State and Territory parliaments provide avenues of merits review over government action?
+**(2) Why do you think Federal, State and Territory parliaments provide avenues of merits review over government action?**
 
-(3) The ART functions as a ‘court-substitute’, but where is it located in the tripartite system of government and what type of public power does it exercise?
 
-(4) It is imperative that tribunals are independent of the executive if they are to command public confidence; what features are intended to ensure the ART is not unduly influenced by executive government? (Review the ART Act for answers). Relatedly, what reasons were stated for the abolition of the AAT in 2024?
 
-Part B. What are the guiding principles for administrative (merits) review hearings?
+**(3) The ART functions as a ‘court-substitute’, but where is it located in the tripartite system of government and what type of public power does it exercise?**
+
+**(4) It is imperative that tribunals are independent of the executive if they are to command public confidence; what features are intended to ensure the ART is not unduly influenced by executive government? (Review the ART Act for answers). Relatedly, what reasons were stated for the abolition of the AAT in 2024?**
+
+## **Part B. What are the guiding principles for administrative (merits) review hearings?**
 
 You must come prepared to explain the substantive, procedural and remedial aspects of ‘merits review’ in the ART:
 
-(5) It may be said with certainty that the ART’s powers and function are more than supervisory. With careful reference to the following cases be prepared to carefully explain the nature and scope of administrative (merits) review with a very close eye on the following cases:
+**(5) It may be said with certainty that the ART’s powers and function are more than supervisory. With careful reference to the following cases be prepared to carefully explain the nature and scope of administrative (merits) review with a very close eye on the following cases:**
 
 Drake v Minister for Immigration and Ethnic Affairs (Drake No.1) (1979) 46 FLR 409, (especially the joint judgment of Bowen CJ and Deane J at 412-414, and 419-422 where the court considered the questions of whether (i) a federal judge could validly (ie consistently with the separation of powers under the Constitution) serve on the AAT; and (ii) in light of Drake (No 1) explain what the joint judgment said about the ‘character’ and de novo function of the AAT.
 
@@ -136,12 +138,12 @@ What was said in Shi v MARA about any temporal limitations on the material/evide
 
 In light of the decision in Shi v MARA Allars discusses ‘hybrid merits review’, which refers to those occasions when the AAT was not simply ‘doing over’ what the original decision-maker did (ie a de novo review). Give examples of the circumstances in which the ART may do something less than a full de novo review (Kirby and Kiefel JJ give examples in Shi v MARA).
 
-(6) Procedure and evidence: A careful examination of the statutory provisions governing the ART’s procedures, and inquiry into related superior court jurisprudence, reveals that concepts drawn from the practice and procedure of the courts of law in civil litigation are not strictly analogous and applicable in an administrative decision-making context.
+**(6) Procedure and evidence: A careful examination of the statutory provisions governing the ART’s procedures, and inquiry into related superior court jurisprudence, reveals that concepts drawn from the practice and procedure of the courts of law in civil litigation are not strictly analogous and applicable in an administrative decision-making context.**
 
 Read the factual precis and summary of judgment in Pochi v Minister for Immigration and Ethnic Affairs (1979) 36 FLR 482 and then be prepared to explain what the AAT determined about the applicable standard/sufficiency of proof and the relevance of rules of evidence in tribunal proceedings (at pp 490 – 494). Go on to consider what the tribunal found in Pochi’s case (at pp 507-511) in respect of s 35 AAT Act and the importance of public hearings and (per s 35(2)) the circumstances in which the public, or perhaps a party to proceedings, may reasonably be excluded from proceedings such that AAT proceedings are held in camera. Compare s 69 of the ART Act.
 
 Read extracts from Sun v Minister for Immigration and Border Protection (2016) 243 FCR 220, especially paras [63]-[65] and [78] and consider the court’s analysis about the relevance of the concept of burden/onus of proof, drawn from civil litigation, for the conduct of administrative reviews.
 
-(7) The remedial powers of the ART are distinguishable from the powers exercised by the superior courts in judicial review proceedings: identify and explain the remedial powers of the ART and also outline broadly how those powers differ from judicial review remedies (the writs: prohibition, certiorari, and mandamus - or the statutory equivalents)?
+**(7) The remedial powers of the ART are distinguishable from the powers exercised by the superior courts in judicial review proceedings: identify and explain the remedial powers of the ART and also outline broadly how those powers differ from judicial review remedies (the writs: prohibition, certiorari, and mandamus - or the statutory equivalents)?**
 
 End.
